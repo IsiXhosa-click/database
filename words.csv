@@ -170,3 +170,4 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,no
 171,advise,cebisa,Verb,,ukucebisa,false,,
 172,clever,krelekrele,Relative,,,false,,
 173,dogs,izinja,Noun,,,true,Izin,
+174,ask,buza,Verb,,ukubuza,false,,
