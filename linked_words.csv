@@ -31,3 +31,17 @@ link_id,link_type,first,second
 31,Related,105,109
 32,Confusable,124,125
 33,Antonym,120,140
+34,PluralOrSingular,122,144
+35,PluralOrSingular,137,145
+36,Related,105,146
+37,Antonym,130,149
+38,Related,122,155
+39,Related,123,156
+40,Related,125,157
+41,AlternateUse,127,160
+42,Related,126,161
+43,Related,128,162
+44,Related,113,89
+45,Related,119,164
+46,Related,26,171
+47,PluralOrSingular,170,173
