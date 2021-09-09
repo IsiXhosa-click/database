@@ -1,0 +1,147 @@
+example_id,word_id,english,xhosa
+1,1,Thanks for your help.,Enkosi ngoncedo lwakho.
+3,3,I see him,Ndiyambona
+4,4,I ate the orange,Nditye i-orenji
+5,5,I was showing IsiXhosa.Click,Bendibonisa IsiXhosa.Click
+6,6,I bought two oranges,Bendithenga ii-orenji ezimbini
+7,7,Please tell me your name.,Khawundixelele igama lakho.
+8,8,I will buy the house,Ndiza kuthenga indlu
+9,9,I like to eat apples,Ndithanda ukutya ii-apile
+10,12,My father was a grumpy man.,Utata wam wayengumntu oqumbileyo.
+11,12,The old man listened carefully.,Utata ebemamela ngokunyameka.
+12,13,You will fight for the fathers of the nation.,Nizolwela ootata besizwe.
+13,13,Some old men like to braai together.,Abanye ootata bathanda ukoja kunye.
+14,14,You are like a child.,"Wena, ufana nomntwana."
+15,14,Are these words similar?,La magama ayafana?
+16,15,Do you know how to sing this song?,Uyakwazi ukucula le ngoma?
+17,16,We will start the procedure at 5 o' clock.,Sizoqala inkqubo ngentsimbi yesihlanu.
+18,17,Please calm the baby so that it falls asleep.,Khawuthuthuzele usana ukuze lulale.
+20,19,There are three cars parked in front of my gate.,Zikhona iimoto ezithathu ezimile phambi kwisango sam.
+21,20,My car goes fast.,Imoto yam ihamba ngokukhawuleza.
+22,21,I am watching TV,Ndibukele TV
+23,23,Our father who art in heaven,Bawo wethu osezulwini
+24,24,Hurry so that you aren't late!,Khawuleza ukuze ungaleythi!
+25,25,Sometimes she likes to go to school and sometimes she doesn't. It depends.,"Ngamanye amaxesha uthanda ukuya esikolweni, ngamanye amaxesha akakuthandi. Kuyaxhomekeka."
+26,25,I'm depending on you.,Ndixhomekeke kuwe.
+27,26,I advised him not to laugh,Bendimyala ukungahleki
+28,27,I watch TV,Ndibuleke umabonakude
+29,28,The drunkard spent all his money on booze.,Inxila lichitha imali yonke yakhe ukuthenga utywala.
+30,30,"For his whole life, he preached the God's message.","Ebomini bonke bakhe, washumayela umyalezo kaThixo."
+31,31,Look at this guy who's eating chips with a fork.,Jonga lo mfo otya iitships ngefolokwe.
+32,33,Come closer my love.,Sondela isithandwa sam.
+33,34,The women look as if they are happy because they are singing and clapping,"Oomama bakhangeleka ngathi bayavuya, ngoba bayacula baqhwabe."
+34,35,"Have ambition, people!","Yibani nekwhele, abantu!"
+35,36,People who are jealous are as if they are diseased.,Abantu abanobukhwele bafana nabantu abagulayo.
+36,37,Ndithanda ukukhwela ibhayisekile yam,I like to ride my bicycle
+37,38,Abahlobo bam bathanda ukudlala ebaleni,My friends like to play on the field
+38,39,Ndithanda ukufunda eli bali,I like reading this story
+39,40,I like to write stories,Ndithanda ukubhala amabhali
+40,41,The fields are green,Amabala aluhlaza
+41,42,A colour that I like very much is red,Umbala endiwuthanda kakhulu yibomvu
+42,43,I like things with many colours,Ndiyazithanda izinto ezinemibala emininzi
+44,45,I write a letter,Ndibhala ileta
+45,48,"One day, I will get revenge",Ngenye imini ndiza kuziphindezela
+46,49,The writer characterises him as a nice person,Umbhali uyamphawula njengomntu olungileyo
+47,50,I like him because of his personality,Ndiyamthanda ngenxa yesimilo sakhe
+48,51,This plant is only found near water.,Esi sityalo sifumaneka ngasemanzini qha.
+49,52,"Every day, he planted another flower in the garden.","Yonke imihla, utyale enye intyatyambo esitiyeni."
+50,53,I can't control this situation..,Andikwazi ukulawula le meko.
+51,54,My father taught me his method of baking bread.,Utata wam wayendifundisa indlela yakhe yokubhaka isonka.
+52,55,A baboon stole my egg from the plate.,Imfene ibisiba iqanda lam esityeni.
+53,56,Please calm down. Everything will be fine.,Ndicela uzole. Zonke izinto zizoba lungile.
+54,57,"It's just a detail, don't worry about it.","Yinkcukacha nje, sukukhathazeka ngayo."
+55,58,Put all your things in this bag.,Faka zonke izinto zakho kule ngxowa.
+56,59,Stop kicking my seat!,Yeka ukukhaba isihlalo sam!
+57,60,They want to demolish this hospital,Bafuna ukudiliza esi sibhedlele
+58,61,She wants a big party with lots of decorations.,Ufuna ipati enkulu enezihombiso ezininzi.
+59,62,This book was written by W.K. Thamsanqa.,Le ncwadi ibhalwe nguW.K. Thamsanqa.
+60,63,Let's play!,Masidlale!
+61,64,Do you like to learn?,Wena uthanda ukufunda?
+62,64,She liked to learn maths at school.,Wathanda ukufunda isibalo esikolweni.
+63,65,He has a lot of love in his heart.,Unenkitha yothando kwintliziyo yakhe.
+64,66,I forgot to wish her happy birthday!,Ndilibale ukumbhafisa!
+65,67,"If you don't succed, try again.","Ukuba awuphumeleli, uphinde uzame."
+66,68,Do you know the thing that I'm talking about?,Uyayazi into endithetha ngayo?
+67,69,"I like hiking, surfing, cycling, and other things like that.","Ndithanda ukuhamba ngeenyawo, nokusurfa, nokukhwela ibhayisikile, nezinye izinto ezinjalo."
+68,70,I think so.,Ndicinga njalo.
+71,70,If you work like that you will succeed.,"Ukuba usebenza njalo, uza kuphumelela."
+73,71,She wants to become a war journalist.,Ufuna ukuba yintatheli yemfazwe.
+74,72,"She was a strange woman, who wore a hat with a large ostrich feather.","Wayengumfazi ongaqhelekanga, onxiba umnqwazi onumsiba olukhulu lwenciniba."
+75,73,The goat tore my shirt apart,Ibhokhwe ikrazuke ihempe yam.
+76,74,I want to go the Eastern Cape so that I improve my Xhosa.,Ndifuna ukuya eMpuma Koloni ukuze ndiphucule isiXhosa sam.
+77,75,Let's rest in the shade.,Masiphumle emthunzini.
+78,76,Fetch your weapons and prepare for battle.,Landani izixhobo zenu nilungiselele idabi.
+79,79,Read this extract and answer the questions that follow.,Funda esi sicatshulwa uze uphendule imibuzo elandelayo.
+80,81,She swore at him a lot,Ebemthuka kakhulu
+81,82,Wothuka kakhulu,He was very shocked
+82,83,I slowed down even more,Bendicothisa ngakumbi
+83,84,I slowed down even more,Bendicothisa ngakumbi
+84,86,I love this place!,Ndithanda le ndawo!
+85,87,"Andifuni ukuba lapha, masigoduke.","I don't want to be here, let's go home."
+86,50,I want a child who is well mannered,Ndifuna umntwana onesimilo
+87,88,Please rinse that muddy cloth.,Ndicela upule eli laphu elinodaka.
+88,89,"When we left the hall, his hand brushed against my arm.","Sakuphuma eholweni, isandla sakhe sathintana nengalo yam."
+89,90,It was over in the blink of an eye,Yaphela ngesiqhuphe
+90,91,My father was an old man who liked to laugh.,Utata wam wayelixhego elithanda ukuhleka.
+91,92,He was singing a nice song,Ebecula ingoma emnandi
+92,93,"I said ""I love you"", but he rejected me","Ndathi ""ndiyakuthanda"", kodwa wandala"
+93,94,"I will say, ""no, I will never!""","Ndiza kuthi, ""hayi, andisoze!"""
+94,94,One day I woke up,Ngenye mini ndathi ndivuka
+95,95,Ndibona umthi,I see a tree
+96,96,Ndibona imithi,I see trees
+97,97,I like these kinds of fruit.,Ndithanda iziqhamo ezinjalo.
+98,97,"Yeah, it's like that.","Ewe, kunjalo."
+99,97,Such people don't visit here.,Abantu abanjalo abatyeleli apha.
+100,97,"I like to hike, surf, run and other things like that.",Ndithanda ukuhamba ngeenyawo nokusurfa nokubaleka nezinye izinto ezinjalo.
+101,98,When the sun sets I'll go home.,"Lakutshona ilanga, ndizogoduka."
+102,99,It is said the fountain of youth gives everlasting life.,Kuthiwa umthombo wolutsha unika ubomi obungenasiphelo.
+103,100,Impilo inzima.,Life is tough.
+104,100,This question is very difficult.,Lo mbuzo unzima kakhulu.
+105,101,Work hard so that you succed.,Sebenza nzima ukuze uphumelele.
+106,102,My grandfather is one hundred years old.,Utatomkhulu wam uneminyaka elikhulu. 
+107,103,The cat is crying,ikati iyakhala
+108,104,The cats are crying,iikati ziyakhala
+109,105,I gave a watch.,Bendipha incwadi.
+110,106,I am arriving at school,Ndifika esikolweni
+111,107,"Wow, this is a nice gift!","Yhu, esi sisipho esimandi!"
+112,108,The boys are provoking the dog with a stick.,Amakhwenkwe axhokonxa inja ngoluthi.
+113,109,"At Christmas, people gift each other gifts.","EKrismasi, abantu baphelana izipho."
+114,110,I will never humiliate you.,Ngeke ndikuphoxe.
+115,111,There is a bad drought in Cape Town.,Kukho imbalela embi eKapa.
+116,112,The cat has soft fur.,Ikati inobuya olutofotofo
+117,113,"I bumped into him and said ""sorry"".","Nditshayisane naye ndathi ""uxolo""."
+118,114,I celebrated my birthday with my friends.,Bendibhiyozela imini yokuzalwa nabahlobo bam.
+119,115,The manager was fired because he was abusing his workers. ,Umphathi ugxothiwe ngoba ebexhaphaza abasebenzi bakhe. 
+120,116,"On a winter's night, I like to make tea and wrap myself in a blanket. ","Ebusuku bobusika, ndithanda ukwenza iti nokuzisongela ngengubo. "
+121,118,Bring your ID tomorrow.,Phathela i-ID yakho ngomso.
+122,118,Ndifuna ukukuphathela into emnandi.,I want to bring you something nice.
+123,119,The houses are burning!,Izindlu ziyatsha!
+124,120,I want to close the door.,Ndifuna ukuvala ucango.
+125,121,I am learning to drive a car.,Ndifunda ukuqhuba imoto.
+126,123,Cut the bread.,Sika isonka.
+127,124,They know how to dance,Bayakwazi ukudanisa.
+128,125,"Wow, you have disappointed me today.","Yhu, ubundidanisa namhlanje."
+129,126,She does not want to die.,Akafuni ukufa.
+130,127,What are you doing?,Wenza ntoni?
+131,128,What do you want to drink?,Ufuna ukusela ntoni?
+132,128,I am drinking water.,Ndiyasela amanzi.
+133,129,He says he has decided to learn Xhosa.,Uthi ugqibe ekubeni makafunde isiXhosa.
+134,130,I can't forget my mother.,Andikwazi ukulibala umama wam.
+135,130,"Sorry, I have forgotten.","Uxolo, ndilibele."
+136,131,Where are you going?,Uya phi?
+137,131,Andiyi ndawo.,I am not going anywhere.
+138,131,I am going to Johannesburg.,Ndiya eGoli.
+139,132,It is clear that we agree.,Kucacile ukuba siyavuma.
+140,133,Answer the following questions.,Phendula le mibuzo elandelayo.
+141,134,Do you believe in God?,Ukholelwa kuThixo?
+142,134,I don't believe you!,Andikukholelwa!
+143,135,Call the children!,Biza abantwana!
+144,136,She can't choose.,Akakwazi ukukhetha.
+145,137,What is the date today?,Ngumhla ntoni namhlanje?
+146,138,She does not want to change her life.,Akafuni kutshintsha ubomi bakhe.
+147,139,I want to clean here.,Ndifuna ukucoca apha.
+148,140,Please open the windows.,Khawuvule iifestile.
+149,141,Can you compare the prices?,Uyakwazi ukuthelekisa amaxabiso?
+150,142,I want to cry!,Ndifuna ukulila!
+151,143,I don't know how to cook.,Andikwazi ukupheka.
+152,143,I am going to cook the meat.,Ndiza kupheka inyama.
