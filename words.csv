@@ -171,3 +171,6 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,no
 172,clever,krelekrele,Relative,,,false,,
 173,dogs,izinja,Noun,,,true,Izin,
 174,ask,buza,Verb,,ukubuza,false,,
+175,continue,qhubekeka,Verb,,ukuphubekeka,false,,
+176,rain,imvula,Noun,,,false,In,
+177,complain,khalaza,Verb,,ukukhalaza,false,,
