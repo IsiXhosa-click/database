@@ -174,3 +174,5 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,no
 175,continue,qhubekeka,Verb,,ukuphubekeka,false,,
 176,rain,imvula,Noun,,,false,In,
 177,complain,khalaza,Verb,,ukukhalaza,false,,
+178,help,nceda,Verb,,ukunceda,false,,
+179,pray,thandaza,Verb,,ukuthandaza,false,,

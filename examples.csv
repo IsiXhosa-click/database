@@ -23,7 +23,6 @@ example_id,word_id,english,xhosa
 24,24,Hurry so that you aren't late!,Khawuleza ukuze ungaleythi!
 25,25,Sometimes she likes to go to school and sometimes she doesn't. It depends.,"Ngamanye amaxesha uthanda ukuya esikolweni, ngamanye amaxesha akakuthandi. Kuyaxhomekeka."
 26,25,I'm depending on you.,Ndixhomekeke kuwe.
-27,26,I advised him not to laugh,Bendimyala ukungahleki
 28,27,I watch TV,Ndibuleke umabonakude
 29,28,The drunkard spent all his money on booze.,Inxila lichitha imali yonke yakhe ukuthenga utywala.
 30,30,"For his whole life, he preached the God's message.","Ebomini bonke bakhe, washumayela umyalezo kaThixo."
@@ -190,3 +189,8 @@ example_id,word_id,english,xhosa
 195,176,We really need rain.,Sifuna imvula kakhulu.
 196,176,"Because of the drought, there is no rain.","Ngenxa yembalela, ayikho imvula."
 197,177,He likes to complain about word.,Yena uthanda ukukhalaza ngomsebenzi.
+198,178,Please help me close all the windows.,Khawundincede ukuvala yonke ifestile.
+199,11,Babies like to put things in their mouths.,Iintsana zithanda ukufaka izinto emilonyeni yazo.
+200,10,The baby was laughing at the jumping dog.,Usana beluhleka inja etsibayo.
+201,26,The speakers there spoke and advised the married couple.,Zathetha apho izithethi ziyala abatshati.
+202,179,He is a Christian - he prays every day.,Uligqobhoka - uthandaza yonke imihla.

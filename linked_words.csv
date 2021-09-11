@@ -47,3 +47,5 @@ link_id,link_type,first,second
 47,PluralOrSingular,170,173
 48,Related,121,175
 49,Related,167,176
+50,Related,1,178
+51,Confusable,93,26
