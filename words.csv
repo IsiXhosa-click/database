@@ -176,3 +176,13 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,no
 177,complain,khalaza,Verb,,ukukhalaza,false,,
 178,help,nceda,Verb,,ukunceda,false,,
 179,pray,thandaza,Verb,,ukuthandaza,false,,
+180,love,uthando,Noun,,,false,Ulu,
+181,bark,khonkotha,Verb,,ukukhonkotha,false,,
+182,command,yalela,Verb,,ukuyalela,false,,
+183,birthday,umhla wokuzalwa,Noun,,,false,Class3Um,
+184,desert,intlanga,Noun,,,false,In,
+185,doubt,thandabuza,Verb,,ukuthandabuza,false,,
+186,vaccinate,gonya,Verb,,ukugonya,false,,
+187,congratulations,halala,Interjection,,,false,,
+188,soft,tofotofo,Relative,,,false,,This is used to refer to something such as fur or a blanket.
+189,battle,idabi,Noun,,,false,Ili,
