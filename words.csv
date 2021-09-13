@@ -209,3 +209,60 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,no
 210,return,buya,Verb,,ukubuya,false,,
 211,shout,khwaza,Verb,,ukukhwaza,false,,
 212,sit,hlala,Verb,,ukuhlala,false,,
+213,run,baleka,Verb,,ukubaleka,false,,
+214,stay,sala,Verb,,ukusala,false,,
+215,shout,shawuta,Verb,,ukushawuta,false,,
+216,sell,thengisa,Verb,,ukuthengisa,false,,
+217,take out,khupha,Verb,,ukukhupha,false,,
+218,throw,jula,Verb,,ukujula,false,,
+219,service,inkonzo,Noun,,,false,In,
+220,complete,gqiba,Verb,,ukugqiba,false,,
+221,teach,fundisa,Verb,,ukufundisa,false,,
+222,think,cinga,Verb,,ukucinga,false,,
+223,hope,ithemba,Noun,,,false,Ili,
+224,coffee,ikofu,Noun,,,false,In,
+226,bring back,buyisa,Verb,,ukubuyisa,false,,
+227,send,thuma,Verb,,ukuthuma,false,,
+228,smile,ncuma,Verb,,ukuncuma,false,,
+229,speak,thetha,Verb,,ukuthetha,false,,
+230,stand up,phakama,Verb,,ukuphakama,false,,
+231,support,xhasa,Verb,,ukuxhasa,false,,
+232,take,sa,Verb,,ukusa,false,,This word is used to describe taking someone/something to a place.
+233,understand,qonda,Verb,,ukuqonda,false,,
+234,urinate,chama,Verb,,ukuchama,false,,
+235,use,sebenzisa,Verb,,ukusebenzisa,false,,
+236,want,funa,Verb,,ukufuna,false,,
+237,hope,themba,Verb,,ukuthemba,false,,
+238,work,sebenza,Verb,,ukusebenza,false,,
+239,hear,va,Verb,,ukuva,false,,
+240,understand,va,Verb,,ukuva,false,,
+241,hurt,enzakala,Verb,,ukwenzakala,false,,Enzakala is intransitive - it describes something which is hurt.
+242,injure,enzakalisa,Verb,,ukwenzakalisa,false,,"""enzakalisa"" is transitive, whereas ""enzakala"" is intransitive."
+243,better,ngcono,Relative,,,false,,
+244,jump,tsiba,Verb,,ukutsiba,false,,
+245,kill,bulala,Verb,,ukubulala,false,,
+246,know,azi,Verb,,kwazi,false,,"Azi is commonly used in the construction ""know how to"" as ""-azi uku"""
+247,read,funda,Verb,,ukufunda,false,,
+248,go,hamba,Verb,,ukuhamba,false,,"Hamba does not describe the act of going to a location, it refers to the act of going in general."
+249,leave,mka,Verb,,ukumka,false,,
+250,leave,shiya,Verb,,ukushiya,false,,
+251,lie down,ngqengqa,Verb,,ukungqengqa,false,,
+252,like,thanda,Verb,,ukuthanda,false,,
+253,lie,xoka,Verb,,ukuxoka,false,,"""xoka"" can be rather rude, especially if used to an older person or someone commanding respect. A more euphemistic phrasing is ""phosisa""."
+254,look,jonga,Verb,,ukujonga,false,,
+255,move,fudukela,Verb,,ukufudukela,false,,"Fudukela describes moving from one place to another such as moving city, or moving house."
+256,move,bekelisa,Verb,,ukubekelisa,false,,"""bekelisa"" should not be used for a person moving houses, for instance - ""fudukela"" should be used instead."
+257,need,funa,Verb,,ukufuna,false,,
+258,need,dinga,Verb,,ukudinga,false,,
+259,pay,bhatala,Verb,,ukubhatala,false,,
+260,prepare,lungiselela,Verb,,ukulungiselela,false,,
+261,press,cofa,Verb,,cofa,false,,
+262,tyala,push,Verb,,ukutyala,false,,
+263,put in,faka,Verb,,ukufaka,false,,
+264,pull,tsala,Verb,,ukutsala,false,,
+265,put,beka,Verb,,ukubeka,false,,
+266,hide,zimala,Verb,,ukuzimala,false,,"""zimala"" is an inchoative and intransitive verb."
+267,hold,bamba,Verb,,ukubamba,false,,
+268,listen,mamela,Verb,,ukumamela,false,,"""mamela"" is an inchoative verb, so it should be used in the perfect tense for present tense meaning in some cases."
+269,move,shukumisa,Verb,,ukushukumisa,false,,"""shukumisa"" is transitive."
+270,move,shukuma,Verb,,ukushukuma,false,,"""shukuma"" is intransitive."
