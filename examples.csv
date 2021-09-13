@@ -27,7 +27,7 @@ example_id,word_id,english,xhosa
 29,28,The drunkard spent all his money on booze.,Inxila lichitha imali yonke yakhe ukuthenga utywala.
 30,30,"For his whole life, he preached the God's message.","Ebomini bonke bakhe, washumayela umyalezo kaThixo."
 31,31,Look at this guy who's eating chips with a fork.,Jonga lo mfo otya iitships ngefolokwe.
-32,33,Come closer my love.,Sondela isithandwa sam.
+32,33,Come closer my love.,Sondela sithandwa sam.
 33,34,The women look as if they are happy because they are singing and clapping,"Oomama bakhangeleka ngathi bayavuya, ngoba bayacula baqhwabe."
 34,35,"Have ambition, people!","Yibani nekwhele, abantu!"
 35,36,People who are jealous are as if they are diseased.,Abantu abanobukhwele bafana nabantu abagulayo.
@@ -188,7 +188,7 @@ example_id,word_id,english,xhosa
 194,175,I want to continue with my studies.,Ndifuna ukuqhubekeka ngezifundo zam.
 195,176,We really need rain.,Sifuna imvula kakhulu.
 196,176,"Because of the drought, there is no rain.","Ngenxa yembalela, ayikho imvula."
-197,177,He likes to complain about word.,Yena uthanda ukukhalaza ngomsebenzi.
+197,177,He likes to complain about work.,Yena uthanda ukukhalaza ngomsebenzi.
 198,178,Please help me close all the windows.,Khawundincede ukuvala yonke ifestile.
 199,11,Babies like to put things in their mouths.,Iintsana zithanda ukufaka izinto emilonyeni yazo.
 200,10,The baby was laughing at the jumping dog.,Usana beluhleka inja etsibayo.
@@ -205,3 +205,30 @@ example_id,word_id,english,xhosa
 211,188,The cat's fur is very soft.,Uboya lwekati lutofotofo.
 212,189,His battle with alcohol is very difficult.,Idabi lakhe notywala linzima kakhulu.
 213,47,"After work, I like to lie in bed for a few minutes.","Emva komsebenzi, ndithanda ukulala ebhedini ngeminye imizuzu."
+214,76,His battle with alcohol was very difficult.,Idabi lakhe notywala linzima kakhulu.
+215,190,Please remind me tomorrow.,Khawundikhumuze ngomso.
+216,191,What is Yoliswa carrying?,UYoliswa uphethe ntoni?
+217,192,I am sick with the virus of COVID-19.,Ndigula nentsholongwane yeCOVID-19.
+218,22,My car was damaged because of the floods.,Imoto yam yonakele ngenxa yezikhukula.
+219,193,Everyone should register to be vaccinated.,Kufanele wonke umntu ubhalise ukugonywa.
+220,194,The writer uses hyperbole to emphasise their message.,Umbhali usebenzisa isibaxo ukugxininisa umyalezo waye.
+221,195,My grandmother is grumpy at me.,Umakhulu wam uqumbile nam.
+222,196,I like to lick the spoon after I finish eating.,Ndithanda ukumunca icephe emva kokugqiba ukutya.
+223,197,Wash your hands before eating.,Hlamba izandla zakho phambi kokutya.
+224,198,His sleep is peaceful.,Ubuthongo bakhe bunoxolo.
+225,199,"Rest in your room, maybe sleep.","Phumla kwigumbi lakho, mhlawumbi ulale."
+226,200,"Please repeat, I didn't hear you.","Khawuphinde, andikuvanga."
+227,201,My whole body is sore. ,Wonke umzimba wam ubuhlungu.
+228,202,Wash your hands before eating.,Hlamba izandla zakho phambi kokutya.
+229,203,The leopard hid itself behind the tree.,Ihlosi izifihle emva komthi.
+230,205,I don't want to wash my plate.,Andifuni ukuhlamba isitya sam.
+231,204,He moulded a small statue out of clay.,Waxonxa umfanekiso oqingqwe omncinci ngodongwe.
+232,206,You must pay attention in class.,Kufuneka nihoye eklasini.
+233,207,"After the fire, the wind blew with ashes.","Emva komlilo, umoya ubuvuthuza ngothuthu."
+234,208,This business produces clocks.,Eli shishini livelisa iiwotshi.
+235,209,He took a long time to wash himself.,Uthathe ixesha elide ukuzihlamba.
+236,209,"Please, take a scone.",Khawuthathe isikhoni.
+237,210,I have returned,Ndibuyile
+238,94,What's up? ,Uthini? 
+239,211,People are shouting.,Abantu bayakhwaza.
+240,212,I sit at the table,Ndihlala etafile.
