@@ -257,7 +257,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,no
 259,pay,bhatala,Verb,,ukubhatala,false,,
 260,prepare,lungiselela,Verb,,ukulungiselela,false,,
 261,press,cofa,Verb,,cofa,false,,
-262,tyala,push,Verb,,ukutyala,false,,
+262,push,tyala,Verb,,ukutyala,false,,
 263,put in,faka,Verb,,ukufaka,false,,
 264,pull,tsala,Verb,,ukutsala,false,,
 265,put,beka,Verb,,ukubeka,false,,
