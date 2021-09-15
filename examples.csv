@@ -32,10 +32,10 @@ example_id,word_id,english,xhosa
 34,35,"Have ambition, people!","Yibani nekwhele, abantu!"
 35,36,People who are jealous are as if they are diseased.,Abantu abanobukhwele bafana nabantu abagulayo.
 36,37,Ndithanda ukukhwela ibhayisekile yam,I like to ride my bicycle
-37,38,Abahlobo bam bathanda ukudlala ebaleni,My friends like to play on the field
-38,39,Ndithanda ukufunda eli bali,I like reading this story
+37,38,My friends like to play on the field.,Abahlobo bam bathanda ukudlala ebaleni.
+38,39,I like reading this story.,Ndithanda ukufunda eli bali.
 39,40,I like to write stories,Ndithanda ukubhala amabhali
-40,41,The fields are green,Amabala aluhlaza
+40,41,The fields are green.,Amabala aluhlaza.
 41,42,A colour that I like very much is red,Umbala endiwuthanda kakhulu yibomvu
 42,43,I like things with many colours,Ndiyazithanda izinto ezinemibala emininzi
 44,45,I write a letter,Ndibhala ileta
@@ -87,7 +87,7 @@ example_id,word_id,english,xhosa
 93,94,"I will say, ""no, I will never!""","Ndiza kuthi, ""hayi, andisoze!"""
 94,94,One day I woke up,Ngenye mini ndathi ndivuka
 95,95,Ndibona umthi,I see a tree
-96,96,Ndibona imithi,I see trees
+96,96,These trees are older than my grandfather's grandfather.,Le mithi midala kunotatomkhulu katatomkhulu wam.
 97,97,I like these kinds of fruit.,Ndithanda iziqhamo ezinjalo.
 98,97,"Yeah, it's like that.","Ewe, kunjalo."
 99,97,Such people don't visit here.,Abantu abanjalo abatyeleli apha.
@@ -300,7 +300,7 @@ example_id,word_id,english,xhosa
 307,259,Can I pay by card?,Mandibhatale ngekhadi?
 308,260,Prepare for the president's arrival.,Lungiselelani ukufika kamongameli.
 309,261,Many things can happen in the press of a button.,Izinto ezininzi zingenzeka ngokucofa iqosha.
-310,262,"Sipho pushed hard, but the car didn't move.","USipho watyala nzima, kodwa zange ishukume imoto. "
+310,262,"Sipho pushed hard, but the car didn't move.","USipho watyhala nzima, kodwa zange ishukume imoto. "
 311,263,Faka iplagi.,Put in the plug.
 312,264,Pull this wire tight.,Tsala olu cingo luqine.
 313,264,The title is written in large words to draw the attention of the reader.,Isihloko sibhalwa ngamagama amakhulu ukutsala umdla womfundi.
@@ -313,4 +313,15 @@ example_id,word_id,english,xhosa
 320,269,Move your shadow.,Shukumisa umthunzi wakho.
 321,270,Do you think he's dead? He's not moving.,Ucinga ukuba ufile? Akashukumi.
 322,140,"The chief has arrived, open the gate!","Ifikile inkosi, vula usango!"
-323,85,"Don't hurry, you must take your time.","Sukungxama, kufuneka uthathe ixesha lakho."
+323,85,"Don't hurry, you must take enough time.","Sukungxama, kufuneka uthathe ixesha elaneleyo."
+324,271,Are your parents still alive?,Abazali bakho basaphila?
+325,271,"Yes, I am alright - how are you?","Ewe, ndiphilile - unjani wena?"
+326,272,Where do you live?,Uhlala phi?
+327,272,I live in a village near Butterworth.,Ndihlala elalini ngaseGcuwa.
+328,252,I lose my pen often.,Ndithanda ukulahleka usiba lwam.
+329,273,An accident could happen.,Ingozi ingenzeka.
+330,273,The thing that happens is that children don't listen in school.,Into eyenzekayo yikuba abantwana abamaleli esikolweni.
+331,260,She stood up and prepared to go home.,Waphakama walungiselela ukugoduka.
+332,274,I'm looking forward to meeting you tomorrow.,Ndingxamele ukudibana naye ngomso.
+333,274,"Let's meet at 8, near the field.","Masidibane ngo-8, ngasentsimini."
+334,275,"No, I don't believe you, you are lying.","Hayi, andikukholelwa, uyaphosisa."

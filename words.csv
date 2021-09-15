@@ -236,7 +236,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,no
 238,work,sebenza,Verb,,ukusebenza,false,,
 239,hear,va,Verb,,ukuva,false,,
 240,understand,va,Verb,,ukuva,false,,
-241,hurt,enzakala,Verb,,ukwenzakala,false,,Enzakala is intransitive - it describes something which is hurt.
+241,be injured,enzakala,Verb,,ukwenzakala,false,,
 242,injure,enzakalisa,Verb,,ukwenzakalisa,false,,"""enzakalisa"" is transitive, whereas ""enzakala"" is intransitive."
 243,better,ngcono,Relative,,,false,,
 244,jump,tsiba,Verb,,ukutsiba,false,,
@@ -247,17 +247,17 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,no
 249,leave,mka,Verb,,ukumka,false,,
 250,leave,shiya,Verb,,ukushiya,false,,
 251,lie down,ngqengqa,Verb,,ukungqengqa,false,,
-252,like,thanda,Verb,,ukuthanda,false,,
+252,like,thanda,Verb,,ukuthanda,false,,"""thanda"" can be used to indicate something that happens often."
 253,lie,xoka,Verb,,ukuxoka,false,,"""xoka"" can be rather rude, especially if used to an older person or someone commanding respect. A more euphemistic phrasing is ""phosisa""."
 254,look,jonga,Verb,,ukujonga,false,,
-255,move,fudukela,Verb,,ukufudukela,false,,"Fudukela describes moving from one place to another such as moving city, or moving house."
-256,move,bekelisa,Verb,,ukubekelisa,false,,"""bekelisa"" should not be used for a person moving houses, for instance - ""fudukela"" should be used instead."
+255,move,fudukela,Verb,,ukufudukela,false,,"Fudukela describes a person moving from one place to another such as moving city, or moving house."
+256,move,bekelisa,Verb,,ukubekelisa,false,,"""bekelisa"" is a transitive verb. It should not be used for a person moving houses, for instance - ""fudukela"" should be used instead."
 257,need,funa,Verb,,ukufuna,false,,
 258,need,dinga,Verb,,ukudinga,false,,
 259,pay,bhatala,Verb,,ukubhatala,false,,
 260,prepare,lungiselela,Verb,,ukulungiselela,false,,
 261,press,cofa,Verb,,cofa,false,,
-262,push,tyala,Verb,,ukutyala,false,,
+262,push,tyhala,Verb,,ukutyala,false,,
 263,put in,faka,Verb,,ukufaka,false,,
 264,pull,tsala,Verb,,ukutsala,false,,
 265,put,beka,Verb,,ukubeka,false,,
@@ -266,3 +266,8 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,no
 268,listen,mamela,Verb,,ukumamela,false,,"""mamela"" is an inchoative verb, so it should be used in the perfect tense for present tense meaning in some cases."
 269,move,shukumisa,Verb,,ukushukumisa,false,,"""shukumisa"" is transitive."
 270,move,shukuma,Verb,,ukushukuma,false,,"""shukuma"" is intransitive."
+271,live,phila,Verb,,ukuphila,false,,"""phila"" should not be used to mean ""live somewhere"", ""hlala"" should be used instead. It is more similar to ""be well"". ""phila"" is an inchoative verb, so it should be used in the perfect tense for present tense meaning in some cases."
+272,live,hlala,Verb,,ukuhlala,false,,"""hlala"" is used for ""live somewhere"", not to live as in to be alive or be well - ""phila"" should instead be used in that case."
+273,happen,enzeka,Verb,,ukwenzeka,false,,"""enzeka"" is sometimes used in the construction ""into eyenzekayo"" (""the thing that happens"") which can be used at the beginning of a sentence to introduce new information, similar to the English construction ""What happens is that..."" "
+274,meet,dibana,Verb,,ukudibana,false,,
+275,lie,phosisa,Verb,,ukuphosisa,false,,"""phosisa"" is a respectful, euphemistic way to say ""lie""."
