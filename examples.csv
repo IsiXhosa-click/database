@@ -1,6 +1,6 @@
 example_id,word_id,english,xhosa
 1,1,Thanks for your help.,Enkosi ngoncedo lwakho.
-3,3,I see him,Ndiyambona
+3,3,Ndiyambona.,I see him.
 4,4,I ate the orange,Nditye i-orenji
 5,5,I was showing IsiXhosa.Click,Bendibonisa IsiXhosa.Click
 6,6,I bought two oranges,Bendithenga ii-orenji ezimbini
@@ -31,7 +31,7 @@ example_id,word_id,english,xhosa
 33,34,The women look as if they are happy because they are singing and clapping,"Oomama bakhangeleka ngathi bayavuya, ngoba bayacula baqhwabe."
 34,35,"Have ambition, people!","Yibani nekwhele, abantu!"
 35,36,People who are jealous are as if they are diseased.,Abantu abanobukhwele bafana nabantu abagulayo.
-36,37,Ndithanda ukukhwela ibhayisekile yam,I like to ride my bicycle
+36,37,I like to ride my bicycle.,Ndithanda ukukhwela ibhayisekile yam.
 37,38,My friends like to play on the field.,Abahlobo bam bathanda ukudlala ebaleni.
 38,39,I like reading this story.,Ndithanda ukufunda eli bali.
 39,40,I like to write stories,Ndithanda ukubhala amabhali
@@ -72,11 +72,11 @@ example_id,word_id,english,xhosa
 78,76,Fetch your weapons and prepare for battle.,Landani izixhobo zenu nilungiselele idabi.
 79,79,Read this extract and answer the questions that follow.,Funda esi sicatshulwa uze uphendule imibuzo elandelayo.
 80,81,She swore at him a lot. ,Ebemthuka kakhulu. 
-81,82,Wothuka kakhulu,He was very shocked
+81,82,"When he heard the news, he was very shocked.","Ukuva indaba kwakho, wothuka kakhulu."
 82,83,I slowed down even more,Bendicothisa ngakumbi
 83,84,I slowed down even more,Bendicothisa ngakumbi
 84,86,I love this place!,Ndithanda le ndawo!
-85,87,"Andifuni ukuba lapha, masigoduke.","I don't want to be here, let's go home."
+85,87,"I don't want to be here, let's go home.","Andifuni ukuba lapha, masigoduke."
 86,50,I want a child who is well mannered,Ndifuna umntwana onesimilo
 87,88,Please rinse that muddy cloth.,Ndicela upule eli laphu elinodaka.
 88,89,"When we left the hall, his hand brushed against my arm.","Sakuphuma eholweni, isandla sakhe sathintana nengalo yam."
@@ -86,7 +86,7 @@ example_id,word_id,english,xhosa
 92,93,"I said ""I love you"", but he rejected me","Ndathi ""ndiyakuthanda"", kodwa wandala"
 93,94,"I will say, ""no, I will never!""","Ndiza kuthi, ""hayi, andisoze!"""
 94,94,One day I woke up,Ngenye mini ndathi ndivuka
-95,95,Ndibona umthi,I see a tree
+95,95,I sit in the shade of the tree.,Ndihlala emthunzini womthi.
 96,96,These trees are older than my grandfather's grandfather.,Le mithi midala kunotatomkhulu katatomkhulu wam.
 97,97,I like these kinds of fruit.,Ndithanda iziqhamo ezinjalo.
 98,97,"Yeah, it's like that.","Ewe, kunjalo."
@@ -94,7 +94,7 @@ example_id,word_id,english,xhosa
 100,97,"I like to hike, surf, run and other things like that.",Ndithanda ukuhamba ngeenyawo nokusurfa nokubaleka nezinye izinto ezinjalo.
 101,98,When the sun sets I'll go home.,"Lakutshona ilanga, ndizogoduka."
 102,99,It is said the fountain of youth gives everlasting life.,Kuthiwa umthombo wolutsha unika ubomi obungenasiphelo.
-103,100,Impilo inzima.,Life is tough.
+103,100,Life is tough.,Impilo inzima.
 104,100,This question is very difficult.,Lo mbuzo unzima kakhulu.
 105,101,Work hard so that you succed.,Sebenza nzima ukuze uphumelele.
 106,102,My grandfather is one hundred years old.,Utatomkhulu wam uneminyaka elikhulu. 
@@ -113,7 +113,7 @@ example_id,word_id,english,xhosa
 119,115,The manager was fired because he was abusing his workers. ,Umphathi ugxothiwe ngoba ebexhaphaza abasebenzi bakhe. 
 120,116,"On a winter's night, I like to make tea and wrap myself in a blanket. ","Ebusuku bobusika, ndithanda ukwenza iti nokuzisongela ngengubo. "
 121,118,Bring your ID tomorrow.,Phathela i-ID yakho ngomso.
-122,118,Ndifuna ukukuphathela into emnandi.,I want to bring you something nice.
+122,118,I want to bring you something nice.,Ndifuna ukukuphathela into emnandi.
 123,119,The houses are burning!,Izindlu ziyatsha!
 124,120,I want to close the door.,Ndifuna ukuvala ucango.
 125,121,I am learning to drive a car.,Ndifunda ukuqhuba imoto.
@@ -173,7 +173,7 @@ example_id,word_id,english,xhosa
 179,163,Be careful so that you don't fall. ,Lumkela uze ungawi.
 180,164,I don't want to burn the food.,Andifuni ukutshisa ukutya.
 181,165,"No, I am not interested in Bitcoin.","Hayi, andinamdla kuBitcoin."
-182,165,Iilwimi zinika umdla kakhulu. ,Languages are very interesting
+182,165,Languages are very interesting.,Iilwimi zinika umdla kakhulu. 
 183,165,The title is written in large words to draw the attention of the reader.,Isihloko sibhalwa ngamagama amakhulu ukutsala umdla womfundi.
 184,166,I need my second dose of the vaccine.,Ndifuna ugonyo lwesibini lwam.
 185,167,It is raining hard!,Kuyanetha gqitha!
@@ -301,7 +301,7 @@ example_id,word_id,english,xhosa
 308,260,Prepare for the president's arrival.,Lungiselelani ukufika kamongameli.
 309,261,Many things can happen in the press of a button.,Izinto ezininzi zingenzeka ngokucofa iqosha.
 310,262,"Sipho pushed hard, but the car didn't move.","USipho watyhala nzima, kodwa zange ishukume imoto. "
-311,263,Faka iplagi.,Put in the plug.
+311,263,Put in the plug.,Faka iplagi.
 312,264,Pull this wire tight.,Tsala olu cingo luqine.
 313,264,The title is written in large words to draw the attention of the reader.,Isihloko sibhalwa ngamagama amakhulu ukutsala umdla womfundi.
 314,265,He put the flowers on the table so that he could see them.,Wabeka iintyatyambo etafileni ukuze ungazibone.
