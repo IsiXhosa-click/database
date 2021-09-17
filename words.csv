@@ -271,3 +271,5 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,no
 273,happen,enzeka,Verb,,ukwenzeka,false,,"""enzeka"" is sometimes used in the construction ""into eyenzekayo"" (""the thing that happens"") which can be used at the beginning of a sentence to introduce new information, similar to the English construction ""What happens is that..."" "
 274,meet,dibana,Verb,,ukudibana,false,,
 275,lie,phosisa,Verb,,ukuphosisa,false,,"""phosisa"" is a respectful, euphemistic way to say ""lie""."
+276,plant,tyala,Verb,,ukutyala,false,,
+277,plants,izityalo,Noun,,,true,Izi,

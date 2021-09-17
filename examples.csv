@@ -1,6 +1,6 @@
 example_id,word_id,english,xhosa
 1,1,Thanks for your help.,Enkosi ngoncedo lwakho.
-3,3,Ndiyambona.,I see him.
+3,3,I see him.,Ndiyambona.
 4,4,I ate the orange,Nditye i-orenji
 5,5,I was showing IsiXhosa.Click,Bendibonisa IsiXhosa.Click
 6,6,I bought two oranges,Bendithenga ii-orenji ezimbini
@@ -128,7 +128,7 @@ example_id,word_id,english,xhosa
 134,130,I can't forget my mother.,Andikwazi ukulibala umama wam.
 135,130,"Sorry, I have forgotten.","Uxolo, ndilibele."
 136,131,Where are you going?,Uya phi?
-137,131,Andiyi ndawo.,I am not going anywhere.
+137,131,I'm not going anywhere.,Andiyi endaweni.
 138,131,I am going to Johannesburg.,Ndiya eGoli.
 139,132,It is clear that we agree.,Kucacile ukuba siyavuma.
 140,133,Answer the following questions.,Phendula le mibuzo elandelayo.
@@ -325,3 +325,7 @@ example_id,word_id,english,xhosa
 332,274,I'm looking forward to meeting you tomorrow.,Ndingxamele ukudibana naye ngomso.
 333,274,"Let's meet at 8, near the field.","Masidibane ngo-8, ngasentsimini."
 334,275,"No, I don't believe you, you are lying.","Hayi, andikukholelwa, uyaphosisa."
+335,276,I planted trees in the garden.,Bendityala imithi esitiyeni.
+336,29,Zandi is a good teacher who wants her students to succeed. ,UZandi ungutitshala omhle ofuna ukuba abafundi bakhe baphumelele.
+337,46,Have you ever slept in a reed bed before?,Wakhe walala emandlalweni ngaphambili?
+338,277,"I love all kinds of plants, especially trees.","Ndithanda zonke iindidi zezityalo, ngakumbi imithi."
