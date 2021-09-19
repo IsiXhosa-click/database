@@ -144,7 +144,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,no
 145,dates,imihla,Noun,,,false,,
 146,give,nika,Verb,,ukunika,false,,
 147,let alone,yeka,Verb,,ukuyeka,false,,
-148,forgive,ukuxolela,Verb,,ukuxolela,false,,
+148,forgive,xolela,Verb,,ukuxolela,false,,
 149,remember,khumbula,Verb,,ukukhumbula,false,,
 150,fix,lungisa,Verb,,ukulungisa,false,,
 151,find,fumana,Verb,,ukufumana,false,,
