@@ -98,7 +98,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 99,fountain,umthombo,noun,,,false,false,,,Class3Um,
 100,difficult,nzima,relative,,,false,false,,,,
 101,hard,nzima,adverb,,,false,false,,,,
-102,hundred,likhulu,relative,,,false,false,,,,
+102,hundred,ikhulu,noun,,,false,false,,,Ili,
 103,cat,ikati,noun,,,false,false,,,In,
 104,cats,iikati,noun,,,true,false,,,Izin,
 105,gift,pha,verb,,,false,false,,,,
@@ -263,7 +263,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 265,put,beka,verb,,ukubeka,false,false,,,,
 266,hide,zimala,verb,,ukuzimala,false,false,,,,"""zimala"" is an inchoative and intransitive verb."
 267,hold,bamba,verb,,ukubamba,false,false,,,,
-268,listen,mamela,verb,,ukumamela,false,false,,,,"""mamela"" is an inchoative verb, so it should be used in the perfect tense for present tense meaning in some cases."
+268,listen,mamela,verb,,ukumamela,false,true,either,,,
 269,move,shukumisa,verb,,ukushukumisa,false,false,,,,"""shukumisa"" is transitive."
 270,move,shukuma,verb,,ukushukuma,false,false,,,,"""shukuma"" is intransitive."
 271,live,phila,verb,,ukuphila,false,false,,,,"""phila"" should not be used to mean ""live somewhere"", ""hlala"" should be used instead. It is more similar to ""be well"". ""phila"" is an inchoative verb, so it should be used in the perfect tense for present tense meaning in some cases."
@@ -404,3 +404,11 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 406,fish,intlanzi,noun,,,false,false,,,In,
 407,space ship,isipheke-pheke,noun,,,false,false,,,Isi,
 408,space ships,izipheke-pheke,noun,,,true,false,,,Izi,
+409,tricks,amaqhinga,noun,,,true,false,,,Ama,
+410,trick,iqhinga,noun,,,false,false,,,Ili,
+411,before,phambili,preposition,,,false,false,,,,"""phambili"" appears as ""phambi"" when it is attached to a noun."
+412,up,phezulu,preposition,,,false,false,,,,
+413,down,phantsi,preposition,,,false,false,,,,
+414,below,phantsi,preposition,,,false,false,,,,
+415,chop,canda,verb,,ukucanda,false,false,transitive-only,,,"""canda"" refers to splitting of wood."
+416,eat,canda,verb,,ukucanda,false,false,either,,,
