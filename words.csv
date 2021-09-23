@@ -4,7 +4,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 4,orange,i-orenji,noun,,,false,false,,,In,
 5,show,bonisa,verb,,ukubonisa,false,false,transitive-only,,,
 6,oranges,ii-orenji,noun,,,true,false,,,Izin,
-7,tell,xelela,verb,,Ukuxelela,false,false,transitive-only,,,
+7,tell,xelela,verb,,ukuxelela,false,false,transitive-only,,,
 8,buy,thenga,verb,,ukuthenga,false,false,transitive-only,,,
 9,eat,tya,verb,,ukutya,false,false,either,,,
 10,baby,usana,noun,,,false,false,,,Ulu,
@@ -412,3 +412,8 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 414,below,phantsi,preposition,,,false,false,,,,
 415,chop,canda,verb,,ukucanda,false,false,transitive-only,,,"""canda"" refers to splitting of wood."
 416,eat,canda,verb,,ukucanda,false,false,either,,,
+417,pour,galela,verb,,ukugalela,false,false,transitive-only,,,
+418,intestine,ulusu,noun,,,false,false,,,Ulu,
+419,skin,ulusu,noun,,,false,false,,,Ulu,
+420,cut,ncwela,verb,,ukuncwela,false,false,transitive-only,,,"""ncwela"" can be used to refer to cutting paper into smaller strips"
+421,bully,ncwela,verb,,ukuncwela,false,false,transitive-only,,,

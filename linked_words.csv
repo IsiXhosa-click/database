@@ -219,3 +219,7 @@ link_id,link_type,first,second
 219,antonym,412,413
 220,alternate_use,413,414
 221,alternate_use,415,416
+222,alternate_use,418,419
+223,related,123,420
+224,related,156,420
+225,alternate_use,420,421
