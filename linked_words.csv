@@ -223,3 +223,6 @@ link_id,link_type,first,second
 223,related,123,420
 224,related,156,420
 225,alternate_use,420,421
+226,alternate_use,248,422
+227,related,131,422
+228,alternate_use,70,97

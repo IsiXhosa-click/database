@@ -417,3 +417,5 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 419,skin,ulusu,noun,,,false,false,,,Ulu,
 420,cut,ncwela,verb,,ukuncwela,false,false,transitive-only,,,"""ncwela"" can be used to refer to cutting paper into smaller strips"
 421,bully,ncwela,verb,,ukuncwela,false,false,transitive-only,,,
+422,walk,hamba,verb,,ukuhamba,false,false,intransitive,,,
+423,home,idlala,noun,,,false,false,,,Ili,Informal.
