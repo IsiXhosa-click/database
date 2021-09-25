@@ -163,7 +163,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 164,burn,tshisa,verb,,ukutshisa,false,false,,,,
 165,interest,umdla,noun,,,false,false,,,Class3Um,"This refers to interest in something, not to financial interest."
 166,vaccine,ugonyo,noun,,,false,false,,,Ulu,
-167,rain,netha,verb,,ukunetha,false,false,,,,
+167,rain,netha,verb,,ukunetha,false,false,intransitive,,,
 168,hand,isandla,noun,,,false,false,,,Isi,
 169,sleep,lala,verb,,ukulala,false,false,,,,
 170,dog,inja,noun,,,false,false,,,In,
@@ -243,7 +243,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 245,kill,bulala,verb,,ukubulala,false,false,,,,
 246,know,azi,verb,,kwazi,false,false,,,,"Azi is commonly used in the construction ""know how to"" as ""-azi uku"""
 247,read,funda,verb,,ukufunda,false,false,,,,
-248,go,hamba,verb,,ukuhamba,false,false,,,,"Hamba does not describe the act of going to a location, it refers to the act of going in general."
+248,go,hamba,verb,,ukuhamba,false,false,intransitive,,,"Hamba does not describe the act of going to a location, it refers to the act of going in general."
 249,leave,mka,verb,,ukumka,false,false,,,,
 250,leave,shiya,verb,,ukushiya,false,false,,,,
 251,lie down,ngqengqa,verb,,ukungqengqa,false,false,,,,
@@ -416,6 +416,35 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 418,intestine,ulusu,noun,,,false,false,,,Ulu,
 419,skin,ulusu,noun,,,false,false,,,Ulu,
 420,cut,ncwela,verb,,ukuncwela,false,false,transitive-only,,,"""ncwela"" can be used to refer to cutting paper into smaller strips"
-421,bully,ncwela,verb,,ukuncwela,false,false,transitive-only,,,
+421,bully,ncwela,verb,,ukuncwela,false,false,transitive-only,,,Informal.
 422,walk,hamba,verb,,ukuhamba,false,false,intransitive,,,
 423,home,idlala,noun,,,false,false,,,Ili,Informal.
+424,brother,umnakwethu,noun,,,false,false,,,Class1Um,Used to refer to your brother regardless of whether they are younger or elderly.
+425,younger brother,umninwa,noun,,,false,false,,,Class1Um,Only used when referring to your younger brother
+426,no,hayi,interjection,,,false,false,,,,
+427,yes,ewe,interjection,,,false,false,,,,
+428,language,ulwimi,noun,,,false,false,,,Ulu,
+429,languages,iilwimi,noun,,,true,false,,,Izin,
+430,face,ubuso,noun,,,false,false,,,Ubu,
+431,car,ihashe,noun,,,false,false,,,Ili,Informal.
+432,horse,ihashe,noun,,,false,false,,,Ili,
+433,silo,idlala,noun,,,false,false,,,Ili,Standard meaning.
+434,Cape Town,iKapa,noun,,,false,false,,,Ili,
+435,if,ukuba,conjunction,,,false,false,,indicative mood,,
+436,across,phesheya,preposition,,,false,false,,,,
+437,there,phaya,preposition,,,false,false,,,,"""phaya"" is used to refer to something far away."
+438,there,apho,preposition,,,false,false,,,,
+439,here,apha,preposition,,,false,false,,,,
+440,in the evening,ngorhatya,adverb,,,false,false,,,,
+441,but,kodwa,conjunction,,,false,false,,indicative mood,,
+442,country,ilizwe,noun,,,false,false,,,Ili,
+443,money,imali,noun,,,false,false,,,Izin,
+444,probably,kungenzeka,adverb,,,false,false,,,,"""kungenzeka"" translates directly as ""it can happen"" or ""it can be doable"" and is often followed by ""ukuba""."
+445,almost,phantse,adverb,,,false,false,,,,"""phantse"" is followed by the subjective."
+446,effect,ifuthe,noun,,,false,false,,,Ili,
+447,effects,amafuthe,noun,,,true,false,,,Ama,
+448,oil,amafutha,noun,,,false,false,,,Ama,
+449,lose,lahleka,verb,,ukulahleka,false,false,either,,,
+450,dump,lahla,verb,,ukulahla,false,false,either,,,
+451,war,imfazwe,noun,,,false,false,,,In,
+452,above,phezulu,preposition,,,false,false,,,,"""phezulu"" appears as ""phezu"" when used before a noun to mean above/ on top of it."

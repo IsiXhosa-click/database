@@ -16,7 +16,7 @@ example_id,word_id,english,xhosa
 16,15,Do you know how to sing this song?,Uyakwazi ukucula le ngoma?
 17,16,We will start the procedure at 5 o' clock.,Sizoqala inkqubo ngentsimbi yesihlanu.
 18,17,Please calm the baby so that it falls asleep.,Khawuthuthuzele usana ukuze lulale.
-20,19,There are three cars parked in front of my gate.,Zikhona iimoto ezithathu ezimile phambi kwisango sam.
+20,19,There are three cars parked in front of my gate.,Kukho iimoto ezintathu ezime phambi kwisango lam.
 21,20,My car goes fast.,Imoto yam ihamba ngokukhawuleza.
 22,21,I am watching TV,Ndibukele TV
 23,23,Our father who art in heaven,Bawo wethu osezulwini
@@ -34,7 +34,7 @@ example_id,word_id,english,xhosa
 36,37,I like to ride my bicycle.,Ndithanda ukukhwela ibhayisekile yam.
 37,38,My friends like to play on the field.,Abahlobo bam bathanda ukudlala ebaleni.
 38,39,I like reading this story.,Ndithanda ukufunda eli bali.
-39,40,I like to write stories,Ndithanda ukubhala amabhali
+39,40,I like to write stories.,Ndithanda ukubhala amabali.
 40,41,The fields are green.,Amabala aluhlaza.
 41,42,A colour that I like very much is red,Umbala endiwuthanda kakhulu yibomvu
 42,43,I like things with many colours,Ndiyazithanda izinto ezinemibala emininzi
@@ -65,7 +65,7 @@ example_id,word_id,english,xhosa
 68,70,I think so.,Ndicinga njalo.
 71,70,If you work like that you will succeed.,"Ukuba usebenza njalo, uza kuphumelela."
 73,71,She wants to become a war journalist.,Ufuna ukuba yintatheli yemfazwe.
-74,72,"She was a strange woman, who wore a hat with a large ostrich feather.","Wayengumfazi ongaqhelekanga, onxiba umnqwazi onumsiba olukhulu lwenciniba."
+74,72,"She was a strange woman, who wore a hat with a large ostrich feather.","Wayengumfazi ongaqhelekanga, onxiba umnqwazi onosiba olukhulu lwenciniba."
 75,73,The goat tore my shirt apart,Ibhokhwe ikrazuke ihempe yam.
 76,74,I want to go the Eastern Cape so that I improve my Xhosa.,Ndifuna ukuya eMpuma Koloni ukuze ndiphucule isiXhosa sam.
 77,75,Let's rest in the shade.,Masiphumle emthunzini.
@@ -87,7 +87,7 @@ example_id,word_id,english,xhosa
 93,94,"I will say, ""no, I will never!""","Ndiza kuthi, ""hayi, andisoze!"""
 94,94,One day I woke up,Ngenye mini ndathi ndivuka
 95,95,I sit in the shade of the tree.,Ndihlala emthunzini womthi.
-96,96,These trees are older than my grandfather's grandfather.,Le mithi midala kunotatomkhulu katatomkhulu wam.
+96,96,These trees are older than my great-grandfather.,Le mithi midala kunotata katatomkhulu wam.
 97,97,I like these kinds of fruit.,Ndithanda iziqhamo ezinjalo.
 98,97,"Yeah, it's like that.","Ewe, kunjalo."
 99,97,Such people don't visit here.,Abantu abanjalo abatyeleli apha.
@@ -205,7 +205,7 @@ example_id,word_id,english,xhosa
 211,188,The cat's fur is very soft.,Uboya lwekati lutofotofo.
 212,189,His battle with alcohol is very difficult.,Idabi lakhe notywala linzima kakhulu.
 213,47,"After work, I like to lie in bed for a few minutes.","Emva komsebenzi, ndithanda ukulala ebhedini ngeminye imizuzu."
-214,76,His battle with alcohol was very difficult.,Idabi lakhe notywala linzima kakhulu.
+214,76,His battle with alcohol was very difficult.,Idabi lakhe notywala belinzima kakhulu.
 215,190,Please remind me tomorrow.,Khawundikhumuze ngomso.
 216,191,What is Yoliswa carrying?,UYoliswa uphethe ntoni?
 217,192,I am sick with the virus of COVID-19.,Ndigula nentsholongwane yeCOVID-19.
@@ -276,7 +276,7 @@ example_id,word_id,english,xhosa
 283,239,"Please repeat, I didn't hear you.","Khawuphinde, andikuvanga."
 284,240,I can't understand you if you speak quickly.,Andikwazi ukukuva ukuba uthetha ngokukhawuleza.
 285,240,Do you understand me?,Uyandiva?
-286,241,I was hurt after falling out the tree.,Bendisenzakele emva kokuwa emthini.
+286,241,I was hurt after falling out the tree.,Ndenzakele emva kokuwa emthini.
 287,242,"If you pull your brothers hair, you will injure him.","Ukuba utsala iinwele zikabhuti wakho, uza kumenzakalisa."
 288,243,"Sometimes, it's better to wait.",Ngamanye amaxesha kungcono ukulinda.
 289,244,He jump as if he had seen a ghost.,Utsibe ngathi ubone isiphorho.
@@ -480,3 +480,36 @@ example_id,word_id,english,xhosa
 487,421,He likes bullying other children.,Uyakuthanda ukuncwela abanye abantwana.
 488,422,I am walking on the beach.,Ndihamba elunxwemeni.
 489,423,I'm going home.,Ndisaya edladleni.
+490,424,My brother has bought a new car.,Umnakwethu uthenge imoto entsha.
+491,425,My younger brother likes to play in my room.,Umninawa wam uyakuthanda ukudlala kwigumbi lam lokulala.
+492,426,"No, I don't smoke.","Hayi, anditshayi."
+493,427,"Yes, I agree with you.","Ewe, ndiyavumelana nawe."
+494,428,What language do you speak?,"Wena, uthetha oluphi lwimi?"
+495,429,I speak three languages.,Ndithetha iilwimi ezintathu.
+496,430,Her face was beautiful.,Ubuso bakhe bebubuhle.
+497,431,I am driving my car.,Ndiqhuba ihashe lam.
+498,432,The horse is eating grass.,Ihashe litya ingca.
+499,433,The corn is in the silo.,Umbona usedlaleni.
+500,434,I live in Cape Town.,Ndihlala eKapa.
+501,435,You should learn for your test if you want to get your license.,Kufanele ufundele uvavanyo lwakho ukuba ufuna ukufumana ilayisensi yakho.
+502,436,He lives across the sea.,Uhlala phesheya kolwandle.
+503,437,He lives there in Johannesburg.,"Uhlala phaya, eGoli."
+504,438,Put the fish there.,Yibeke apho intlanzi.
+505,439,"Come here, all of you.","Yizani apha, nonke."
+506,440,I usually wash in the evening.,"Kuqhelekile, ndihlamba ngorhatya."
+507,441,"I wanted to go to the shop, but it was closed.","Bendifuna ukuya evenkileni, kodwa ivaliwe."
+508,442,South Africa is a beautiful country.,Umzantsi Africa lilizwe elihle.
+509,443,I have a plenty of money.,Ndinemali eninzi.
+510,444,It will probably rain tomorrow.,Kungenzeka ukuba kuzonetha ngomso.
+511,445,I almost died that day.,Ndiphantse ndafa kulaa mini.
+512,446,That book had a big effect on her.,Laa ncwadi inefuthe elikhulu kuye.
+513,447,The effects of the disease are disastrous.,Amafuthe esifo yintlekele.
+514,448,My car's out of oil.,Imoto yam ayinamafutha.
+515,448,Pour two cups of oil into the mixture.,Galela iikomityi ezimbini zamafutha emxubeni.
+516,448,Step on the gas!,Faka amafutha!
+517,449,I don't want to lose my key.,Andifuni ukulahlekelwa sisitshixo sam.
+518,450,Do not dump waste here!,Sukulahla inkunkuma apha!
+519,451,There is war between South Africa and America,Kukho imfazwe phakathi koMzantsi Afrika neMelika
+520,76,People are fighting to occupy land in Cape Town.,Abantu balwa idabi lokuthathwa kwemihlaba eKapa.
+521,452,Read the questions above.,Funda imibuzo engaphezulu.
+522,452,The plane passes above the building,Inqwelomoya idlula phezu kwesakhiwo
