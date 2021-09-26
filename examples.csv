@@ -119,7 +119,7 @@ example_id,word_id,english,xhosa
 125,121,I am learning to drive a car.,Ndifunda ukuqhuba imoto.
 126,123,Cut the bread.,Sika isonka.
 127,124,They know how to dance,Bayakwazi ukudanisa.
-128,125,"Wow, you have disappointed me today.","Yhu, ubundidanisa namhlanje."
+128,125,"Wow, you have disappointed me today.","Yhu, undidanisile namhlanje."
 129,126,She does not want to die.,Akafuni ukufa.
 130,127,What are you doing?,Wenza ntoni?
 131,128,What do you want to drink?,Ufuna ukusela ntoni?
@@ -177,7 +177,7 @@ example_id,word_id,english,xhosa
 183,165,The title is written in large words to draw the attention of the reader.,Isihloko sibhalwa ngamagama amakhulu ukutsala umdla womfundi.
 184,166,I need my second dose of the vaccine.,Ndifuna ugonyo lwesibini lwam.
 185,167,It is raining hard!,Kuyanetha gqitha!
-186,167,It does not rain regularly in the desert.,Ayinethi rhoqo entlangeni.
+186,167,It does not rain regularly in the desert.,Ayinethi rhoqo entlango.
 187,168,Hold my hand.,Bamba isandla sam.
 188,169,"Wow, I am tired, I should sleep.","Yhu, ndidiniwe, kufanele ndilale."
 189,170,The dog does not bite.,Inja ayilumi.
@@ -468,7 +468,7 @@ example_id,word_id,english,xhosa
 475,411,"Before that, let's eat.","Phambi koko, masitye."
 476,412,"Birds fly up, in the sky.","Iintaka zibhabha phezulu, esibhakabhakeni."
 477,413,"Sit down, please.",Khawuhlale phantsi.
-478,414,These animals live below the mud.,Ezi zilwanyana zihlala phantsi koludaka.
+478,414,These animals live below the mud.,Ezi zilwanyana zihlala phantsi kodaka.
 479,415,I chop the wood to make a fire.,Ndicanda ukhuni yokwenza umlilo.
 480,416,I am going to eat.,Ndizocanda.
 481,417,I pour the water.,Ndigalela amanzi.
@@ -513,3 +513,14 @@ example_id,word_id,english,xhosa
 520,76,People are fighting to occupy land in Cape Town.,Abantu balwa idabi lokuthathwa kwemihlaba eKapa.
 521,452,Read the questions above.,Funda imibuzo engaphezulu.
 522,452,The plane passes above the building,Inqwelomoya idlula phezu kwesakhiwo
+523,453,Yesterday my mother cooked a tin of pilchard and rice. ,Izolo umama wam upheke inkonxa yentlanzi nerice. 
+524,454,Tomorrow we will have sour milk for lunch. ,Ngomso siza kutya amasi kwisidlo sasemini. 
+525,455,Answer the first question on a different page.,Phendula umbuzo wokuqala kwiphepha limbi.
+526,456,Sit down for a minute and think about what you've done.,Hlalani phantsi ngomzuzu nicinge ngento eniyenzileyo.
+527,457,You have thirty minutes to complete the exam.,Ninemizuzu engamashumi amathathu yokugqibezela imviwo.
+528,458,I'll return home in an hour.,Ndizobuyela ekhaya emva kweyure.
+529,459,"Give me a second, I'm talking on the phone.","Khawundinike umzuzwana, ndithetha ngefoni."
+530,460,Wash your hands for twenty seconds before eating.,Hlamba izandla zakho ngemizuzwana engamashumi amabini phambi kokutya.
+531,461,Sandile waited for the bus for three hours.,USandile ebelindela ibhasi ngeeyure ezintathu.
+532,462,"In second year, it's expected that students work hard.","Kunyaka wesibini, kulindelekile ukuba abafundi basebenza nzima."
+533,463,"As a young man, he left society and lived alone in the forest.","Njengomfana, washiya uluntu, wahlala yedwa ehlathini."

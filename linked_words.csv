@@ -85,7 +85,7 @@ link_id,link_type,first,second
 85,alternate_use,236,257
 86,related,236,258
 87,related,150,260
-88,confusable,262,264
+88,antonym,262,264
 89,related,203,266
 90,related,191,267
 91,related,255,270
@@ -170,7 +170,7 @@ link_id,link_type,first,second
 170,plural_or_singular,353,354
 171,confusable,352,355
 172,plural_or_singular,355,356
-173,related,318,363
+173,alternate_use,318,363
 174,plural_or_singular,362,364
 175,plural_or_singular,363,365
 176,alternate_use,317,365
@@ -243,3 +243,13 @@ link_id,link_type,first,second
 243,related,76,451
 244,alternate_use,412,452
 245,antonym,414,452
+246,related,16,455
+247,plural_or_singular,456,457
+248,related,456,458
+249,related,456,459
+250,related,458,459
+251,plural_or_singular,459,460
+252,plural_or_singular,458,461
+253,related,457,461
+254,related,460,461
+255,confusable,459,462
