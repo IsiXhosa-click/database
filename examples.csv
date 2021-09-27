@@ -6,7 +6,7 @@ example_id,word_id,english,xhosa
 6,6,I bought two oranges,Bendithenga ii-orenji ezimbini
 7,7,Please tell me your name.,Khawundixelele igama lakho.
 8,8,I will buy the house,Ndiza kuthenga indlu
-9,9,I like to eat apples,Ndithanda ukutya ii-apile
+9,9,I like to eat apples,Ndiyakuthanda ukutya ama-apile
 10,12,My father was a grumpy man.,Utata wam wayengumntu oqumbileyo.
 11,12,The old man listened carefully.,Utata ebemamela ngokunyameka.
 12,13,You will fight for the fathers of the nation.,Nizolwela ootata besizwe.
@@ -36,7 +36,7 @@ example_id,word_id,english,xhosa
 38,39,I like reading this story.,Ndithanda ukufunda eli bali.
 39,40,I like to write stories.,Ndithanda ukubhala amabali.
 40,41,The fields are green.,Amabala aluhlaza.
-41,42,A colour that I like very much is red,Umbala endiwuthanda kakhulu yibomvu
+41,42,A colour that I like very much is red,Umbala endiwuthanda kakhulu ngubomvu
 42,43,I like things with many colours,Ndiyazithanda izinto ezinemibala emininzi
 44,45,I write a letter,Ndibhala ileta
 45,48,"One day, I will get revenge",Ngenye imini ndiza kuziphindezela
@@ -85,7 +85,6 @@ example_id,word_id,english,xhosa
 91,92,He was singing a nice song,Ebecula ingoma emnandi
 92,93,"I said ""I love you"", but he rejected me","Ndathi ""ndiyakuthanda"", kodwa wandala"
 93,94,"I will say, ""no, I will never!""","Ndiza kuthi, ""hayi, andisoze!"""
-94,94,One day I woke up,Ngenye mini ndathi ndivuka
 95,95,I sit in the shade of the tree.,Ndihlala emthunzini womthi.
 96,96,These trees are older than my great-grandfather.,Le mithi midala kunotata katatomkhulu wam.
 97,97,I like these kinds of fruit.,Ndithanda iziqhamo ezinjalo.
@@ -100,9 +99,9 @@ example_id,word_id,english,xhosa
 106,102,My grandfather is one hundred years old.,Utatomkhulu wam uneminyaka elikhulu. 
 107,103,The cat is crying,ikati iyakhala
 108,104,The cats are crying,iikati ziyakhala
-109,105,I gave a watch.,Bendipha incwadi.
+109,105,I gave him my black watch.,Ndimphe laa wotshi yam imnyama 
 110,106,I am arriving at school,Ndifika esikolweni
-111,107,"Wow, this is a nice gift!","Yhu, esi sisipho esimandi!"
+111,107,"Wow, this is a nice gift!","Yhu, esi sisipho esihle!"
 112,108,The boys are provoking the dog with a stick.,Amakhwenkwe axhokonxa inja ngoluthi.
 113,109,"At Christmas, people gift each other gifts.","EKrismasi, abantu baphelana izipho."
 114,110,I will never humiliate you.,Ngeke ndikuphoxe.
@@ -229,7 +228,7 @@ example_id,word_id,english,xhosa
 235,209,He took a long time to wash himself.,Uthathe ixesha elide ukuzihlamba.
 236,209,"Please, take a scone.",Khawuthathe isikhoni.
 237,210,I have returned,Ndibuyile
-238,94,What's up? ,Uthini? 
+238,94,What are you saying James?,Uthini James? 
 239,211,People are shouting.,Abantu bayakhwaza.
 240,212,I sit at the table,Ndihlala etafile.
 241,94,"My mom says ""Eat your vegetables"".","Umama wam uthi ""Yitya imifuno yakho""."
@@ -524,3 +523,10 @@ example_id,word_id,english,xhosa
 531,461,Sandile waited for the bus for three hours.,USandile ebelindela ibhasi ngeeyure ezintathu.
 532,462,"In second year, it's expected that students work hard.","Kunyaka wesibini, kulindelekile ukuba abafundi basebenza nzima."
 533,463,"As a young man, he left society and lived alone in the forest.","Njengomfana, washiya uluntu, wahlala yedwa ehlathini."
+534,464,Give him a round of applause for delivering a such a great speech.,Mqhwabeleni izandla ngokwenza intetho entle kangaka.
+535,465,"In our community, we do not have good services.","Kwingingqi yethu, asinazo iinkonzo ezintle."
+536,466,"In our community, we do not have good services.","Kuluntu lwethu, asinazo iinkonzo ezintle."
+537,467,"Come little brother, mom is calling you.","Yiza mninawa wam, umama uyakubiza."
+538,468,I will slap you if you do not close you mouth.,Ndiza kuqhwaba ngempama ukuba awuwuvali umlomo wakho.
+539,469,"My pastor is very sick, i need to visit him at the hospital.","Umfundisi wam ugula kakhulu, kufuneka ndimtyelele esibhedlele."
+540,470,My bin is very dirty.,Umgqomo wam ungcole kakhulu.

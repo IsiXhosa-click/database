@@ -90,7 +90,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 91,laugh,hleka,verb,,ukuhleka,false,false,,,,
 92,song,ingoma,noun,,,false,false,,,In,
 93,refuse,ala,verb,,,false,false,,,,
-94,say,thi,verb,,ukuthi,false,false,,,,"""thi"" has many meanings, and it can also be used as a generic tense marker as well as the verb ""say"""
+94,say,thi,verb,,ukuthi,false,false,either,,,"""thi"" has many meanings, and it can also be used as a generic tense marker as well as the verb ""say"""
 95,tree,umthi,noun,,,false,false,,,Class3Um,
 96,trees,imithi,noun,,,true,false,,,Imi,
 97,like that,njalo,relative,,,false,false,,,,"This word has multiple meanings, and can often be translated as, ""so"", ""such"", ""these kinds of"", etc."
@@ -101,7 +101,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 102,hundred,ikhulu,noun,,,false,false,,,Ili,
 103,cat,ikati,noun,,,false,false,,,In,
 104,cats,iikati,noun,,,true,false,,,Izin,
-105,gift,pha,verb,,,false,false,,,,
+105,give,ipha,verb,,Ukupha,false,false,either,,,
 106,arrive,fika,verb,,ukufika,false,false,,,,
 107,gift,isipho,noun,,,false,false,,,Isi,
 108,provoke,xhokonxa,verb,,ukuxhokonxa,false,false,,,,
@@ -115,13 +115,13 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 116,blanket,ingubo,noun,,,false,false,,,In,
 117,profit,hluma,verb,,ukuhluma,false,false,,,,
 118,bring,phathela,verb,,ukuphathela,false,false,,,,
-119,burn,tsha,verb,,ukutsha,false,false,,,,
+119,burn,tsha,verb,,ukutsha,false,false,intransitive,,,
 120,close,vala,verb,,ukuvala,false,false,,,,
 121,drive,qhuba,verb,,ukuqhuba,false,false,,,,
 122,price,ixabiso,noun,,,false,false,,,Ili,
 123,cut,sika,verb,,ukusika,false,false,,,,"""sika"" is used for things that are not growing (for example, bread). ""cheba"" should instead be used for something growing, such as hair."
 124,dance,danisa,verb,,ukudanisa,false,false,,,,
-125,disappoint,danisa,verb,,ukudanisa,false,false,,,,
+125,disappoint,danisa,verb,,ukudanisa,false,false,transitive-only,,,
 126,die,fa,verb,,ukufa,false,false,,,,"""fa"" should generally only be used for yourself or animals, as it can be disrespectful to use it for other people. In those cases, more respectful terms such as ""sweleka"" or ""bhubha"" should be used."
 127,do,enza,verb,,ukwenza,false,false,,,,
 128,drink,sela,verb,,ukusela,false,false,,,,"""sela"" should be used for things that are cold, such as water. ""phunga"" should be used for things that are hot, such as tea."
@@ -160,7 +160,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 161,pass away,sweleka,verb,,ukusweleka,false,false,,,,
 162,drink,phunga,verb,,ukuphunga,false,false,,,,"""phunga"" should be used for things that are hot, such as tea. ""sela"" should be used for things that are cold, such as water."
 163,fall,wa,verb,,ukuwa,false,false,,,,
-164,burn,tshisa,verb,,ukutshisa,false,false,,,,
+164,burn,tshisa,verb,,ukutshisa,false,false,transitive-only,,,
 165,interest,umdla,noun,,,false,false,,,Class3Um,"This refers to interest in something, not to financial interest."
 166,vaccine,ugonyo,noun,,,false,false,,,Ulu,
 167,rain,netha,verb,,ukunetha,false,false,intransitive,,,
@@ -241,7 +241,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 243,better,ngcono,relative,,,false,false,,,,
 244,jump,tsiba,verb,,ukutsiba,false,false,,,,
 245,kill,bulala,verb,,ukubulala,false,false,,,,
-246,know,azi,verb,,kwazi,false,false,,,,"Azi is commonly used in the construction ""know how to"" as ""-azi uku"""
+246,know,azi,verb,,ukwazi,false,false,either,,,"Azi is commonly used in the construction ""know how to"" as ""-azi uku"""
 247,read,funda,verb,,ukufunda,false,false,,,,
 248,go,hamba,verb,,ukuhamba,false,false,intransitive,,,"Hamba does not describe the act of going to a location, it refers to the act of going in general."
 249,leave,mka,verb,,ukumka,false,false,,,,
@@ -459,3 +459,10 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 461,hours,iiyure,noun,,,true,false,,,Izin,
 462,second,isibini,noun,,,false,false,,,Isi,
 463,society,uluntu,noun,,,false,false,,,Ulu,
+464,clap,qhwaba,verb,,ukuqhwaba,false,false,either,,,Can also be used to mean 'slap'
+465,services,iinkonzo,noun,,,true,false,,,Izin,
+466,community,uluntu,noun,,,false,false,,,Ulu,
+467,come ,(i)za,verb,,ukuza,false,false,either,,,"""(i)za"" is a latent i verb."
+468,slap,qhwaba,verb,,ukuqhwaba,false,false,either,,,
+469,pastor,umfundisi,noun,,,false,false,,,Class1Um,
+470,bin,umgqomo,noun,,,false,false,,,Class3Um,
