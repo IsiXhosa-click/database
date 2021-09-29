@@ -11,7 +11,6 @@ example_id,word_id,english,xhosa
 11,12,The old man listened carefully.,Utata ebemamela ngokunyameka.
 12,13,You will fight for the fathers of the nation.,Nizolwela ootata besizwe.
 13,13,Some old men like to braai together.,Abanye ootata bathanda ukoja kunye.
-14,14,You are like a child.,"Wena, ufana nomntwana."
 15,14,Are these words similar?,La magama ayafana?
 16,15,Do you know how to sing this song?,Uyakwazi ukucula le ngoma?
 17,16,We will start the procedure at 5 o' clock.,Sizoqala inkqubo ngentsimbi yesihlanu.
@@ -38,7 +37,7 @@ example_id,word_id,english,xhosa
 40,41,The fields are green.,Amabala aluhlaza.
 41,42,A colour that I like very much is red.,Umbala endiwuthanda kakhulu ngubomvu.
 42,43,I like things with many colours,Ndiyazithanda izinto ezinemibala emininzi
-44,45,I write a letter,Ndibhala ileta
+44,45,I write the letter.,Ndibhala ileta.
 45,48,"One day, I will get revenge",Ngenye imini ndiza kuziphindezela
 46,49,The writer characterises him as a nice person,Umbhali uyamphawula njengomntu olungileyo
 47,50,I like him because of his personality,Ndiyamthanda ngenxa yesimilo sakhe
@@ -74,7 +73,7 @@ example_id,word_id,english,xhosa
 80,81,She swore at him a lot. ,Ebemthuka kakhulu. 
 81,82,"When he heard the news, he was very shocked.","Ukuva indaba kwakho, wothuka kakhulu."
 82,83,I slowed down even more,Bendicothisa ngakumbi
-83,84,I slowed down even more,Bendicothisa ngakumbi
+83,84,I slowed down even more.,Bendicothisa ngakumbi.
 84,86,I love this place!,Ndithanda le ndawo!
 85,87,"I don't want to be here, let's go home.","Andifuni ukuba lapha, masigoduke."
 86,50,I want a child who is well mannered,Ndifuna umntwana onesimilo
@@ -388,7 +387,7 @@ example_id,word_id,english,xhosa
 397,334,"At sunrise, the flowers open.","Ukuphuma kwelanga, iintyatyambo ziyavula."
 398,335,I'm not hungry as I ate late in the morning.,Andilambanga ngoba nditye ngentlazane.
 399,336,"At night, the moon shines.","Ngobusuku, inyanga iyakhankhanya."
-400,337,"At night, the moon shines.","Ngobusuku, inyanga iyakhankhanya."
+400,337,"At night, the moon shines.","Ebusuku, inyanga iyakhanya."
 401,338,The court hears the cases.,Inkundla imamela amatyala
 402,339,The criminal is held in the cell.,Utsotsi ubanjwa esisele.
 403,340,"In Star Wars, Tatooine has two suns.","KwiStar Wars, Tatooine inamalanga amabini."
@@ -583,7 +582,7 @@ example_id,word_id,english,xhosa
 593,519,The baby is sleeping next to me.,Usana lulele ecaleni kwam.
 594,520,Turn to the right here.,Jika ekunene apha.
 595,521,Turn left here.,Jika ekhohlo apha.
-596,522,Some people do not drink alcohol.,Abanye abantu abaseli butywala.
+596,522,Some people do not drink alcohol.,Abanye abantu ababuseli utywala.
 597,523,I put out the fire so I could go to sleep.,Ndicime umlilo ukuze ndingalale.
 598,524,I think that we should buy vegetables today.,Ndicinga ukuba kufanele sithenge imifuno namhlanje.
 599,525,He took a long time to wash himself.,Uthabathe ixesha elide ukuzihlamba.
@@ -596,3 +595,75 @@ example_id,word_id,english,xhosa
 606,531,I swam at the beach and also caught a fish.,Bendidada elunxwemeni kwaye bendiloba intlanzi.
 607,532,"Last night, I dreamed of a short man in a red room.","Phezolo, ndiphuphe indoda emfutshane kwigumbi elibomvu."
 608,533,What are you going cook for supper?,Uzopheka ntoni ngesopholo?
+609,534,I think about you all the time.,Ndicinga ngawe okokoko.
+610,534,They make mistakes all the time.,Baphazama okokoko.
+611,535,I want to stop always thinking about you.,Ndifuna ukuyeka ukusoloko ndicinga ngawe.
+612,536,The dustbins are locked at night.,Imigqomo itshixiwe ebusuku.
+613,470,Put the papers and dirt in the bin. .,Faka amaphepha neenkunkuma emgqomeni.
+614,537,I am doing history and life sciences.,Ndenza izifundo ezingembali kunye nenzululwazi.
+615,538,Xhosa culture is similar to Zulu.,Inkcubeko yamaXhosa ibufana neyamaZulu.
+616,539,We will work outside if the weather allows us to.,Siza kusebenza ngaphandle ukuba imozulu iyasivumela.
+617,540,The Christian religion is popular around the world.,Inkolo yobukristu iyathandwa kwihlabathi liphela.
+618,541,You are like a child.,"Wena, ufana nomntwana."
+619,542,Where is the car?,Iphi imoto?
+620,542,Where are you?,Uphi?
+621,543,His health is improving.,Impilo yakhe iyaphucula.
+622,544,I hope my life will change.,Ndithemba ukuba ubomi bam buzotshintsha.
+623,545,Life is tough.,Impilo inzima.
+624,546,How do you drive a car?,Uqhuba imoto njani?
+625,546,How do you feel?,Uziva njani?
+626,547,"Wow, this food is nice!","Yhu, oku kutya kumnandi!"
+627,548,You spoke well.,Uthethe kakuhle.
+628,549,The whole world is alive.,Umhlaba wonke uyaphila.
+629,550,I want a nice homestead.,Ndifuna umzi omhle.
+630,551,"Wow, your house is so beautiful!","Yho, indlu yakho intle kakhulu!"
+631,552,The houses in this village are all green.,Izindlu kweli lali ziluhlaza zonke.
+632,553,I do not like him because he does not wash.,Andimthandi kuba akahlambi.
+633,554,My school has many learners.,Isikolo sam sinabafundi abaninzi.
+634,554,I'm finishing up my university work.,Ndigqiba umsebenzi wesikolo wam.
+635,555,I study at the University of Cape Town.,Ndifunda kwiyunivesithi yaseKapa.
+636,556,I study at the University of Cape Town.,Ndifunda kwiyunivesithi yaseKapa.
+637,557,There are many good universities in Africa.,Kukho iiyunivesithi ezininzi ezintle eAfrika.
+638,558,The schools in this town are bad.,Izikolo kule dolophu zimbi.
+639,559,She is a good child.,Ungumtwana onesimilo.
+640,560,These children are being silly.,Aba bantwana bayageza.
+641,561,How are you feeling today?,Uziva njani namhlanje?
+642,562,There are many problems in our community.,Kukho iingxaki ezininzi kuluntu lwethu.
+643,563,The earth is wet after the rain.,Umhlaba umanzi emva komvula.
+644,564,Everything has its place.,Yonke into inendawo yayo.
+645,565,I like to visit different places.,Ndithanda ukutyelela iindawo ezihlukeneyo.
+646,566,A few people drink coffee.,Abantu abambalwa baphunga ikofu.
+647,567,Turn left here.,Jika ekhohlo apha.
+648,568,Jika ekhohlo uhambe ngqo.,"Turn left, then go straight."
+649,569,I will throw out the dirty water.,Ndizochitha amanzi amdaka.
+650,570,I like to spend time riding my bicycle.,Ndithanda ukuchitha ixesha ngokukhwela ibhayisekile.
+651,570,He likes to spend money at the store.,Uthanda ukuchitha imali evenkileni.
+652,571,Her whole body was weak due to her illness.,Umzimba wonke wakho ubuthathaka ngenxa yokugula.
+653,572,The Christian religion is popular around the world.,Inkolo yobukristu iyathandwa kwihlabathi liphela.
+654,573,My friend will be spending the hollidays in Britain.,umhlobo wam uza kuchitha iholide eBritane.
+655,574,My twin is dark in complexion.,Iwele lam limyama ngebala.
+656,575,Look at the waterfalls on the mountain!,Jonga iingxangxasi ezisentabeni!
+657,576,This paragraph was extracted from a book I like.,Lo mhlathi ucatshulwa kwincwadi endiyithandayo.
+658,577,"After many years, the travelers returned to their homes.","Emva kweminyaka emininzi, abahambi babuyela emakhaya abo."
+659,578,Let's rest by the waterfall.,Masiphumle ngasengxangxasini.
+660,579,I like to listen to music while I eat.,Ndithanda ukumamela umculo logama ndisitya.
+661,580,There is another red car here.,Kukho enye imoto ebomvu apha.
+662,581,He is on the other side of the road.,Ukhona kwelinye icala lendlela.
+663,582,The house is destroyed.,Indlu ichithile.
+664,583,The problem is that people do not want to listen.,Ingxaki kukuba abantu abafuni kumamela.
+665,584,There are ten homesteads in this village.,Kukho imizi elishumi kule lali.
+666,585,"Next month, it's my birthday.",Kule nyanga izayo ndiyazalwa.
+667,532,"I dreamed my dog said ""eating sweets is bad for your teeth"".","Ndiphuphe inja yam ibisithi ""ukutya iilekese akulunganga kwamazinyo akho""."
+668,586,Last week we went to the beach.,Kule veki iphelileyo besiye elwandle.
+669,587,There are terms to be followed.,Kukho imimiselo ekufuneka ilandeliwe.
+670,588,These conditions are entwined to the above terms.,Le miqathango ihamba kunye nale mimiselo ingentla.
+671,589,My husband bought a new car.,Umyeni wam uthenge imoto entsha.
+672,590,My wife is going to Brazil tomorrow.,Umfazi wam uya eBrazil ngomso.
+673,591,"I heard the women shouting, ""The power is ours!""","Ndibavile abafazi bekhwaza, ""Amandla ngawethu!"""
+674,592,The terms and conditions may be read here.,Imimiselo nemiqathango iyafundeka apha.
+675,593,I don't have energy to go to the party.,Andinamandla okuya epatini.
+676,594,I love going to the beach.,Ndiyakuthanda ukuya elwandle.
+677,595,School ends in three weeks.,Isikolo siza kugqiba ngeeveki ezintathu.
+678,596,My phone is not working.,Umnxeba wam awusebenzi.
+679,597,This evening i will be listening to the radio.,Ngale njikalanga ndiza kumamela unomathotholo.
+680,598,A river is a quiet and a peacful place to chill.,Umlambo yindawo ethuleyo nezolileyo ongazipholela kuyo.

@@ -11,7 +11,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 11,babies,iintsana,noun,,,true,false,,,Izin,
 12,father,utata,noun,,,false,false,,,U,"Utata can be used to describe any middle aged man or older, even if they are not your father."
 13,fathers,ootata,noun,,,true,false,,,Oo,Ootata can be used to refer to any group of middle aged men or older. Even if they are not actually fathers.
-14,similar,fana,verb,,Ukufana,false,false,either,,,"Fana is often used to translate the english word ""like"" with the construction ""fana na-""(see example sentence)."
+14,similar,fana,verb,,ukufana,false,false,either,,,
 15,sing,cula,verb,,ukucula,false,false,either,,,
 16,start,qala,verb,,ukuqala,false,false,either,,,
 17,calm,thuthuzela,verb,,ukuthuthuzela,false,false,transitive-only,,,
@@ -41,7 +41,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 42,colour,umbala,noun,,,false,false,,,Class3Um,
 43,colours,imibala,noun,,,true,false,,,Imi,
 44,count,bala,verb,,ukubala,false,false,,,,
-45,write,bhala,verb,,ukubhala,false,false,,,,
+45,write,bhala,verb,,ukubhala,false,false,either,,,
 46,bed,umandlalo,noun,,,false,false,,,Class3Um,"This is a rather archaic term for a bed, coming from the word to prepare a reed bed."
 47,bed,ibhedi,noun,,,false,false,,,In,"Modern term for a bed from ""bed"" in English and Afrikaans"
 48,exact revenge,phindeza,verb,,ukuphindeza,false,false,,,,
@@ -131,7 +131,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 132,agree,vuma,verb,,ukuvuma,false,false,,,,
 133,answer,phendula,verb,,ukuphendula,false,false,,,,
 134,believe,kholelwa,verb,,ukukholelwa,false,false,,,,
-135,call,biza,verb,,ukubiza,false,false,,,,
+135,call,biza,verb,,ukubiza,false,false,transitive-only,,,
 136,choose,khetha,verb,,ukukhetha,false,false,,,,
 137,date,umhla,noun,,,false,false,,,Class3Um,
 138,change,tshintsha,verb,,ukutshintsha,false,false,,,,"This is borrowed from the English ""change""."
@@ -151,7 +151,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 152,become full,gcwala,verb,,ukugcwala,false,false,,,,
 153,fight,lwa,verb,,ukulwa,false,false,,,,
 154,explain,cacisa,verb,,ukucacisa,false,false,,,,
-155,cost,xabisa,verb,,ukuxabisa,false,false,,,,
+155,cost,xabisa,verb,,ukuxabisa,false,false,intransitive,,,
 156,cut,cheba,verb,,ukucheba,false,false,,,,"""cheba"" is used for things that are growing (such as hair). ""sika"" should instead be used for things that are not growing (such as bread)."
 157,be disappointed,dana,verb,,ukudana,false,false,,,,
 158,describe,chaza,verb,,ukuchaza,false,false,,,,
@@ -234,8 +234,8 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 236,want,funa,verb,,ukufuna,false,false,,,,
 237,hope,themba,verb,,ukuthemba,false,false,,,,
 238,work,sebenza,verb,,ukusebenza,false,false,,,,
-239,hear,va,verb,,ukuva,false,false,,,,
-240,understand,va,verb,,ukuva,false,false,,,,
+239,hear,va,verb,,ukuva,false,false,either,,,
+240,understand,va,verb,,ukuva,false,false,either,,,
 241,become injured,enzakala,verb,,ukwenzakala,false,true,intransitive,,,
 242,injure,enzakalisa,verb,,ukwenzakalisa,false,false,transitive-only,,,
 243,better,ngcono,relative,,,false,false,,,,
@@ -251,7 +251,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 253,lie,xoka,verb,,ukuxoka,false,false,,,,"""xoka"" can be rather rude, especially if used to an older person or someone commanding respect. A more euphemistic phrasing is ""phosisa""."
 254,look,jonga,verb,,ukujonga,false,false,,,,
 255,move,fudukela,verb,,ukufudukela,false,false,,,,"Fudukela describes a person moving from one place to another such as moving city, or moving house."
-256,move,bekelisa,verb,,ukubekelisa,false,false,,,,"""bekelisa"" is a transitive verb. It should not be used for a person moving houses, for instance - ""fudukela"" should be used instead."
+256,move,bekelisa,verb,,ukubekelisa,false,false,transitive-only,,,"""bekelisa"" should not be used for a person moving houses, for instance - ""fudukela"" should be used instead."
 257,need,funa,verb,,ukufuna,false,false,,,,
 258,need,dinga,verb,,ukudinga,false,false,,,,
 259,pay,bhatala,verb,,ukubhatala,false,false,,,,
@@ -261,11 +261,11 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 263,put in,faka,verb,,ukufaka,false,false,,,,
 264,pull,tsala,verb,,ukutsala,false,false,,,,
 265,put,beka,verb,,ukubeka,false,false,,,,
-266,hide,zimala,verb,,ukuzimala,false,false,,,,"""zimala"" is an inchoative and intransitive verb."
+266,hide,zimela,verb,,ukuzimela,false,false,either,,,"""zimela"" is an inchoative and intransitive verb."
 267,hold,bamba,verb,,ukubamba,false,false,,,,
 268,listen,mamela,verb,,ukumamela,false,true,either,,,
-269,move,shukumisa,verb,,ukushukumisa,false,false,,,,"""shukumisa"" is transitive."
-270,move,shukuma,verb,,ukushukuma,false,false,,,,"""shukuma"" is intransitive."
+269,move,shukumisa,verb,,ukushukumisa,false,false,transitive-only,,,
+270,move,shukuma,verb,,ukushukuma,false,false,intransitive,,,
 271,live,phila,verb,,ukuphila,false,false,,,,"""phila"" should not be used to mean ""live somewhere"", ""hlala"" should be used instead. It is more similar to ""be well"". ""phila"" is an inchoative verb, so it should be used in the perfect tense for present tense meaning in some cases."
 272,live,hlala,verb,,ukuhlala,false,false,,,,"""hlala"" is used for ""live somewhere"", not to live as in to be alive or be well - ""phila"" should instead be used in that case."
 273,happen,enzeka,verb,,ukwenzeka,false,false,,,,"""enzeka"" is sometimes used in the construction ""into eyenzekayo"" (""the thing that happens"") which can be used at the beginning of a sentence to introduce new information, similar to the English construction ""What happens is that..."" "
@@ -307,7 +307,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 309,ingredient,isithako,noun,,,false,false,,,Isi,
 310,tomatoes,iitumato,noun,,,true,false,,,Izin,
 311,appeal,isibheno,noun,,,false,false,,,Isi,
-312,weekends,iimpelaveki,noun,,,false,false,,,,
+312,weekends,iimpelaveki,noun,,,true,false,,,Izin,
 313,application for bail,isicelo sebheyile,noun,,,false,false,,,Isi,
 314,early in the morning,kwakusasa,adverb,,,false,false,,,,
 315,wild berries,iiqunube,noun,,,true,false,,,Izin,
@@ -347,7 +347,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 349,charges,izityholo,noun,,,true,false,,,Izin,
 350,buses,iibhasi,noun,,,true,false,,,Izin,
 351,preparations,amalungiselelo,noun,,,true,false,,,Ama,
-352,witch doctor,igqirha,noun,,,true,false,,,Ili,
+352,traditional doctor,igqirha,noun,,,true,false,,,Ili,
 353,complaint,isikhalazo,noun,,,false,false,,,Isi,
 354,complaints,izikhalazo,noun,,,false,false,,,Izin,
 355,doctor,ugqirha,noun,,,false,false,,,U,"""ugqirha"" can be used to refer to a medicinal doctor or someone who got their doctorate in academia."
@@ -363,7 +363,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 365,defendant,ummangalelwa,noun,,,false,false,,,Class1Um,
 366,plaintiff,ummangali,noun,,,false,false,,,Class1Um,
 367,plaintiffs,abamangali,noun,,,true,false,,,Aba,
-368,witch doctors,amagqirha,noun,,,true,false,,,Ama,
+368,traditional doctors,amagqirha,noun,,,true,false,,,Ama,
 369,fish,iintlanzi,noun,,,true,false,,,Izin,
 370,cable car,ikhetshi,noun,,,false,false,,,In,
 371,crime,ubugebenga,noun,,,false,false,,,Ubu,
@@ -528,3 +528,68 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 531,and also,kwaye,conjunction,,,false,false,,indicative mood,,
 532,dream,phupha,verb,,ukuphupha,false,false,either,,,
 533,what,ntoni,relative,,,false,false,,,,
+534,always,okokoko,adverb,,,false,false,,,,Nice explanation on https://www.capetalk.co.za/podcasts/294/breakfast-with-refilwe-moloto/374210/everyday-xhosa-okokoko
+535,always,soloko,verb,,ukusoloko,false,false,intransitive,participial mood,,"""soloko"" is an auxiliary verb"
+536,bins,imigqomo,noun,,,true,false,,,Imi,
+537,history,imbali,noun,,,false,false,,,In,
+538,culture,inkcubeko,noun,,,false,false,,,In,
+539,allow,vumela,verb,,ukuvumela,false,false,transitive-only,,,
+540,religion,inkolo,noun,,,false,false,,,In,
+541,be like,fana,verb,,ukufana,false,false,intransitive,,,
+542,where,phi,relative,,,false,false,,,,
+543,health,impilo,noun,,,false,false,,,In,
+544,life,ubomi,noun,,,false,false,,,Ubu,
+545,life,impilo,noun,,,false,false,,,In,
+546,how,njani,relative,,,false,false,,,,
+547,nice,mnandi,relative,,,false,false,,,,
+548,well,kakuhle,adverb,,,false,false,,,,
+549,world,umhlaba,noun,,,false,false,,,Class3Um,
+550,homestead,umzi,noun,,,false,false,,,Class3Um,
+551,house,indlu,noun,,,false,false,,,In,
+552,houses,izindlu,noun,,,true,false,,,Izin,
+553,because,kuba,conjunction,,,false,false,,indicative mood,,
+554,school,isikolo,noun,,,false,false,,,Isi,"""isikolo"" can also be used to mean ""university""."
+555,university,iyunivesithi,noun,,,false,false,,,In,
+556,study,funda,verb,,ukufunda,false,false,either,,,
+557,universities,iiyunivesithi,noun,,,true,false,,,Izin,
+558,schools,izikolo,noun,,,true,false,,,Izin,
+559,child,umntwana,noun,,,false,false,,,Class1Um,
+560,children,abantwana,noun,,,true,false,,,Aba,
+561,feel,va,verb,,ukuva,false,false,either,,,
+562,problems,iingxaki,noun,,,true,false,,,Izin,
+563,earth,umhlaba,noun,,,false,false,,,Class3Um,"Similar to ""ground"" or ""soil"""
+564,place,indawo,noun,,,false,false,,,In,
+565,places,iindawo,noun,,,true,false,,,Izin,
+566,few,mbalwa,relative,,,false,false,,,,
+567,turn,jika,verb,,ukujika,false,false,intransitive,,,
+568,straight,ngqo,preposition,,,false,false,,,,
+569,throw water,chitha,verb,,ukuchitha,false,false,either,,,
+570,spend,chitha,verb,,ukuchitha,false,false,either,,,
+571,become weak,thathaka,verb,,ukuthathaka,false,true,intransitive,,,
+572,world,ihlabathi,noun,,,false,false,,,Ili,
+573,friend,umhlobo,noun,,,false,false,,,Class1Um,
+574,twin,iwele,noun,,,false,false,,,Izin,
+575,waterfalls,iingxangxasi,noun,,,true,false,,,Izin,
+576,extract,caphula,verb,,ukucaphula,false,false,transitive-only,,,
+577,homes,amakhaya,noun,,,true,false,,,Ama,
+578,waterfall,ingxangxasi,noun,,,false,false,,,In,
+579,while,logama,conjunction,,,false,false,,participial mood,,
+580,another,nye,adjective,,,false,false,,,,
+581,side,icala,noun,,,false,false,,,Ili,
+582,destroy,chitha,verb,,ukuchitha,false,true,either,,,
+583,problem,ingxaki,noun,,,false,false,,,In,
+584,homesteads,imizi,noun,,,true,false,,,Imi,
+585,month,inyanga,noun,,,false,false,,,Izin,
+586,week,iveki,noun,,,false,false,,,Izin,
+587,terms,imimiselo,noun,,,true,false,,,Imi,
+588,conditions,imiqathango,noun,,,true,false,,,Imi,
+589,husband,umyeni,noun,,,false,false,,,Class1Um,
+590,wife,umfazi,noun,,,false,false,,,Class1Um,
+591,power,amandla,noun,,,false,false,,,Ama,
+592,terms and conditions,imimiselo nemiqathango,noun,,,true,false,,,Imi,
+593,energy,amandla,noun,,,false,false,,,Ama,
+594,beach,ulwandle,noun,,,false,false,,,U,
+595,weeks,iiveki,noun,,,true,false,,,Izin,
+596,phone,umnxeba,noun,,,false,false,,,U,It also refers to the land-line
+597,radio,unomathotholo,noun,,,false,false,,,U,
+598,river,umlambo,noun,,,false,false,,,Class3Um,
