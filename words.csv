@@ -459,7 +459,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 461,hours,iiyure,noun,,,true,false,,,Izin,
 462,second,isibini,noun,,,false,false,,,Isi,
 463,society,uluntu,noun,,,false,false,,,Ulu,
-464,clap,qhwaba,verb,,ukuqhwaba,false,false,either,,,Can also be used to mean 'slap'
+464,clap,qhwaba,verb,,ukuqhwaba,false,false,either,,,
 465,services,iinkonzo,noun,,,true,false,,,Izin,
 466,community,uluntu,noun,,,false,false,,,Ulu,
 467,come ,(i)za,verb,,ukuza,false,false,either,,,"""(i)za"" is a latent i verb."
@@ -588,8 +588,18 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 591,power,amandla,noun,,,false,false,,,Ama,
 592,terms and conditions,imimiselo nemiqathango,noun,,,true,false,,,Imi,
 593,energy,amandla,noun,,,false,false,,,Ama,
-594,beach,ulwandle,noun,,,false,false,,,U,
+594,beach,ulwandle,noun,,,false,false,,,Ulu,
 595,weeks,iiveki,noun,,,true,false,,,Izin,
 596,phone,umnxeba,noun,,,false,false,,,U,It also refers to the land-line
 597,radio,unomathotholo,noun,,,false,false,,,U,
 598,river,umlambo,noun,,,false,false,,,Class3Um,
+599,pen,usiba,noun,,,false,false,,,Ulu,
+600,pens,iintsiba,noun,,,true,false,,,Izin,
+601,feather,usiba,noun,,,false,false,,,Ulu,
+602,feathers,iintsiba,noun,,,true,false,,,Izin,
+603,heart,intliziyo,noun,,,false,false,,,In,
+604,beach,ulwandle,noun,,,false,false,,,Ulu,"While ulwandle does not specifically mean beach, it is commonly used to refer to a beach."
+605,hello,molo,interjection,,,false,false,,,,
+606,goodbye,sala kakuhle,interjection,,,false,false,,,,"Sala kakuhle is said to someone who is staying where they are, if you are the one leaving."
+607,hello,molweni,interjection,,,false,false,,,,Used when addressing two or more people.
+608,goodbye,hamba kakuhle,interjection,,,false,false,,,,hamba kakuhle is said to someone who is leaving.

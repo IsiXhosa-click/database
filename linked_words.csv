@@ -361,3 +361,14 @@ link_id,link_type,first,second
 361,plural_or_singular,586,595
 362,related,312,595
 363,related,27,597
+364,plural_or_singular,599,600
+365,alternate_use,599,601
+366,plural_or_singular,601,602
+367,alternate_use,600,602
+368,antonym,605,606
+369,related,214,606
+370,plural_or_singular,605,607
+371,alternate_use,606,608
+372,antonym,606,608
+373,antonym,605,608
+374,related,422,608
