@@ -605,3 +605,4 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 608,goodbye,hamba kakuhle,interjection,,,false,false,,,,hamba kakuhle is said to someone who is leaving.
 609,underneath,ngaphantsi,preposition,,,false,false,,,,
 610,sea,ulwandle,noun,,,false,false,,,Ulu,
+611,rivers,imilambo,noun,,,true,false,,,Imi,
