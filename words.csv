@@ -606,3 +606,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 609,underneath,ngaphantsi,preposition,,,false,false,,,,
 610,sea,ulwandle,noun,,,false,false,,,Ulu,
 611,rivers,imilambo,noun,,,true,false,,,Imi,
+612,pastors,abefundisi,noun,,,true,false,,,Aba,
+613,on the left,ekunxele,preposition,,,false,false,,,,
+614,arm,ingalo,noun,,,false,false,,,In,
+615,afraid,-oyika,verb,,ukoyika,false,false,either,,,

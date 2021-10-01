@@ -134,7 +134,7 @@ example_id,word_id,english,xhosa
 142,134,I don't believe you!,Andikukholelwa!
 143,135,Call the children!,Biza abantwana!
 144,136,She can't choose anything without thinking for a long time.,Akakwazi ukukhetha into engacingi ngexesha elide.
-145,137,What is the date today?,Ngumhla ntoni namhlanje?
+145,137,What is the date today?,Ngowuphi umhla namhlanje?
 146,138,She does not want to change her life.,Akafuni kutshintsha ubomi bakhe.
 147,139,I want to clean here.,Ndifuna ukucoca apha.
 148,140,Please open the windows.,Khawuvule iifestile.
@@ -359,7 +359,7 @@ example_id,word_id,english,xhosa
 369,305,The Magistrate's court listens to small complaints.,INkundla kaMantyi imamele kwezikhalazo ezincinci.
 370,306,"Ok, we'll speak tomorrow!","Kulungile, sizothethana ngomso!"
 371,307,These watermelons are fresh.,Ezi vatala zitsha.
-372,308,I am going on holiday this weekend.,Ndizoya eholideyini ngempelaveki.
+372,308,I am going on holiday this weekend.,Ndizoya eholideyini kule mpelaveki.
 373,309,The secret ingredient spinach.,Isithako esifihlakeleyo yispinatshi.
 374,310,Siphe is allergic to tomatoes.,USiphe walanayo neetumato.
 375,311,I lay an appeal at the court.,Ndibeka isibheno enkundleni.
@@ -498,7 +498,7 @@ example_id,word_id,english,xhosa
 508,442,South Africa is a beautiful country.,Umzantsi Africa lilizwe elihle.
 509,443,I have a plenty of money.,Ndinemali eninzi.
 510,444,It will probably rain tomorrow.,Kungenzeka ukuba kuzonetha ngomso.
-511,445,I almost died that day.,Ndiphantse ndafa kulaa mini.
+511,445,I almost died that day.,Ndiphantse ndafa ngalaa mini.
 512,446,That book had a big effect on her.,Laa ncwadi inefuthe elikhulu kuye.
 513,447,The effects of the disease are disastrous.,Amafuthe esifo yintlekele.
 514,448,My car's out of oil.,Imoto yam ayinamafutha.
@@ -677,3 +677,7 @@ example_id,word_id,english,xhosa
 688,606,"I should go home now, goodbye.","Kufuneka ndigoduke ngoku, sala kakuhle."
 689,607,Hello everyone! Please take a seat.,Molweni nonke! Khawuhlale phantsi.
 690,608,"See you on Monday, goodbye!","Ndizokubona ngoMvulo, hamba kakuhle!"
+691,614,My left arm is broken.,Ingalo yam yasekunxele yophukile.
+692,615,I am afraid of him.,Ndiyamoyika.
+693,615,We are afraid.,Siyoyika.
+694,615,What are you afraid of?,Noyika ntoni?
