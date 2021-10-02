@@ -17,7 +17,7 @@ example_id,word_id,english,xhosa
 18,17,Please calm the baby so that it falls asleep.,Khawuthuthuzele usana ukuze lulale.
 20,19,There are three cars parked in front of my gate.,Kukho iimoto ezintathu ezime phambi kwisango lam.
 21,20,My car goes fast.,Imoto yam ihamba ngokukhawuleza.
-22,21,I am watching TV,Ndibukele TV
+22,21,I am watching TV.,Ndibukele TV.
 23,23,Our father who art in heaven,Bawo wethu osezulwini
 24,24,Hurry so that you aren't late!,Khawuleza ukuze ungaleythi!
 25,25,Sometimes she likes to go to school and sometimes she doesn't. It depends.,"Ngamanye amaxesha uthanda ukuya esikolweni, ngamanye amaxesha akakuthandi. Kuyaxhomekeka."
@@ -48,7 +48,7 @@ example_id,word_id,english,xhosa
 52,55,A baboon stole my egg from the plate.,Imfene ibisiba iqanda lam esityeni.
 53,56,Please calm down. Everything will be fine.,Ndicela uzole. Zonke izinto zizoba lungile.
 54,57,"It's just a detail, don't worry about it.","Yinkcukacha nje, sukukhathazeka ngayo."
-55,58,Put all your things in this bag.,Faka zonke izinto zakho kule ngxowa.
+55,58,Put all your things in this sack.,Faka zonke izinto zakho kule ngxowa.
 56,59,Stop kicking my seat!,Yeka ukukhaba isihlalo sam!
 57,60,They want to demolish this hospital,Bafuna ukudiliza esi sibhedlele
 58,61,She wants a big party with lots of decorations.,Ufuna ipati enkulu enezihombiso ezininzi.
@@ -147,7 +147,6 @@ example_id,word_id,english,xhosa
 155,146,What are you giving us?,Usinika ntoni?
 156,146,"Give me a pencil, please.",Khawundinike ipensile.
 157,147,Leave me alone!,Ndiyeke!
-158,147,My dad wants to give up smoking.,Utata wam ufuna ukuyeka ukutshaya.
 159,148,Can you forgive me?,Ungandixolela?
 160,149,"Oh, I remember now, thanks!","O, ndikhumbula ngoku, enkosi!"
 161,150,She wants to fix my car.,Ufuna ukulungisa imoto yam.
@@ -225,7 +224,7 @@ example_id,word_id,english,xhosa
 234,208,This business produces clocks.,Eli shishini livelisa iiwotshi.
 235,209,He took a long time to wash himself.,Uthathe ixesha elide ukuzihlamba.
 236,209,"Please, take a scone.",Khawuthathe isikhoni.
-237,210,I have returned,Ndibuyile
+237,210,I have returned.,Ndibuyile.
 238,94,"What are you saying, James?",Uthini James? 
 239,211,People are shouting.,Abantu bayakhwaza.
 240,212,I sit at the table,Ndihlala etafile.
@@ -248,7 +247,7 @@ example_id,word_id,english,xhosa
 257,223,The end of hope is the end of life. ,Ukuphela kwethemba kukuphela kobomi. 
 258,224,Thobeka likes to drink coffee. ,UThobeka uthanda ukuphunga ikofu. 
 260,149,I remember this person.,Ndikhumbula lo mntu.
-261,226,Bring back my pen.,Buyisa usiba yam.
+261,226,Bring back my pen.,Buyisa usiba lwam.
 262,227,She sent me a gift.,Undithumele isipho.
 263,228,"When admiring his new car, my father would smile.","Akubukela imoto yakhe entsha, utata wam wathanda ukuncuma."
 264,228,I am smiling.,Ndiyancuma.
@@ -681,3 +680,15 @@ example_id,word_id,english,xhosa
 692,615,I am afraid of him.,Ndiyamoyika.
 693,615,We are afraid.,Siyoyika.
 694,615,What are you afraid of?,Noyika ntoni?
+695,616,Sleep peacefully.,Lala ngoxolo.
+696,617,It is cold today.,Kuyabanda namhla.
+697,618,I want to go to the farm tomorrow.,Ndifuna ukuya emasimini ngomso.
+698,618,The farm has many types of animals.,Amasimi aneendidi ezininzi zezilwanyana.
+699,619,"I bumped into him and said ""sorry"".","Nditshayisane naye ndathi ""uxolo""."
+700,620,There was a lot of noise in the shop.,Bekukho ingxolo enkulu evenkileni.
+701,621,You can sit anywhere.,Ungahlala naphi na.
+702,622,Anyone can get infected.,Nabani na angosuleleka.
+703,623,Your beauty lights up everything.,Ubuhle bakho bukhanyisa yonke into.
+704,623,The beauty of a man is his cows.,Ubuhle bendoda ziinkomo zayo.
+705,624,Your bag is lovely!,Intle ibhegi yakho!
+706,625,My dad wants to give up smoking.,Utata wam ufuna ukuyeka ukutshaya.
