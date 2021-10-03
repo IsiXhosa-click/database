@@ -620,3 +620,4 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 623,beauty,ubuhle,noun,,,false,false,,,Ubu,
 624,bag,ibhegi,noun,,,false,false,,,In,
 625,stop,yeka,verb,,ukuyeka,false,false,transitive-only,,,
+626,floor,umgangatho,noun,,,false,false,,,Class3Um,
