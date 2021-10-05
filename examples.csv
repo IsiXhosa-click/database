@@ -507,7 +507,6 @@ example_id,word_id,english,xhosa
 518,450,Do not dump waste here!,Sukulahla inkunkuma apha!
 519,451,There is war between South Africa and America,Kukho imfazwe phakathi koMzantsi Afrika neMelika
 520,76,People are fighting to occupy land in Cape Town.,Abantu balwa idabi lokuthathwa kwemihlaba eKapa.
-521,452,Read the questions above.,Funda imibuzo engaphezulu.
 522,452,The plane passes above the building,Inqwelomoya idlula phezu kwesakhiwo
 523,453,Yesterday my mother cooked a tin of pilchard and rice. ,Izolo umama wam upheke inkonxa yentlanzi nerice. 
 524,454,Tomorrow we will have sour milk for lunch. ,Ngomso siza kutya amasi kwisidlo sasemini. 
@@ -696,3 +695,17 @@ example_id,word_id,english,xhosa
 708,627,Turn on the light!,Layita isibane!
 709,627,I will turn on my computer.,Ndizolayita ikhompyutha yam.
 710,628,Be happy for your brother.,Mvuyela umnakwenu.
+711,634,"Don't make noise, children, and sit down.","Sanukungxola bantwana, hlalani phantsi."
+712,637,It is fine./OK.,Kulungile.
+713,637,Your work is fine.,Umsebenzi wakho ulungile.
+714,637,Everything is OK.,Yonke into ilungile.
+715,637,Is it OK to wait here?,Kulungile ukulinda apha?
+716,638,Turn off the light.,Cima isibane.
+717,638,Turn off the computer.,Cima ikhompyutha.
+718,639,Stay at home when you are sick.,Hlala endlwini xa ugula.
+719,640,"Wow, I am hungry now.","Yho, ndilambile ngoku."
+720,640,"I'm getting hungry now, I will go and eat.","Ndiyalamba ngoku, ndizotya."
+721,641,My back is sore.,Umqolo wam ubuhlungu.
+722,642,Serve dinner for your dad.,Phakela utata wakho idinara.
+723,643,They are at the back.,Bangasemva.
+724,643,The toilet is at the back of/behind the house.,Itoilet ingasemva kwendlu.
