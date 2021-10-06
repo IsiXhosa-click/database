@@ -1,11 +1,11 @@
 example_id,word_id,english,xhosa
 1,1,Thanks for your help.,Enkosi ngoncedo lwakho.
 3,3,I see him.,Ndiyambona.
-4,4,I ate the orange,Nditye i-orenji
-5,5,I was showing IsiXhosa.click to him.,Bendibonisa IsiXhosa.click kuye.
+4,4,I ate an orange.,Nditye i-orenji.
+5,5,I was showing IsiXhosa.click to him.,Bendimbonisa IsiXhosa.click.
 6,6,I bought two oranges,Bendithenga ii-orenji ezimbini
 7,7,Please tell me your name.,Khawundixelele igama lakho.
-8,8,I will buy the house,Ndiza kuthenga indlu
+8,8,I will buy a house,Ndiza kuthenga indlu
 9,9,I like to eat apples,Ndiyakuthanda ukutya ama-apile
 10,12,My father was a grumpy man.,Utata wam wayengumntu oqumbileyo.
 11,12,The old man listened carefully.,Utata ebemamela ngokunyameka.
@@ -185,7 +185,7 @@ example_id,word_id,english,xhosa
 195,176,We really need rain.,Sifuna imvula kakhulu.
 196,176,"Because of the drought, there is no rain.","Ngenxa yembalela, ayikho imvula."
 197,177,He likes to complain about work.,Yena uthanda ukukhalaza ngomsebenzi.
-198,178,Please help me close all the windows.,Khawundincede ukuvala yonke ifestile.
+198,178,Please help me close all the windows.,Khawundincede sivale zonke iifestile.
 199,11,Babies like to put things in their mouths.,Iintsana zithanda ukufaka izinto emilonyeni yazo.
 200,10,The baby was laughing at the jumping dog.,Usana beluhleka inja etsibayo.
 201,26,The speakers there spoke and advised the married couple.,Zathetha apho izithethi ziyala abatshati.
@@ -590,7 +590,7 @@ example_id,word_id,english,xhosa
 603,528,It takes just one hour to be vaccinated.,Kuthatha iyure enye qha ukugonywa.
 604,529,There was only one person in the restaurant.,Bekukho umntu omnye erestyu kuphela.
 605,530,The doctor will speak to you now.,Ugqirha uza kuthetha nawe ngoku.
-606,531,I swam at the beach and also caught a fish.,Bendidada elunxwemeni kwaye bendiloba intlanzi.
+606,531,I swam at the beach and also fished.,Bendidada elunxwemeni kwaye bendiloba intlanzi.
 607,532,"Last night, I dreamed of a short man in a red room.","Phezolo, ndiphuphe indoda emfutshane kwigumbi elibomvu."
 608,533,What are you going cook for supper?,Uzopheka ntoni ngesopholo?
 609,534,I think about you all the time.,Ndicinga ngawe okokoko.
@@ -615,7 +615,7 @@ example_id,word_id,english,xhosa
 628,549,The whole world is alive.,Umhlaba wonke uyaphila.
 629,550,I want a nice homestead.,Ndifuna umzi omhle.
 630,551,"Wow, your house is so beautiful!","Yho, indlu yakho intle kakhulu!"
-631,552,The houses in this village are all green.,Izindlu kweli lali ziluhlaza zonke.
+631,552,The houses in this village are all green.,Izindlu kule lali ziluhlaza zonke.
 632,553,I do not like him because he does not wash.,Andimthandi kuba akahlambi.
 633,554,My school has many learners.,Isikolo sam sinabafundi abaninzi.
 634,554,I'm finishing up my university work.,Ndigqiba umsebenzi wesikolo wam.
@@ -709,3 +709,20 @@ example_id,word_id,english,xhosa
 722,642,Serve dinner for your dad.,Phakela utata wakho idinara.
 723,643,They are at the back.,Bangasemva.
 724,643,The toilet is at the back of/behind the house.,Itoilet ingasemva kwendlu.
+725,16,When will we start?,Siza kuqala nini?
+726,644,How is the food?,Kunjani ukutya?
+727,645,She teaches music.,Ufundisa umculo.
+728,645,I love music.,Ndiyawuthanda umculo.
+729,646,"Firstly, I want to thank you all.","Okukuqala, ndifuna ukunibulela."
+730,647,I want to comfort her.,Ndifuna ukumthuthuzela.
+731,647,God comforts.,UThixo uyathuthuzela.
+732,648,Extinguish the fire so that we can sleep.,Cima umlilo ukuze singalale.
+733,649,Light the fire so that we can cook.,Layita umlilo ukuze singapheke.
+734,650,The beginning of the story was very bad.,Isiqalo sebali besibi kakhulu.
+735,651,"In the beginning, Themba meets with Tholelegqwirha and they go to Gqeberha.","Ekuqaleni, uThemba udibana noTholelegqirha waya eGqeberha."
+736,652,My car's light is broken.,Isibane semoto yam saphukile.
+737,653,I need red lights in this scene.,Ndifuna izibane ezibomvu kulo mboniso.
+738,654,I'm sure that this student will succeed.,Ndiqinisekile ukuba lo mfundi uzophumelela.
+739,655,Teachers must respect their students.,Kufuneka ootitshala bahloniphe abafundi babo.
+740,656,I won't tell you what happens in the end.,Andizukuxelela into eyenzekayo ekugqibeleni.
+741,657,"Finally, I found the correct answer.","Ekugqibeleni, ndafumana impendulo echanekileyo."
