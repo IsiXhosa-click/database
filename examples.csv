@@ -17,18 +17,18 @@ example_id,word_id,english,xhosa
 18,17,Please calm the baby so that it falls asleep.,Khawuthuthuzele usana ukuze lulale.
 20,19,There are three cars parked in front of my gate.,Kukho iimoto ezintathu ezime phambi kwisango lam.
 21,20,My car goes fast.,Imoto yam ihamba ngokukhawuleza.
-22,21,I am watching TV.,Ndibukele TV.
+22,21,I am watching TV.,Ndibukele iTV.
 23,23,Our father who art in heaven,Bawo wethu osezulwini
-24,24,Hurry so that you aren't late!,Khawuleza ukuze ungaleythi!
+24,24,Hurry so that you aren't late!,Khawuleza ukuze ungabi leythi!
 25,25,Sometimes she likes to go to school and sometimes she doesn't. It depends.,"Ngamanye amaxesha uthanda ukuya esikolweni, ngamanye amaxesha akakuthandi. Kuyaxhomekeka."
 26,25,I'm depending on you.,Ndixhomekeke kuwe.
-28,27,I watch TV,Ndibuleke umabonakude
-29,28,The drunkard spent all his money on booze.,Inxila lichitha imali yonke yakhe ukuthenga utywala.
-30,30,"For his whole life, he preached the God's message.","Ebomini bonke bakhe, washumayela umyalezo kaThixo."
-31,31,Look at this guy who's eating chips with a fork.,Jonga lo mfo otya iitships ngefolokwe.
+28,27,I watch TV,Ndibukele umabonakude/iTV.
+29,28,The drunkard spent all his money on booze.,Inxila lichithe yonke imali yalo etywaleni.
+30,30,"For his whole life, he preached the God's message.",Ubomi bakhe bonke washumayela umyalezo kaThixo.
+31,31,Look at this guy who's eating chips with a fork.,Jonga lo mfo utya iitships ngefolokwe.
 32,33,Come closer my love.,Sondela sithandwa sam.
 33,34,The women look as if they are happy because they are singing and clapping,"Oomama bakhangeleka ngathi bayavuya, ngoba bayacula baqhwabe."
-34,35,"Have ambition, people!","Yibani nekwhele, abantu!"
+34,35,"Have ambition, people!","Yibani nekhwele, bantu!"
 35,36,People who are jealous are as if they are diseased.,Abantu abanobukhwele bafana nabantu abagulayo.
 36,37,I like to ride my bicycle.,Ndithanda ukukhwela ibhayisekile yam.
 37,38,My friends like to play on the field.,Abahlobo bam bathanda ukudlala ebaleni.
@@ -37,7 +37,7 @@ example_id,word_id,english,xhosa
 40,41,The fields are green.,Amabala aluhlaza.
 41,42,A colour that I like very much is red.,Umbala endiwuthanda kakhulu ngubomvu.
 42,43,I like things with many colours,Ndiyazithanda izinto ezinemibala emininzi
-44,45,I write the letter.,Ndibhala ileta.
+44,45,I am writing a letter.,Ndibhala ileta.
 45,48,"One day, I will get revenge",Ngenye imini ndiza kuziphindezela
 46,49,The writer characterises him as a nice person,Umbhali uyamphawula njengomntu olungileyo
 47,50,I like him because of his personality,Ndiyamthanda ngenxa yesimilo sakhe
@@ -177,7 +177,7 @@ example_id,word_id,english,xhosa
 187,168,Hold my hand.,Bamba isandla sam.
 188,169,"Wow, I am tired, I should sleep.","Yhu, ndidiniwe, kufanele ndilale."
 189,170,The dog does not bite.,Inja ayilumi.
-190,171,Themba advised him on how to study well.,UThemba wayemcebisa ngokufunda kakukhle. 
+190,171,Themba advised him on how to study well.,UThemba wayemcebisa ngokufunda kakuhle. 
 191,172,"She is clever, this child.","Ukrelekele, lo mntwana."
 192,173,The dogs are barking.,Izinja ziyakhonkotha.
 193,174,I want to ask a question.,Ndifuna ukubuza umbuzo.
@@ -200,7 +200,7 @@ example_id,word_id,english,xhosa
 210,187,You passed? Congratulations!,Upasile? Halala!
 211,188,The cat's fur is very soft.,Uboya lwekati lutofotofo.
 212,189,His battle with alcohol is very difficult.,Idabi lakhe notywala linzima kakhulu.
-213,47,"After work, I like to lie in bed for a few minutes.","Emva komsebenzi, ndithanda ukulala ebhedini ngeminye imizuzu."
+213,47,"After work, I like to lie in bed for a few minutes.","Emva komsebenzi, ndithanda ukulala ebhedini imizuzu embalwa."
 214,76,His battle with alcohol was very difficult.,Idabi lakhe notywala belinzima kakhulu.
 215,190,Please remind me tomorrow.,Khawundikhumuze ngomso.
 216,191,What is Yoliswa carrying?,UYoliswa uphethe ntoni?
@@ -240,7 +240,6 @@ example_id,word_id,english,xhosa
 250,219,Did you all go to the church service?,Niye enkonzweni?
 251,219,This restaurant has good service.,Le restyu inenkonzo entle.
 252,220,Are you able to finish the work?,Uyakwazi ukugqiba umsebenzi?
-253,220,When does the class end?,Iklasi igqiba nini?
 254,81,The computer is sworn at by the people because the internet is not working.,Ikhomphyutha ithukwa ngabantu ngoba i-intanethi ayisebenzi.
 255,221,The teacher teaches the children.,Utitshala ufundisa abantwana.
 256,222,I am thinking about her,Ndicinga ngaye.
@@ -726,3 +725,32 @@ example_id,word_id,english,xhosa
 739,655,Teachers must respect their students.,Kufuneka ootitshala bahloniphe abafundi babo.
 740,656,I won't tell you what happens in the end.,Andizukuxelela into eyenzekayo ekugqibeleni.
 741,657,"Finally, I found the correct answer.","Ekugqibeleni, ndafumana impendulo echanekileyo."
+742,658,The weather is bad.,Imozulu imbi.
+743,658,The situation is bad.,Imeko imbi.
+744,658,The people are bad.,Abantu babi.
+745,658,The job/work is bad.,Umsebenzi mbi.
+746,658,The jobs are bad.,Imisebenzi mibi.
+747,658,The home is bad.,Ikhaya libi.
+748,658,My Xhosa is bad.,IsiXhosa sam sibi.
+749,658,It is bad to drink a lot.,Kubi ukusela kakhulu.
+750,660,What is your name?,Ngubani igama lakho?
+751,661,Which program are you watching on the TV?,Ubukela eyiphi inkqubo kwiTV?
+752,662,We will start the procedure at 5 o' clock.,Sizoqala inkqubo ngentsimbi yesihlanu.
+753,663,There are many countries in the world.,Kukho amazwe amaninzi emhlabeni.
+754,664,He lived in a cave and never saw the light of the sun.,"Wahlala emqolombeni, zange alibone ilitha lelanga."
+755,664,This school is the light of our community.,Esi sikolo lilitha loluntu lwethu.
+756,666,"Love is the foundation of our nation - when this foundation shakes, the nation is destroyed.","Uthando lusiseko sesizwe sethu - sakuhexa esi seko, isizwe siyawa"
+757,667,I am from the Cofimvaba district.,Ndisuka kwisithili saseCofimvaba.
+758,44,I can't count in Xhosa.,Andikwazi ukubala ngesiXhosa.
+759,668,"Mm, I like this fruit! It tastes nice.","Mm, ndithanda esi siqhamo! Sincamla kamnandi."
+760,670,Answer the following questions.,Phendula imibuzo elandelayo.
+761,670,Don't follow me!,Musa ukundilandela!
+762,671,My eye is sore.,Iliso lam libuhlungu.
+763,672,My eyes are blue.,Amehlo am ablowu.
+764,674,The City of Cape Town is beautiful.,Isixeko saseKapa sihle.
+765,676,It is a good area because there is no crime.,Yingingqi entle kuba akukho bugebenga.
+766,677,It is an area of 25km squared.,Ngumgama ongama-25km squared.
+767,678,Bisho is one of the biggest regions in Eastern Cape.,IBhiso ngomnye wemimandla emikhulu kwiphondo leMpuma Koloni.
+768,679,I have written a letter to explain everything.,Ndibhale incwadi ukucacisa yonke into.
+769,682,You will improve your health if you eat vegetable.,Uzophucula impilo yakho xa utya imifuno.
+770,220,When does the class end?,Iklasi igqiba nini?
