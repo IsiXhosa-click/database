@@ -208,7 +208,7 @@ example_id,word_id,english,xhosa
 218,22,My car was damaged because of the floods.,Imoto yam yonakele ngenxa yezikhukula.
 219,193,Everyone should register to be vaccinated.,Kufanele wonke umntu ubhalise ukugonywa.
 220,194,The writer uses hyperbole to emphasise their message.,Umbhali usebenzisa isibaxo ukugxininisa umyalezo waye.
-221,195,My grandmother is grumpy at me.,Umakhulu wam uqumbile nam.
+221,195,My grandmother is angry at me.,Umakhulu wam uqumbile nam.
 222,196,I like to lick the spoon after I finish eating.,Ndithanda ukumunca icephe emva kokugqiba ukutya.
 223,197,Wash your hands before eating.,Hlamba izandla zakho phambi kokutya.
 224,198,His sleep is peaceful.,Ubuthongo bakhe bunoxolo.
@@ -754,3 +754,4 @@ example_id,word_id,english,xhosa
 768,679,I have written a letter to explain everything.,Ndibhale incwadi ukucacisa yonke into.
 769,682,You will improve your health if you eat vegetable.,Uzophucula impilo yakho xa utya imifuno.
 770,220,When does the class end?,Iklasi igqiba nini?
+771,683,These people lack houses.,Aba bantu baswela izindlu.

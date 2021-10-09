@@ -191,7 +191,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 192,virus,intsholongwane,noun,,,false,false,,,In,
 193,register,bhalisa,verb,,ukubhalisa,false,false,,,,
 194,emphasise,gxininisa,verb,,ukugxininisa,false,false,,,,
-195,become grumpy,qumba,verb,,ukuqumba,false,true,intransitive,,,
+195,become angry,qumba,verb,,ukuqumba,false,true,intransitive,,,
 196,lick,munca,verb,,ukumunca,false,false,,,,
 197,wash,hlamba,verb,,ukuhlamba,false,false,,,,
 198,sleep,ubuthongo,noun,,,false,false,,,Ubu,
@@ -677,3 +677,4 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 680,regions,imimandla,noun,,,true,false,,,Class3Um,
 681,vegetable,umfuno,noun,,,false,false,,,Class3Um,
 682,vegetables,imifuno,noun,,,true,false,,,Imi,
+683,lack,swela,verb,,ukuswela,false,false,transitive-only,,,"""swela"" is often used for a more serious kind of lacking"
