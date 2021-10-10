@@ -339,7 +339,7 @@ example_id,word_id,english,xhosa
 351,287,"The days of the week are Monday, Tuesday, Wednesday, and so on.","Iintsuku zeveki nguMvulo, uLwesibini, uLwesithathu, njalo njalo."
 352,288,There are witnesses in the court.,Kukho amangqina enkundleni
 353,289,Sipho plants potatoes on a farm.,USipho utyala iitapile efama.
-354,290,I told you to send me your answers yesterday!,Bendikuxelele ukuthumela iimpendulo yakho ngezolo!
+354,290,I told you to send me your answers yesterday!,Ndikuxelele ukuthumela iimpendulo zakho ngezolo!
 355,291,I saw him the day before yesterday.,Bendimbona ngezolo elinye.
 356,292,At Halloween we like to put a pumpkin outside our house.,NgoHalloween sithanda ukubeka ithanga phandle kwindlu yethu.
 357,293,My arms are as big as pumpkins.,Iingalo zam zinkulu njengamathanga.
@@ -755,3 +755,45 @@ example_id,word_id,english,xhosa
 769,682,You will improve your health if you eat vegetable.,Uzophucula impilo yakho xa utya imifuno.
 770,220,When does the class end?,Iklasi igqiba nini?
 771,683,These people lack houses.,Aba bantu baswela izindlu.
+772,684,The cat is under the table.,Ikati isezantsi kwetafile.
+773,685,I like to ride my bicycle as well as to run.,Ndithanda ukukhwela ibhayisekile yam kunye nokubaleka.
+774,686,I am going to town to buy milk.,Ndiya edolophini yokuthenga ubisi.
+775,689,He is standing outside.,Ume ngaphandle.
+776,691,Sit on the chair and write your exam.,Hlala esitulweni ubhale imviwo yakho.
+777,692,We need 25 chairs in the classroom.,Sifuna izitulo ezingamashumi amabini anesihlahu kwigumbi leklasi.
+778,693,How much water is there?,Kukho amanzi angakanani?
+779,693,How much time is there?,Lingakanani ixesha?
+780,694,The soccer team won a trophy.,Iqela lebhola lafumana indebe.
+781,695,There are four soccer teams playing today.,Kukho amaqela ebhola amane adlala namhlanje.
+782,698,The ANC is a political party in South Africa.,I-ANC liqela lezopolitiko eMzantsi Afrika.
+783,699,There are two important political parties in America.,Kukho amaqela ezopolitiko abalulekile amabini eMelika.
+784,700,The government of South Africa is very large.,Urhulumente weMzantsi Afrika umkhulu kakhulu.
+785,702,"Eish, my head is sore.","Eish, intloko yam ibuhlungu."
+786,704,They are in the living room.,Bakwigumbi lokuhlala.
+787,705,This house has five bedrooms.,Le ndlu inamagumbi okulala amahlanu.
+788,706,My office is on 4th floor of the civic center building.,Igumbi lam lokusebenzela likumgangatho wesine kwisakhiwo sasecivic center.
+789,707,Learning happens in the class.,Kuyafundwa eklasini.
+790,708,There are three classes in this building.,Kukho iiklasi ezintlanu kwesi sakhiwo.
+791,709,Igumbi lam lokusebenzela likumgangatho wesine kwisakhiwo sasecivic center.,My office is on 4th floor of the civic center building.
+792,710,Where is the toilet?,Iphi indlu yangasese?
+793,711,There are many buildings in the city.,Kukho izakhiwo ezininzi esixekweni.
+794,712,This is another type of bird.,Olu ludidi olunye lweentaka.
+795,713,There are different types of people on this earth.,Kukho iindidi ngeendidi zabantu kulo mhlaba.
+796,714,There are many mines near Johannesburg.,Kukho imigodi emininzi engaseGoli.
+797,715,There are many prisoners in this jail.,Kukho ababanjwa abaninzi kule ntolongo.
+798,717,The prisoner must be served lunch.,Kufuneka umbanjwa aphakelwe isidlo sasemini.
+799,718,There are many prisoners in this jail.,Kukho ababanjwa abaninzi kule ntolongo.
+800,721,How many cars are there?,Kukho iimoto ezingaphi?
+801,721,How many years old are you?,Uneminyaka emingaphi?
+802,722,Ubuhlungu kambe ke akakhalazi.,"He is in pain, however he does not complain."
+803,723,The meeting ended.,Yaphela intlanganiso.
+804,723,The end of hope is the end of life.,Ukuphela kwethemba kukuphela kobomi.
+805,724,He is a naughty boy.,Uyinkwenkwe egezayo.
+806,725,These are the tall boys in the village.,Nanga makhwenkwe amade elalini.
+807,726,Why have you eaten all the cake?,Kutheni utye ikeyiki yonke?
+808,727,Yonke into ephilayo idinga amanzi.,Every living thing needs water.
+809,728,Draw a picture of a cow.,Zoba umfanekiso wenkomo.
+810,729,Look at the pictures above and answer the following questions.,Jonga imifanekiso engentla uphendule imibuzo elandelayo.
+811,730,I will answer your question now.,Ndizophendula umbuzo wakho ngoku.
+812,731,You can ask questions after we are finished.,Ningabuza imibuzo emva kokugqiba kwethu.
+813,732,I felt sunlight on my back.,Bendisiva ilitha lelanga kumhlana wam.
