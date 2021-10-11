@@ -727,3 +727,5 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 730,question,umbuzo,noun,,,false,false,,,Class3Um,
 731,questions,imibuzo,noun,,,true,false,,,Imi,
 732,back,umhlana,noun,,,false,false,,,Class3Um,
+733,keep,gcina,verb,,ukugcina,false,false,transitive-only,,,
+734,catch,bamba,verb,,ukubamba,false,false,either,,,
