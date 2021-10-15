@@ -495,3 +495,5 @@ link_id,link_type,first,second
 495,related,215,736
 496,alternate_use,267,737
 497,alternate_use,734,737
+498,plural_or_singular,735,738
+499,alternate_use,660,738

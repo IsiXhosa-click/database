@@ -732,3 +732,4 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 735,words,amagama,noun,,,true,false,,,Ama,
 736,shout,bhomboloza,verb,,ukubhomboloza,false,false,either,,,"""bhomboloza"" describes particularly loud shouting."
 737,touch,bamba,verb,,ukubamba,false,false,transitive-only,,,
+738,word,igama,noun,,,false,false,,,Ili,
