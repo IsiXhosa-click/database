@@ -46,7 +46,7 @@ example_id,word_id,english,xhosa
 50,53,I can't control this situation..,Andikwazi ukulawula le meko.
 51,54,My father taught me his method of baking bread.,Utata wam wayendifundisa indlela yakhe yokubhaka isonka.
 52,55,A baboon stole my egg from the plate.,Imfene ibisiba iqanda lam esityeni.
-53,56,Please calm down. Everything will be fine.,Ndicela uzole. Zonke izinto zizoba lungile.
+53,56,Please calm down. Everything will be fine.,Ndicela uzole. Yonke into iza kulunga.
 54,57,"It's just a detail, don't worry about it.","Yinkcukacha nje, sukukhathazeka ngayo."
 55,58,Put all your things in this sack.,Faka zonke izinto zakho kule ngxowa.
 56,59,Stop kicking my seat!,Yeka ukukhaba isihlalo sam!
@@ -58,7 +58,7 @@ example_id,word_id,english,xhosa
 62,64,She liked to learn maths at school.,Wathanda ukufunda isibalo esikolweni.
 63,65,He has a lot of love in his heart.,Unenkitha yothando kwintliziyo yakhe.
 64,66,I forgot to wish her happy birthday!,Ndilibale ukumbhafisa!
-65,67,"If you don't succed, try again.","Ukuba awuphumeleli, uphinde uzame."
+65,67,"If you don't succeed, try again.","Ukuba awuphumeleli, uphinde uzame."
 66,68,Do you know the thing that I'm talking about?,Uyayazi into endithetha ngayo?
 67,69,"I like hiking, surfing, cycling, and other things like that.","Ndithanda ukuhamba ngeenyawo, nokusurfa, nokukhwela ibhayisikile, nezinye izinto ezinjalo."
 68,70,I think so.,Ndicinga njalo.
@@ -77,12 +77,12 @@ example_id,word_id,english,xhosa
 84,86,I love this place!,Ndithanda le ndawo!
 85,87,"I don't want to be here, let's go home.","Andifuni ukuba lapha, masigoduke."
 86,50,I want a child who is well mannered,Ndifuna umntwana onesimilo
-87,88,Please rinse that muddy cloth.,Ndicela upule eli laphu elinodaka.
+87,88,Please rinse that muddy cloth.,Ndicela upule elo laphu linodaka.
 88,89,"When we left the hall, his hand brushed against my arm.","Sakuphuma eholweni, isandla sakhe sathintana nengalo yam."
 89,90,It was over in the blink of an eye,Yaphela ngesiqhuphe
 90,91,My father was an old man who liked to laugh.,Utata wam wayelixhego elithanda ukuhleka.
 91,92,He was singing a nice song,Ebecula ingoma emnandi
-92,93,"I said ""I love you"", but he rejected me","Ndathi ""ndiyakuthanda"", kodwa wandala"
+92,93,The government refused to help us.,Urhulumente wala ukusinceda.
 93,94,"I will say, ""no, I will never!""","Ndiza kuthi, ""hayi, andisoze!"""
 95,95,I sit in the shade of the tree.,Ndihlala emthunzini womthi.
 96,96,These trees are older than my great-grandfather.,Le mithi midala kunotata katatomkhulu wam.
@@ -99,7 +99,7 @@ example_id,word_id,english,xhosa
 107,103,The cat is crying,ikati iyakhala
 108,104,The cats are crying,iikati ziyakhala
 109,105,I gave him my black watch.,Ndimphe laa wotshi yam emnyama.
-110,106,I am arriving at school,Ndifika esikolweni
+110,106,I arrive at school at 8.,Ndifika esikolweni ngo8.
 111,107,"Wow, this is a nice gift!","Yhu, esi sisipho esihle!"
 112,108,The boys are provoking the dog with a stick.,Amakhwenkwe axhokonxa inja ngoluthi.
 113,109,"At Christmas, people gift each other gifts.","EKrismasi, abantu baphelana izipho."
@@ -194,7 +194,7 @@ example_id,word_id,english,xhosa
 204,181,The dogs are barking.,Izinja ziyakhonkotha.
 205,182,The government commands us to wear masks because of COVID-19.,URhulumente usiyalela ukunxiba ii-maski ngenxa ye-COVID-19.
 206,183,"I wished him happy birthday, since it was his birthday on Saturday.",Bendimbhafisa kuba bekungumhla wokuzalwa ngoMgqibelo.
-207,184,This place is a desert due to a lack of rain.,Le ndawo yintlanga ngokuswela imvula.
+207,184,This place is a desert due to a lack of rain.,Le ndawo yintlango ngokuswela imvula.
 208,185,He doubts that they will sleep.,Uthandabuza ukuba baza kulala.
 209,186,"Yes, I am vaccinated.","Ewe, ndigonyiwe."
 210,187,You passed? Congratulations!,Upasile? Halala!
@@ -505,7 +505,7 @@ example_id,word_id,english,xhosa
 517,449,I don't want to lose my key.,Andifuni ukulahlekelwa sisitshixo sam.
 518,450,Do not dump waste here!,Sukulahla inkunkuma apha!
 519,451,There is war between South Africa and America,Kukho imfazwe phakathi koMzantsi Afrika neMelika
-520,76,People are fighting to occupy land in Cape Town.,Abantu balwa idabi lokuthathwa kwemihlaba eKapa.
+520,76,People are fighting a land grab battle in Cape Town.,Abantu balwa idabi lokuthathwa kwemihlaba eKapa.
 522,452,The plane passes above the building,Inqwelomoya idlula phezu kwesakhiwo
 523,453,Yesterday my mother cooked a tin of pilchard and rice. ,Izolo umama wam upheke inkonxa yentlanzi nerice. 
 524,454,Tomorrow we will have sour milk for lunch. ,Ngomso siza kutya amasi kwisidlo sasemini. 
@@ -802,3 +802,26 @@ example_id,word_id,english,xhosa
 816,735,I don't have the words to talk about that.,Andinamagama okuthetha ngayo.
 817,736,"""Come here!"" he shouted urgently.","""Yiza apha!"" wabhomboloza ngokungxamisekileyo."
 818,738,"This word means ""eat"" in English.","Eli gama lithetha ukuthi ""eat"" esiNgesi."
+819,739,She has got one long tooth.,Unezinyo elinye elide.
+820,740,Be strong my brother.,Qina mntakwethu.
+821,741,Go and get permission to fish from the municipality before we go to the sea.,Hamba ufumane imvume yokuloba phambi kokuba siye elwandle.
+822,742,I am in the health department.,Ndikwicandelo lezempilo.
+823,746,Are you in department of education?,Ingaba ukwisebe lezemfundo?
+824,748,My tongue is sore.,Ulwimi lwam lubuhlungu.
+825,750,This soil is rich in nutrients.,Lo mhlaba uchumile.
+826,751,These bricks are made from stone.,Ezi zitena zenziwe ngelitye.
+827,753,This brick is broken - we cannot use it to build.,Esi sitena sophukile - asinakusisebenzisa ukwakha.
+828,755,My left ear is injured.,Indlebe yam yasekhohlo yenzakele.
+829,757,I like to walk in the garden.,Ndithanda ukuhamba egadini.
+830,758,It is cool now.,Kupholile ngoku.
+831,758,They were fighting but have calmed down.,Bebesilwa kodwa ngoku bapholile.
+832,759,When does the game start?,Uqala nini umdlalo?
+833,760,I want to decorate this room.,Ndifuna ukuhombisa eli gumbi.
+834,94,"Say ""Ahh!""","Yithi ""Ahh!"""
+835,761,Education is important.,Imfundo ibalulekile.
+836,80,Who will win the trophy?,Ngubani oza kuphumelela indebe?
+837,762,It is her birthday today!,Uyabhafa namhlanje!
+838,763,Try not to blink.,Zama ukungaqhwanyazi.
+839,93,My computer refuses to work today.,Ikhompyutha yam iyala ukusebenza namhlanje.
+840,106,When are they arriving?,Bafika nini?
+841,93,They refuse to go.,Bayala ukuhamba.
