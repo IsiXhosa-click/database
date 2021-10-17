@@ -108,7 +108,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 109,gifts,izipho,noun,,,true,false,,,Izi,
 110,humiliate,phoxa,verb,,ukuphoxa,false,false,,,,
 111,drought,imbalela,noun,,,false,false,,,In,
-112,fur,uboya,noun,,,false,false,,,Ulu,
+112,fur,uboya,noun,,,false,false,,,Ubu,
 113,bump into,tshayisana na-,verb,,ukutshayisana,false,false,either,,,
 114,celebrate,bhiyoza,verb,,ukubhiyoza,false,false,,,,
 115,abuse,xhaphaza,verb,,ukuxhaphaza,false,false,,,,
@@ -758,3 +758,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 761,education,imfundo,noun,,,false,false,,,In,
 762,have a birthday,bhafa,verb,,ukubhafa,false,false,intransitive,,,"This is the colloquial use - formal Xhosa uses ""zalwa - be given birth""."
 763,blink,qhwanyaza,verb,,ukuqhwanyaza,false,false,either,,,
+764,again,ngaphinde,adverb,,,false,false,,,,
+765,disappoint,phoxa,verb,,ukuphoxa,false,false,either,,,
+766,stomach,isisu,noun,,,false,false,,,Isi,Refers to both a belly and a stomach
+767,sneeze,thimla,verb,,ukuthimla,false,false,either,,,

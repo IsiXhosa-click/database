@@ -97,15 +97,15 @@ example_id,word_id,english,xhosa
 105,101,Work hard so that you succed.,Sebenza nzima ukuze uphumelele.
 106,102,My grandfather is one hundred years old.,Utatomkhulu wam uneminyaka elikhulu. 
 107,103,The cat is crying,ikati iyakhala
-108,104,The cats are crying,iikati ziyakhala
+108,104,The cats are crying.,Iikati ziyakhala.
 109,105,I gave him my black watch.,Ndimphe laa wotshi yam emnyama.
 110,106,I arrive at school at 8.,Ndifika esikolweni ngo8.
 111,107,"Wow, this is a nice gift!","Yhu, esi sisipho esihle!"
 112,108,The boys are provoking the dog with a stick.,Amakhwenkwe axhokonxa inja ngoluthi.
-113,109,"At Christmas, people gift each other gifts.","EKrismasi, abantu baphelana izipho."
+113,109,"At Christmas, people gift each other gifts.",NgeKrismesi abantu baphana izipho.
 114,110,I will never humiliate you.,Ngeke ndikuphoxe.
 115,111,There is a bad drought in Cape Town.,Kukho imbalela embi eKapa.
-116,112,The cat has soft fur.,Ikati inobuya olutofotofo
+116,112,The cat has soft fur.,Ikati inobuya obuthambileyo.
 117,113,"I bumped into him and said ""sorry"".","Nditshayisane naye ndathi ""uxolo""."
 118,114,I celebrated my birthday with my friends.,Bendibhiyozela imini yokuzalwa nabahlobo bam.
 119,115,The manager was fired because he was abusing his workers. ,Umphathi ugxothiwe ngoba ebexhaphaza abasebenzi bakhe. 
@@ -825,3 +825,8 @@ example_id,word_id,english,xhosa
 839,93,My computer refuses to work today.,Ikhompyutha yam iyala ukusebenza namhlanje.
 840,106,When are they arriving?,Bafika nini?
 841,93,They refuse to go.,Bayala ukuhamba.
+842,765,You have disappointed me.,Undiphoxile.
+843,98,The sun burst through a thick cloud.,Ilanga lagqobhoza kwilifu elikhulu.
+844,766,My stomach is grumbling.,Isisu sam siyaxuxuzela.
+845,766,He has got a big belly.,Unesisu esikhulu.
+846,767,"When I have a flu, I sneeze a lot.","Xa ndinokhohlo, ndithimla kakhulu."
