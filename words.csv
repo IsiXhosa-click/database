@@ -58,7 +58,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 59,kick,khaba,verb,,ukukhaba,false,false,,,,
 60,demolish,diliza,verb,,ukudiliza,false,false,transitive-only,,,
 61,decorations,izihombiso,noun,,,true,false,,,Izi,
-62,book,incwadi,noun,,,false,false,,,Izin,
+62,book,incwadi,noun,,,false,false,,,In,
 63,play,dlala,verb,,ukudlala,false,false,,,,
 64,learn,funda,verb,,ukufunda,false,false,,,,
 65,a lot of,inkitha ya-,noun,,,false,false,,,In,
@@ -69,7 +69,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 70,like that,njalo,adverb,,,false,false,,,,"This word has multiple meanings, and can often be translated as, ""so"", ""like that"", ""in that way"" etc."
 71,journalist,intatheli,noun,,,false,false,,,In,
 72,hat,umnqwazi,noun,,,false,false,,,Class3Um,
-73,tear apart,krazuka,verb,,ukukrazuka,false,false,,,,
+73,tear apart,krazuka,verb,,ukukrazuka,false,false,transitive-only,,,
 74,improve,phucula,verb,,ukuphucula,false,false,,,,
 75,shade,umthunzi,noun,,,false,false,,,Class3Um,
 76,battle,idabi,noun,,,false,false,,,Ili,
@@ -110,10 +110,10 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 111,drought,imbalela,noun,,,false,false,,,In,
 112,fur,uboya,noun,,,false,false,,,Ubu,
 113,bump into,tshayisana na-,verb,,ukutshayisana,false,false,either,,,
-114,celebrate,bhiyoza,verb,,ukubhiyoza,false,false,,,,
+114,celebrate,bhiyoza,verb,,ukubhiyoza,false,false,either,,,
 115,abuse,xhaphaza,verb,,ukuxhaphaza,false,false,,,,
 116,blanket,ingubo,noun,,,false,false,,,In,
-117,profit,hluma,verb,,ukuhluma,false,false,,,,
+117,prosper,hluma,verb,,ukuhluma,false,false,intransitive,,,
 118,bring,phathela,verb,,ukuphathela,false,false,,,,
 119,burn,tsha,verb,,ukutsha,false,false,intransitive,,,
 120,close,vala,verb,,ukuvala,false,false,,,,
@@ -124,8 +124,8 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 125,disappoint,danisa,verb,,ukudanisa,false,false,transitive-only,,,
 126,die,fa,verb,,ukufa,false,false,,,,"""fa"" should generally only be used for yourself or animals, as it can be disrespectful to use it for other people. In those cases, more respectful terms such as ""sweleka"" or ""bhubha"" should be used."
 127,do,enza,verb,,ukwenza,false,false,transitive-only,,,
-128,drink,sela,verb,,ukusela,false,false,,,,"""sela"" should be used for things that are cold, such as water. ""phunga"" should be used for things that are hot, such as tea."
-129,decide,gqiba,verb,,ukugqiba,false,false,,,,
+128,drink,sela,verb,,ukusela,false,false,either,,,"""sela"" should be used for things that are cold, such as water. ""phunga"" should be used for things that are hot, such as tea."
+129,decide,gqiba,verb,,ukugqiba,false,false,either,,,
 130,forget,libala,verb,,ukulibala,false,false,either,,,
 131,go,ya,verb,,ukuya,false,false,,,,
 132,agree,vuma,verb,,ukuvuma,false,false,,,,
@@ -134,7 +134,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 135,call,biza,verb,,ukubiza,false,false,transitive-only,,,
 136,choose,khetha,verb,,ukukhetha,false,false,,,,
 137,date,umhla,noun,,,false,false,,,Class3Um,
-138,change,tshintsha,verb,,ukutshintsha,false,false,,,,"This is borrowed from the English ""change""."
+138,change,tshintsha,verb,,ukutshintsha,false,false,either,,,"This is borrowed from the English ""change""."
 139,clean,coca,verb,,ukucoca,false,false,transitive-only,,,"-cocekile ""clean"" is the adjectival use, as in ""Icocekile le ndawo"" (This place is clean)"
 140,open,vula,verb,,ukuvula,false,false,,,,
 141,compare,thelekisa,verb,,ukuthelekisa,false,false,,,,
@@ -152,7 +152,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 153,fight,lwa,verb,,ukulwa,false,false,,,,
 154,explain,cacisa,verb,,ukucacisa,false,false,either,,,
 155,cost,xabisa,verb,,ukuxabisa,false,false,intransitive,,,
-156,cut,cheba,verb,,ukucheba,false,false,,,,"""cheba"" is used for things that are growing (such as hair). ""sika"" should instead be used for things that are not growing (such as bread)."
+156,cut,cheba,verb,,ukucheba,false,false,either,,,"""cheba"" is used for things that are growing (such as hair). ""sika"" should instead be used for things that are not growing (such as bread)."
 157,become disappointed,dana,verb,,ukudana,false,true,intransitive,,,
 158,describe,chaza,verb,,ukuchaza,false,false,,,,
 159,destroy,tshabalalisa,verb,,ukutshabalalisa,false,false,transitive-only,,,
@@ -184,13 +184,13 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 185,doubt,thandabuza,verb,,ukuthandabuza,false,false,,,,
 186,vaccinate,gonya,verb,,ukugonya,false,false,,,,
 187,congratulations,halala,interjection,,,false,false,,,,
-188,soft,tofotofo,relative,,,false,false,,,,This is used to refer to something such as fur or a blanket.
+188,soft,tofotofo,relative,,,false,false,,,,
 189,alcohol,utywala,noun,,,false,false,,,Ulu,
 190,remind,khumbuza,verb,,ukukhumbuza,false,false,,,,
-191,carry,phatha,verb,,ukuphatha,false,false,,,,"""phatha"" takes an irregular recent-past tense and stative form of ""phethe""."
+191,carry,phatha,verb,,ukuphatha,false,true,transitive-only,,,"""phatha"" takes an irregular recent-past tense and stative form of ""phethe""."
 192,virus,intsholongwane,noun,,,false,false,,,In,
-193,register,bhalisa,verb,,ukubhalisa,false,false,,,,
-194,emphasise,gxininisa,verb,,ukugxininisa,false,false,,,,
+193,register,bhalisa,verb,,ukubhalisa,false,false,either,,,
+194,emphasise,gxininisa,verb,,ukugxininisa,false,false,transitive-only,,,
 195,become angry,qumba,verb,,ukuqumba,false,true,intransitive,,,
 196,lick,munca,verb,,ukumunca,false,false,,,,
 197,wash,hlamba,verb,,ukuhlamba,false,false,,,,
@@ -202,7 +202,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 203,hide,fihla,verb,,ukufihla,false,false,either,,,
 204,mould,xonxa,verb,,ukuxonxa,false,false,,,,
 205,dish,isitya,noun,,,false,false,,,Isi,
-206,pay attention,hoya,verb,,ukuhoya,false,false,,,,
+206,pay attention,hoya,verb,,ukuhoya,false,false,either,,,
 207,ashes,uthuthu,noun,,,false,false,,,Ulu,
 208,produce,velisa,verb,,ukuvelisa,false,false,,,,
 209,take,thatha,verb,,ukuthatha,false,false,transitive-only,,,
@@ -224,7 +224,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 226,bring back,buyisa,verb,,ukubuyisa,false,false,transitive-only,,,
 227,send,thuma,verb,,ukuthuma,false,false,,,,
 228,smile,ncuma,verb,,ukuncuma,false,false,,,,
-229,speak,thetha,verb,,ukuthetha,false,false,,,,
+229,speak,thetha,verb,,ukuthetha,false,false,either,,,
 230,stand up,phakama,verb,,ukuphakama,false,false,,,,
 231,support,xhasa,verb,,ukuxhasa,false,false,,,,
 232,take,sa,verb,,ukusa,false,false,,,,This word is used to describe taking someone/something to a place.
@@ -273,7 +273,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 275,lie,phosisa,verb,,ukuphosisa,false,false,,,,"""phosisa"" is a respectful, euphemistic way to say ""lie""."
 276,plant,tyala,verb,,ukutyala,false,false,,,,
 277,plants,izityalo,noun,,,true,false,,,Izi,
-278,take note,qaphela,verb,,ukuqaphela,false,false,either,,,
+278,notice,qaphela,verb,,ukuqaphela,false,false,either,,,
 279,potato,itapile,noun,,,false,false,,,In,
 280,pineapple,ipayina,noun,,,false,false,,,Ili,
 281,pineapples,amapayina,noun,,,true,false,,,Ama,
@@ -386,10 +386,10 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 388,perpetrator,isikrelemnqa,noun,,,false,false,,,Isi,
 389,passenger,umkhweli,noun,,,false,false,,,Class1Um,
 390,perpetrators,izikrelemnqa,noun,,,false,false,,,Izin,
-391,ship,inqanawa,noun,,,false,false,,,In,
+391,ship,inqanawe,noun,,,false,false,,,In,
 392,vans,iiveni ,noun,,,true,false,,,Izin,
 393,muggers,abaphangi,noun,,,true,false,,,Aba,
-394,ships,iinqanawa,noun,,,true,false,,,Izin,
+394,ships,iinqanawe,noun,,,true,false,,,Izin,
 395,poverty,indlala,noun,,,false,false,,,In,
 396,guilt,ityala,noun,,,false,false,,,In,
 397,midday,imini emaqanda,noun,,,false,false,,,In,
@@ -444,7 +444,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 446,effect,ifuthe,noun,,,false,false,,,Ili,
 447,effects,amafuthe,noun,,,true,false,,,Ama,
 448,oil,amafutha,noun,,,false,false,,,Ama,
-449,lose,lahleka,verb,,ukulahleka,false,false,either,,,
+449,become lost,lahleka,verb,,ukulahleka,false,true,intransitive,,,"This is used to say ""I have lost something"" by putting it in the passive voice. See the first example."
 450,dump,lahla,verb,,ukulahla,false,false,either,,,
 451,war,imfazwe,noun,,,false,false,,,In,
 452,above,phezulu,preposition,,,false,false,,,,"""phezulu"" appears as ""phezu"" when used before a noun to mean above/ on top of it."
@@ -762,3 +762,49 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 765,disappoint,phoxa,verb,,ukuphoxa,false,false,either,,,
 766,stomach,isisu,noun,,,false,false,,,Isi,Refers to both a belly and a stomach
 767,sneeze,thimla,verb,,ukuthimla,false,false,either,,,
+768,foot,unyawo,noun,,,false,false,,,Ulu,
+769,feet,iinyawo,noun,,,true,false,,,Izin,
+770,become urgent,ngxamiseka,verb,,ukungxamiseka,false,true,intransitive,,,
+771,urgently,ngokungxamisekileyo,adverb,,,false,false,,,,
+772,books,iincwadi,noun,,,true,false,,,Izin,
+773,letters,iincwadi,noun,,,true,false,,,Izin,
+774,thank you,enkosi,interjection,,,false,false,,,,
+775,thank,bulela,verb,,ukubulela,false,false,either,,,
+776,practise,ziqhelisa,verb,,ukuziqhelisa,false,false,transitive-only,,,Usually followed by uku
+777,budget,uhlalo lwabiwo mali,noun,,,false,false,,,Ulu,
+778,partner,iqabane,noun,,,false,false,,,Ili,
+779,partners,amaqabane,noun,,,true,false,,,Ama,
+780,comrade,iqabane,noun,,,false,false,,,Ili,
+781,comrades,amaqabane,noun,,,true,false,,,Ama,
+782,fast,ngokukhawuleza,adverb,,,false,false,,,,
+783,become cruel,khohlakala,verb,,ukukhohlakala,false,true,intransitive,,,It can be used in a more lighthearted way than it would usually be used in English.
+784,test,uvavanyo,noun,,,false,false,,,Ulu,
+785,tests,iimvavanyo,noun,,,true,false,,,Izin,
+786,exam,uvavanyo,noun,,,false,false,,,Ulu,
+787,exams,iimvavanyo,noun,,,true,false,,,Izin,
+788,test,umviwo,noun,,,false,false,,,Ulu,
+789,tests,iimviwo,noun,,,true,false,,,Izin,
+790,death penalty,isigwebo sokufa,noun,,,false,false,,,Isi,
+791,be cold,banda,verb,,ukubanda,false,false,intransitive,,,"This is usually of a non-person subject. For people, ""godola"" is used."
+792,be cold,godola,verb,,ukugodola,false,false,intransitive,,,
+793,take an oath,funga,verb,,ukufunga,false,false,either,,,"Do not confuse with ""swear - thuka"". Note that if you ""swear by"" something, the thing that you swear by is used just as an object following the verb and the word ""by"" is not translated."
+794,bathe,bhafa,verb,,ukubhafa,false,false,either,,,
+795,reject,ala,verb,,ukwala,false,false,either,,,
+796,foot,inyawo,noun,,,false,false,,,In,
+797,leg,umlenze,noun,,,false,false,,,Class3Um,
+798,legs,imilenze,noun,,,true,false,,,Imi,
+799,piece,iqatha,noun,,,false,false,,,Ili,
+800,ankle,iqatha,noun,,,false,false,,,Ili,
+801,pieces,amaqatha,noun,,,true,false,,,Ama,
+802,ankles,amaqatha,noun,,,true,false,,,Ama,
+803,finger,umnwe,noun,,,false,false,,,Class3Um,Can be used to refer to both fingers of your hand and toes
+804,fingers,iminwe,noun,,,true,false,,,Imi,
+805,stomach,isisu,noun,,,false,false,,,Isi,Refers to both a belly and a stomach
+806,stomach,izisu,noun,,,true,false,,,Izi,
+807,veteran,igqala,noun,,,false,false,,,Ili,
+808,toe,umnwe,noun,,,false,false,,,Class3Um,
+809,toes,iminwe,noun,,,true,false,,,Imi,
+810,profit,inzuzo,noun,,,false,false,,,In,
+811,play,umdlalo weqonga,noun,,,false,false,,,Class3Um,"This refers to a theatrical play and translates to ""game of the stage"" which used to be used for ""theatrical performance/play"" but these days most people just say ""ishow"" for a theatrical ""play"""
+812,sprout,hluma,verb,,ukuhluma,false,false,intransitive,,,
+813,exam,umviwo,noun,,,false,false,,,Ulu,

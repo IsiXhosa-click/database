@@ -73,7 +73,7 @@ example_id,word_id,english,xhosa
 80,81,She swore at him a lot. ,Ebemthuka kakhulu. 
 81,82,"When he heard the news, he was very shocked.","Ukuva indaba kwakho, wothuka kakhulu."
 82,83,I slowed down even more,Bendicothisa ngakumbi
-83,84,I slowed down even more.,Bendicothisa ngakumbi.
+83,84,"I love food, especially pizza.","Ndiyakuthanda ukutya, ngakumbi ipitsa."
 84,86,I love this place!,Ndithanda le ndawo!
 85,87,"I don't want to be here, let's go home.","Andifuni ukuba lapha, masigoduke."
 86,50,I want a child who is well mannered,Ndifuna umntwana onesimilo
@@ -106,8 +106,8 @@ example_id,word_id,english,xhosa
 114,110,I will never humiliate you.,Ngeke ndikuphoxe.
 115,111,There is a bad drought in Cape Town.,Kukho imbalela embi eKapa.
 116,112,The cat has soft fur.,Ikati inobuya obuthambileyo.
-117,113,"I bumped into him and said ""sorry"".","Nditshayisane naye ndathi ""uxolo""."
-118,114,I celebrated my birthday with my friends.,Bendibhiyozela imini yokuzalwa nabahlobo bam.
+117,113,My car bumped into another car.,Imoto yam itshayisene nenye imoto.
+118,114,We will celebrate Women's Day on the 9th of August.,Siza kubhiyoza usuku lwamaNina nge9 kaAgasti.
 119,115,The manager was fired because he was abusing his workers. ,Umphathi ugxothiwe ngoba ebexhaphaza abasebenzi bakhe. 
 120,116,"On a winter's night, I like to make tea and wrap myself in a blanket. ","Ebusuku bobusika, ndithanda ukwenza iti nokuzisongela ngengubo. "
 121,118,Bring your ID tomorrow.,Phathela i-ID yakho ngomso.
@@ -198,7 +198,6 @@ example_id,word_id,english,xhosa
 208,185,He doubts that they will sleep.,Uthandabuza ukuba baza kulala.
 209,186,"Yes, I am vaccinated.","Ewe, ndigonyiwe."
 210,187,You passed? Congratulations!,Upasile? Halala!
-211,188,The cat's fur is very soft.,Uboya lwekati lutofotofo.
 212,189,His battle with alcohol is very difficult.,Idabi lakhe notywala linzima kakhulu.
 213,47,"After work, I like to lie in bed for a few minutes.","Emva komsebenzi, ndithanda ukulala ebhedini imizuzu embalwa."
 214,76,His battle with alcohol was very difficult.,Idabi lakhe notywala belinzima kakhulu.
@@ -358,7 +357,7 @@ example_id,word_id,english,xhosa
 370,306,"Ok, we'll speak tomorrow!","Kulungile, sizothethana ngomso!"
 371,307,These watermelons are fresh.,Ezi vatala zitsha.
 372,308,I am going on holiday this weekend.,Ndizoya eholideyini kule mpelaveki.
-373,309,The secret ingredient spinach.,Isithako esifihlakeleyo yispinatshi.
+373,309,The secret ingredient is spinach.,Isithako esifihlakeleyo yispinatshi.
 374,310,Siphe is allergic to tomatoes.,USiphe walanayo neetumato.
 375,311,I lay an appeal at the court.,Ndibeka isibheno enkundleni.
 376,312,"On many weekends, he likes to go to town.","Ngeempelaveki ezininzi, uthanda ukuya etown."
@@ -379,7 +378,7 @@ example_id,word_id,english,xhosa
 391,327,The criminals submitted applications for bail,Ootsotsi babeke izicelo zebheyile
 392,328,The lawyer will discuss the case.,Igqwetha lizoncokola ityala.
 393,329,The wagons are pulled by horses.,Iinqwelo zitsalwa ngamahashe.
-394,331,"In the day I work, but by night I study.","Ngemini ndisebenza, kodwa ngobusuku ndifunda."
+394,331,"In the day I work, but by night I study.","Emini ndisebenza, kodwa ebusuku ndifunda."
 395,332,The train will arrive at dawn.,Uloliwe luzofika ekuseni.
 396,333,I catch the train in the morning.,Ndikhwela uloliwe kusasa.
 397,334,"At sunrise, the flowers open.","Ukuphuma kwelanga, iintyatyambo ziyavula."
@@ -438,10 +437,10 @@ example_id,word_id,english,xhosa
 450,388,We found the perpetrator.,Sifumene isikrelemnqa.
 451,389,The passenger sat in the back seat.,Umkhweli ebehlala kwisihlalo sangasemva.
 452,390,The perpetrators have been caught.,Izikrelemnqa zibanjwe
-453,391,We use a big ship to deliver things from America.,Sisebenzisa inqanawa enkulu yokuzisa izinto ezivela eMelika.
+453,391,We use a big ship to deliver things from America.,Sisebenzisa inqanawe enkulu yokuzisa izinto ezivela eMelika.
 454,392,Our business has three delivery vans.,Ishishini lethu lineeveni zokudilivara ezintathu.
 455,393,There is a group of muggers here.,Kukho iqela labaphangi apha.
-456,394,I see two ships in the sea.,Ndibona iinqanawa ezimbini elwandle.
+456,394,I see two ships in the sea.,Ndibona iinqanawe ezimbini elwandle.
 457,395,Some people are in poverty.,Abanye abantu banendlala.
 458,396,I feel guilty.,Ndiva ndinetyala.
 459,397,"At midday, the sun is scorching.","Kwimini emaqanda, ilanga liyatshisa."
@@ -830,3 +829,36 @@ example_id,word_id,english,xhosa
 844,766,My stomach is grumbling.,Isisu sam siyaxuxuzela.
 845,766,He has got a big belly.,Unesisu esikhulu.
 846,767,"When I have a flu, I sneeze a lot.","Xa ndinokhohlo, ndithimla kakhulu."
+847,769,My feet are dirty.,Iinyawo zam zimdaka.
+848,770,It is urgent that he drinks water.,Kungxamisekile ukuba usele amanzi.
+849,771,"""Come here!"" he shouted urgently.","""Yiza apha!"" wabomboloza ngokungxamisekileyo."
+850,774,Thank you very much!,Enkosi kakhulu!
+851,775,Wandibulela waqhubekeka endleleni.,He thanked me and continued down the road.
+852,776,I want to practise speaking Xhosa every day.,Ndifuna ukuziqhelisa ukuthetha isiXhosa yonke imihla.
+853,782,He runs fast.,Ubaleka ngokukhawuleza.
+854,783,He has a cruel heart.,Unentliziyo ekhohlakeleyo.
+855,783,We have two tests on Monday - our teacher is cruel!,Sineemvavanyo ezimbini ngoMvulo - utitshalakazi wethu ukhohlakele!
+856,784,I have a mathematics test on Tuesday.,Ndinovavanyo lwesibalo ngoLwesibini.
+857,788,I have a science test on Thursday.,Ndinomviwo lwenzululwazi ngoLwesine.
+858,791,"Eish, it is cold today!","Eish, kuyabanda namhlanje!"
+859,791,The water is cold.,Amanzi ayabanda.
+860,792,I am cold in winter.,Ndiyagodola ebusika.
+861,793,He swears by his ancestors.,Ufunga izinyanya.
+862,794,Do not call him - he is bathing now.,Sukumbiza - uyabhafa ngoku.
+863,795,"I said ""I love you"", but he rejected me.","Ndathi ""ndiyakuthanda"", kodwa wandala."
+864,796,My foot is sore.,Inyawo lam lidumbile.
+865,797,My leg is injured.,Umlenze wam wenzakele.
+866,798,My legs are itching.,Imilenze yam iyarhawuzelela.
+867,799,Please give me a piece of meat.,Ndicela undiphe iqatha lenyama.
+868,803,My finger is bleeding.,Umnwe wam uyopha.
+869,805,My stomach is grumbling.,Isisu sam siyaxuxuzela.
+870,805,He has got a big belly.,Unesisu esikhulu.
+871,807,My father is a military veteran.,Utata wam ligqala lasemkhosini.
+872,122,What is the price of this thing?,Lithini ixabiso lale nto?
+873,308,On the weekend I am going to a party.,Ngempelaveki ndizoya epatini.
+874,449,My shirt is lost.,Ihempe yam ilahlekile.
+875,810,How much profit is there?,Ingakanani inzuzo ekhoyo?
+876,811,This play is famous in Cape Town.,Lo mdlalo weqonga udumile eKapa.
+877,117,His business is prospering.,Ishishini lakhe liyahluma.
+878,812,The seeds will sprout and grow.,Iimbewu ziza kuhluma zikhula.
+879,813,Please help me study for my English exam.,Khawundicede ukufundela umviwo wam wesiNgesi.
