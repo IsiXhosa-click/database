@@ -715,12 +715,12 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 718,prisoners,ababanjwa,noun,,,true,false,,,Aba,
 719,goodbye,hambani kakuhle,interjection,,,true,false,,,,
 720,goodbye,salani kakuhle,interjection,,,true,false,,,,
-721,how many,ngaphi,relative,,,false,false,,,,
+721,how many,ngaphi,adjective,,,false,false,,,,
 722,however,kambe ke,conjunction,,,false,false,,indicative mood,,
 723,end,phela,verb,,ukuphela,false,false,intransitive,,,"""phela"" means more ""run out"" in comparison to ""gqiba"" which is usually used when somebody finishes/completes something."
 724,boy,inkwenkwe,noun,,,false,false,,,In,
 725,boys,amakhwenkwe,noun,,,true,false,,,Ama,
-726,why,kutheni,adverb,,,false,false,,,,
+726,why,kutheni,adverb,,,false,false,,participial mood,,
 727,water,amanzi,noun,,,false,false,,,Ama,
 728,picture,umfanekiso,noun,,,false,false,,,Class3Um,
 729,pictures,imifanekiso,noun,,,true,false,,,Imi,
@@ -808,3 +808,4 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 811,play,umdlalo weqonga,noun,,,false,false,,,Class3Um,"This refers to a theatrical play and translates to ""game of the stage"" which used to be used for ""theatrical performance/play"" but these days most people just say ""ishow"" for a theatrical ""play"""
 812,sprout,hluma,verb,,ukuhluma,false,false,intransitive,,,
 813,exam,umviwo,noun,,,false,false,,,Ulu,
+814,quickly,ngokukhawuzela,adverb,,,false,false,,,,
