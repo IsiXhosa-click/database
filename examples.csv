@@ -126,15 +126,15 @@ example_id,word_id,english,xhosa
 134,130,I can't forget my mother.,Andikwazi ukulibala umama wam.
 135,130,"Sorry, I have forgotten.","Uxolo, ndilibele."
 136,131,Where are you going?,Uya phi?
-137,131,I'm not going anywhere.,Andiyi endaweni.
-138,131,I am going to Johannesburg.,Ndiya eGoli.
+137,131,I'm not going anywhere.,Andiyi ndawo.
+138,131,I am going to Johannesburg.,Ndiya eRhawutini.
 139,132,It is clear that we agree.,Kucacile ukuba siyavuma.
-140,133,Answer the following questions.,Phendula le mibuzo elandelayo.
+140,133,Answer the following questions.,Phendula le mibuzo ilandelayo.
 141,134,Do you believe in God?,Ukholelwa kuThixo?
 142,134,I don't believe you!,Andikukholelwa!
 143,135,Call the children!,Biza abantwana!
-144,136,She can't choose anything without thinking for a long time.,Akakwazi ukukhetha into engacingi ngexesha elide.
-145,137,What is the date today?,Ngowuphi umhla namhlanje?
+144,136,She can't choose anything without thinking for a long time.,Akakwazi ukukhetha into ngaphandle kokucinga ixesha elide.
+145,137,What is the date today?,Uthini umhla namhlanje?
 146,138,She does not want to change her life.,Akafuni kutshintsha ubomi bakhe.
 147,139,I want to clean here.,Ndifuna ukucoca apha.
 148,140,Please open the windows.,Khawuvule iifestile.
@@ -143,7 +143,7 @@ example_id,word_id,english,xhosa
 151,143,I don't know how to cook.,Andikwazi ukupheka.
 152,143,I am going to cook the meat.,Ndiza kupheka inyama.
 153,144,Can you compare the prices?,Uyakwazi ukuthelekisa amaxabiso?
-154,145,I wash my face every day.,Ndihlamba ubuso bam yonke imihla.
+154,145,What are the dates of the exams?,Ithini imihla yee-exam?
 155,146,What are you giving us?,Usinika ntoni?
 156,146,"Give me a pencil, please.",Khawundinike ipensile.
 157,147,Leave me alone!,Ndiyeke!
@@ -152,7 +152,6 @@ example_id,word_id,english,xhosa
 161,150,She wants to fix my car.,Ufuna ukulungisa imoto yam.
 163,151,I have found my cup at last!,Ndiyifumene ikomityi yam ekugqibeleni!
 164,152,The schools are getting full.,Izikolo ziyagcwala.
-165,152,Please fill up the tank.,Khawugcwalise itanki.
 166,152,The schools are full.,Izikolo zigcwele.
 167,153,We don't want to fight.,Asifuni ukulwa.
 168,154,Please explain.,Khawucacise.
@@ -171,7 +170,7 @@ example_id,word_id,english,xhosa
 181,165,"No, I am not interested in Bitcoin.","Hayi, andinamdla kuBitcoin."
 182,165,Languages are very interesting.,Iilwimi zinika umdla kakhulu. 
 183,165,The title is written in large words to draw the attention of the reader.,Isihloko sibhalwa ngamagama amakhulu ukutsala umdla womfundi.
-184,166,I need my second dose of the vaccine.,Ndifuna ugonyo lwesibini lwam.
+184,166,I need my second dose of the vaccine.,Ndifuna ugonyo lwam lwesibini.
 185,167,It is raining hard!,Kuyanetha gqitha!
 186,167,It does not rain regularly in the desert.,Ayinethi rhoqo entlango.
 187,168,Hold my hand.,Bamba isandla sam.
@@ -192,20 +191,20 @@ example_id,word_id,english,xhosa
 202,179,He is a Christian - he prays every day.,Uligqobhoka - uthandaza yonke imihla.
 203,180,Love needs a person with backbone.,Uthando lufuna umntu onomqolo.
 204,181,The dogs are barking.,Izinja ziyakhonkotha.
-205,182,The government commands us to wear masks because of COVID-19.,URhulumente usiyalela ukunxiba ii-maski ngenxa ye-COVID-19.
-206,183,"I wished him happy birthday, since it was his birthday on Saturday.",Bendimbhafisa kuba bekungumhla wokuzalwa ngoMgqibelo.
-207,184,This place is a desert due to a lack of rain.,Le ndawo yintlango ngokuswela imvula.
+205,182,The government commands us to wear masks because of COVID-19.,URhulumente usiyalela ukuba sinxibe ii-maski ngenxa ye-COVID-19.
+206,183,How was your birthday?,Ubunjani umhla wakho wokuzalwa?
+207,184,This place is a desert due to a lack of rain.,Le ndawo iyintlango ngenxa yokungabikho kwemvula.
 208,185,He doubts that they will sleep.,Uthandabuza ukuba baza kulala.
 209,186,"Yes, I am vaccinated.","Ewe, ndigonyiwe."
 210,187,You passed? Congratulations!,Upasile? Halala!
 212,189,His battle with alcohol is very difficult.,Idabi lakhe notywala linzima kakhulu.
 213,47,"After work, I like to lie in bed for a few minutes.","Emva komsebenzi, ndithanda ukulala ebhedini imizuzu embalwa."
 214,76,His battle with alcohol was very difficult.,Idabi lakhe notywala belinzima kakhulu.
-215,190,Please remind me tomorrow.,Khawundikhumuze ngomso.
+215,190,Please remind me tomorrow.,Khawundikhumbuze ngomso.
 216,191,What is Yoliswa carrying?,UYoliswa uphethe ntoni?
-217,192,I am sick with the virus of COVID-19.,Ndigula nentsholongwane yeCOVID-19.
+217,192,I am sick with the virus of COVID-19.,Ndigula yintsholongwane yeCOVID-19.
 218,22,My car was damaged because of the floods.,Imoto yam yonakele ngenxa yezikhukula.
-219,193,Everyone should register to be vaccinated.,Kufanele wonke umntu ubhalise ukugonywa.
+219,193,Everyone should register to be vaccinated.,Kufanele wonke umntu abhalise ukuze agonywe.
 220,194,The writer uses hyperbole to emphasise their message.,Umbhali usebenzisa isibaxo ukugxininisa umyalezo waye.
 221,195,My grandmother is angry at me.,Umakhulu wam uqumbile nam.
 222,196,I like to lick the spoon after I finish eating.,Ndithanda ukumunca icephe emva kokugqiba ukutya.
@@ -299,14 +298,14 @@ example_id,word_id,english,xhosa
 312,264,Pull this wire tight.,Tsala olu cingo luqine.
 313,264,The title is written in large words to draw the attention of the reader.,Isihloko sibhalwa ngamagama amakhulu ukutsala umdla womfundi.
 314,265,He put the flowers on the table so that he could see them.,Wabeka iintyatyambo etafileni ukuze ungazibone.
-315,266,Something strange is hiding in the forest.,Into engaqhelekanga izemele ehlathini.
+315,266,Something strange is hiding in the forest.,Into engaqhelekanga izimele ehlathini.
 316,267,Hold my hand.,Bamba isandla sam.
 317,268,"Listen guys, when I speak you must be quiet.","Mamelani ke bethuna, xa ndithetha kufuneka nithule."
 318,268,I like to listen to music.,Ndithanda ukumamela umculo.
 319,268,"Leave me alone, I am listening to music.","Ndiyeke, ndimamele umculo."
 320,269,Move your shadow.,Shukumisa umthunzi wakho.
 321,270,Do you think he's dead? He's not moving.,Ucinga ukuba ufile? Akashukumi.
-322,140,"The chief has arrived, open the gate!","Ifikile inkosi, vula usango!"
+322,140,"The chief has arrived, open the gate!","Ifikile inkosi, vula isango!"
 323,85,"Don't hurry, you must take enough time.","Sukungxama, kufuneka uthathe ixesha elaneleyo."
 324,271,Are your parents still alive?,Abazali bakho basaphila?
 325,271,"Yes, I am alright - how are you?","Ewe, ndiphilile - unjani wena?"
@@ -863,3 +862,20 @@ example_id,word_id,english,xhosa
 878,812,The seeds will sprout and grow.,Iimbewu ziza kuhluma zikhula.
 879,813,Please help me study for my English exam.,Khawundicede ngokufundela umviwo wam wesiNgesi.
 880,814,We need to complete it quickly.,Kufuneka siyigqibe ngokukhawuleza.
+881,145,Are these dates OK for you?,Ingaba le mihla ikulungele na?
+882,133,Answer me!,Ndiphendule!
+883,815,I give her a lift every day.,Ndimnika ilift yonke imihla.
+884,815,You must write down the money you spent daily.,Yonke imihla kufuneka ubhale phantsi imali oyichithileyo.
+885,816,Your child is crying.,Umntwana wakho uyakhala.
+886,816,Your phone is ringing.,Ifoni yakho iyakhala.
+887,817,Ring the bell!,Khalisa intsimbi!
+888,817,Khalisa i-alam!,Sound the alarm!
+889,70,"""Do like this,"" said the doctor.","""Yenza njalo,"" wathi ugqirha."
+890,818,Fill in the gaps.,Gcwalisa izikhewu.
+891,818,Fill up the tank.,Gcwalisa itanki.
+892,819,Drop the gun!,Wisa umpu!
+893,819,I dropped the glass.,Ndiyiwisile iglasi.
+894,821,They have a lot of anger.,Banomsindo omninzi.
+895,821,I am angry now.,Ndinomsindo ngoku.
+896,821,She is angry at me.,Unomsindo kum.
+897,183,When is your birthday?,Unini umhla wakho wokuzalwa?

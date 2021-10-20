@@ -122,21 +122,21 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 123,cut,sika,verb,,ukusika,false,false,,,,"""sika"" is used for things that are not growing (for example, bread). ""cheba"" should instead be used for something growing, such as hair."
 124,dance,danisa,verb,,ukudanisa,false,false,,,,
 125,disappoint,danisa,verb,,ukudanisa,false,false,transitive-only,,,
-126,die,fa,verb,,ukufa,false,false,,,,"""fa"" should generally only be used for yourself or animals, as it can be disrespectful to use it for other people. In those cases, more respectful terms such as ""sweleka"" or ""bhubha"" should be used."
+126,die,fa,verb,,ukufa,false,false,intransitive,,,"""fa"" should generally only be used for yourself or animals, as it can be disrespectful to use it for other people. In those cases, more respectful terms such as ""sweleka"" or ""bhubha"" should be used. Note the infinitive form UKUFA is also used to translate ""death""."
 127,do,enza,verb,,ukwenza,false,false,transitive-only,,,
 128,drink,sela,verb,,ukusela,false,false,either,,,"""sela"" should be used for things that are cold, such as water. ""phunga"" should be used for things that are hot, such as tea."
 129,decide,gqiba,verb,,ukugqiba,false,false,either,,,
 130,forget,libala,verb,,ukulibala,false,false,either,,,
-131,go,ya,verb,,ukuya,false,false,,,,
+131,go,ya,verb,,ukuya,false,false,intransitive,,,"Note with the reflexive Object Concord -zi- and the applied extension -el- this verb can be used to mean ""Go by the self"" e.g. Umntwana wam uziyela esikolweni ""The child goes by itself to school"""
 132,agree,vuma,verb,,ukuvuma,false,false,,,,
-133,answer,phendula,verb,,ukuphendula,false,false,,,,
+133,answer,phendula,verb,,ukuphendula,false,false,either,,,
 134,believe,kholelwa,verb,,ukukholelwa,false,false,,,,
 135,call,biza,verb,,ukubiza,false,false,transitive-only,,,
-136,choose,khetha,verb,,ukukhetha,false,false,,,,
-137,date,umhla,noun,,,false,false,,,Class3Um,
+136,choose,khetha,verb,,ukukhetha,false,false,either,,,
+137,date,umhla,noun,,,false,false,,,Class3Um,"Xhosa speakers also use the English word ""i-date"""
 138,change,tshintsha,verb,,ukutshintsha,false,false,either,,,"This is borrowed from the English ""change""."
 139,clean,coca,verb,,ukucoca,false,false,transitive-only,,,"-cocekile ""clean"" is the adjectival use, as in ""Icocekile le ndawo"" (This place is clean)"
-140,open,vula,verb,,ukuvula,false,false,,,,
+140,open,vula,verb,,ukuvula,false,false,transitive-only,,,
 141,compare,thelekisa,verb,,ukuthelekisa,false,false,,,,
 142,cry,lila,verb,,ukulila,false,false,,,,
 143,cook,pheka,verb,,ukupheka,false,false,,,,
@@ -145,10 +145,10 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 146,give,nika,verb,,ukunika,false,false,,,,
 147,leave alone,yeka,verb,,ukuyeka,false,false,transitive-only,,,
 148,forgive,xolela,verb,,ukuxolela,false,false,transitive-only,,,
-149,remember,khumbula,verb,,ukukhumbula,false,false,either,,,
+149,remember,khumbula,verb,,ukukhumbula,false,false,either,,,"Khumbula is also used to translate ""miss"", e.g. Ndikhumbula umama. I miss mom."
 150,fix,lungisa,verb,,ukulungisa,false,false,,,,
 151,find,fumana,verb,,ukufumana,false,true,transitive-only,,,
-152,become full,gcwala,verb,,ukugcwala,false,false,,,,
+152,become full,gcwala,verb,,ukugcwala,false,false,intransitive,,,
 153,fight,lwa,verb,,ukulwa,false,false,,,,
 154,explain,cacisa,verb,,ukucacisa,false,false,either,,,
 155,cost,xabisa,verb,,ukuxabisa,false,false,intransitive,,,
@@ -165,35 +165,35 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 166,vaccine,ugonyo,noun,,,false,false,,,Ulu,
 167,rain,netha,verb,,ukunetha,false,false,intransitive,,,
 168,hand,isandla,noun,,,false,false,,,Isi,
-169,sleep,lala,verb,,ukulala,false,true,intransitive,,,
+169,sleep,lala,verb,,ukulala,false,true,intransitive,,,"Note the irregular stativr form ""lele"" to translate is asleep, e.g. She is asleep - Ulele."
 170,dog,inja,noun,,,false,false,,,In,
 171,advise,cebisa,verb,,ukucebisa,false,false,either,,,
 172,clever,krelekrele,relative,,,false,false,,,,
 173,dogs,izinja,noun,,,true,false,,,Izin,
-174,ask,buza,verb,,ukubuza,false,false,,,,
-175,continue,qhubekeka,verb,,ukuphubekeka,false,false,,,,
+174,ask,buza,verb,,ukubuza,false,false,either,,,
+175,continue,qhubekeka,verb,,ukuqhubekeka,false,false,intransitive,,,"Note: qhubeka is the original word for ""continue"" - the additional -ek- is, however, becoming popular"
 176,rain,imvula,noun,,,false,false,,,In,
 177,complain,khalaza,verb,,ukukhalaza,false,false,,,,
 178,help,nceda,verb,,ukunceda,false,false,either,,,
 179,pray,thandaza,verb,,ukuthandaza,false,false,,,,
 180,love,uthando,noun,,,false,false,,,Ulu,
 181,bark,khonkotha,verb,,ukukhonkotha,false,false,,,,
-182,command,yalela,verb,,ukuyalela,false,false,,,,
-183,birthday,umhla wokuzalwa,noun,,,false,false,,,Class3Um,
+182,command,yalela,verb,,ukuyalela,false,false,either,,,
+183,birthday,umhla wokuzalwa,noun,,,false,false,,,Class3Um,"Note: many Xhosa speakers now just use ibirthday.  Note the personal possessive comes immediately after UMHLA - so umhla wakho wokuzalwa - literally ""day of yours of being born"".  Also note that imini yokuzalwa is also used for ""birthday"".  Usuku lokuzalwa is another variation."
 184,desert,intlango,noun,,,false,false,,,In,
 185,doubt,thandabuza,verb,,ukuthandabuza,false,false,,,,
 186,vaccinate,gonya,verb,,ukugonya,false,false,,,,
 187,congratulations,halala,interjection,,,false,false,,,,
-188,soft,tofotofo,relative,,,false,false,,,,
+188,soft,tofotofo,relative,,,false,false,,,,"Usually only used to describe things like thick blankets, pillows, cushions and soft furnishings."
 189,alcohol,utywala,noun,,,false,false,,,Ulu,
-190,remind,khumbuza,verb,,ukukhumbuza,false,false,,,,
+190,remind,khumbuza,verb,,ukukhumbuza,false,false,transitive-only,,,
 191,carry,phatha,verb,,ukuphatha,false,true,transitive-only,,,"""phatha"" takes an irregular recent-past tense and stative form of ""phethe""."
 192,virus,intsholongwane,noun,,,false,false,,,In,
 193,register,bhalisa,verb,,ukubhalisa,false,false,either,,,
 194,emphasise,gxininisa,verb,,ukugxininisa,false,false,transitive-only,,,
 195,become angry,qumba,verb,,ukuqumba,false,true,intransitive,,,
 196,lick,munca,verb,,ukumunca,false,false,,,,
-197,wash,hlamba,verb,,ukuhlamba,false,false,,,,
+197,wash,hlamba,verb,,ukuhlamba,false,false,either,,,Note:  the borrowed word vasa is also used for wash
 198,sleep,ubuthongo,noun,,,false,false,,,Ubu,
 199,rest,phumla,verb,,ukuphumla,false,false,intransitive,,,
 200,repeat,phinda,verb,,ukuphinda,false,false,,,,
@@ -790,7 +790,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 793,take an oath,funga,verb,,ukufunga,false,false,either,,,"Do not confuse with ""swear - thuka"". Note that if you ""swear by"" something, the thing that you swear by is used just as an object following the verb and the word ""by"" is not translated."
 794,bathe,bhafa,verb,,ukubhafa,false,false,either,,,
 795,reject,ala,verb,,ukwala,false,false,either,,,
-796,foot,inyawo,noun,,,false,false,,,In,
+796,foot,inyawo,noun,,,false,false,,,Ili,
 797,leg,umlenze,noun,,,false,false,,,Class3Um,
 798,legs,imilenze,noun,,,true,false,,,Imi,
 799,piece,iqatha,noun,,,false,false,,,Ili,
@@ -809,3 +809,10 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 812,sprout,hluma,verb,,ukuhluma,false,false,intransitive,,,
 813,exam,umviwo,noun,,,false,false,,,Ulu,
 814,quickly,ngokukhawuzela,adverb,,,false,false,,,,
+815,daily,yonke imihla,adverb,,,false,false,,,,"Also translates ""every day"""
+816,cry out,khala,verb,,ukukhala,false,false,intransitive,,,"""khala"" is also often used for the sound of things like alarms ""I-alam iyakhala""."
+817,sound,khalisa,verb,,ukukhalisa,false,false,transitive-only,,,"Often used for ""ring"" as in ""ring the bell"" or ""sound"" as in ""sound the alarm""."
+818,fill,gcwalisa,verb,,ukugcwalisa,false,false,transitive-only,,,
+819,drop,wisa,verb,,ukuwisa,false,false,transitive-only,,,"Used in the sense of ""let fall"" not ""drop prices"" which would be ""thoba amaxabiso"""
+820,continue,qhubeka,verb,,ukuqhubeka,false,false,intransitive,,,"This is the original form of ""qhubekeka"", however ""qhubekeka"" is now becoming more popular."
+821,anger,umsindo,noun,,,false,false,,,Class3Um,"Can be used with -na- to indicate being angry, e.g. Ndinomsindo. Literally ""I have anger"". Do not confuse with the Zulu meaning of umsindo being ""noise""."
