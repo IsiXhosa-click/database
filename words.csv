@@ -79,7 +79,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 80,trophy,indebe,noun,,,false,false,,,In,
 81,swear,thuka,verb,,ukuthuka,false,false,,,,
 82,become shocked,othuka,verb,,ukothuka,false,true,intransitive,,,
-83,slow down,cothisa,verb,,ukucothisa,false,false,,,,
+83,slow down,cothisa,verb,,ukucothisa,false,false,either,,,
 84,especially,ngakumbi,adverb,,,false,false,,,,
 85,become hurried,ngxama,verb,,ukungxama,false,true,intransitive,,,
 86,love,thanda,verb,,ukuthanda,false,false,,,,
@@ -209,12 +209,12 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 210,return,buya,verb,,ukubuya,false,false,intransitive,,,
 211,shout,khwaza,verb,,ukukhwaza,false,false,,,,
 212,sit,hlala,verb,,ukuhlala,false,false,,,,
-213,run,baleka,verb,,ukubaleka,false,false,,,,
-214,stay,sala,verb,,ukusala,false,false,intransitive,,,"""Sala kakuhle"" can be used to mean ""goodbye"" to someone who will be staying where they are."
+213,run,baleka,verb,,ukubaleka,false,false,intransitive,,,
+214,stay behind,sala,verb,,ukusala,false,false,intransitive,,,"""Sala kakuhle"" can be used to mean ""goodbye"" to someone who will be staying where they are."
 215,shout,shawuta,verb,,ukushawuta,false,false,,,,
 216,sell,thengisa,verb,,ukuthengisa,false,false,,,,
-217,take out,khupha,verb,,ukukhupha,false,false,,,,
-218,throw,jula,verb,,ukujula,false,false,,,,
+217,take out,khupha,verb,,ukukhupha,false,false,transitive-only,,,
+218,throw,jula,verb,,ukujula,false,false,either,,,
 219,service,inkonzo,noun,,,false,false,,,In,
 220,complete,gqiba,verb,,ukugqiba,false,false,either,,,
 221,teach,fundisa,verb,,ukufundisa,false,false,,,,
@@ -246,11 +246,11 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 248,go,hamba,verb,,ukuhamba,false,false,intransitive,,,"Hamba does not describe the act of going to a location, it refers to the act of going in general."
 249,leave,(i)mka,verb,,ukumka,false,false,either,,,"""mka"" is a latent-i verb"
 250,leave,shiya,verb,,ukushiya,false,false,,,,
-251,lie down,ngqengqa,verb,,ukungqengqa,false,false,,,,
+251,lie down,ngqengqa,verb,,ukungqengqa,false,false,intransitive,,,
 252,like,thanda,verb,,ukuthanda,false,false,,,,"""thanda"" can be used to indicate something that happens often."
 253,lie,xoka,verb,,ukuxoka,false,false,,,,"""xoka"" can be rather rude, especially if used to an older person or someone commanding respect. A more euphemistic phrasing is ""phosisa""."
 254,look,jonga,verb,,ukujonga,false,false,,,,
-255,move,fudukela,verb,,ukufudukela,false,false,,,,"Fudukela describes a person moving from one place to another such as moving city, or moving house."
+255,move,fudukela,verb,,ukufudukela,false,false,intransitive,,,"Fudukela describes a person moving from one place to another such as moving city, or moving house."
 256,move,bekelisa,verb,,ukubekelisa,false,false,transitive-only,,,"""bekelisa"" should not be used for a person moving houses, for instance - ""fudukela"" should be used instead."
 257,need,funa,verb,,ukufuna,false,false,transitive-only,,,
 258,need,dinga,verb,,ukudinga,false,false,either,,,"This is a more serious kind of need than ""funa""."
@@ -758,7 +758,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 761,education,imfundo,noun,,,false,false,,,In,
 762,have a birthday,bhafa,verb,,ukubhafa,false,false,intransitive,,,"This is the colloquial use - formal Xhosa uses ""zalwa - be given birth""."
 763,blink,qhwanyaza,verb,,ukuqhwanyaza,false,false,either,,,
-764,again,ngaphinde,adverb,,,false,false,,,,
+764,again,ngaphinde,adverb,,,false,false,,,,"Used in the negative, ""don't again"""
 765,disappoint,phoxa,verb,,ukuphoxa,false,false,either,,,
 766,stomach,isisu,noun,,,false,false,,,Isi,Refers to both a belly and a stomach
 767,sneeze,thimla,verb,,ukuthimla,false,false,either,,,
@@ -816,3 +816,9 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 819,drop,wisa,verb,,ukuwisa,false,false,transitive-only,,,"Used in the sense of ""let fall"" not ""drop prices"" which would be ""thoba amaxabiso"""
 820,continue,qhubeka,verb,,ukuqhubeka,false,false,intransitive,,,"This is the original form of ""qhubekeka"", however ""qhubekeka"" is now becoming more popular."
 821,anger,umsindo,noun,,,false,false,,,Class3Um,"Can be used with -na- to indicate being angry, e.g. Ndinomsindo. Literally ""I have anger"". Do not confuse with the Zulu meaning of umsindo being ""noise""."
+822,become thin,bhitya,verb,,ukubhitya,false,true,intransitive,,,
+823,every,qho,adverb,,,false,false,,,,
+824,marry,tshata,verb,,ukutshata,false,false,either,,,
+825,smell,va,verb,,ukuva,false,false,either,,,
+826,become tired,dinwa,verb,,ukudinwa,false,true,intransitive,,,
+827,wake up,vuka,verb,,ukuvuka,false,false,intransitive,,,

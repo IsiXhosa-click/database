@@ -234,7 +234,7 @@ example_id,word_id,english,xhosa
 246,216,They sell fruit.,Bathengisa iziqhamo.
 247,217,I take out a cup from the bag.,Ndikhupha ikomityi engxoweni.
 248,218,I throw a ball.,Ndijula ibhola
-249,218,I can't throw Cael.,Andingajuli Cael.
+249,218,Can you throw a ball?,Uyakwazi ukujula ibhola?
 250,219,Did you all go to the church service?,Niye enkonzweni?
 251,219,This restaurant has good service.,Le restyu inenkonzo entle.
 252,220,Are you able to finish the work?,Uyakwazi ukugqiba umsebenzi?
@@ -282,11 +282,11 @@ example_id,word_id,english,xhosa
 296,249,We left the restaurant at eight.,Besisimka erestyu ngentsimbi yesibhozo.
 297,250,Can I leave my bag here?,Ndingashiya ingxowa yam apha?
 298,250,She wants to leave him.,Ufuna ukumshiya.
-299,251,"Don't lie down in that bed, there's a snake!","Sukungqengqa kule bhedi, kukho inyoka!"
+299,251,"Don't lie down in that bed, there's a snake!","Sukungqengqa kuloo bhedi, kukho inyoka!"
 300,252,I like to laugh.,Ndithanda ukuhleka.
-301,253,"You are lying, I don't believe you!","Wena uyaxoka, andikukhokelwa!"
+301,253,"You are lying, I don't believe you!","Uyaxoka wena, andikukholelwa!"
 302,254,"Look mum, I'm jumping!","Jonga mama, ndiyatsiba!"
-303,255,He moved to the city to find work.,Wafudukela esixekweni ukuze ufumane umsebenzi.
+303,255,He moved to the city to find work.,Wafudukela esixekweni ukuze afumane umsebenzi.
 304,256,He moved the chair to be close to the fire.,Ubekelise isitulo ukuba ngasemlilweni.
 305,257,I need money because I need to educate my children.,Ndifuna imali kuba ndifuna ukufundisa abantwana bam.
 306,258,All living things need water.,Zonke izinto eziphilayo zidinga amanzi.
@@ -348,7 +348,7 @@ example_id,word_id,english,xhosa
 362,298,This law was discussed at the Constitutional Court.,Lo mthetho unkcokolwa eNkundla yezomGaqo-siseko
 363,299,We vote for our municipal councils.,Siyavotela amaBhunga akaMasipala ethu.
 364,300,There are cells at the High Court.,Kukho izisele kwiNkundla ePhakamileyo.
-365,301,That tomato made me sick.,Laa tumato iyenze ndigule.
+365,301,That tomato made me sick.,Laa tumato indenze ndigule.
 366,302,This berry has healing properties.,Eli qunube lineempawu zokuphilisa.
 367,303,People argue at the Small Claims Court.,Abantu baphikisana eNkundla yamaBango amaNcinci
 368,304,"In the summer, my dad likes to chop up a watermelon for us.","Ehlotyeni, utata wam uthanda ukusinqunqela ivatala."
@@ -530,7 +530,7 @@ example_id,word_id,english,xhosa
 546,475,My brother is a kind person.,Umnakwethu ngumntu onobubele.
 547,476,"Although it makes a lot of noise, I still love my dog.","Noxa ingxola kakhulu, ndisayithanda inja yam."
 548,477,I don't know how to help if you won't talk to me.,Andikwazi ukunceda ukuba awuzuthetha nam.
-549,478,You should see another guy.,Kufuneka ubone mfo wumbi.
+549,478,You should see the other guy.,Kufuneka ubone mfo wumbi.
 550,479,"There is another way, but it is dangerous.","Kukho ndlela yimbi, kodwa inobungozi."
 551,480,I want to spend my life helping people.,Ndifuna ukuchitha ubomi bam ngokunceda abantu.
 552,481,The condition of the public transport is not good.,Imo yesithuthi sikawonke-wonke ayifanelekanga.
@@ -879,3 +879,13 @@ example_id,word_id,english,xhosa
 895,821,I am angry now.,Ndinomsindo ngoku.
 896,821,She is angry at me.,Unomsindo kum.
 897,183,When is your birthday?,Unini umhla wakho wokuzalwa?
+898,822,The animals are thin due to the drought.,Izilwanyana zibhityile ngenxa yembalela.
+899,823,"Every morning, he went to work at 8.","Qho kusasa, waya emsebenzini ngo8."
+900,764,Go and don't sin again.,Hamba ungaphinde wone.
+901,824,I do not want to marry him.,Andifuni kutshata naye.
+902,825,I smell fish.,Ndiva ivumba lentlanzi.
+903,218,I threw myself on the bed.,Ndizijule ebhedini.
+904,826,I will sleep because I am tired.,Ndiza kulala kuba ndidiniwe.
+905,217,Take out the plug.,Khupha iplag.
+906,217,I want to take out money from the bank.,Ndifuna ukukhupha imali ebhankini.
+907,827,I wake up at 8 in the morning.,Ndivuka ekuseni ngo8.
