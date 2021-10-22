@@ -216,60 +216,60 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 217,take out,khupha,verb,,ukukhupha,false,false,transitive-only,,,
 218,throw,jula,verb,,ukujula,false,false,either,,,
 219,service,inkonzo,noun,,,false,false,,,In,
-220,complete,gqiba,verb,,ukugqiba,false,false,either,,,
+220,finish,gqiba,verb,,ukugqiba,false,false,either,,,
 221,teach,fundisa,verb,,ukufundisa,false,false,,,,
 222,think,cinga,verb,,ukucinga,false,false,,,,
 223,hope,ithemba,noun,,,false,false,,,Ili,
 224,coffee,ikofu,noun,,,false,false,,,In,
-226,bring back,buyisa,verb,,ukubuyisa,false,false,transitive-only,,,
-227,send,thuma,verb,,ukuthuma,false,false,,,,
-228,smile,ncuma,verb,,ukuncuma,false,false,,,,
+226,bring back,buyisa,verb,,ukubuyisa,false,false,transitive-only,,,"Also used in the sense of ""return something or someone to a place"""
+227,send,thuma,verb,,ukuthuma,false,false,either,,,"Note: send something or someone to a place will be ""thumela"".  In Xhosa ""thuma"" is often used when someone is sending someone to the shop and then is used simply as ""thuma"""
+228,smile,ncuma,verb,,ukuncuma,false,true,intransitive,,,"""Smiling"" is normally translated as ""ncumile"""
 229,speak,thetha,verb,,ukuthetha,false,false,either,,,
 230,stand up,phakama,verb,,ukuphakama,false,false,,,,
 231,support,xhasa,verb,,ukuxhasa,false,false,,,,
-232,take,sa,verb,,ukusa,false,false,,,,This word is used to describe taking someone/something to a place.
-233,understand,qonda,verb,,ukuqonda,false,false,,,,
+232,take to,sa,verb,,ukusa,false,false,transitive-only,,,"This word is used to describe taking someone/something to a place. Note in the perfect tense form it is sometimes difficult to see the verb as it so short, particularily if there is an object concord as well, e.g. Bamsile kwagqirha? - ba-m-s-ile ""Have they taken her to the doctor?"""
+233,understand,qonda,verb,,ukuqonda,false,false,either,,,
 234,urinate,chama,verb,,ukuchama,false,false,,,,
 235,use,sebenzisa,verb,,ukusebenzisa,false,false,,,,
 236,want,funa,verb,,ukufuna,false,false,,,,
-237,hope,themba,verb,,ukuthemba,false,false,,,,
-238,work,sebenza,verb,,ukusebenza,false,false,,,,
+237,hope,themba,verb,,ukuthemba,false,false,either,,,
+238,work,sebenza,verb,,ukusebenza,false,false,either,,,
 239,hear,va,verb,,ukuva,false,false,either,,,
 240,understand,va,verb,,ukuva,false,false,either,,,
-241,become injured,enzakala,verb,,ukwenzakala,false,true,intransitive,,,
+241,become injured,enzakala,verb,,ukwenzakala,false,true,intransitive,,,"An alternative form is ""onzakala"""
 242,injure,enzakalisa,verb,,ukwenzakalisa,false,false,transitive-only,,,
 243,better,ngcono,relative,,,false,false,,,,
 244,jump,tsiba,verb,,ukutsiba,false,false,,,,
 245,kill,bulala,verb,,ukubulala,false,false,,,,
-246,know,azi,verb,,ukwazi,false,false,either,,,"Azi is commonly used in the construction ""know how to"" as ""-azi uku"""
+246,know,azi,verb,,ukwazi,false,false,either,,,"Azi is commonly used in the construction ""know how to"" as ""kwazi uku"", very often used with object concords"
 247,read,funda,verb,,ukufunda,false,false,,,,
 248,go,hamba,verb,,ukuhamba,false,false,intransitive,,,"Hamba does not describe the act of going to a location, it refers to the act of going in general."
-249,leave,(i)mka,verb,,ukumka,false,false,either,,,"""mka"" is a latent-i verb"
+249,leave,(i)mka,verb,,ukumka,false,false,either,,,"""mka"" is a latent-i verb.  This verb is used generally to indicate ""depart""/""depart from"""
 250,leave,shiya,verb,,ukushiya,false,false,,,,
 251,lie down,ngqengqa,verb,,ukungqengqa,false,false,intransitive,,,
-252,like,thanda,verb,,ukuthanda,false,false,,,,"""thanda"" can be used to indicate something that happens often."
-253,lie,xoka,verb,,ukuxoka,false,false,,,,"""xoka"" can be rather rude, especially if used to an older person or someone commanding respect. A more euphemistic phrasing is ""phosisa""."
+252,like,thanda,verb,,ukuthanda,false,false,transitive-only,,,"""thanda"" can be used to indicate something that happens often, or a tendency."
+253,lie,xoka,verb,,ukuxoka,false,false,intransitive,,,"""xoka"" can be rather rude, especially if used to an older person or someone commanding respect. A more euphemistic phrasing is ""phosisa""."
 254,look,jonga,verb,,ukujonga,false,false,,,,
 255,move,fudukela,verb,,ukufudukela,false,false,intransitive,,,"Fudukela describes a person moving from one place to another such as moving city, or moving house."
-256,move,bekelisa,verb,,ukubekelisa,false,false,transitive-only,,,"""bekelisa"" should not be used for a person moving houses, for instance - ""fudukela"" should be used instead."
+256,move,bekelisa,verb,,ukubekelisa,false,false,transitive-only,,,"""bekelisa"" should not be used for a person moving houses, for instance - ""fudukela"" should be used instead. Bekelisa is often used to mean ""move out of the way""."
 257,need,funa,verb,,ukufuna,false,false,transitive-only,,,
 258,need,dinga,verb,,ukudinga,false,false,either,,,"This is a more serious kind of need than ""funa""."
-259,pay,bhatala,verb,,ukubhatala,false,false,,,,
-260,prepare,lungiselela,verb,,ukulungiselela,false,false,,,,
+259,pay,bhatala,verb,,ukubhatala,false,false,either,,,
+260,prepare,lungiselela,verb,,ukulungiselela,false,false,transitive-only,,,
 261,press,cofa,verb,,cofa,false,false,,,,
 262,push,tyhala,verb,,ukutyala,false,false,,,,
 263,put in,faka,verb,,ukufaka,false,false,,,,
 264,pull,tsala,verb,,ukutsala,false,false,,,,
-265,put,beka,verb,,ukubeka,false,false,,,,
+265,put,beka,verb,,ukubeka,false,false,either,,,"Used when translating ""put on"" as in ""put the books on the table"""
 266,hide,zimela,verb,,ukuzimela,false,true,intransitive,,,
 267,hold,bamba,verb,,ukubamba,false,false,,,,
 268,listen,mamela,verb,,ukumamela,false,true,either,,,
 269,move,shukumisa,verb,,ukushukumisa,false,false,transitive-only,,,
 270,move,shukuma,verb,,ukushukuma,false,false,intransitive,,,
-271,live,phila,verb,,ukuphila,false,false,,,,"""phila"" should not be used to mean ""live somewhere"", ""hlala"" should be used instead. It is more similar to ""be well"". ""phila"" is an inchoative verb, so it should be used in the perfect tense for present tense meaning in some cases."
+271,live,phila,verb,,ukuphila,false,false,intransitive,,,"The word ""phila"" should not be used to mean ""live somewhere"", ""hlala"" should be used instead. It is more similar to ""be well"". The word ""phila"" is an inchoative verb, so it can be used in the perfect tense when meaning ""well"".  When meaning ""alive"" it is used in the present tense, usually with the progressive aspect -sa-."
 272,live,hlala,verb,,ukuhlala,false,false,,,,"""hlala"" is used for ""live somewhere"", not to live as in to be alive or be well - ""phila"" should instead be used in that case."
 273,happen,enzeka,verb,,ukwenzeka,false,false,intransitive,,,"""enzeka"" is sometimes used in the construction ""into eyenzekayo"" (""the thing that happens"") which can be used at the beginning of a sentence to introduce new information, similar to the English construction ""What happens is that..."" "
-274,meet,dibana,verb,,ukudibana,false,false,,,,
+274,meet,dibana,verb,,ukudibana,false,false,intransitive,,,
 275,lie,phosisa,verb,,ukuphosisa,false,false,,,,"""phosisa"" is a respectful, euphemistic way to say ""lie""."
 276,plant,tyala,verb,,ukutyala,false,false,,,,
 277,plants,izityalo,noun,,,true,false,,,Izi,
@@ -277,7 +277,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 279,potato,itapile,noun,,,false,false,,,In,
 280,pineapple,ipayina,noun,,,false,false,,,Ili,
 281,pineapples,amapayina,noun,,,true,false,,,Ama,
-282,local government,urhulumente wengingqi,noun,,,false,false,,,U,
+282,local government,urhulumente wengingqi,noun,,,false,false,,,U,"""Urhulumente wasekhaya"" is also used for ""local government""."
 283,local governments,oorhulumente bengingqi,noun,,,true,false,,,Oo,
 284,municipal council,iBhunga likaMasipala,noun,,,false,false,,,Ili,
 285,day,usuku,noun,,,false,false,,,Ulu,"""usuku"" refers to 24-hour day"
@@ -291,7 +291,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 293,pumpkins,amathanga,noun,,,true,false,,,Ama,
 294,rice,irayisi,noun,,,false,false,,,In,
 295,courts,iinkundla,noun,,,true,false,,,Ili,
-296,spinach,ispinatshi,noun,,,false,false,,,In,
+296,spinach,ispinatshi,noun,,,false,false,,,In,"Sometimes used as a noun in the isi- group, e.g. ""Simnandi esi spinatshi."" ""This spinach is nice."""
 297,Supreme Court of Appeal,INkundla ePhezulu yeziBheno,noun,,,false,false,,,In,
 298,Constitutional Court,INkundla yezomGaqo-siseko,noun,,,false,false,,,In,
 299,municipal councils,amaBhunga akaMasipala,noun,,,true,false,,,Ama,
@@ -299,7 +299,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 301,tomato,itumato,noun,,,false,false,,,In,
 302,wild berry,iqunube,noun,,,false,false,,,Ili,
 303,Small Claims Court,INkundla yamaBango amaNcinci,noun,,,false,false,,,In,
-304,watermelon,ivatala,noun,,,false,false,,,Ili,
+304,watermelon,ivatala,noun,,,false,false,,,In,
 305,Magistrate's Court,INkundla kaMantyi,noun,,,false,false,,,In,
 306,tomorrow,ngomso,adverb,,,false,false,,,,
 307,watermelons,iivatala,noun,,,false,false,,,Izin,
@@ -310,8 +310,8 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 312,weekends,iimpelaveki,noun,,,true,false,,,Izin,
 313,application for bail,isicelo sebheyile,noun,,,false,false,,,Isi,
 314,early in the morning,kwakusasa,adverb,,,false,false,,,,
-315,wild berries,iiqunube,noun,,,true,false,,,Izin,
-316,aeroplane,inqwelomoya,noun,,,false,false,,,In,
+315,wild berries,amaqunube,noun,,,true,false,,,Ama,
+316,aeroplane,inqwelomoya,noun,,,false,false,,,In,Most people use i-eropleyini for aeroplane.
 317,accused,ummangalelwa,noun,,,false,false,,,Class1Um,
 318,accused,abamangalelwa,noun,,,true,false,,,Aba,
 319,appeals,izibheno,noun,,,true,false,,,Izin,
@@ -350,12 +350,12 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 352,traditional doctor,igqirha,noun,,,true,false,,,Ili,
 353,complaint,isikhalazo,noun,,,false,false,,,Isi,
 354,complaints,izikhalazo,noun,,,false,false,,,Izin,
-355,doctor,ugqirha,noun,,,false,false,,,U,"""ugqirha"" can be used to refer to a medicinal doctor or someone who got their doctorate in academia."
-356,doctors,oogqirha,noun,,,true,false,,,Oo,"""oogqirha"" can be used to refer to a medicinal doctor or people who got their doctorate in academia."
+355,doctor,ugqirha,noun,,,false,false,,,U,"""ugqirha"" can be used to refer to a medical doctor or someone who got their doctorate in academia."
+356,doctors,oogqirha,noun,,,true,false,,,Oo,"""oogqirha"" can be used to refer to medical doctors or people who got their doctorate in academia."
 357,corruption,urhwaphilizo,noun,,,false,false,,,Ulu,
 358,death penalty,isigwebo sentambo,noun,,,false,false,,,Isi,
 359,strike,gwayimba,verb,,ukugwayimba,false,false,intransitive,,,"""gwayimba"" is used to describe the act of refusing to work due to unfavourable working conditions/pay."
-360,evidence,ubugqina,noun,,,false,false,,,Ubu,
+360,evidence,ubungqina,noun,,,false,false,,,Ubu,
 361,drug,isiyobisi,noun,,,false,false,,,Isi,
 362,crane,isilenge,noun,,,false,false,,,Isi,"""isilenge"" is used to refer to a crane which is a machine used in construction."
 363,defendants,abamangalelwa,noun,,,true,false,,,Ama,
@@ -822,3 +822,18 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 825,smell,va,verb,,ukuva,false,false,either,,,
 826,become tired,dinwa,verb,,ukudinwa,false,true,intransitive,,,
 827,wake up,vuka,verb,,ukuvuka,false,false,intransitive,,,
+828,remove,susa,verb,,ukususa,false,false,transitive-only,,,
+829,draw,zoba,verb,,ukuzoba,false,false,either,,,
+830,bird,intaka,noun,,,false,false,,,In,
+831,bake,bhaka,verb,,ukubhaka,false,false,either,,,
+832,worship,khonza,verb,,ukukhonza,false,false,either,,,
+833,shark,ukrebe,noun,,,false,false,,,U,
+834,sharks,ookrebe,noun,,,true,false,,,Oo,
+835,complete,gqibezela,verb,,ukugqibezela,false,false,either,,,"Also used in the sense of ""finish off"""
+836,be employed,phangela,verb,,ukuphangela,false,false,intransitive,,,
+837,witness,ingqina,noun,,,false,false,,,Ili,
+838,zero,iqanda,noun,,,false,false,,,Ili,"Although ""iqanda"" comes from the word for egg, it is also used for ZERO - like the French ""l'œuf"" (the egg) which we hear as LOVE in tennis matches"
+839,birds,iintaka,noun,,,true,false,,,Izin,
+840,come from,vela,verb,,ukuvela,false,false,intransitive,,,
+841,come from,suka,verb,,ukusuka,false,false,intransitive,,,"Also used to translate ""go from"", as in ""this train goes from Cape Town to Simonstown"" ""Le treyini isuka iKapa isiya eSimonstown"". In its infinitive form it can be used for time spans, e.g. From Monday to Friday: Ukusuka ngoMvulo ukuya ngoLwesihlanu."
+842,pay,hlawula,verb,,ukuhlawula,false,false,either,,,
