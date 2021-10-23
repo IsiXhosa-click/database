@@ -372,7 +372,7 @@ example_id,word_id,english,xhosa
 386,322,I requested bail.,Ndicele ibheyile.
 387,323,My bicycle is very old - I can't ride it.,Ibhayisekile yam indala kakhulu - andikwazi ukuyikhwela.
 388,324,"This wagon is full, you must wait for the next one.","Le nqwelo igcwele, kufuneka ulinde enye ezayo."
-389,325,There was armed robbery at the shop yesterday.,Kukho ukuphanga uxhobile evenkileni ngezolo.
+389,325,There was armed robbery at the shop yesterday.,Bekukho ukuphanga kuxhotyiwe evenkileni izolo.
 390,326,Aeroplanes often fly over my house and make a noise.,Iinqwelomoya zithanda ukubhabha phezu kwendlu yam zingxole.
 391,327,The criminals submitted applications for bail,Ootsotsi babeke izicelo zebheyile
 392,328,The lawyer will discuss the case.,Igqwetha lizoncokola ityala.
@@ -390,7 +390,7 @@ example_id,word_id,english,xhosa
 404,341,This boat goes from Rome to Athens.,Esi sikhitshana sisuka eRome sisiya eAthens.
 405,342,The rich man owns five boats.,Isityebi sinezikhitshana ezihlanu.
 406,343,This ship is made of steel.,Esi sikhephe senziwa ngentismbi.
-407,344,The ships are leaving today.,Izikhephe zimka namhlanje.
+407,344,The ships are leaving today.,Izikhephe ziyahamba namhlanje.
 408,345,"I promise you, I will never forget you.","Ndiyakuthembisa, ngekhe ndikulibale."
 409,346,There are cells in the prison.,Kukho izisele entolongweni.
 410,347,I lay a charge at the court.,Ndibeka isityholo enkundleni.
@@ -430,7 +430,7 @@ example_id,word_id,english,xhosa
 444,382,He fished for hours but he didn't catch one fish.,Ebeloba ngeeyure ezininzi kodwa ebengafumani ntlanzi enye.
 445,383,The public transport works well here.,Isithuthu sikawonke-wonke sisebenza kakuhle apha.
 446,384,We need two helicopters to make the film.,Sifuna iihelikhopta ezimbini zokwenza ifilim.
-447,385,The mugger is in jail.,Umphangi usetolongweni.
+447,385,The mugger is in jail.,Umphangi usentolongweni.
 448,386,All passengers must exit the vehicle.,Kufuneka bonke abakhweli baphume esithuthini.
 449,387,The policeman gave me a fine.,Ipolisa lindinike umdliwo.
 450,388,We found the perpetrator.,Sifumene isikrelemnqa.
@@ -440,10 +440,10 @@ example_id,word_id,english,xhosa
 454,392,Our business has three delivery vans.,Ishishini lethu lineeveni zokudilivara ezintathu.
 455,393,There is a group of muggers here.,Kukho iqela labaphangi apha.
 456,394,I see two ships in the sea.,Ndibona iinqanawe ezimbini elwandle.
-457,395,Some people are in poverty.,Abanye abantu banendlala.
+457,395,"When there is a drought, famine is common/widespread.","Xa kukho imbalela, indlala ixhaphakile."
 458,396,I feel guilty.,Ndiva ndinetyala.
 459,397,"At midday, the sun is scorching.","Kwimini emaqanda, ilanga liyatshisa."
-460,398,"In the afternoon, he returns from work.","Emva kwemini, ubuyela ekhaya."
+460,398,"In the afternoon, he returns home.","Emva kwemini, ubuyela ekhaya."
 461,399,School finishes in the afternoon.,Isikolo sigqiba emalanga.
 462,400,"When the sun sets, I will speak to you.","Lakutshona ilanga, ndiza kuthetha nawe."
 463,401,"Leave, all of you!",Phumani nonke!
@@ -927,3 +927,22 @@ example_id,word_id,english,xhosa
 943,842,How much do you pay your workers an hour?,Nihlawula abasebenzi benu malini ngeyure?
 944,196,This food is delicious - we are licking our finger tips!,Oku kutya kumnandi - simunca iintupha!
 945,269,Wow that guy loves to move his body!,Yho laa bhuti uyakuthanda ukushukumisa umzimba wakhe!
+946,843,I will hit you!,Ndizokubetha!
+947,843,The tyre hit something in the road.,Itayara libethe into endleleni.
+948,844,"I am not well, I will stay at home.","Andiphilanga, ndizohlala ekhaya."
+949,844,"I am not employed, I am just staying at home.","Andiphangeli, ndihleli nje ekhaya."
+950,844,"Stay here, I will look for help.","Hlala apha, ndizofuna uncedo."
+951,845,I trust myself.,Ndiyazithemba.
+952,845,You must trust yourself.,Kufuneka uzithembe.
+953,845,He does not trust himself.,Akazithembi.
+954,845,I am confident.,Ndiyazithemba.
+955,846,"I can see you today, not tomorrow.","Ndingakubona namhlanje, hayi ngomso."
+956,846,"They like to write, not to read.","Bayakuthanda ukubhala, hayi ukufunda."
+957,846,"Take these, not those.","Thatha ezi, hayi ezo."
+958,847,Many organizations are working to reduce poverty in this country.,Imibutho emininzi isebenzela ukucutha ubuhlwempu kweli lizwe.
+959,847,How many households live in poverty?,Mangaphi amakhaya ahlala ebuhlwempini?
+960,848,My daughter is in second year.,Intombi yam ikunyaka wesibini.
+961,848,My daughter is a doctor.,Intombi yam ngugqirha.
+962,848,Where is their daughter?,Iphi intombi yabo?
+963,849,Add 1 and 2.  What is the result?,Dibanisa u1 no2. Sithini isiphumo?
+964,850,If they don't study they will fail.,Xa bengafundi bazofeyila.

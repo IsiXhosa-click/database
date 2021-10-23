@@ -208,7 +208,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 209,take,thatha,verb,,ukuthatha,false,false,transitive-only,,,
 210,return,buya,verb,,ukubuya,false,false,intransitive,,,
 211,shout,khwaza,verb,,ukukhwaza,false,false,,,,
-212,sit,hlala,verb,,ukuhlala,false,false,,,,
+212,sit,hlala,verb,,ukuhlala,false,true,intransitive,,,"Note that ""sitting"" is translated as ""hleli"", as this is the irregular stative form of ""hlala""."
 213,run,baleka,verb,,ukubaleka,false,false,intransitive,,,
 214,stay behind,sala,verb,,ukusala,false,false,intransitive,,,"""Sala kakuhle"" can be used to mean ""goodbye"" to someone who will be staying where they are."
 215,shout,shawuta,verb,,ukushawuta,false,false,,,,
@@ -320,7 +320,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 322,bail,ibheyile,noun,,,false,false,,,In,
 323,bicycle,ibhayisekile,noun,,,false,false,,,In,
 324,wagon,inqwelo,noun,,,false,false,,,In,
-325,armed robbery,ukuphanga uxhobile,noun,,,false,false,,,Uku,
+325,armed robbery,ukuphanga kuxhotyiwe,noun,,,false,false,,,Uku,"Literally translates ""to rob, being armed"".  Ukuxhoba is ""to arm"" and ukuxhotywa is ""to be armed"" -iwe is the stative suffix ""kuxhotyiwe"" translates ""being armed"""
 326,aeroplanes,iinqwelomoya,noun,,,true,false,,,Izin,
 327,applications for bail,izicelo zebheyile,noun,,,true,false,,,Izin,
 328,case,ityala,noun,,,false,false,,,Ili,Legal case
@@ -390,7 +390,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 392,vans,iiveni ,noun,,,true,false,,,Izin,
 393,muggers,abaphangi,noun,,,true,false,,,Aba,
 394,ships,iinqanawe,noun,,,true,false,,,Izin,
-395,poverty,indlala,noun,,,false,false,,,In,
+395,famine,indlala,noun,,,false,false,,,In,
 396,guilt,ityala,noun,,,false,false,,,In,
 397,midday,imini emaqanda,noun,,,false,false,,,In,
 398,in the afternoon,emva kwemini,adverb,,,false,false,,,,
@@ -837,3 +837,11 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 840,come from,vela,verb,,ukuvela,false,false,intransitive,,,
 841,come from,suka,verb,,ukusuka,false,false,intransitive,,,"Also used to translate ""go from"", as in ""this train goes from Cape Town to Simonstown"" ""Le treyini isuka iKapa isiya eSimonstown"". In its infinitive form it can be used for time spans, e.g. From Monday to Friday: Ukusuka ngoMvulo ukuya ngoLwesihlanu."
 842,pay,hlawula,verb,,ukuhlawula,false,false,either,,,
+843,hit,betha,verb,,ukubetha,false,false,either,,,
+844,stay,hlala,verb,,ukuhlala,false,true,intransitive,,,"""hleli"", the irregular stative of hlala, generally translates ""staying"" or ""sitting"""
+845,trust,themba,verb,,ukuthemba,false,false,either,,,"With the reflexive object concord -zi- it means ""confident"" [self-trust]. "
+846,not,hayi,adverb,,,false,false,,,,"Used in simple sentences where NOT is used to modify a noun, pronoun, verb, adverb, adjective"
+847,poverty,ubuhlwempu,noun,,,false,false,,,Ubu,
+848,daughter,intombi,noun,,,false,false,,,In,
+849,result,isiphumo,noun,,,false,false,,,Isi,
+850,if,xa,conjunction,,,false,false,,participial mood,,
