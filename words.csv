@@ -848,3 +848,4 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 852,mistakes,iimpazamo,noun,,,true,false,,,Izin,
 853,nicely,kamnandi,adverb,,,false,false,,,,
 854,woman,umama,noun,,,false,false,,,U,"Although ""umama"" means ""mother"" it is frequently used to refer to any ""woman"""
+855,man,utata,noun,,,false,false,,,U,"Although ""utata"" means ""father"" it is often used to refer to any ""man""."
