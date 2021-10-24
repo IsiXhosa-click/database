@@ -70,7 +70,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 71,journalist,intatheli,noun,,,false,false,,,In,
 72,hat,umnqwazi,noun,,,false,false,,,Class3Um,
 73,tear apart,krazuka,verb,,ukukrazuka,false,false,transitive-only,,,
-74,improve,phucula,verb,,ukuphucula,false,false,,,,
+74,improve,phucula,verb,,ukuphucula,false,false,transitive-only,,,
 75,shade,umthunzi,noun,,,false,false,,,Class3Um,
 76,battle,idabi,noun,,,false,false,,,Ili,
 77,example,umzekelo,noun,,,false,false,,,Class3Um,
@@ -294,7 +294,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 296,spinach,ispinatshi,noun,,,false,false,,,In,"Sometimes used as a noun in the isi- group, e.g. ""Simnandi esi spinatshi."" ""This spinach is nice."""
 297,Supreme Court of Appeal,INkundla ePhezulu yeziBheno,noun,,,false,false,,,In,
 298,Constitutional Court,INkundla yezomGaqo-siseko,noun,,,false,false,,,In,
-299,municipal councils,amaBhunga akaMasipala,noun,,,true,false,,,Ama,
+299,municipal councils,amaBhunga ooMasipala,noun,,,true,false,,,Ama,
 300,High Court,INkundla ePhakamileyo,noun,,,false,false,,,In,
 301,tomato,itumato,noun,,,false,false,,,In,
 302,wild berry,iqunube,noun,,,false,false,,,Ili,
@@ -394,7 +394,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 396,guilt,ityala,noun,,,false,false,,,In,
 397,midday,imini emaqanda,noun,,,false,false,,,In,
 398,in the afternoon,emva kwemini,adverb,,,false,false,,,,
-399,in the afternoon,emalanga,adverb,,,false,false,,,,
+399,[in] the afternoon,emalanga,adverb,,,false,false,,,,"This word can also just indicate ""in the afternoons"" with a more general sense."
 400,set,tshona,verb,,ukutshona,false,false,intransitive,,,"""tshona"" refers to the setting of the sun."
 401,exit,phuma,verb,,ukuphuma,false,false,intransitive,,,
 402,rise,phuma,verb,,ukuphuma,false,false,intransitive,,,"""phuma"" refers to the sun rising."
@@ -407,19 +407,19 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 409,tricks,amaqhinga,noun,,,true,false,,,Ama,
 410,trick,iqhinga,noun,,,false,false,,,Ili,
 411,before,phambili,preposition,,,false,false,,,,"""phambili"" appears as ""phambi"" when it is modifying something."
-412,up,phezulu,preposition,,,false,false,,,,
+412,up,phezulu,preposition,,,false,false,,,,"The -el- verbal extension is often used with verbs that come before ""phezulu"" e.g. Culela phezulu! Sing up!"
 413,down,phantsi,preposition,,,false,false,,,,
 414,below,phantsi,preposition,,,false,false,,,,
 415,chop,canda,verb,,ukucanda,false,false,transitive-only,,,"""canda"" refers to splitting of wood."
-416,eat,canda,verb,,ukucanda,false,false,either,,,
+416,eat,canda,verb,,ukucanda,false,false,either,,,"Canda is generally used for ""chop"" but can be used informally for ""eat"""
 417,pour,galela,verb,,ukugalela,false,false,transitive-only,,,
 418,intestine,ulusu,noun,,,false,false,,,Ulu,
-419,skin,ulusu,noun,,,false,false,,,Ulu,
+419,skin,ulusu,noun,,,false,false,,,Ulu,"These days many Xhosa speakers just use the borrowed word ""iskin"" using it as a noun in the isi- group, e.g. ""Sihle iskin sakho."" ""Your skin is beautiful."""
 420,cut,ncwela,verb,,ukuncwela,false,false,transitive-only,,,"""ncwela"" can be used to refer to cutting paper into smaller strips"
 421,bully,ncwela,verb,,ukuncwela,false,false,transitive-only,,,Informal.
 422,walk,hamba,verb,,ukuhamba,false,false,intransitive,,,
 423,home,idlala,noun,,,false,false,,,Ili,Informal.
-424,brother,umnakwethu,noun,,,false,false,,,Class1Um,Used to refer to your brother regardless of whether they are younger or elderly.
+424,brother,umnakwethu,noun,,,false,false,,,Class1Um,Used to refer to your brother regardless of whether they are younger or older.
 425,younger brother,umninwa,noun,,,false,false,,,Class1Um,Only used when referring to your younger brother
 426,no,hayi,interjection,,,false,false,,,,
 427,yes,ewe,interjection,,,false,false,,,,
@@ -443,7 +443,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 445,almost,phantse,adverb,,,false,false,,indicative mood,,
 446,effect,ifuthe,noun,,,false,false,,,Ili,
 447,effects,amafuthe,noun,,,true,false,,,Ama,
-448,oil,amafutha,noun,,,false,false,,,Ama,
+448,oil,amafutha,noun,,,false,false,,,Ama,"These days most people use ""i-oyile"" for ""oil""."
 449,become lost,lahleka,verb,,ukulahleka,false,true,intransitive,,,"This is used to say ""I have lost something"" by putting it in the passive voice. See the first example."
 450,dump,lahla,verb,,ukulahla,false,false,either,,,
 451,war,imfazwe,noun,,,false,false,,,In,
@@ -466,7 +466,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 468,slap,qhwaba,verb,,ukuqhwaba,false,false,either,,,
 469,pastor,umfundisi,noun,,,false,false,,,Class1Um,
 470,bin,umgqomo,noun,,,false,false,,,Class3Um,
-471,ever,kha,verb,,ukukha,false,false,intransitive,,,
+471,ever,kha,verb,,ukukha,false,false,intransitive,,,An auxiliary verb followed by the present subjunctive or the past subjunctive
 472,remain,sala,verb,,ukusala,false,false,either,,,
 474,mine,umgodi,noun,,,false,false,,,Class3Um,
 475,person,umntu,noun,,,false,false,,,Class1Um,
@@ -495,17 +495,17 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 498,man,indoda,noun,,,false,false,,,In,
 499,woman,umfazi,noun,,,false,false,,,Class1Um,
 500,mister,umnumzana,noun,,,false,false,,,Class1Um,
-501,mister,umhlekazi,noun,,,false,false,,,Class1Um,"""Mhlekazi"" is a respectful term for a man who is middle aged or older."
+501,mister,umhlekazi,noun,,,false,false,,,Class1Um,"""Mhlekazi"" is a respectful term of address for a man who is middle aged or older."
 502,can,nakho,verb,,ukunakho,false,false,either,,,
 503,can,azi,verb,,ukwazi,false,false,either,,,
 504,time,ixesha,noun,,,false,false,,,Ili,
 505,times,amaxesha,noun,,,true,false,,,Ama,
-506,year,unyaka,noun,,,false,false,,,Class3Um,
+506,year,unyaka,noun,,,false,false,,,Class3Um,Although this noun is in the UM- group the M of the prefix has been dropped.
 507,women,abafazi,noun,,,true,false,,,Aba,
 508,men,amadoda,noun,,,true,false,,,Ama,
 509,years,iminyaka,noun,,,true,false,,,Imi,
 510,other,nye,adjective,,,false,false,,,,
-511,outside,phandle,preposition,,,false,false,,,,
+511,outside,phandle,preposition,,,false,false,,,,"Also sometimes ""ngaphandle""."
 512,between,phakathi,preposition,,,false,false,,,,"""phakathi"" is followed by ""kwa"" when it is used to mean ""between"""
 513,inside,phakathi,preposition,,,false,false,,,,"""phakathi"" is followed by the locative when taken to mean ""inside"""
 514,after,emva,preposition,,,false,false,,,,
@@ -588,9 +588,8 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 591,power,amandla,noun,,,false,false,,,Ama,
 592,terms and conditions,imimiselo nemiqathango,noun,,,true,false,,,Imi,
 593,energy,amandla,noun,,,false,false,,,Ama,
-594,beach,ulwandle,noun,,,false,false,,,Ulu,
 595,weeks,iiveki,noun,,,true,false,,,Izin,
-596,phone,umnxeba,noun,,,false,false,,,U,It also refers to the land-line
+596,phone,umnxeba,noun,,,false,false,,,U,"It also refers to the land-line.  Most people use ""ifoni""."
 597,radio,unomathotholo,noun,,,false,false,,,U,
 598,river,umlambo,noun,,,false,false,,,Class3Um,
 599,pen,usiba,noun,,,false,false,,,Ulu,
@@ -599,7 +598,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 602,feathers,iintsiba,noun,,,true,false,,,Izin,
 603,heart,intliziyo,noun,,,false,false,,,In,
 604,beach,ulwandle,noun,,,false,false,,,Ulu,"While ulwandle does not specifically mean beach, it is commonly used to refer to a beach."
-605,hello,molo,interjection,,,false,false,,,,
+605,hello,molo,interjection,,,false,false,,,,"""Molo"" is only used to say ""hello"" to ONE person.  "
 606,goodbye,sala kakuhle,interjection,,,false,false,,,,"Sala kakuhle is said to someone who is staying where they are, if you are the one leaving."
 607,hello,molweni,interjection,,,true,false,,,,Used when addressing two or more people.
 608,goodbye,hamba kakuhle,interjection,,,false,false,,,,hamba kakuhle is said to someone who is leaving.
@@ -624,7 +623,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 627,turn on,layita,verb,,ukulayita,false,false,transitive-only,,,
 628,be happy,vuya,verb,,ukuvuya,false,false,either,,,
 629,backward,emva,preposition,,,false,false,,,,
-630,beach,unxweme,noun,,,false,false,,,Ulu,
+630,coast,unxweme,noun,,,false,false,,,Ulu,
 631,hand,ingalo,noun,,,false,false,,,In,
 632,arms,iingalo,noun,,,true,false,,,Izin,
 633,hands,iingalo,noun,,,true,false,,,Izin,
@@ -845,3 +844,6 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 848,daughter,intombi,noun,,,false,false,,,In,
 849,result,isiphumo,noun,,,false,false,,,Isi,
 850,if,xa,conjunction,,,false,false,,participial mood,,
+851,mistake,impazamo,noun,,,false,false,,,In,
+852,mistakes,iimpazamo,noun,,,true,false,,,Izin,
+853,nicely,kamnandi,adverb,,,false,false,,,,
