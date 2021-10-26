@@ -148,7 +148,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 149,remember,khumbula,verb,,ukukhumbula,false,false,either,,,"Khumbula is also used to translate ""miss"", e.g. Ndikhumbula umama. I miss mom."
 150,fix,lungisa,verb,,ukulungisa,false,false,,,,
 151,find,fumana,verb,,ukufumana,false,true,transitive-only,,,
-152,become full,gcwala,verb,,ukugcwala,false,false,intransitive,,,
+152,become full,gcwala,verb,,ukugcwala,false,true,intransitive,,,
 153,fight,lwa,verb,,ukulwa,false,false,,,,
 154,explain,cacisa,verb,,ukucacisa,false,false,either,,,
 155,cost,xabisa,verb,,ukuxabisa,false,false,intransitive,,,
@@ -508,13 +508,13 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 511,outside,phandle,preposition,,,false,false,,,,"Also sometimes ""ngaphandle""."
 512,between,phakathi,preposition,,,false,false,,,,"""phakathi"" is followed by ""kwa"" when it is used to mean ""between"""
 513,inside,phakathi,preposition,,,false,false,,,,"""phakathi"" is followed by the locative when taken to mean ""inside"""
-514,after,emva,preposition,,,false,false,,,,
+514,after,emva,preposition,,,false,false,,,,"After doing something very often used with kwa-infinitive --> koku-, e.g. emva kokuthetha naye - after speaking with him/her"
 515,in front,phambili,preposition,,,false,false,,,,"""phambili"" appears as ""phambi"" when it is modifying something."
 516,forward,phambili,preposition,,,false,false,,,,
 517,behind,emva,preposition,,,false,false,,,,
 518,sides,amacala,noun,,,true,false,,,Ama,
 519,next to,ecaleni,preposition,,,false,false,,,,
-520,on the right,ekunene,preposition,,,false,false,,,,
+520,on the right,ekunene,preposition,,,false,false,,,,"Many Xhosa speakers now just say ""ngaseright"" for ""on/to the right"""
 521,on the left,ekhohlo,preposition,,,false,false,,,,
 522,some,nye,adjective,,,false,false,,,,
 523,so that,ukuze,conjunction,,,false,false,,subjunctive mood,,
@@ -555,7 +555,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 558,schools,izikolo,noun,,,true,false,,,Izin,
 559,child,umntwana,noun,,,false,false,,,Class1Um,
 560,children,abantwana,noun,,,true,false,,,Aba,
-561,feel,va,verb,,ukuva,false,false,either,,,
+561,feel,va,verb,,ukuva,false,false,either,,,"The verb ""va"" when used to translate ""feel"" is usually used with the reflexive object concord -zi-"
 562,problems,iingxaki,noun,,,true,false,,,Izin,
 563,earth,umhlaba,noun,,,false,false,,,Class3Um,"Similar to ""ground"" or ""soil"""
 564,place,indawo,noun,,,false,false,,,In,
@@ -599,7 +599,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 603,heart,intliziyo,noun,,,false,false,,,In,
 604,beach,ulwandle,noun,,,false,false,,,Ulu,"While ulwandle does not specifically mean beach, it is commonly used to refer to a beach."
 605,hello,molo,interjection,,,false,false,,,,"""Molo"" is only used to say ""hello"" to ONE person.  "
-606,goodbye,sala kakuhle,interjection,,,false,false,,,,"Sala kakuhle is said to someone who is staying where they are, if you are the one leaving."
+606,goodbye,sala kakuhle,interjection,,,false,false,,,,"Sala kakuhle is said to someone who is staying where they are, if you are the one leaving.  It can only be used when addressing one person, otherwise use salani kakuhle."
 607,hello,molweni,interjection,,,true,false,,,,Used when addressing two or more people.
 608,goodbye,hamba kakuhle,interjection,,,false,false,,,,hamba kakuhle is said to someone who is leaving.
 609,underneath,ngaphantsi,preposition,,,false,false,,,,
@@ -663,7 +663,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 667,district,isithili,noun,,,false,false,,,Isi,
 668,fruit,isiqhamo,noun,,,false,false,,,Isi,
 669,fruits,iziqhamo,noun,,,true,false,,,Izi,
-670,follow,landela,verb,,ukulanda,false,false,either,,,
+670,follow,landela,verb,,ukulandela,false,false,either,,,
 671,eye,iliso,noun,,,false,false,,,Ili,
 672,eyes,amehlo,noun,,,true,false,,,Ama,
 673,nations,izizwe,noun,,,true,false,,,Izi,
@@ -716,7 +716,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 720,goodbye,salani kakuhle,interjection,,,true,false,,,,
 721,how many,ngaphi,adjective,,,false,false,,,,
 722,however,kambe ke,conjunction,,,false,false,,indicative mood,,
-723,end,phela,verb,,ukuphela,false,false,intransitive,,,"""phela"" means more ""run out"" in comparison to ""gqiba"" which is usually used when somebody finishes/completes something."
+723,end,phela,verb,,ukuphela,false,false,intransitive,,,"""phela"" means more ""run out""  or ""come to an end"" in comparison to ""gqiba"" which is usually used when somebody finishes/completes something."
 724,boy,inkwenkwe,noun,,,false,false,,,In,
 725,boys,amakhwenkwe,noun,,,true,false,,,Ama,
 726,why,kutheni,adverb,,,false,false,,participial mood,,
@@ -849,3 +849,18 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 853,nicely,kamnandi,adverb,,,false,false,,,,
 854,woman,umama,noun,,,false,false,,,U,"Although ""umama"" means ""mother"" it is frequently used to refer to any ""woman"""
 855,man,utata,noun,,,false,false,,,U,"Although ""utata"" means ""father"" it is often used to refer to any ""man""."
+856,space,indawo,noun,,,false,false,,,In,"Not used for ""outer space"""
+857,when?,nini?,adverb,,,false,false,,,,"""nini?"" will always occur after the verb.  It can occur with a Subject Concord, e.g. Inini itest? When is the test?"
+858,taste,ngcamla,verb,,ukungcamla,false,false,either,,,"Sometimes ""va"" is also used for ""taste"""
+859,taste,incasa,noun,,,false,false,,,In,
+860,become happy,onwaba,verb,,ukonwaba,false,true,intransitive,,,
+861,wipe,sula,verb,,ukusula,false,false,either,,,
+862,across,ngapha,preposition,,,false,false,,,,
+863,radio,irediyo,noun,,,false,false,,,In,"More common in speech than ""unomathotholo"""
+864,pen,ipen,noun,,,false,false,,,In,
+865,friend,itshomi,noun,,,false,false,,,In,"Informal but very common.  From the English ""chum""."
+866,when,xa,conjunction,,,false,false,,participial mood,,
+867,sin,isono,noun,,,false,false,,,Isi,
+868,sins,izono,noun,,,false,false,,,Izi,
+869,sin,ona,verb,,ukona,false,false,intransitive,,,
+870,swell up,dumba,verb,,ukudumba,false,true,intransitive,,,
