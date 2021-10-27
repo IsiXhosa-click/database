@@ -535,7 +535,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 538,culture,inkcubeko,noun,,,false,false,,,In,
 539,allow,vumela,verb,,ukuvumela,false,false,transitive-only,,,
 540,religion,inkolo,noun,,,false,false,,,In,
-541,be like,fana,verb,,ukufana,false,false,intransitive,,,
+541,be like,fana,verb,,ukufana,false,false,intransitive,,,"Often followed by na-, Compare  ""Bayafana"" ""They are alike"" with ""Bafana nathi"" ""They are like us"". "
 542,where,phi,relative,,,false,false,,,,
 543,health,impilo,noun,,,false,false,,,In,
 544,life,ubomi,noun,,,false,false,,,Ubu,
@@ -672,7 +672,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 676,area,ingingqi,noun,,,false,false,,,In,This refers to a geographical area.
 677,area,umgama,noun,,,false,false,,,Class3Um,
 678,region,ummandla,noun,,,false,false,,,Class3Um,
-679,letter,incwadi,noun,,,false,false,,,In,
+679,letter,incwadi,noun,,,false,false,,,In,"Many Xhosa speakers use ""ileta""."
 680,regions,imimandla,noun,,,true,false,,,Class3Um,
 681,vegetable,umfuno,noun,,,false,false,,,Class3Um,
 682,vegetables,imifuno,noun,,,true,false,,,Imi,
