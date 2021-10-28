@@ -255,7 +255,7 @@ example_id,word_id,english,xhosa
 269,231,Support your answer by giving an example.,Xhasa impendulo yakho ngokunika umzekelo.
 270,232,I take my dog to the park.,Ndisa inja yam epakeni.
 271,233,I understand you.,Ndiyakuqonda.
-272,233,"Sorry, I don't understand. Could you please repeat slowly?","Uxolo, andiqondi. Khawuphinde ngokucothisa?"
+272,233,"Sorry, I don't understand. Could you please repeat slowly.","Uxolo, andiqondi. Khawuphinde ngokucothisa."
 273,234,I urinate in the toilet.,Ndichama etoyilethi.
 274,235,I use a towel.,Ndisebenzisa itawuli.
 275,236,I want to sleep.,Ndifuna ukulala.
@@ -425,7 +425,7 @@ example_id,word_id,english,xhosa
 439,377,"As an old woman, my mum liked to collect motorbikes.","Njengexhegokazi, umama wam wayethanda ukuqokelela izithuthuthu. "
 440,378,I am paying my fines.,Ndibhatala izihlawuliso zam.
 441,379,I have fines because I drive poorly.,Ndinemidliwo kuba ndiqhube kakubi.
-442,380,"Ntsika is wanted for fraud,",UNtsika ufumene ngorhwaphilizo.
+442,380,Ntsika is wanted for fraud.,UNtsika ufumene ngorhwaphilizo.
 443,381,I got my motorbike license when I was sixteen.,Ndafumana ilayisensi yokhwela isithuthuthu xa ndandineminyaka elishumi elinesithandathu.
 444,382,He fished for hours but he didn't catch one fish.,Ebeloba ngeeyure ezininzi kodwa ebengafumani ntlanzi enye.
 445,383,The public transport works well here.,Isithuthu sikawonke-wonke sisebenza kakuhle apha.
@@ -857,7 +857,7 @@ example_id,word_id,english,xhosa
 875,810,How much profit is there?,Ingakanani inzuzo ekhoyo?
 876,811,This play is famous in Cape Town.,Lo mdlalo weqonga udumile eKapa.
 877,117,His business is prospering.,Ishishini lakhe liyahluma.
-878,812,The seeds will sprout and grow.,Iimbewu ziza kuhluma zikhula.
+878,812,The seeds will sprout and grow.,Iimbewu ziza kuhluma zikhule.
 879,813,Please help me study for my English exam.,Khawundicede ngokufundela umviwo wam wesiNgesi.
 880,814,We need to complete it quickly.,Kufuneka siyigqibe ngokukhawuleza.
 881,145,Are these dates OK for you?,Ingaba le mihla ikulungele na?
@@ -1009,3 +1009,7 @@ example_id,word_id,english,xhosa
 1027,754,How many bricks do you want me to buy?,Ufuna ndithenge izitena ezingaphi?
 1028,739,The dentist is going to take out my tooth.,Ugqirha wamazinyo uza kundikhupha izinyo.
 1029,261,Click on YES.,Cofa pha ku-EWE.
+1030,703,People's heads are not the same size.,Iintloko zabantu azilingani.
+1031,806,Children's stomachs are small.,Izisu zabantwana zincinci.
+1032,820,We will continue wearing masks.,Sizoqhubeka nokunxiba iimask.
+1033,820,They will continue studying.,Bazoqhubeka bafunde.

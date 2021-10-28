@@ -450,7 +450,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 452,above,phezulu,preposition,,,false,false,,,,"""phezulu"" appears as ""phezu"" when used before a noun to mean above/ on top of it."
 453,tin can,inkonxa,noun,,,false,false,,,In,Refers to any tin can
 454,sour milk,amasi,noun,,,false,false,,,Ama,
-455,first,ukuqala,noun,,,false,false,,,Uku,"Although, ""ukuqala"" is just the infinitive of ""qala"" meaning ""start"", it is used to mean ""first""."
+455,first,ukuqala,noun,,,false,false,,,Uku,"Although, ""ukuqala"" is just the infinitive of ""qala"" meaning ""start"", it is used to mean ""first"" and is preceded by a possessive concord."
 456,minute,umzuzu,noun,,,false,false,,,Class3Um,
 457,minutes,imizuzu,noun,,,true,false,,,Imi,
 458,hour,iyure,noun,,,false,false,,,,
@@ -799,7 +799,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 803,finger,umnwe,noun,,,false,false,,,Class3Um,Can be used to refer to both fingers of your hand and toes
 804,fingers,iminwe,noun,,,true,false,,,Imi,
 805,stomach,isisu,noun,,,false,false,,,Isi,Refers to both a belly and a stomach
-806,stomach,izisu,noun,,,true,false,,,Izi,
+806,stomachs,izisu,noun,,,true,false,,,Izi,
 807,veteran,igqala,noun,,,false,false,,,Ili,
 808,toe,umnwe,noun,,,false,false,,,Class3Um,
 809,toes,iminwe,noun,,,true,false,,,Imi,
