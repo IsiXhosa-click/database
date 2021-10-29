@@ -670,10 +670,10 @@ link_id,link_type,first,second
 670,alternate_use,597,863
 671,alternate_use,599,864
 672,related,573,865
-673,related,857,866
 674,confusable,857,866
 675,related,867,868
 676,related,867,869
 677,related,868,869
 678,related,249,248
 679,related,753,751
+680,plural_or_singular,852,851
