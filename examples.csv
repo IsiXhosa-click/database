@@ -881,7 +881,7 @@ example_id,word_id,english,xhosa
 899,823,"Every morning, he went to work at 8.","Qho kusasa, waya emsebenzini ngo8."
 900,764,Go and don't sin again.,Hamba ungaphinde wone.
 901,824,I do not want to marry him.,Andifuni kutshata naye.
-902,825,I smell fish.,Ndiva ivumba lentlanzi.
+902,825,I smell a fishy aroma.,Ndiva ivumba lentlanzi.
 903,218,I threw myself on the bed.,Ndizijule ebhedini.
 904,826,I will sleep because I am tired.,Ndiza kulala kuba ndidiniwe.
 905,217,Take out the plug.,Khupha iplag.
@@ -894,7 +894,7 @@ example_id,word_id,english,xhosa
 912,331,We can do it some day.,Singayenza ngenye imini.
 913,330,They are days I will never forget.,Ziimini endingasoze ndizilibale.
 914,831,I like to bake cakes.,Ndithanda ukubhaka iikeyiki.
-915,832,I am going to worship at church.,Ndiye ecaweni yokukhonza.
+915,832,I go to church to worship.,Ndiya ecaweni ukuyokhonza.
 916,190,Your child reminds me of Linda.,Umntwana wakho undikhumbuza uLinda.
 917,834,"It is said that sharks bite people, but they prefer not to.","Kuthiwa ukuba ookrebe baluma abantu, kodwa abathandi kuluma abantu."
 918,183,My birthday is tomorrow.,Umhla wam wokuzalwa ungomso.
@@ -905,12 +905,12 @@ example_id,word_id,english,xhosa
 923,352,Vumile is a traditional doctor.,UVumile uligqirha.
 924,368,Traditional doctors help.,Amagqirha ayanceda.
 925,837,We want to protect our witness.,Sifuna ukukhusela ingqina lethu.
-926,838,I got zero for that test.,Bendifumana iqanda kuloo vavanyo.
+926,838,I got zero for that test.,Ndifumene iqanda kolo vavanyo.
 927,839,"Where I come from, the birds sing a pretty song.","Kwindawo endivela kuyo, iintaka zicula ingoma entle."
 928,840,Where does this money come from?,Ivela phi le mali?
 929,840,We come from Cofimvaba.,Sivela eCofimvaba.
 930,840,Who does this question come from?,Uvela kubani lo mbuzo?
-931,841,Where do these drugs come from?,Zivela phi ezi ziyobisi?
+931,841,Where do these drugs come from?,Zisuka phi ezi ziyobisi?
 932,841,How long will it take me to get to Khayelitsha coming from Muizenberg?,Kuzondithatha ixesha elingakanani ukuya eKhayelitsha ukusuka eMuizenberg?
 933,226,I will return the book tomorrow.,Ndizobuyisa incwadi ngomso.
 934,188,This blanket is soft.,Le ngubo itofotofo.
@@ -945,7 +945,7 @@ example_id,word_id,english,xhosa
 963,849,Add 1 and 2.  What is the result?,Dibanisa u1 no2. Sithini isiphumo?
 964,850,If they don't study they will fail.,Xa bengafundi bazofeyila.
 965,851,He made a small mistake in all his paintings so that God sees he isn't perfect.,Wayenza impazamo encinci kwimizobo yakhe yonke ukuze uThixo abone ukuba akagqibelelanga.
-966,852,Tessa is good at finding all of our mistakes.,UTessa uqhuba kakuhle kokufumana iimpazamo zethu zonke.
+966,852,Tessa is good at finding all of our mistakes.,UTessa uqhuba kakuhle ekufumaneni iimpazamo zethu zonke.
 967,511,The parents are inside but the children are outside.,Abazali bangaphakathi kodwa abantwana bangaphandle.
 968,512,The traffic is bad between Gugulethu and Athlone.,Itraffic imbi phakathi kweGugulethu neAthlone.
 969,509,How many years have you been working here?,Mingaphi iminyaka usebenza apha?
@@ -1013,3 +1013,9 @@ example_id,word_id,english,xhosa
 1031,806,Children's stomachs are small.,Izisu zabantwana zincinci.
 1032,820,We will continue wearing masks.,Sizoqhubeka nokunxiba iimask.
 1033,820,They will continue studying.,Bazoqhubeka bafunde.
+1034,833,Is a shark like a crocodile?,Ingaba ukrebe lufana nengwenya?
+1035,832,We attend church regularly on a Sunday.,Sikhonza qho ngeCawe.
+1036,830,Is the ostrich a bird?,Ingaba inciniba yintaka?
+1037,824,Are you married?,Utshatile?
+1038,824,I am not married.,Anditshatanga.
+1039,800,My ankle is sprained.,Iqatha lam likrunekile.
