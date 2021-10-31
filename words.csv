@@ -847,7 +847,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 851,mistake,impazamo,noun,,,false,false,,,In,
 852,mistakes,iimpazamo,noun,,,true,false,,,Izin,
 853,nicely,kamnandi,adverb,,,false,false,,,,
-854,woman,umama,noun,,,false,false,,,U,"Although ""umama"" means ""mother"" it is frequently used to refer to any ""woman"""
+854,woman,umama,noun,,,false,false,,,U,"Although ""umama"" means ""mother"" it is frequently used to refer to any ""woman"" and is more respectful than ""umfazi""."
 855,man,utata,noun,,,false,false,,,U,"Although ""utata"" means ""father"" it is often used to refer to any ""man""."
 856,space,indawo,noun,,,false,false,,,In,"Not used for ""outer space"""
 857,when?,nini?,adverb,,,false,false,,,,"""nini?"" will always occur after the verb.  It can occur with a Subject Concord, e.g. Inini itest? When is the test?"
