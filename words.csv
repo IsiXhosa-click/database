@@ -185,7 +185,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 186,vaccinate,gonya,verb,,ukugonya,false,false,,,,
 187,congratulations,halala,interjection,,,false,false,,,,
 188,soft,tofotofo,relative,,,false,false,,,,"Usually only used to describe things like thick blankets, pillows, cushions and soft furnishings."
-189,alcohol,utywala,noun,,,false,false,,,Ulu,
+189,alcohol,utywala,noun,,,false,false,,,Ubu,
 190,remind,khumbuza,verb,,ukukhumbuza,false,false,transitive-only,,,
 191,carry,phatha,verb,,ukuphatha,false,true,transitive-only,,,"""phatha"" takes an irregular recent-past tense and stative form of ""phethe""."
 192,virus,intsholongwane,noun,,,false,false,,,In,
@@ -256,7 +256,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 258,need,dinga,verb,,ukudinga,false,false,either,,,"This is a more serious kind of need than ""funa""."
 259,pay,bhatala,verb,,ukubhatala,false,false,either,,,
 260,prepare,lungiselela,verb,,ukulungiselela,false,false,transitive-only,,,
-261,press,cofa,verb,,cofa,false,false,,,,
+261,press,cofa,verb,,cofa,false,false,transitive-only,,,
 262,push,tyhala,verb,,ukutyala,false,false,,,,
 263,put in,faka,verb,,ukufaka,false,false,,,,
 264,pull,tsala,verb,,ukutsala,false,false,,,,
@@ -515,7 +515,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 518,sides,amacala,noun,,,true,false,,,Ama,
 519,next to,ecaleni,preposition,,,false,false,,,,
 520,on the right,ekunene,preposition,,,false,false,,,,"Many Xhosa speakers now just say ""ngaseright"" for ""on/to the right"""
-521,on the left,ekhohlo,preposition,,,false,false,,,,
+521,on the left,ekhohlo,preposition,,,false,false,,,,"Many Xhosa speakers just say ""ngaseleft"" for ""on/to the left"""
 522,some,nye,adjective,,,false,false,,,,
 523,so that,ukuze,conjunction,,,false,false,,subjunctive mood,,
 524,that,ukuba,conjunction,,,false,false,,,,
@@ -527,7 +527,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 530,now,ngoku,adverb,,,false,false,,,,
 531,and also,kwaye,conjunction,,,false,false,,indicative mood,,
 532,dream,phupha,verb,,ukuphupha,false,false,either,,,
-533,what,ntoni,relative,,,false,false,,,,
+533,what?,ntoni?,relative,,,false,false,,,,
 534,always,okokoko,adverb,,,false,false,,,,Nice explanation on https://www.capetalk.co.za/podcasts/294/breakfast-with-refilwe-moloto/374210/everyday-xhosa-okokoko
 535,always,soloko,verb,,ukusoloko,false,false,intransitive,participial mood,,"""soloko"" is an auxiliary verb"
 536,bins,imigqomo,noun,,,true,false,,,Imi,
@@ -536,11 +536,11 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 539,allow,vumela,verb,,ukuvumela,false,false,transitive-only,,,
 540,religion,inkolo,noun,,,false,false,,,In,
 541,be like,fana,verb,,ukufana,false,false,intransitive,,,"Often followed by na-, Compare  ""Bayafana"" ""They are alike"" with ""Bafana nathi"" ""They are like us"". "
-542,where,phi,relative,,,false,false,,,,
+542,where?,phi?,relative,,,false,false,,,,
 543,health,impilo,noun,,,false,false,,,In,
 544,life,ubomi,noun,,,false,false,,,Ubu,
 545,life,impilo,noun,,,false,false,,,In,
-546,how,njani,relative,,,false,false,,,,
+546,how?,njani?,relative,,,false,false,,,,
 547,nice,mnandi,relative,,,false,false,,,,
 548,well,kakuhle,adverb,,,false,false,,,,
 549,world,umhlaba,noun,,,false,false,,,Class3Um,
@@ -624,9 +624,9 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 628,be happy,vuya,verb,,ukuvuya,false,false,either,,,
 629,backward,emva,preposition,,,false,false,,,,
 630,coast,unxweme,noun,,,false,false,,,Ulu,
-631,hand,ingalo,noun,,,false,false,,,In,
+631,hand,ingalo,noun,,,false,false,,,In,"Sometimes Xhosa speakers use ""ingalo"" to refer to ""isandla"" ""hand""."
 632,arms,iingalo,noun,,,true,false,,,Izin,
-633,hands,iingalo,noun,,,true,false,,,Izin,
+633,hands,iingalo,noun,,,true,false,,,Izin,"Sometimes Xhosa speakers use ""iingalo"" (arms) to refer to ""izandla"" (hands)."
 634,make noise,ngxola,verb,,ukungxola,false,false,intransitive,,,
 635,field,intsimi,noun,,,false,false,,,In,
 636,fields,amasimi,noun,,,true,false,,,Ama,
@@ -717,11 +717,11 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 721,how many,ngaphi,adjective,,,false,false,,,,
 722,however,kambe ke,conjunction,,,false,false,,indicative mood,,
 723,end,phela,verb,,ukuphela,false,false,intransitive,,,"""phela"" means more ""run out""  or ""come to an end"" in comparison to ""gqiba"" which is usually used when somebody finishes/completes something."
-724,boy,inkwenkwe,noun,,,false,false,,,In,
+724,boy,inkwenkwe,noun,,,false,false,,,In,"""ubhuti"" is also used to refer to any boy or young man"
 725,boys,amakhwenkwe,noun,,,true,false,,,Ama,
 726,why,kutheni,adverb,,,false,false,,participial mood,,
 727,water,amanzi,noun,,,false,false,,,Ama,
-728,picture,umfanekiso,noun,,,false,false,,,Class3Um,
+728,picture,umfanekiso,noun,,,false,false,,,Class3Um,"These days many Xhosa speakers use ""ipicture"""
 729,pictures,imifanekiso,noun,,,true,false,,,Imi,
 730,question,umbuzo,noun,,,false,false,,,Class3Um,
 731,questions,imibuzo,noun,,,true,false,,,Imi,
@@ -781,7 +781,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 785,tests,iimvavanyo,noun,,,true,false,,,Izin,
 786,exam,uvavanyo,noun,,,false,false,,,Ulu,
 787,exams,iimvavanyo,noun,,,true,false,,,Izin,
-788,test,umviwo,noun,,,false,false,,,Ulu,
+788,test,uviwo,noun,,,false,false,,,Ulu,
 789,tests,iimviwo,noun,,,true,false,,,Izin,
 790,death penalty,isigwebo sokufa,noun,,,false,false,,,Isi,
 791,be cold,banda,verb,,ukubanda,false,false,intransitive,,,"This is usually of a non-person subject. For people, ""godola"" is used."
@@ -806,7 +806,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 810,profit,inzuzo,noun,,,false,false,,,In,
 811,play,umdlalo weqonga,noun,,,false,false,,,Class3Um,"This refers to a theatrical play and translates to ""game of the stage"" which used to be used for ""theatrical performance/play"" but these days most people just say ""ishow"" for a theatrical ""play"""
 812,sprout,hluma,verb,,ukuhluma,false,false,intransitive,,,
-813,exam,umviwo,noun,,,false,false,,,Ulu,
+813,exam,uviwo,noun,,,false,false,,,Ulu,
 814,quickly,ngokukhawuzela,adverb,,,false,false,,,,
 815,daily,yonke imihla,adverb,,,false,false,,,,"Also translates ""every day"""
 816,cry out,khala,verb,,ukukhala,false,false,intransitive,,,"""khala"" is also often used for the sound of things like alarms ""I-alam iyakhala""."
@@ -864,3 +864,11 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 868,sins,izono,noun,,,false,false,,,Izi,
 869,sin,ona,verb,,ukona,false,false,intransitive,,,
 870,swell up,dumba,verb,,ukudumba,false,true,intransitive,,,
+871,face,jongana na-,verb,,ukujongana na-,false,true,intransitive,,,"Often in stative -jongene na- ""facing"""
+872,click,cofa,verb,,ukucofa,false,false,transitive-only,,,
+873,institution,iziko,noun,,,false,false,,,Izin,
+874,brother,ubhuti,noun,,,false,false,,,U,"Also used to refer to any ""boy"" or ""young man"""
+875,throat,umqala,noun,,,false,false,,,Class3Um,
+876,branch,isebe,noun,,,false,false,,,Ili,
+877,son,unyana,noun,,,false,false,,,U,
+878,Johannesburg,iRhawuti,noun,,,false,false,,,Ili,

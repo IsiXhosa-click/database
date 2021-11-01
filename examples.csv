@@ -425,7 +425,7 @@ example_id,word_id,english,xhosa
 439,377,"As an old woman, my mum liked to collect motorbikes.","Njengexhegokazi, umama wam wayethanda ukuqokelela izithuthuthu. "
 440,378,I am paying my fines.,Ndibhatala izihlawuliso zam.
 441,379,I have fines because I drive poorly.,Ndinemidliwo kuba ndiqhube kakubi.
-442,380,Ntsika is wanted for fraud.,UNtsika ufumene ngorhwaphilizo.
+442,380,Ntsika is wanted for fraud.,UNtsika funelwa urhwaphilizo.
 443,381,I got my motorbike license when I was sixteen.,Ndafumana ilayisensi yokhwela isithuthuthu xa ndandineminyaka elishumi elinesithandathu.
 444,382,He fished for hours but he didn't catch one fish.,Ebeloba ngeeyure ezininzi kodwa ebengafumani ntlanzi enye.
 445,383,The public transport works well here.,Isithuthu sikawonke-wonke sisebenza kakuhle apha.
@@ -843,7 +843,7 @@ example_id,word_id,english,xhosa
 861,793,He swears by his ancestors.,Ufunga izinyanya.
 862,794,Do not call him - he is bathing now.,Sukumbiza - uyabhafa ngoku.
 863,795,"I said ""I love you"", but he rejected me.","Ndathi ""ndiyakuthanda"", kodwa wandala."
-864,796,My foot is sore.,Inyawo lam lidumbile.
+864,796,My foot is swollen.,Inyawo lam lidumbile.
 865,797,My leg is injured.,Umlenze wam wenzakele.
 866,798,My legs are itching.,Imilenze yam iyarhawuzelela.
 867,799,Please give me a piece of meat.,Ndicela undiphe iqatha lenyama.
@@ -858,7 +858,7 @@ example_id,word_id,english,xhosa
 876,811,This play is famous in Cape Town.,Lo mdlalo weqonga udumile eKapa.
 877,117,His business is prospering.,Ishishini lakhe liyahluma.
 878,812,The seeds will sprout and grow.,Iimbewu ziza kuhluma zikhule.
-879,813,Please help me study for my English exam.,Khawundicede ngokufundela umviwo wam wesiNgesi.
+879,813,Please help me study for my English exam.,Khawundincede ndifundele uviwo lwam lwesiNgesi.
 880,814,We need to complete it quickly.,Kufuneka siyigqibe ngokukhawuleza.
 881,145,Are these dates OK for you?,Ingaba le mihla ikulungele na?
 882,133,Answer me!,Ndiphendule!
@@ -1008,7 +1008,6 @@ example_id,word_id,english,xhosa
 1026,870,Does your tongue swell up when you eat a certain food?,Ulwimi lwakho luyadumba xa usitya ukutya okuthile?
 1027,754,How many bricks do you want me to buy?,Ufuna ndithenge izitena ezingaphi?
 1028,739,The dentist is going to take out my tooth.,Ugqirha wamazinyo uza kundikhupha izinyo.
-1029,261,Click on YES.,Cofa pha ku-EWE.
 1030,703,People's heads are not the same size.,Iintloko zabantu azilingani.
 1031,806,Children's stomachs are small.,Izisu zabantwana zincinci.
 1032,820,We will continue wearing masks.,Sizoqhubeka nokunxiba iimask.
@@ -1019,3 +1018,16 @@ example_id,word_id,english,xhosa
 1037,824,Are you married?,Utshatile?
 1038,824,I am not married.,Anditshatanga.
 1039,800,My ankle is sprained.,Iqatha lam likrunekile.
+1040,871,You will face many problems.,Uzojongana neengxaki ezininzi.
+1041,871,I am facing many problems.,Ndijongene neengxaki ezininzi.
+1042,871,Our house faces the library.,Indlu yethu ijongene nelayibrari.
+1043,872,Click on YES.,Cofa pha ku-EWE.
+1044,873,University of Cape Town is the best educational institution in Africa.,Idyunivesithi yaseKapa liziko mfundo elingumpondo zihlanjiwe e-Afrika.
+1045,874,My brother is not in here Cape Town.,Ubhuti wam akakho apha eKapa.
+1046,875,My throat is sore.,Umqala wam ubuhlungu.
+1047,876,You can climb the tree using this branch.,Ungakhwela umthi usebenzisa eli sebe.
+1048,877,How is your son?,Unjani unyana wakho?
+1049,809,How many toes does a person have?,Mingaphi iminwe yeenyawo zomntu?
+1050,808,The toe of my foot is swollen.,Umnwe wonyawo udumbile.
+1051,809,My toes are ugly!,Iminwe yeenyawo zam mibi!
+1052,766,My stomach is sore.,Isisu sam sibuhlungu.
