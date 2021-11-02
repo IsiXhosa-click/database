@@ -872,3 +872,4 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 876,branch,isebe,noun,,,false,false,,,Ili,
 877,son,unyana,noun,,,false,false,,,U,
 878,Johannesburg,iRhawuti,noun,,,false,false,,,Ili,
+879,disturb,phazamisa,verb,,ukuphazama,false,false,either,,,
