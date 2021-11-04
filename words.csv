@@ -703,7 +703,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 707,class,iklasi,noun,,,false,false,,,In,"Note that this does not refer to ""class"" as in ""type""."
 708,classes,iiklasi,noun,,,true,false,,,Izin,"Note that this does not refer to ""classes"" as in ""types""."
 709,building,isakhiwo,noun,,,false,false,,,Isi,
-710,toilet,indlu yangasese,noun,,,false,false,,,In,
+710,toilet,indlu yangasese,noun,,,false,false,,,In,"Most Xhosa speakers use ""itoyilethi""."
 711,buildings,izakhiwo,noun,,,true,false,,,Izi,
 712,type,udidi,noun,,,false,false,,,Ulu,
 713,types,iindidi,noun,,,true,false,,,Izin,
@@ -766,7 +766,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 770,become urgent,ngxamiseka,verb,,ukungxamiseka,false,true,intransitive,,,
 771,urgently,ngokungxamisekileyo,adverb,,,false,false,,,,
 772,books,iincwadi,noun,,,true,false,,,Izin,
-773,letters,iincwadi,noun,,,true,false,,,Izin,
+773,letters,iincwadi,noun,,,true,false,,,Izin,"Contemporary Xhosa speakers are more likely to use ""iileta"""
 774,thank you,enkosi,interjection,,,false,false,,,,
 775,thank,bulela,verb,,ukubulela,false,false,either,,,
 776,practise,ziqhelisa,verb,,ukuziqhelisa,false,false,transitive-only,,,Usually followed by uku
@@ -873,3 +873,4 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 877,son,unyana,noun,,,false,false,,,U,
 878,Johannesburg,iRhawuti,noun,,,false,false,,,Ili,
 879,disturb,phazamisa,verb,,ukuphazama,false,false,either,,,
+880,be equal,lingana,verb,,ukulingana,false,false,intransitive,,,"Refers to things or people being the same in size, quality, age, etc. It can also be used for social equality."
