@@ -797,7 +797,7 @@ example_id,word_id,english,xhosa
 815,734,"If he catches the ball, his team will win.","Ukuba ubamba ibhola, iqela lakhe lizophumelela."
 816,735,I don't have the words to talk about that.,Andinamagama okuthetha ngayo.
 817,736,"""Come here!"" he shouted urgently.","""Yiza apha!"" wabhomboloza ngokungxamisekileyo."
-818,738,"This word means ""eat"" in English.","Eli gama lithetha ukuthi ""eat"" esiNgesi."
+818,738,"This word means ""eat"" in English.","Eli gama lithetha ukuthi ""eat"" esiNgesini."
 819,739,She has got one long tooth.,Unezinyo elinye elide.
 820,740,Be strong my brother.,Qina mntakwethu.
 821,741,Go and get permission to fish from the municipality before we go to the sea.,Hamba ufumane imvume yokuloba phambi kokuba siye elwandle.
@@ -1036,3 +1036,8 @@ example_id,word_id,english,xhosa
 1055,880,These strings are the same length.,Ezi ntambo zilingana ngobude.
 1056,880,We are all equal before the law.,Siyalingana sonke phambi komthetho.
 1057,749,Two teeth have to be taken out.,Amazinyo amabini kufuneka akhutshwe.
+1058,790,I do not agree with the death penalty.,Andivumelani nesigwebo sokufa.
+1059,881,Recently she has been complaining of a headache.,Kutshanje ebekhalaza ngentloko.
+1060,882,Le nyama inuka njani?,How does this meat smell?
+1061,882,You smell nice.,Unuka kamnandi.
+1062,882,I smell horrible.,Ndinuka kakubi.

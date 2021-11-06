@@ -453,7 +453,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 455,first,ukuqala,noun,,,false,false,,,Uku,"Although, ""ukuqala"" is just the infinitive of ""qala"" meaning ""start"", it is used to mean ""first"" and is preceded by a possessive concord."
 456,minute,umzuzu,noun,,,false,false,,,Class3Um,
 457,minutes,imizuzu,noun,,,true,false,,,Imi,
-458,hour,iyure,noun,,,false,false,,,,
+458,hour,iyure,noun,,,false,false,,,In,
 459,second,umzuzwana,noun,,,false,false,,,Class3Um,
 460,seconds,imizuzwana,noun,,,true,false,,,Imi,
 461,hours,iiyure,noun,,,true,false,,,Izin,
@@ -568,7 +568,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 571,weak,buthathaka,relative,,,false,false,,,,
 572,world,ihlabathi,noun,,,false,false,,,Ili,
 573,friend,umhlobo,noun,,,false,false,,,Class1Um,
-574,twin,iwele,noun,,,false,false,,,Izin,
+574,twin,iwele,noun,,,false,false,,,Ili,
 575,waterfalls,iingxangxasi,noun,,,true,false,,,Izin,
 576,extract,caphula,verb,,ukucaphula,false,false,transitive-only,,,
 577,homes,amakhaya,noun,,,true,false,,,Ama,
@@ -874,3 +874,5 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 878,Johannesburg,iRhawuti,noun,,,false,false,,,Ili,
 879,disturb,phazamisa,verb,,ukuphazama,false,false,either,,,
 880,be equal,lingana,verb,,ukulingana,false,false,intransitive,,,"Refers to things or people being the same in size, quality, age, etc. It can also be used for social equality."
+881,recently,kutshanje,adverb,,,false,false,,,,
+882,smell,nuka,verb,,ukunuka,false,false,intransitive,,,"Normally only used to indicate ""give out a smell"""
