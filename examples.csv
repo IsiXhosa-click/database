@@ -634,7 +634,7 @@ example_id,word_id,english,xhosa
 650,570,I like to spend time riding my bicycle.,Ndithanda ukuchitha ixesha ngokukhwela ibhayisekile.
 651,570,He likes to spend money at the store.,Uthanda ukuchitha imali evenkileni.
 652,571,Her whole body was weak due to her illness.,Umzimba wonke wakhe ububuthathaka ngenxa yokugula kwakhe.
-653,572,The Christian religion is popular around the world.,Inkolo yobukristu iyathandwa kwihlabathi liphela.
+653,572,The Christian religion is popular around the world.,Inkolo yobuKristu iyathandwa kwihlabathi liphela.
 654,573,My friend will be spending the holiday in Britain.,Umhlobo wam uza kuchitha iholide eBritane.
 655,574,Simphiwe is my twin.,USimphiwe liwele lam.
 656,575,Look at the waterfalls on the mountain!,Jonga iingxangxasi ezisentabeni!
@@ -1041,3 +1041,5 @@ example_id,word_id,english,xhosa
 1060,882,Le nyama inuka njani?,How does this meat smell?
 1061,882,You smell nice.,Unuka kamnandi.
 1062,882,I smell horrible.,Ndinuka kakubi.
+1063,883,I don't want my ankle to get sprained.,Andifuni iqatha lam likruneke.
+1064,883,Grandfather's ankle is sprained.,Likrunekile iqatha likatatomkhulu.

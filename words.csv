@@ -876,3 +876,4 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 880,be equal,lingana,verb,,ukulingana,false,false,intransitive,,,"Refers to things or people being the same in size, quality, age, etc. It can also be used for social equality."
 881,recently,kutshanje,adverb,,,false,false,,,,
 882,smell,nuka,verb,,ukunuka,false,false,intransitive,,,"Normally only used to indicate ""give out a smell"""
+883,become sprained,kruneka,verb,,ukukruneka,false,false,intransitive,,,
