@@ -611,7 +611,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 615,afraid,oyika,verb,,ukoyika,false,false,either,,,
 616,peace,uxolo,noun,,,false,false,,,Ulu,
 617,today,namhla,adverb,,,false,false,,,,
-618,farm ,amasimi,noun,,,false,false,,,Ama,
+618,farm ,amasimi,noun,,,false,false,,,Ama,"Some  Xhosa speakers use ""amasimi"" ""fields"" to refer to a ""farm""."
 619,sorry,uxolo,noun,,,false,false,,,Ulu,
 620,noise,ingxolo,noun,,,false,false,,,In,
 621,anywhere,naphi na,adverb,,,false,false,,,,
