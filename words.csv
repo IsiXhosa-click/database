@@ -877,3 +877,4 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 881,recently,kutshanje,adverb,,,false,false,,,,
 882,smell,nuka,verb,,ukunuka,false,false,intransitive,,,"Normally only used to indicate ""give out a smell"""
 883,become sprained,kruneka,verb,,ukukruneka,false,false,intransitive,,,
+884,crocodile,ingwenya,noun,,,false,false,,,In,
