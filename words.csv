@@ -420,7 +420,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 422,walk,hamba,verb,,ukuhamba,false,false,intransitive,,,
 423,home,idlala,noun,,,false,false,,,Ili,Informal.
 424,brother,umnakwethu,noun,,,false,false,,,Class1Um,Used to refer to your brother regardless of whether they are younger or older.
-425,younger brother,umninwa,noun,,,false,false,,,Class1Um,Only used when referring to your younger brother
+425,younger brother,umninawa,noun,,,false,false,,,Class1Um,Only used when referring to your younger brother
 426,no,hayi,interjection,,,false,false,,,,
 427,yes,ewe,interjection,,,false,false,,,,
 428,language,ulwimi,noun,,,false,false,,,Ulu,
