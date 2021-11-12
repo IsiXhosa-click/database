@@ -817,7 +817,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 821,anger,umsindo,noun,,,false,false,,,Class3Um,"Can be used with -na- to indicate being angry, e.g. Ndinomsindo. Literally ""I have anger"". Do not confuse with the Zulu meaning of umsindo being ""noise""."
 822,become thin,bhitya,verb,,ukubhitya,false,true,intransitive,,,
 823,every,qho,adverb,,,false,false,,,,
-824,marry,tshata,verb,,ukutshata,false,false,either,,,
+824,marry,tshata,verb,,ukutshata,false,true,either,,,
 825,smell,va,verb,,ukuva,false,false,either,,,
 826,become tired,dinwa,verb,,ukudinwa,false,true,intransitive,,,
 827,wake up,vuka,verb,,ukuvuka,false,false,intransitive,,,
