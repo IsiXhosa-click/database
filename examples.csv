@@ -357,7 +357,7 @@ example_id,word_id,english,xhosa
 371,307,These watermelons are fresh.,Ezi vatala zitsha.
 372,308,I am going on holiday this weekend.,Ndizoya eholideyini kule mpelaveki.
 373,309,The secret ingredient is spinach.,Isithako esifihlakeleyo yispinatshi.
-374,310,Siphe is allergic to tomatoes.,USiphe walanayo neetumato.
+374,310,Siphe is allergic to tomatoes.,Impilo kaSiphe iyalana neetumato. [Literally: The health of Siphe refuses together with tomatoes]
 375,311,I lay an appeal at the court.,Ndibeka isibheno enkundleni.
 376,312,"On many weekends, he likes to go to town.","Ngeempelaveki ezininzi, uthanda ukuya etown."
 377,313,The judge thinks about the application for bail.,Umgwebi ucinga ngesicelo sebheyile.
@@ -1045,3 +1045,12 @@ example_id,word_id,english,xhosa
 1064,883,Grandfather's ankle is sprained.,Likrunekile iqatha likatatomkhulu.
 1065,884,Can a crocodile survive without water?,Ingwenya iyakwazi ukuphila ngaphandle kwamanzi?
 1066,701,People need to make their governments work for them.,Abantu kufuneka benze oorhulumente babo babasebenzele.
+1067,832,Where do you worship [which denomination are you?].,Ukhonza phi?
+1068,804,You [plural] can count with your fingers.,Ningabala ngeminwe yenu.
+1069,802,His/her ankles are not strong.,Awomelelanga amaqatha akhe.
+1070,781,"""Viva, comrades! Viva!""","""Viva, maqabane! Viva!"""
+1071,885,I need/want a job.,Ndifuna umsebenzi.
+1072,885,There are no jobs.,Akukho misebenzi/Imisebenzi ayikho.
+1073,886,I am a worker.,Ndingumsebenzi.
+1074,886,I am a municipal employee.,Ndingumsebenzi kamasipala.
+1075,886,The workers are complaining.,Abasebenzi bayakhalaza.

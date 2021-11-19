@@ -396,7 +396,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 398,in the afternoon,emva kwemini,adverb,,,false,false,,,,
 399,[in] the afternoon,emalanga,adverb,,,false,false,,,,"This word can also just indicate ""in the afternoons"" with a more general sense."
 400,set,tshona,verb,,ukutshona,false,false,intransitive,,,"""tshona"" refers to the setting of the sun."
-401,exit,phuma,verb,,ukuphuma,false,false,intransitive,,,
+401,exit/go out,phuma,verb,,ukuphuma,false,false,intransitive,,,
 402,rise,phuma,verb,,ukuphuma,false,false,intransitive,,,"""phuma"" refers to the sun rising."
 403,vehicle,isithuthi,noun,,,false,false,,,Isi,
 404,vehicles,izithuthi,noun,,,true,false,,,Izin,
@@ -878,3 +878,5 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 882,smell,nuka,verb,,ukunuka,false,false,intransitive,,,"Normally only used to indicate ""give out a smell"""
 883,become sprained,kruneka,verb,,ukukruneka,false,false,intransitive,,,
 884,crocodile,ingwenya,noun,,,false,false,,,In,
+885,work/job,umsebenzi,noun,,,false,false,,,Class3Um,
+886,worker/staff member/employee,umsebenzi,noun,,,false,false,,,Class1Um,"Do not confuse with umsebenzi ""work"".  "
