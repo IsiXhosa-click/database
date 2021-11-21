@@ -595,7 +595,7 @@ example_id,word_id,english,xhosa
 611,535,I want to stop always thinking about you.,Ndifuna ukuyeka ukusoloko ndicinga ngawe.
 612,536,The dustbins are locked at night.,Imigqomo itshixiwe ebusuku.
 613,470,Put the papers and dirt in the bin. .,Faka amaphepha neenkunkuma emgqomeni.
-614,537,I am doing history and life sciences.,Ndenza izifundo ezingembali kunye nenzululwazi.
+614,537,It is important to know the history of the Xhosa.,Kubalulekile ukwazi imbali yamaXhosa.
 615,538,Xhosa culture is similar to Zulu.,Inkcubeko yamaXhosa ibufana neyamaZulu.
 616,539,We will work outside if the weather allows us to.,Siza kusebenza ngaphandle ukuba imozulu iyasivumela.
 617,540,The Christian religion is popular around the world.,Inkolo yobuKristu iyathandwa kwihlabathi liphela.
@@ -659,7 +659,7 @@ example_id,word_id,english,xhosa
 675,593,I don't have energy to go to the party.,Andinamandla okuya epatini.
 677,595,School closes in three weeks.,Isikolo siza kuvala kwiiveki ezintathu ezizayo.
 678,596,My phone is not working.,Umnxeba wam awusebenzi.
-679,597,This evening i will be listening to the radio.,Ngale njikalanga ndiza kumamela unomathotholo.
+679,597,This evening I will be listening to the radio.,Ngale njikalanga ndiza kumamela unomathotholo.
 680,598,A river is a quiet and a peacful place to chill.,Umlambo yindawo ethuleyo nezolileyo ongazipholela kuyo.
 681,599,My pen is broken.,Usiba lwam lokubhala lophukile.
 682,600,There are many different colours of pens.,Kukho iintsiba ezinemibala emininzi ehlukeneyo.
@@ -1054,3 +1054,13 @@ example_id,word_id,english,xhosa
 1073,886,I am a worker.,Ndingumsebenzi.
 1074,886,I am a municipal employee.,Ndingumsebenzi kamasipala.
 1075,886,The workers are complaining.,Abasebenzi bayakhalaza.
+1076,585,How many months pregnant is Zukiswa?,UZukiswa uneenyanga ezingaphi ekhulelwe?
+1077,778,Sometimes my partner does not want to use a condom.,Ngamanye amaxesha iqabane lam alifuni ukusebenzisa ikhondom.
+1078,659,What are your [plural] names?,Ngoobani amagama enu?
+1079,895,The level/quality of their work is high.,Umgangatho womsebenzi wabo uphezulu.
+1080,895,The level of education is good.,Umgangatho wemfundo ulungile.
+1081,898,Please water the plants.,Khawunkcenkceshela izityalo.
+1082,899,Dad is a vegan - he does not want to wear shoes made out of animal skin.,"Utata uyi-vegan, akafuni ukunxiba izihlangu ezenziwa lufele lwezilwanyana."
+1083,900,The soil is dry.,Umhlaba womile.
+1084,901,We want to support old people in the community.,Sifuna ukuxhasa abantu abadala ekuhlaleni.
+1085,902,Sleep peacefully. [Rest in peace.].,Lala ngoxolo.

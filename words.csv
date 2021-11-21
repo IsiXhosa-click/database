@@ -612,7 +612,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 616,peace,uxolo,noun,,,false,false,,,Ulu,
 617,today,namhla,adverb,,,false,false,,,,
 618,farm ,amasimi,noun,,,false,false,,,Ama,"Some  Xhosa speakers use ""amasimi"" ""fields"" to refer to a ""farm""."
-619,sorry,uxolo,noun,,,false,false,,,Ulu,
+619,sorry,uxolo,interjection,,,false,false,,,,
 620,noise,ingxolo,noun,,,false,false,,,In,
 621,anywhere,naphi na,adverb,,,false,false,,,,
 622,anyone,nabani na,noun,,,false,false,,,U,indefinite pronoun
@@ -675,7 +675,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 679,letter,incwadi,noun,,,false,false,,,In,"Many Xhosa speakers use ""ileta""."
 680,regions,imimandla,noun,,,true,false,,,Class3Um,
 681,vegetable,umfino,noun,,,false,false,,,Class3Um,Xhosa speakers often use 'iveg'.
-682,vegetables,imifuno,noun,,,true,false,,,Imi,
+682,vegetables,imifuno,noun,,,true,false,,,Imi,"Xhosa speakers often use ""amaveg"""
 683,lack,swela,verb,,ukuswela,false,false,transitive-only,,,"""swela"" is often used for a more serious kind of lacking"
 684,below,ezantsi,preposition,,,false,false,,,,
 685,as well as,kunye,conjunction,,,false,false,,indicative mood or 'na',,
@@ -880,3 +880,27 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 884,crocodile,ingwenya,noun,,,false,false,,,In,
 885,work/job,umsebenzi,noun,,,false,false,,,Class3Um,
 886,worker/staff member/employee,umsebenzi,noun,,,false,false,,,Class1Um,"Do not confuse with umsebenzi ""work"".  "
+887,cough,khohlela,verb,,ukukhohlela,false,false,intransitive,,,
+888,seed,imbewu,noun,,,false,false,,,In,
+889,grow,khula,verb,,ukukhula,false,false,intransitive,,,
+890,sheep,igusha,noun,,,false,false,,,Ili,
+891,animal,isilwanyana,noun,,,false,false,,,Isi,
+892,seeds,iimbewu,noun,,,true,false,,,Izin,
+893,animals,izilwanyana,noun,,,true,false,,,Izi,
+894,family,usapho,noun,,,false,false,,,Ulu,
+895,level/quality,umgangatho,noun,,,false,false,,,Class3Um,
+896,grass,ingca,noun,,,false,false,,,In,
+897,sheep,amagusha,noun,,,true,false,,,Ama,
+898,water,nkcenkceshela,verb,,ukunkcenkceshela,false,false,transitive-only,,,
+899,skin (generally of an animal),ufele,noun,,,false,false,,,Ulu,"""ufele"" is also used for human skin, or just generally ""outward appearance""."
+900,dry,omile,relative,,,false,false,,,,"From the inchoative verb ""ukoma"" which means ""to become dry""."
+901,community,ekuhlaleni,noun,,,false,false,,,Uku,Literally: in the living
+902,peacefully,ngoxolo,adverb,,,false,false,,,,
+903,red,bomvu,relative,,,false,false,,,,
+904,blue,blowu,relative,,,false,false,,,,
+905,morning,intsasa,noun,,,false,false,,,In,
+906,grey,ngwevu,relative,,,false,false,,,,
+907,black,mnyama,relative,,,false,false,,,,
+908,brown,mdaka,relative,,,false,false,,,,
+909,tear,inyembezi,noun,,,false,false,,,In,
+910,tears,iinyembezi,noun,,,true,false,,,Izin,
