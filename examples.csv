@@ -57,7 +57,7 @@ example_id,word_id,english,xhosa
 61,64,Do you like to learn?,Wena uthanda ukufunda?
 62,64,She liked to learn maths at school.,Wathanda ukufunda isibalo esikolweni.
 63,65,He has a lot of love in his heart.,Unenkitha yothando kwintliziyo yakhe.
-64,66,I forgot to wish her happy birthday!,Ndilibale ukumbhafisa!
+64,66,I forgot to wish her happy birthday!,Ndilibele ukumbhafisa!
 65,67,"If you don't succeed, try again.","Ukuba awuphumeleli, uphinde uzame."
 66,68,Do you know the thing that I'm talking about?,Uyayazi into endithetha ngayo?
 67,69,"I like hiking, surfing, cycling, and other things like that.","Ndithanda ukuhamba ngeenyawo, nokusurfa, nokukhwela ibhayisikile, nezinye izinto ezinjalo."
@@ -734,7 +734,7 @@ example_id,word_id,english,xhosa
 752,662,We will start the procedure at 5 o' clock.,Sizoqala inkqubo ngentsimbi yesihlanu.
 753,663,There are many countries in the world.,Kukho amazwe amaninzi emhlabeni.
 754,664,He lived in a cave and never saw the light of the sun.,"Wahlala emqolombeni, zange alibone ilitha lelanga."
-755,664,This school is the light of our community.,Esi sikolo lilitha loluntu lwethu.
+755,664,This school is a ray of light of our community.,Esi sikolo lilitha loluntu lwethu.
 756,666,"Love is the foundation of our nation - when this foundation shakes, the nation is destroyed.","Uthando lusiseko sesizwe sethu - sakuhexa esi seko, isizwe siyawa."
 757,667,I am from the Cofimvaba district.,Ndisuka kwisithili saseCofimvaba.
 758,44,I can't count in Xhosa.,Andikwazi ukubala ngesiXhosa.
@@ -1064,3 +1064,5 @@ example_id,word_id,english,xhosa
 1083,900,The soil is dry.,Umhlaba womile.
 1084,901,We want to support old people in the community.,Sifuna ukuxhasa abantu abadala ekuhlaleni.
 1085,902,Sleep peacefully. [Rest in peace.].,Lala ngoxolo.
+1086,911,There is only one rule.,Kukho omnye umthetho.
+1087,912,These are the rules of the game.,Nantsi imithetho yomdlalo.

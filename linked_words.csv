@@ -703,3 +703,6 @@ link_id,link_type,first,second
 704,related,466,901
 705,related,616,902
 706,plural_or_singular,909,910
+707,plural_or_singular,911,912
+708,plural_or_singular,894,913
+709,alternate_use,41,636
