@@ -415,7 +415,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 417,pour,galela,verb,,ukugalela,false,false,transitive-only,,,
 418,intestine,ulusu,noun,,,false,false,,,Ulu,
 419,skin,ulusu,noun,,,false,false,,,Ulu,"These days many Xhosa speakers just use the borrowed word ""iskin"" using it as a noun in the isi- group, e.g. ""Sihle iskin sakho."" ""Your skin is beautiful."""
-420,cut,ncwela,verb,,ukuncwela,false,false,transitive-only,,,"""ncwela"" can be used to refer to cutting paper into smaller strips"
+420,cut,ncwela,verb,,ukuncwela,false,false,transitive-only,,,"""ncwela"" can be used to refer to cutting paper or leather into smaller strips, or even stripping/trimming a plant. Informally ""ncwela"" can be used for ""bribe""."
 421,bully,ncwela,verb,,ukuncwela,false,false,transitive-only,,,Informal.
 422,walk,hamba,verb,,ukuhamba,false,false,intransitive,,,
 423,home,idlala,noun,,,false,false,,,Ili,Informal.
@@ -441,7 +441,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 443,money,imali,noun,,,false,false,,,Izin,
 444,probably,kungenzeka,adverb,,,false,false,,,,"""kungenzeka"" translates directly as ""it can happen"" or ""it can be doable"" and is often followed by ""ukuba""."
 445,almost,phantse,adverb,,,false,false,,indicative mood,,
-446,effect,ifuthe,noun,,,false,false,,,Ili,
+446,effect,ifuthe,noun,,,false,false,,,Ili,"Also has the sense of ""impact""."
 447,effects,amafuthe,noun,,,true,false,,,Ama,
 448,oil,amafutha,noun,,,false,false,,,Ama,"These days most people use ""i-oyile"" for ""oil""."
 449,become lost,lahleka,verb,,ukulahleka,false,true,intransitive,,,"This is used to say ""I have lost something"" by putting it in the passive voice. See the first example."
@@ -482,7 +482,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 485,president,umongameli,noun,,,false,false,,,U,
 486,archbishop,umongameli,noun,,,false,false,,,U,
 487,girl,intombi,noun,,,false,false,,,In,
-488,lady,inenekazi,noun,,,false,false,,,In,
+488,"lady, female",inenekazi,noun,,,false,false,,,Ili,
 489,lot,ninzi,adjective,,,false,false,,,,
 490,dream,iphupha,noun,,,false,false,,,Ili,
 491,recently,mva nje,adverb,,,false,false,,,,
@@ -492,7 +492,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 495,way,indlela,noun,,,false,false,,,In,
 496,home,ikhaya,noun,,,false,false,,,Ili,
 497,many,ninzi,adjective,,,false,false,,,,
-498,man,indoda,noun,,,false,false,,,In,
+498,man,indoda,noun,,,false,false,,,In,"The word ""utata"" is often used to refer to any man these days, not just to a ""father""."
 499,woman,umfazi,noun,,,false,false,,,Class1Um,
 500,mister,umnumzana,noun,,,false,false,,,Class1Um,
 501,mister,umhlekazi,noun,,,false,false,,,Class1Um,"""Mhlekazi"" is a respectful term of address for a man who is middle aged or older."
@@ -601,7 +601,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 605,hello,molo,interjection,,,false,false,,,,"""Molo"" is only used to say ""hello"" to ONE person.  "
 606,goodbye,sala kakuhle,interjection,,,false,false,,,,"Sala kakuhle is said to someone who is staying where they are, if you are the one leaving.  It can only be used when addressing one person, otherwise use salani kakuhle."
 607,hello,molweni,interjection,,,true,false,,,,Used when addressing two or more people.
-608,goodbye,hamba kakuhle,interjection,,,false,false,,,,hamba kakuhle is said to someone who is leaving.
+608,goodbye,hamba kakuhle,interjection,,,false,false,,,,hamba kakuhle is said to someone who is leaving. Can only be used to address ONE person.
 609,underneath,ngaphantsi,preposition,,,false,false,,,,
 610,sea,ulwandle,noun,,,false,false,,,Ulu,
 611,rivers,imilambo,noun,,,true,false,,,Imi,
@@ -622,7 +622,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 626,floor,umgangatho,noun,,,false,false,,,Class3Um,
 627,turn on,layita,verb,,ukulayita,false,false,transitive-only,,,
 628,be happy,vuya,verb,,ukuvuya,false,false,either,,,
-629,backward,emva,preposition,,,false,false,,,,
+629,backward,umva,preposition,,,false,false,,,,
 630,coast,unxweme,noun,,,false,false,,,Ulu,
 631,hand,ingalo,noun,,,false,false,,,In,"Sometimes Xhosa speakers use ""ingalo"" to refer to ""isandla"" ""hand""."
 632,arms,iingalo,noun,,,true,false,,,Izin,
@@ -670,7 +670,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 674,city,isixeko,noun,,,false,false,,,Isi,
 675,cities,izixeko,noun,,,true,false,,,Izi,
 676,area,ingingqi,noun,,,false,false,,,In,This refers to a geographical area.
-677,area,umgama,noun,,,false,false,,,Class3Um,
+677,area,umgama,noun,,,false,false,,,Class3Um,"Also used in the sense of ""distance"" as in ""social distance""."
 678,region,ummandla,noun,,,false,false,,,Class3Um,
 679,letter,incwadi,noun,,,false,false,,,In,"Many Xhosa speakers use ""ileta""."
 680,regions,imimandla,noun,,,true,false,,,Class3Um,
@@ -777,7 +777,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 781,comrades,amaqabane,noun,,,true,false,,,Ama,
 782,fast,ngokukhawuleza,adverb,,,false,false,,,,
 783,become cruel,khohlakala,verb,,ukukhohlakala,false,true,intransitive,,,It can be used in a more lighthearted way than it would usually be used in English.
-784,test,uvavanyo,noun,,,false,false,,,Ulu,
+784,test,uvavanyo,noun,,,false,false,,,Ulu,"Xhosa speakers often just say ""itest"""
 785,tests,iimvavanyo,noun,,,true,false,,,Izin,
 786,exam,uvavanyo,noun,,,false,false,,,Ulu,
 787,exams,iimvavanyo,noun,,,true,false,,,Izin,
@@ -825,7 +825,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 829,draw,zoba,verb,,ukuzoba,false,false,either,,,
 830,bird,intaka,noun,,,false,false,,,In,
 831,bake,bhaka,verb,,ukubhaka,false,false,either,,,
-832,worship,khonza,verb,,ukukhonza,false,false,either,,,
+832,worship,khonza,verb,,ukukhonza,false,false,either,,,"Can also refer to ""attend church""."
 833,shark,ukrebe,noun,,,false,false,,,U,
 834,sharks,ookrebe,noun,,,true,false,,,Oo,
 835,complete,gqibezela,verb,,ukugqibezela,false,false,either,,,"Also used in the sense of ""finish off"""
@@ -834,7 +834,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 838,zero,iqanda,noun,,,false,false,,,Ili,"Although ""iqanda"" comes from the word for egg, it is also used for ZERO - like the French ""l'œuf"" (the egg) which we hear as LOVE in tennis matches"
 839,birds,iintaka,noun,,,true,false,,,Izin,
 840,come from,vela,verb,,ukuvela,false,false,intransitive,,,
-841,come from,suka,verb,,ukusuka,false,false,intransitive,,,"Also used to translate ""go from"", as in ""this train goes from Cape Town to Simonstown"" ""Le treyini isuka iKapa isiya eSimonstown"". In its infinitive form it can be used for time spans, e.g. From Monday to Friday: Ukusuka ngoMvulo ukuya ngoLwesihlanu."
+841,come from,suka,verb,,ukusuka,false,false,intransitive,,,"Also used to translate ""go from"", as in ""this train goes from Cape Town to Simonstown"" ""Le treyini isuka eKapa isiya eSimonstown"". In its infinitive form it can be used for time spans, e.g. From Monday to Friday: Ukusuka ngoMvulo ukuya ngoLwesihlanu."
 842,pay,hlawula,verb,,ukuhlawula,false,false,either,,,
 843,hit,betha,verb,,ukubetha,false,false,either,,,
 844,stay,hlala,verb,,ukuhlala,false,true,intransitive,,,"""hleli"", the irregular stative of hlala, generally translates ""staying"" or ""sitting"""
@@ -907,3 +907,28 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 911,rule,umthetho,noun,,,false,false,,,Class3Um,
 912,rules,imithetho,noun,,,false,false,,,Imi,
 913,families,iintsapho,noun,,,true,false,,,Izin,
+914,decoration,isihombiso,noun,,,false,false,,,Isi,
+915,white,mhlophe,relative,,,false,false,,,,
+916,green,luhlaza,relative,,,false,false,,,,
+917,milk,ubisi,noun,,,false,false,,,Ulu,
+918,wind,umoya,noun,,,false,false,,,Class3Um,
+919,wake,vukisa,verb,,ukuvukisa,false,false,transitive-only,,,
+920,marriage,umtshato,noun,,,false,false,,,Class3Um,
+921,braai,oja,verb,,ukoja,false,false,either,,,
+922,principals,iinqununu,noun,,,true,false,,,Izin,
+923,principal,inqununu,noun,,,false,false,,,In,
+924,persevere,nyamezela,verb,,ukunyamezela,false,false,either,,,
+925,add (in maths),dibanisa,verb,,ukudibanisa,false,false,transitive-only,,,"Note ""dibanisa"" literally means ""make meet/join"""
+926,add (an ingredient),galela,verb,,ukugalela,false,false,transitive-only,,,
+927,come from/come out from,phuma,verb,,ukuphuma,false,false,intransitive,,,
+928,it could be,Inokuba/inoba,conjunction,,,false,false,,,,
+929,be left,shiyeka,verb,,ukushiyeka,false,false,intransitive,,,"In the perfect tense form can translate ""left over"""
+930,chat,ncokola,verb,,ukuncokola,false,false,either,,,
+931,"be silly, naughty",geza,verb,,ukugeza,false,false,intransitive,,,"Can be confusable with the Zulu word for ""wash"" which is also ""geza""."
+932,Bhabhayini!,Good bye!,interjection,,,false,false,,,,"Informal but very common. Can be used just like the English ""Bye!"""
+933,strong,omelele,relative,,,false,false,,,,"In Xhosa ""to get strong"" is ""ukomelela"" which is an inchoative verb. The relative is derived from this verb."
+934,amasebe,branches,noun,,,false,false,,,Ama,
+935,burst,gqabhuka,verb,,ukugqabhuka,false,false,intransitive,,,Also has the sense of EXPLODE
+936,become fat,tyeba,verb,,ukutyeba,false,true,intransitive,,,"Sometimes used to mean ""get rich""."
+937,TV,iTV,noun,,,false,false,,,In,"More common than ""umabonakude"""
+938,hot,shushu,relative,,,false,false,,,,
