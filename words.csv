@@ -999,3 +999,8 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 1003,thumbs,oobhontsi,noun,,,true,false,,,Oo,
 1004,vagina,isibeleko,noun,,,false,false,,,Isi,
 1005,vaginas,izibeleko,noun,,,true,false,,,Izin,
+1006,operating theatre,icandelo loqhaqho,noun,,,false,false,,,Ili,
+1007,operating theatres,amacandelo oqhaqho,noun,,,true,false,,,Ama,
+1008,tuberculosis ,isifo sephepha,noun,,,false,false,,,Isi,
+1009,dot,icaphaza,noun,,,false,false,,,Ili,Can also be used to refer to tuberculosis 
+1010,dots,amachapaza,noun,,,true,false,,,Ama,Can also be used to refer to tuberculosis.
