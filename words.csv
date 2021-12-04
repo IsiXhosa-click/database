@@ -1004,3 +1004,17 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 1008,tuberculosis ,isifo sephepha,noun,,,false,false,,,Isi,
 1009,dot,icaphaza,noun,,,false,false,,,Ili,Can also be used to refer to tuberculosis 
 1010,dots,amachapaza,noun,,,true,false,,,Ama,Can also be used to refer to tuberculosis.
+1011,exams,iimviwo,noun,,,true,false,,,Izin,
+1012,serve,khonza,verb,,ukukhonza,false,false,either,,,
+1013,after that,emva koko,conjunction,,,false,false,,indicative mood,,
+1014,improve,phucuka,verb,,ukuphucuka,false,false,intransitive,,,
+1015,praise,ncoma,verb,,ukuncoma,false,false,either,,,
+1016,become used to,qhela,verb,,ukuqhela,false,true,either,,,
+1017,shin,uxhongo,noun,,,false,false,,,U,"More specifically, the tibia"
+1018,shins,ooxhongo,noun,,,true,false,,,Oo,"More specifically, the tibia."
+1019,soldier,ijoni,noun,,,false,false,,,Ili,This can also be used to refer to the immune system
+1020,soldiers,amajoni,noun,,,true,false,,,Ama,
+1021,ubuhlungu,pain,noun,,,false,false,,,Ubu,Abstract pain.
+1022,doctor's room,igumbi likagqirha,noun,,,false,false,,,Ili,
+1023,public,kawonke-wonke,relative,,,false,false,,,,
+1024,summer,ihlobo,noun,,,false,false,,,Ili,"The locative of ihlobo is ehlotyeni, due to palatalisation."
