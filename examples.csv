@@ -685,14 +685,13 @@ example_id,word_id,english,xhosa
 703,623,Your beauty lights up everything.,Ubuhle bakho bukhanyisa yonke into.
 704,623,The beauty of a man is his cows.,Ubuhle bendoda ziinkomo zayo.
 705,624,Your bag is lovely!,Intle ibhegi yakho!
-706,625,My dad wants to give up smoking.,Utata wam ufuna ukuyeka ukutshaya.
 707,626,The chair is on the floor.,Isitulo sisemgangathweni.
 708,627,Turn on the light!,Layita isibane!
 709,627,I will turn on my computer.,Ndizolayita ikhompyutha yam.
 710,628,Be happy for your brother.,Mvuyela umnakwenu.
 711,634,"Don't make noise, children! Sit down!",Sanukungxola bantwana! Hlalani phantsi!
-712,637,It is fine./OK.,Kulungile.
-713,637,Your work is fine.,Umsebenzi wakho ulungile.
+712,637,It is OK.,Kulungile.
+713,637,Your work is OK.,Umsebenzi wakho ulungile.
 714,637,Everything is OK.,Yonke into ilungile.
 715,637,Is it OK to wait here?,Kulungile ukulinda apha?
 716,638,Turn off the light.,Cima isibane.
@@ -1129,3 +1128,22 @@ example_id,word_id,english,xhosa
 1148,232,Have you taken her to the doctor?,Nimsile kwagqirha?
 1149,1023,Public transport is important.,Isituthi sikawonke-wonke sibalulekile.
 1150,1024,It is hot in summer.,Kushushu ehlotyheni.
+1151,1026,Her foot is swollen.,Unyawo lwakhe ludumbile.
+1152,1027,Thando goes to the beach regularly.,UThando uya elwandle rhoqo.
+1153,1028,The man had a strange tool which was used for hunting.,Indoda ibinesixhobo esingaqhelekanga esisetyenziswa ukuzingela.
+1154,1031,We do not allow weapons here.,Asivumeli izixhoba apha.
+1155,1032,The value of his company has doubled this month.,Ixabiso lenkampani yakhe liziphindile kabini kule nyanga.
+1156,1033,The dams are becoming full this winter.,Amadama ayazala kobu busika.
+1157,1034,I don't like the smell of petrol.,Andithandi ivumba lepetroli.
+1158,1036,"Be careful, the air in the oven is very hot.","Lumkela, umoya e-oveni ushushu kakhulu."
+1159,1037,Keep a distance between yourself and others.,Gcina umgama phakathi kwakho nabanye.
+1160,1038,The Lord will protect my spirit.,USomandla uzokhusela umoya wam.
+1161,637,Gran was sick but now she is OK.,Umakhulu ebegula kodwa yena urayithi ngoku.
+1162,1042,Everything is fine.,Yonke into ilungile.
+1163,1043,It was OK yesterday.,Bekurayithi izolo.
+1164,1044,You'll be alright.,Uzoba rayithi.
+1165,1045,I wake up regularly at night at 11 - I don't know why.,"Ndivuka qho ebusuku ngo11, andiyazi kutheni."
+1166,629,Move backward!,Buya umva!
+1167,626,My office is on 4th floor of the civic center building.,Igumbi lam lokusebenzela likumgangatho wesine kwisakhiwo sasecivic center.
+1168,1048,My dad wants to give up smoking.,Utata wam ufuna ukuyeka ukutshaya.
+1169,609,There is room/space underneath the bed.,Kukho indawo ngaphantsi kwebhedi.

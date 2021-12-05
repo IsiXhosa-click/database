@@ -240,7 +240,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 242,injure,enzakalisa,verb,,ukwenzakalisa,false,false,transitive-only,,,
 243,better,ngcono,relative,,,false,false,,,,
 244,jump,tsiba,verb,,ukutsiba,false,false,,,,
-245,kill,bulala,verb,,ukubulala,false,false,,,,
+245,kill,bulala,verb,,ukubulala,false,false,either,,,"Note that ""bulala"" takes the irregular passive form of ""bulawa""."
 246,know,azi,verb,,ukwazi,false,false,either,,,"Azi is commonly used in the construction ""know how to"" as ""kwazi uku"", very often used with object concords"
 247,read,funda,verb,,ukufunda,false,false,,,,
 248,go,hamba,verb,,ukuhamba,false,false,intransitive,,,"Hamba does not describe the act of going to a location, it refers to the act of going in general."
@@ -630,7 +630,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 634,make noise,ngxola,verb,,ukungxola,false,false,intransitive,,,
 635,field,intsimi,noun,,,false,false,,,In,
 636,fields,amasimi,noun,,,true,false,,,Ama,
-637,fine/OK,-lungile/-rayithi,relative,,,false,false,,,,
+637,become OK,lunga,verb,,ukulunga,false,true,intransitive,,,
 638,turn off,cima,verb,,ukucima,false,false,transitive-only,,,
 639,be sick,gula,verb,gúlá,ukugula,false,false,intransitive,,,
 640,become hungry,lamba,verb,,ukulamba,false,true,intransitive,,,
@@ -801,8 +801,8 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 805,stomach,isisu,noun,,,false,false,,,Isi,Refers to both a belly and a stomach
 806,stomachs,izisu,noun,,,true,false,,,Izi,
 807,veteran,igqala,noun,,,false,false,,,Ili,
-808,toe,umnwe,noun,,,false,false,,,Class3Um,
-809,toes,iminwe,noun,,,true,false,,,Imi,
+808,toe,umnwe,noun,,,false,false,,,Class3Um,"The formal Xhosa for ""toe"" is ""uzwane"" but most people use ""umnwe"", sometimes followed by the word for foot ""unyawo"".  In this case the posessive concord wa- will be used."
+809,toes,iminwe,noun,,,true,false,,,Imi,"The formal Xhosa word for ""toes"" is ""iinzwane"" but most Xhosa speakers use ""iminwe"" which is sometimes followed by the word for ""foot/feet"" in which case a possessive concord will be used, e.g. ""iminwe yonyawo"" the toes of the foot."
 810,profit,inzuzo,noun,,,false,false,,,In,
 811,play,umdlalo weqonga,noun,,,false,false,,,Class3Um,"This refers to a theatrical play and translates to ""game of the stage"" which used to be used for ""theatrical performance/play"" but these days most people just say ""ishow"" for a theatrical ""play"""
 812,sprout,hluma,verb,,ukuhluma,false,false,intransitive,,,
@@ -838,7 +838,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 842,pay,hlawula,verb,,ukuhlawula,false,false,either,,,
 843,hit,betha,verb,,ukubetha,false,false,either,,,
 844,stay,hlala,verb,,ukuhlala,false,true,intransitive,,,"""hleli"", the irregular stative of hlala, generally translates ""staying"" or ""sitting"""
-845,trust,themba,verb,,ukuthemba,false,false,either,,,"With the reflexive object concord -zi- it means ""confident"" [self-trust]. "
+845,trust,themba,verb,,ukuthemba,false,false,either,,,"With the reflexive object concord -zi-  it can also mean ""confident"" [self-trust]. "
 846,not,hayi,adverb,,,false,false,,,,"Used in simple sentences where NOT is used to modify a noun, pronoun, verb, adverb, adjective"
 847,poverty,ubuhlwempu,noun,,,false,false,,,Ubu,
 848,daughter,intombi,noun,,,false,false,,,In,
@@ -1018,3 +1018,27 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 1022,doctor's room,igumbi likagqirha,noun,,,false,false,,,Ili,
 1023,public,kawonke-wonke,relative,,,false,false,,,,
 1024,summer,ihlobo,noun,,,false,false,,,Ili,"The locative of ihlobo is ehlotyeni, due to palatalisation."
+1025,build,akha,verb,,ukwakha,false,false,either,,,
+1026,swollen,dumbile,relative,,,false,false,,,,
+1027,regularly,rhoqo,adverb,,,false,false,,,,
+1028,tool,isixhobo,noun,,,false,false,,,Isi,
+1029,weapon,isixhobo,noun,,,false,false,,,Isi,
+1030,tools,izixhobo,noun,,,true,false,,,Izi,
+1031,weapons,izixhobo,noun,,,true,false,,,Izi,
+1032,value,ixabiso,noun,,,false,false,,,Ili,
+1033,become full,zala,verb,,ukuzala,false,true,intransitive,,,
+1034,smell,ivumba,noun,,,false,false,,,Ili,
+1035,smells,amavumba,noun,,,true,false,,,Ama,
+1036,air,umoya,noun,,,false,false,,,Class3Um,
+1037,distance,umgama,noun,,,false,false,,,Class3Um,
+1038,spirit,umoya,noun,,,false,false,,,Class3Um,
+1039,flourish,hluma,verb,,ukuhluma,false,false,intransitive,,,
+1040,pink,pinki,relative,,,false,false,,,,
+1041,orange,orenji,relative,,,false,false,,,,
+1042,become fine,lunga,verb,,ukulunga,false,true,transitive-only,,,
+1043,OK,rayithi,relative,,,false,false,,,,
+1044,alright,rayithi,relative,,,false,false,,,,
+1045,regularly,qho,adverb,,,false,false,,,,
+1046,strike,qhankqalaza,verb,,ukuqhankqalaza,false,false,intransitive,,,
+1047,protest,qhankqalaza,verb,,ukuqhankqalaza,false,false,intransitive,,,
+1048,give up,yeka,verb,,ukuyeka,false,false,intransitive,,,
