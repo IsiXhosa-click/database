@@ -813,7 +813,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 817,sound,khalisa,verb,,ukukhalisa,false,false,transitive-only,,,"Often used for ""ring"" as in ""ring the bell"" or ""sound"" as in ""sound the alarm""."
 818,fill,gcwalisa,verb,,ukugcwalisa,false,false,transitive-only,,,
 819,drop,wisa,verb,,ukuwisa,false,false,transitive-only,,,"Used in the sense of ""let fall"" not ""drop prices"" which would be ""thoba amaxabiso"""
-820,continue,qhubeka,verb,,ukuqhubeka,false,false,intransitive,,,"This is the original form of ""qhubekeka"", however ""qhubekeka"" is now becoming more popular."
+820,continue,qhubeka,verb,,ukuqhubeka,false,false,intransitive,,,"This is the original form of ""qhubekeka"", however ""qhubekeka"" is now becoming more popular. ""Qhubeka"" is often followed by the subjunctive, or by na- ""continue with""."
 821,anger,umsindo,noun,,,false,false,,,Class3Um,"Can be used with -na- to indicate being angry, e.g. Ndinomsindo. Literally ""I have anger"". Do not confuse with the Zulu meaning of umsindo being ""noise""."
 822,become thin,bhitya,verb,,ukubhitya,false,true,intransitive,,,
 823,every,qho,adverb,,,false,false,,,,
@@ -1042,3 +1042,30 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 1046,strike,qhankqalaza,verb,,ukuqhankqalaza,false,false,intransitive,,,
 1047,protest,qhankqalaza,verb,,ukuqhankqalaza,false,false,intransitive,,,
 1048,give up,yeka,verb,,ukuyeka,false,false,intransitive,,,
+1049,vagina,umphantsi,noun,,,false,false,,,Class3Um,More euphemistic term.
+1050,vaginas,imiphantsi,noun,,,true,false,,,Imi,More euphemistic term.
+1051,penis,iphambili,noun,,,false,false,,,Ili,More euphemistic term.
+1052,penises,amaphambili,noun,,,true,false,,,Ama,More euphemistic term.
+1053,breast,ibele,noun,,,false,false,,,Ili,
+1054,breasts,amabele,noun,,,true,false,,,Ama,
+1055,paediatric ward,icandelo labantwana,noun,,,false,false,,,Ili,
+1056,paediatric wards,amacandelo abantwana,noun,,,true,false,,,Ama,
+1057,orthopaedic ward,icandelo lamathambo,noun,,,false,false,,,Ili,
+1058,orthopaedic wards,amacandelo amathambo,noun,,,true,false,,,Ama,
+1059,trauma unit,icandelo leengxwelerha,noun,,,false,false,,,Ili,
+1060,trauma units,amacandelo eengxwelerha,noun,,,true,false,,,Ama,
+1061,x-ray section,icandelo legesi,noun,,,false,false,,,Ili,
+1062,x-ray sections,amacandelo egesi,noun,,,true,false,,,Ama,
+1063,tuberculosis ward,icandelo lesifo sephepha,noun,,,false,false,,,Ili,
+1064,tuberculosis wards,amacandelo esifo sephepha,noun,,,true,false,,,Ama,
+1065,maternity ward,icandelo lokubelekisa,noun,,,false,false,,,Ili,
+1066,maternity wards,amacandelo okubelekisa,noun,,,true,false,,,Ama,
+1067,cancer ward,icandelo lomhlaza,noun,,,false,false,,,Ili,
+1068,cancer wards,amacandelo omhlaza,noun,,,true,false,,,Ama,
+1069,x-ray,igesi,noun,,,false,false,,,In,
+1070,x-rays,iigesi,noun,,,true,false,,,Izin,
+1071,waiting room,igumbi lokulindela,noun,,,false,false,,,Ili,
+1072,waiting rooms,amagumbi okulindela,noun,,,true,false,,,Ama,
+1073,examination room,igumbi lokuxilongela,noun,,,false,false,,,Ili,Medical examination
+1074,examination rooms,amagumbi okuxilongela,noun,,,true,false,,,Ama,Medical examinations
+1075,on the floor,phantsi,preposition,,,false,false,,,,
