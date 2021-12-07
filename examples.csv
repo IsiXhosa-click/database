@@ -311,7 +311,6 @@ example_id,word_id,english,xhosa
 325,271,"Yes, I am alright - how are you?","Ewe, ndiphilile - unjani wena?"
 326,272,Where do you live?,Uhlala phi?
 327,272,I live in a village near Butterworth.,Ndihlala elalini ngaseGcuwa.
-328,252,I tend to lose my pen. ,Ndithanda ukulahlekelwa yipeni yam.
 329,273,An accident could happen.,Ingozi ingenzeka.
 330,273,The thing that happens is that children don't listen in school.,Into eyenzekayo yile nto yokuba abantwana abamaleli esikolweni.
 331,260,She stood up and prepared to go home.,Waphakama walungiselela ukugoduka.
@@ -426,7 +425,7 @@ example_id,word_id,english,xhosa
 440,378,I am paying my fines.,Ndibhatala izihlawuliso zam.
 441,379,I have fines because I drive poorly.,Ndinemidliwo kuba ndiqhube kakubi.
 442,380,Ntsika is wanted for fraud.,UNtsika funelwa urhwaphilizo.
-443,381,I got my motorbike license when I was sixteen.,Ndafumana ilayisensi yokhwela isithuthuthu xa ndandineminyaka elishumi elinesithandathu.
+443,381,I got my motorbike license when I was sixteen.,Ndafumana ilayisensi yokhwela isithuthuthu xa ndineminyaka elishumi elinesithandathu.
 444,382,He fished for hours but he didn't catch one fish.,Ebeloba ngeeyure ezininzi kodwa ebengafumani ntlanzi enye.
 445,383,The public transport works well here.,Isithuthu sikawonke-wonke sisebenza kakuhle apha.
 446,384,We need two helicopters to make the film.,Sifuna iihelikhopta ezimbini zokwenza ifilim.
@@ -440,7 +439,7 @@ example_id,word_id,english,xhosa
 454,392,Our business has three delivery vans.,Ishishini lethu lineeveni ezintathu zokudilivarisha.
 455,393,There is a group of muggers here.,Kukho iqela labaphangi apha.
 456,394,I see two ships in the sea.,Ndibona iinqanawe ezimbini elwandle.
-457,395,"When there is a drought, famine is common/widespread.","Xa kukho imbalela, indlala ixhaphakile."
+457,395,"When there is a drought, famine is widespread.","Xa kukho imbalela, indlala ixhaphakile."
 458,396,I feel guilty.,Ndiziva ndinetyala.
 459,397,"At midday, the sun is scorching.","Kwimini emaqanda, ilanga liyatshisa."
 460,398,"In the afternoon, he returns home.","Emva kwemini, ubuyela ekhaya."
@@ -1149,3 +1148,21 @@ example_id,word_id,english,xhosa
 1169,609,There is space underneath the bed.,Kukho indawo ngaphantsi kwebhedi.
 1170,1075,The chair is on the floor.,Isitulo siphantsi.
 1171,1075,We like to sit on the floor.,Sithanda ukuhlala phantsi.
+1172,1034,What is this smell? You smell of alcohol.,Livumba lantoni eli? Unuka utywala.
+1173,1081,There were people by the sea advertising a new business.,Bekukho abantu ngaselwandle bebhengeza ishishini elitsha.
+1174,1082,Look at this advertisement in my newspaper.,Jonga kwesi sibhengezo kwiphepha-ndaba yam.
+1175,1083,I am OK apart from the work - it is killing me!,Ndirayithi ngaphandle komsebenzi - uyandibulala!
+1176,1084,How can I live without you?,Ndingaphila njani ngaphandle kwakho?
+1177,252,Nithanda ukuhlala apha?,Do you like living here?
+1178,1085,We are heading for East London.,Sibheka eMonti.
+1179,1086,This water is very dirty!,La manzi amdaka kakhulu!
+1180,1087,Iphantse iyele emaweni.,It almost sank in the waves.
+1181,1088,This evening I will be listening to the radio.,Ngale njikalanga ndiza kumamela unomathotholo.
+1182,1090,What kind of dress is it?,Luhlobo luni lwelokhwe?
+1183,1091,What type of animal is it?,Luhlobo luni lwesilwanyana?
+1184,1092,Which types of virus are there?,Zeziphi iintlobo zentsholongwane ezikhoyo?
+1185,1095,It is your birthday today if I am not mistaken.,Yibirthday yakho namhlanje ukuba andiphazami.
+1186,1096,I want a ball with spots - not stripes!,Ndifuna ibhola elinamachaphaza - hayi imigca.
+1187,1097,My sister had a dog with a black spot on its face.,Usisi wam wayenenja enechaphaza elimnyama kobuso bayo.
+1188,1098,There's a hair in my bread.,Kukho unwele kwisonka sam.
+1189,1099,I tend to lose my pen.,Ndithanda ukulahlekelwa yipeni yam.

@@ -576,7 +576,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 579,while,logama,conjunction,,,false,false,,participial mood,,
 580,another,nye,adjective,,,false,false,,,,
 581,side,icala,noun,,,false,false,,,Ili,
-582,destroy,chitha,verb,,ukuchitha,false,true,either,,,
+582,destroy,chitha,verb,,ukuchitha,false,false,either,,,
 583,problem,ingxaki,noun,,,false,false,,,In,
 584,homesteads,imizi,noun,,,true,false,,,Imi,
 585,month,inyanga,noun,,,false,false,,,Izin,
@@ -925,7 +925,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 929,be left,shiyeka,verb,,ukushiyeka,false,false,intransitive,,,"In the perfect tense form can translate ""left over"""
 930,chat,ncokola,verb,,ukuncokola,false,false,either,,,
 931,"be silly, naughty",geza,verb,,ukugeza,false,false,intransitive,,,"Can be confusable with the Zulu word for ""wash"" which is also ""geza""."
-932,Bhabhayini!,Good bye!,interjection,,,false,false,,,,"Informal but very common. Can be used just like the English ""Bye!"""
+932,bhabhayini,goodbye,interjection,,,false,false,,,,"Informal but very common. Can be used just like the English ""Bye!"""
 933,strong,omelele,relative,,,false,false,,,,"In Xhosa ""to get strong"" is ""ukomelela"" which is an inchoative verb. The relative is derived from this verb."
 934,amasebe,branches,noun,,,false,false,,,Ama,
 935,burst,gqabhuka,verb,,ukugqabhuka,false,false,intransitive,,,Also has the sense of EXPLODE
@@ -1069,3 +1069,27 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 1073,examination room,igumbi lokuxilongela,noun,,,false,false,,,Ili,Medical examination
 1074,examination rooms,amagumbi okuxilongela,noun,,,true,false,,,Ama,Medical examinations
 1075,on the floor,phantsi,preposition,,,false,false,,,,
+1076,doctors' rooms,amagumbi abagqirha,noun,,,true,false,,,Ama,
+1077,blood,igazi,noun,,,false,false,,,Ili,
+1078,hole,umngxuma,noun,,,false,false,,,Class3Um,
+1079,holes,imingxuma,noun,,,true,false,,,Imi,
+1080,carve,xonxa,verb,,ukuxonxa,false,false,either,,,
+1081,advertise,bhengeza,verb,,ukubhengeza,false,false,either,,,
+1082,advertisement,isibhengezo,noun,,,false,false,,,Isi,
+1083,apart from,ngaphandle kwa-,preposition,,,false,false,,,,"kwa- changes to ko- before nouns starting with u- , e.g. ngaphandle kokutya - apart from the food."
+1084,without,ngaphandle kwa-,preposition,,,false,false,,,,"kwa- changes to ko- before nouns starting with u- , e.g. ngaphandle kokutya - apart from the food."
+1085,travel towards,bheka,verb,,ukubheka,false,false,intransitive,,,
+1086,mdaka,dirty,relative,,,false,false,,,,
+1087,sink,yela,verb,,ukuyela,false,false,intransitive,,,
+1088,evening,injikalanga,noun,,,false,false,,,In,
+1089,advertisements,izibhengezo,noun,,,true,false,,,Izi,
+1090,kind,uhlobo,noun,,,false,false,,,Ulu,
+1091,type,uhlobo,noun,,,false,false,,,Ulu,
+1092,types,iintlobo,noun,,,true,false,,,Izin,
+1093,kinds,iintlobo,noun,,,true,false,,,Izin,
+1094,shoulder,igxalaba,noun,,,false,false,,,Ili,
+1095,make a mistake,phazama,verb,,ukuphazama,false,false,either,,,
+1096,spots,amachaphaza,noun,,,true,false,,,Ama,
+1097,spot,ichaphaza,noun,,,false,false,,,Ili,
+1098,hair,unwele,noun,,,false,false,,,Ulu,
+1099,tend to,thanda,verb,,ukuthanda,false,false,transitive-only,,,
