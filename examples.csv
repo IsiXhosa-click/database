@@ -329,7 +329,7 @@ example_id,word_id,english,xhosa
 344,280,There's a pineapple in the fridge.,Kukho ipayina efrijini.
 345,281,He likes pineapples on his pizza.,Uthanda amapayina kwi-pizza yakhe.
 346,282,The local government gives water to the people.,Urhulumente wengingqi unika abantu amanzi. 
-347,283,Local governments fix people's problems.,Oorhulumente bengingqi balungisa iingxaki zabantu.
+347,283,Local governments fix people's problems.,Oorhulumente beengingqi balungisa iingxaki zabantu.
 348,284,I will complain to the municipal council.,Ndizokhalaza kwiBhunga likaMasipala
 349,285,I was working the whole day (and the night).,Bendisebenza usuku lonke (kunye nobusuku).
 350,286,"Wow, today it is cold!","Yhu, kuyabanda namhlanje."
@@ -779,7 +779,7 @@ example_id,word_id,english,xhosa
 799,718,There are many prisoners in this jail.,Kukho ababanjwa abaninzi kule ntolongo.
 800,721,How many cars are there?,Kukho iimoto ezingaphi?
 801,721,How many years old are you?,Uneminyaka emingaphi?
-802,722,Ubuhlungu kambe ke akakhalazi.,"He is in pain, however he does not complain."
+802,722,"He is in pain, however he does not complain.",Ubuhlungu kambe ke akakhalazi.
 803,723,The meeting ended.,Yaphela intlanganiso.
 804,723,The end of hope is the end of life.,Ukuphela kwethemba kukuphela kobomi.
 805,724,He is a naughty boy.,Uyinkwenkwe egezayo.
@@ -1171,3 +1171,19 @@ example_id,word_id,english,xhosa
 1192,1103,I will paint the house red.,Ndiza kupeyinta indlu bomvu.
 1193,1104,It is necessary that we save water.,Kufuneka siwonge amanzi.
 1194,1105,Boil the water.,Bilisa amanzi.
+1195,1106,I picked up a ticket in King William's Town.,Ndachola itiki eQonce.
+1196,1108,I usually eat two eggs for breakfast.,Ndithanda ukutya amaqanda amabini kwisidlo sam sakusasa.
+1197,1109,Spread the butter.,Qaba ibhotolo.
+1198,1110,The man was sawing firewood.,Indoda ibisarha iinkuni yomlilo.
+1199,1111,I am digging a hole.,Ndipeta umngxuma.
+1200,1112,I am collecting my food.,Ndiqokelela ukutya kwam.
+1201,1113,Raise the anchor and we will go.,Nyusa i-ankile sihambe.
+1202,1114,There are 12 months in a year.,Kukho iinyanga ezilishumi elinesibini kunyaka wonke.
+1203,1115,Be quiet children!,Thulani bantwana!
+1204,1116,I am weeding the fields.,Ndincothula amasimi.
+1205,1117,"Wow, this chair is heavy!","Yhu, esi situlo sinzima kakhulu!"
+1206,1118,Close the window.,Vala ifestile.
+1207,1119,This cow is brown.,Le nkomo imdaka.
+1208,1121,Add water then stir.,Faka amanzi uzamise.
+1209,1132,All the windows are open.,Zonke iifestile zivuliwe.
+1210,1133,"In society, teachers have a very important role.","Eluntwini, ootitshala banendima ebalulekileyo."
