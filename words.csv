@@ -798,7 +798,6 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 802,ankles,amaqatha,noun,,,true,false,,,Ama,
 803,finger,umnwe,noun,,,false,false,,,Class3Um,Can be used to refer to both fingers of your hand and toes
 804,fingers,iminwe,noun,,,true,false,,,Imi,
-805,stomach,isisu,noun,,,false,false,,,Isi,Refers to both a belly and a stomach
 806,stomachs,izisu,noun,,,true,false,,,Izi,
 807,veteran,igqala,noun,,,false,false,,,Ili,
 808,toe,umnwe,noun,,,false,false,,,Class3Um,"The formal Xhosa for ""toe"" is ""uzwane"" but most people use ""umnwe"", sometimes followed by the word for foot ""unyawo"".  In this case the posessive concord wa- will be used."
@@ -1177,3 +1176,37 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 1181,centre,umbindi,noun,,,false,false,,,Class3Um,
 1182,centres,imibindi,noun,,,true,false,,,Imi,
 1183,art,ubugcisa,noun,,,false,false,,,Ubu,
+1184,blood pressure,ipresha yegazi,noun,,,false,false,,,In,
+1185,high blood pressure,ihayihayi,noun,,,false,false,,,Ili,
+1186,germ,intsholongwane,noun,,,false,false,,,In,
+1187,germs,iintsholongwane,noun,,,true,false,,,Izin,
+1188,card,ikhadi,noun,,,false,false,,,Ili,
+1189,cards,amakhadi,noun,,,true,false,,,Ama,
+1190,expert,ingcali,noun,,,false,false,,,In,
+1191,experts,iingcali,noun,,,true,false,,,Izin,
+1192,heel,isithende,noun,,,false,false,,,Isi,
+1193,heels,izithende,noun,,,true,false,,,Izin,
+1194,heartburn,isitshisa,noun,,,false,false,,,Isi,
+1195,calf,isiquluba,noun,,,false,false,,,Isi,
+1196,calves,iziquluba,noun,,,true,false,,,Izin,
+1197,wrist,isihlahla,noun,,,false,false,,,Isi,
+1198,wrists,izihlahla,noun,,,true,false,,,Izin,
+1199,illness,isigulo,noun,,,false,false,,,Isi,
+1200,illnesses,izigulo,noun,,,true,false,,,Izi,
+1201,out patient,isigulana sangaphandle,noun,,,false,false,,,Isi,
+1202,out patients,izigulana zangaphandle,noun,,,true,false,,,Izin,
+1203,disease,isifo,noun,,,false,false,,,Isi,
+1204,chest,isifuba,noun,,,false,false,,,Isi,This refers to the chest of a person.
+1205,chests,izifuba,noun,,,true,false,,,Izi,Refers to the chest of a person.
+1206,diseases,izifo,noun,,,true,false,,,Izin,
+1207,diabetes,isifo seswekile,noun,,,false,false,,,Isi,
+1208,nausea,isichaphuchaphu,noun,,,false,false,,,Isi,
+1209,corpse,isidumbu,noun,,,false,false,,,Isi,
+1210,corpses,izidumbu,noun,,,true,false,,,Izi,
+1211,liver,isibindi,noun,,,false,false,,,Isi,Can also be used to describe having courage.
+1212,livers,izibindi,noun,,,true,false,,,Izi,
+1213,report,ingxelo,noun,,,false,false,,,In,
+1214,reports,iingxelo,noun,,,true,false,,,Izin,
+1215,cold,ingqele,noun,,,false,false,,,In,This is in terms of the sickness.
+1216,procedures,iinkqubo,noun,,,true,false,,,Izin,
+1217,rheumatism,irumathizima,noun,,,false,false,,,In,

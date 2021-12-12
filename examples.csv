@@ -846,8 +846,6 @@ example_id,word_id,english,xhosa
 866,798,My legs are itching.,Imilenze yam iyarhawuzelela.
 867,799,Please give me a piece of meat.,Ndicela undiphe iqatha lenyama.
 868,803,My finger is bleeding.,Umnwe wam uyopha.
-869,805,My stomach is grumbling.,Isisu sam siyaxuxuzela.
-870,805,He has got a big belly.,Unesisu esikhulu.
 871,807,My father is a military veteran.,Utata wam ligqala lasemkhosini.
 872,122,What is the price of this thing?,Lithini ixabiso lale nto?
 873,308,On the weekend I am going to a party.,Ngempelaveki ndizoya epatini.
@@ -1216,3 +1214,19 @@ example_id,word_id,english,xhosa
 1237,1177,Please close the door.,Khawuvale ucango.
 1238,1181,There was a small house in the centre of the field.,Bekukho indlu encinci kombindi wentsimi.
 1239,1183,My art teacher grew up in  a small village.,Utitshala wam wobugcisa wakhulela kwilali encinci.
+1240,1184,Let me check your blood pressure.,Mandijonge ipresha yegazi yakho.
+1241,1185,Do you have high blood pressure?,Ingaba unehayihayi?
+1242,1188,I wrote a card for my friend.,Ndibhalele umhlobo wam ikhadi.
+1243,1189,The patients' cards are in the office.,Amakhadi ezigulana aseofisini.
+1244,1190,She is an expert in public health.,Uyingcali yempilo ka-wonkewonke.
+1245,1197,I broke my wrist.,Ndaphukile isihlahla sam.
+1246,1203,It is a disease that kills many people each year.,Sisifo esibulala abantu abaninzi minyaka le.
+1247,1208,I have nausea because I ate some bad food.,Ndinesichaphuchaphu kuba nditye ukutya okubi.
+1248,1209,They found a corpse in the house.,Bafumene isidumbu endlwini.
+1249,1211,The liver processes alcohol.,Isibindi sisetyisa utywala.
+1250,1211,"You have guts, boy!",Unesibindi kwedin'!
+1251,1212,I like to eat chicken livers.,Ndithanda ukutya izibindi zenkuku.
+1252,1213,Here is your medical report.,Nantsi ingxelo yompilo yakho.
+1253,1214,The teacher wrote many reports.,Utitshalakazi ubhale iingxelo ezininzi.
+1254,1215,I am unable to go to school because I have a cold.,Andinakho ukuya esikolweni kuba ndinengqele.
+1255,1217,Sore joints are a symptom of rheumatism.,Amathambo abuhlungu ziimpawu zerumathizima.
