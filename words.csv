@@ -396,7 +396,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 398,in the afternoon,emva kwemini,adverb,,,false,false,,,,
 399,[in] the afternoon,emalanga,adverb,,,false,false,,,,"This word can also just indicate ""in the afternoons"" with a more general sense."
 400,set,tshona,verb,,ukutshona,false,false,intransitive,,,"""tshona"" refers to the setting of the sun."
-401,exit/go out,phuma,verb,,ukuphuma,false,false,intransitive,,,
+401,exit,phuma,verb,,ukuphuma,false,false,intransitive,,,
 402,rise,phuma,verb,,ukuphuma,false,false,intransitive,,,"""phuma"" refers to the sun rising."
 403,vehicle,isithuthi,noun,,,false,false,,,Isi,
 404,vehicles,izithuthi,noun,,,true,false,,,Izin,
@@ -889,7 +889,7 @@ It means can in the sense of ""be able to""."
 892,seeds,iimbewu,noun,,,true,false,,,Izin,
 893,animals,izilwanyana,noun,,,true,false,,,Izi,
 894,family,usapho,noun,,,false,false,,,Ulu,
-895,level/quality,umgangatho,noun,,,false,false,,,Class3Um,
+895,level,umgangatho,noun,,,false,false,,,Class3Um,
 896,grass,ingca,noun,,,false,false,,,In,
 897,sheep,amagusha,noun,,,true,false,,,Ama,
 898,water,nkcenkceshela,verb,,ukunkcenkceshela,false,false,transitive-only,,,
@@ -1310,3 +1310,4 @@ It means can in the sense of ""be able to""."
 1313,intestine,ithumbu,noun,,,false,false,,,Ili,
 1314,intestines,amathumbu,noun,,,true,false,,,Ama,
 1315,brain,ubucopho,noun,,,false,false,,,Ubu,
+1316,quality,umgangatho,noun,,,false,false,,,Class3Um,

@@ -445,7 +445,6 @@ example_id,word_id,english,xhosa
 460,398,"In the afternoon, he returns home.","Emva kwemini, ubuyela ekhaya."
 461,399,We will be here from the morning till the afternoon.,Sizoba lapha ukususela ekuseni ukuyotsho emalanga.
 462,400,"When the sun sets, I will speak to you.","Lakutshona ilanga, ndiza kuthetha nawe."
-463,401,"Get out, all of you!",Phumani nonke!
 464,401,Exit here.,Kuphunywa apha.
 465,402,The sun is rising.,Ilanga liyaphuma.
 466,403,I don't know if this vehicle is a car or a truck.,Andazi ukuba esi sithuthi yimoto okanye yitraki.
@@ -1053,7 +1052,6 @@ example_id,word_id,english,xhosa
 1076,585,How many months pregnant is Zukiswa?,UZukiswa uneenyanga ezingaphi ekhulelwe?
 1077,778,Sometimes my partner does not want to use a condom.,Ngamanye amaxesha iqabane lam alifuni ukusebenzisa ikhondom.
 1078,659,What are your [plural] names?,Ngoobani amagama enu?
-1079,895,The level/quality of their work is high.,Umgangatho womsebenzi wabo uphezulu.
 1080,895,The level of education is good.,Umgangatho wemfundo ulungile.
 1081,898,Please water the plants.,Khawunkcenkceshela izityalo.
 1082,899,Dad is a vegan - he does not want to wear shoes made out of animal skin.,"Utata uyi-vegan, akafuni ukunxiba izihlangu ezenziwa lufele lwezilwanyana."
@@ -1272,3 +1270,4 @@ example_id,word_id,english,xhosa
 1295,1311,I can't use the remote - it's broken.,Andikwazi ukusebenzisa iremote - yaphukile.
 1296,1312,I dropped the plate and broke it.,Ndawisa isitya ndayaphula.
 1297,1315,A mouse has a small brain.,Impuku inobucopho obuncinci.
+1298,1316,The quality of their work is high.,Umgangatho womsebenzi wabo uphezulu.
