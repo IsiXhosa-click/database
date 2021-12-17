@@ -46,7 +46,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 47,bed,ibhedi,noun,,,false,false,,,In,"Modern term for a bed from ""bed"" in English and Afrikaans"
 48,exact revenge,phindeza,verb,,ukuphindeza,false,false,,,,
 49,characterise,phawula,verb,,ukuphawula,false,false,,,,
-50,character,isimilo,noun,,,false,false,,,Isi,
+50,character,isimilo,noun,,,false,false,,,Isi,"This refers to the character of a person, not a fictional or typographical character. "
 51,plant,isityalo,noun,,,false,false,,,Isi,
 52,garden,isitiya,noun,,,false,false,,,Isi,"""igadi"" is often used more than ""isitiya"", especially colloquially."
 53,control,lawula,verb,,ukulawula,false,false,,,,
@@ -116,7 +116,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 117,prosper,hluma,verb,,ukuhluma,false,false,intransitive,,,
 118,bring,phathela,verb,,ukuphathela,false,false,,,,
 119,burn,tsha,verb,,ukutsha,false,false,intransitive,,,
-120,close,vala,verb,,ukuvala,false,false,,,,
+120,close,vala,verb,,ukuvala,false,false,transitive-only,,,
 121,drive,qhuba,verb,,ukuqhuba,false,false,,,,
 122,price,ixabiso,noun,,,false,false,,,Ili,
 123,cut,sika,verb,,ukusika,false,false,,,,"""sika"" is used for things that are not growing (for example, bread). ""cheba"" should instead be used for something growing, such as hair."
@@ -877,7 +877,7 @@ It means can in the sense of ""be able to""."
 880,be equal,lingana,verb,,ukulingana,false,false,intransitive,,,"Refers to things or people being the same in size, quality, age, etc. It can also be used for social equality."
 881,recently,kutshanje,adverb,,,false,false,,,,
 882,smell,nuka,verb,,ukunuka,false,false,intransitive,,,"Normally only used to indicate ""give out a smell"""
-883,become sprained,kruneka,verb,,ukukruneka,false,false,intransitive,,,
+883,become sprained,kruneka,verb,,ukukruneka,false,true,intransitive,,,
 884,crocodile,ingwenya,noun,,,false,false,,,In,
 885,work/job,umsebenzi,noun,,,false,false,,,Class3Um,
 886,worker/staff member/employee,umsebenzi,noun,,,false,false,,,Class1Um,"Do not confuse with umsebenzi ""work"".  "
@@ -1336,3 +1336,4 @@ It means can in the sense of ""be able to""."
 1339,voice,ilizwi,noun,,,false,false,,,Ili,
 1340,voices,amazwi,noun,,,true,false,,,Ama,
 1341,inform,azisa,verb,,ukwazisa,false,false,transitive-only,,,
+1342,personality,isimilo,noun,,,true,false,,,Izi,
