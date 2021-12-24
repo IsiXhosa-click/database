@@ -1024,3 +1024,9 @@ link_id,link_type,first,second
 1025,confusable,793,81
 1026,alternate_use,50,1342
 1027,plural_or_singular,603,1343
+1028,confusable,698,1344
+1029,plural_or_singular,1344,1345
+1030,related,1344,1346
+1031,confusable,698,1346
+1032,plural_or_singular,1346,1347
+1033,related,1345,1347
