@@ -42,7 +42,7 @@ example_id,word_id,english,xhosa
 46,49,The writer characterises him as a nice person,Umbhali uyamphawula njengomntu olungileyo
 48,51,This plant is only found near water.,Esi sityalo sifumaneka ngasemanzini qha.
 49,52,"Every day, he planted another flower in the garden.","Yonke imihla, utyale enye intyatyambo esitiyeni."
-50,53,I can't control this situation..,Andikwazi ukulawula le meko.
+50,53,I can't control this situation.,Andikwazi ukulawula le meko.
 51,54,My father taught me his method of baking bread.,Utata wam wayendifundisa indlela yakhe yokubhaka isonka.
 52,55,A baboon stole my egg from the plate.,Imfene ibisiba iqanda lam esityeni.
 53,56,Please calm down. Everything will be fine.,Ndicela uzole. Yonke into iza kulunga.
@@ -859,7 +859,6 @@ example_id,word_id,english,xhosa
 883,815,I give her a lift every day.,Ndimnika ilift yonke imihla.
 884,815,You must write down the money you spent daily.,Yonke imihla kufuneka ubhale phantsi imali oyichithileyo.
 885,816,Your child is crying.,Umntwana wakho uyakhala.
-886,816,Your phone is ringing.,Ifoni yakho iyakhala.
 887,817,Ring the bell!,Khalisa intsimbi!
 888,817,Khalisa i-alam!,Sound the alarm!
 889,70,"""Do like this,"" said the doctor.","""Yenza njalo,"" wathi ugqirha."
@@ -1291,3 +1290,4 @@ example_id,word_id,english,xhosa
 1317,1342,I like him because of his personality.,Ndiyamthanda ngenxa yesimilo sakhe.
 1318,1344,We're having a party to celebrate my birthday on Friday.,Sizoba nepati yokubhiyoza umhla wam wokuzalwa ngoLwesihlanu.
 1319,1346,I can't wait for the party on Saturday!,Ndingxamele itheko ngoMgqibelo!
+1320,78,We don't know how to write examples.,Asazi ukubhala imizekelo.
