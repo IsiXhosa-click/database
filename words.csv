@@ -928,7 +928,7 @@ It means can in the sense of ""be able to""."
 931,"be silly, naughty",geza,verb,,ukugeza,false,false,intransitive,,,"Can be confusable with the Zulu word for ""wash"" which is also ""geza""."
 932,bhabhayini,goodbye,interjection,,,false,false,,,,"Informal but very common. Can be used just like the English ""Bye!"""
 933,strong,omelele,relative,,,false,false,,,,"In Xhosa ""to get strong"" is ""ukomelela"" which is an inchoative verb. The relative is derived from this verb."
-934,amasebe,branches,noun,,,false,false,,,Ama,
+934,branches,amasebe,noun,,,true,false,,,Ama,
 935,burst,gqabhuka,verb,,ukugqabhuka,false,false,intransitive,,,Also has the sense of EXPLODE
 936,become fat,tyeba,verb,,ukutyeba,false,true,intransitive,,,"Sometimes used to mean ""get rich""."
 937,TV,iTV,noun,,,false,false,,,In,"More common than ""umabonakude"""
@@ -1343,3 +1343,8 @@ It means can in the sense of ""be able to""."
 1346,party,itheko,noun,,,false,false,,,Ili,"""ipati"" is much more common than ""itheko""."
 1347,parties,amatheko,noun,,,true,false,,,Ama,"""iipati"" is much more common than ""amatheko""."
 1348,argue,xabana,verb,,ukuxabana,false,false,intransitive,,,
+1349,lie,ubuxoki,noun,,,false,false,,,Ubu,
+1350,wait,linda,verb,,ukulinda,false,false,either,,,
+1351,sections,amacala,noun,,,true,false,,,Ama,
+1352,pill,ipilisi,noun,,,false,false,,,In,
+1353,pills,iipilisi,noun,,,true,false,,,Izin,

@@ -824,7 +824,6 @@ link_id,link_type,first,second
 825,plural_or_singular,1073,1074
 826,plural_or_singular,960,961
 827,alternate_use,960,293
-828,related,268,239
 829,alternate_use,413,1075
 830,alternate_use,414,1075
 831,related,626,1075
@@ -1031,3 +1030,7 @@ link_id,link_type,first,second
 1032,plural_or_singular,1346,1347
 1033,related,1345,1347
 1034,related,153,1348
+1035,alternate_use,1160,1349
+1036,related,1071,1350
+1037,related,518,1351
+1038,plural_or_singular,1352,1353
