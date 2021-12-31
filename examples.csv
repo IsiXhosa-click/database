@@ -626,7 +626,7 @@ example_id,word_id,english,xhosa
 645,565,I like to visit different places.,Ndithanda ukutyelela iindawo ezihlukeneyo.
 646,566,A few people drink coffee.,Abantu abambalwa baphunga ikofu.
 647,567,Turn left here.,Jika ekhohlo apha.
-648,568,Jika ekhohlo uhambe ngqo.,"Turn left, then go straight."
+648,568,"Turn left, then go straight.",Jika ekhohlo uhambe ngqo.
 649,569,I will throw out the dirty water.,Ndizochitha amanzi amdaka.
 650,570,I like to spend time riding my bicycle.,Ndithanda ukuchitha ixesha ngokukhwela ibhayisekile.
 651,570,He likes to spend money at the store.,Uthanda ukuchitha imali evenkileni.
@@ -826,7 +826,7 @@ example_id,word_id,english,xhosa
 848,770,It is urgent that he drinks water.,Kungxamisekile ukuba usele amanzi.
 849,771,"""Come here!"" he shouted urgently.","""Yiza apha!"" wabomboloza ngokungxamisekileyo."
 850,774,Thank you very much!,Enkosi kakhulu!
-851,775,Wandibulela waqhubekeka endleleni.,He thanked me and continued down the road.
+851,775,He thanked me and continued down the road.,Wandibulela waqhubekeka endleleni.
 852,776,I want to practise speaking Xhosa every day.,Ndifuna ukuziqhelisa ukuthetha isiXhosa yonke imihla.
 853,782,He runs fast.,Ubaleka ngokukhawuleza.
 854,783,He has a cruel heart.,Unentliziyo ekhohlakeleyo.
@@ -1293,3 +1293,20 @@ example_id,word_id,english,xhosa
 1320,78,We don't know how to write examples.,Asazi ukubhala imizekelo.
 1321,1348,She liked to argue with her friends about the names of birds.,Wathanda ukuxabana nabahlobo bakhe ngamagama eentaka.
 1322,1350,Wait outside - I will be with you shortly.,Linda phandle - ndizoba nawe kamsinyane.
+1323,1365,I extended my hand.,Ndolule isandla sam.
+1324,1366,The bell is ringing.,Intsimbi iyakhala.
+1325,1367,The school has three bells.,Isikolo ineentsimbi ezintathu.
+1326,1368,The bell is ringing.,Intsimbi iyakhala.
+1327,1368,Your phone is ringing.,Ifoni yakho iyakhala.
+1328,1369,Ring the bell.,Khalisa intsimbi.
+1329,1370,The tip of the spear is made of iron.,Incam yomkhonto yenziwe ngentsimbi.
+1330,1371,Owls sleep during the day.,Izikhova zilala emini.
+1331,1373,Make this verb an infinitive.,Yenza esi senzi sibe sisikhankanyi.
+1332,1376,Elephants are very intelligent.,Iindlovu zikrelekrele kakhulu.
+1333,1377,This tortoise is a hundred and two years old.,Olu fudo luneminyaka elikhulu elinesibini.
+1334,1380,Mice like to steal food from the kitchen.,Iimpuku zithanda ukuba ukutya kwigumbi lokuphekela.
+1335,1381,We need to find the cause of this disaster.,Kufuneka sifumane imbange yale ntlekele.
+1336,1383,Let me bandage your wound.,Mandibophe inxeba yakho.
+1337,1385,Measure your waist so that I can make your pants.,Meta isinqe sakho ukuze ndingenze ibhulukhwe yakho.
+1338,1388,The ribs are bones which protect the heart.,Iimbambo ngamathambo akhusela intliziyo.
+1339,1390,My muscles were sore after my run.,Izihlunu zam bezibuhlungu emva kokubaleka kwam.
