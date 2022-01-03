@@ -349,7 +349,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 351,preparations,amalungiselelo,noun,,,true,false,,,Ama,
 352,traditional doctor,igqirha,noun,,,true,false,,,Ili,
 353,complaint,isikhalazo,noun,,,false,false,,,Isi,
-354,complaints,izikhalazo,noun,,,false,false,,,Izin,
+354,complaints,izikhalazo,noun,,,false,false,,,Izi,
 355,doctor,ugqirha,noun,,,false,false,,,U,"""ugqirha"" can be used to refer to a medical doctor or someone who got their doctorate in academia."
 356,doctors,oogqirha,noun,,,true,false,,,Oo,"""oogqirha"" can be used to refer to medical doctors or people who got their doctorate in academia."
 357,corruption,urhwaphilizo,noun,,,false,false,,,Ulu,
@@ -951,7 +951,7 @@ It means can in the sense of ""be able to""."
 954,noses,iimpumlo,noun,,,true,false,,,Izin,
 955,flu,iflu,noun,,,false,false,,,Ili,
 956,fever,ifiva,noun,,,false,false,,,Ili,
-957,answer,impedulo,noun,,,false,false,,,In,
+957,answer,impendulo,noun,,,false,false,,,In,
 958,answers,iimpendulo,noun,,,true,false,,,Izin,
 959,mouth,umlomo,noun,,,false,false,,,Class3Um,
 960,thighs,amathanga,noun,ámáthangá,,true,false,,,Ama,
