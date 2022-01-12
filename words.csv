@@ -582,7 +582,7 @@ It means can in the sense of ""be able to""."
 583,problem,ingxaki,noun,,,false,false,false,,,In,
 584,homesteads,imizi,noun,,,true,false,false,,,Imi,
 585,month,inyanga,noun,,,false,false,false,,,In,
-586,week,iveki,noun,,,false,false,false,,,Izin,
+586,week,iveki,noun,,,false,false,false,,,In,
 587,terms,imimiselo,noun,,,true,false,false,,,Imi,
 588,conditions,imiqathango,noun,,,true,false,false,,,Imi,
 589,husband,umyeni,noun,,,false,false,false,,,Class1Um,
@@ -999,7 +999,7 @@ It means can in the sense of ""be able to""."
 1002,big toes,oobhontsi,noun,,,true,false,false,,,Oo,Referring to the large toe of the foot.
 1003,thumbs,oobhontsi,noun,,,true,false,false,,,Oo,
 1004,vagina,isibeleko,noun,,,false,false,false,,,Isi,
-1005,vaginas,izibeleko,noun,,,true,false,false,,,Izin,
+1005,vaginas,izibeleko,noun,,,true,false,true,,,Izi,
 1006,operating theatre,icandelo loqhaqho,noun,,,false,false,false,,,Ili,
 1007,operating theatres,amacandelo oqhaqho,noun,,,true,false,false,,,Ama,
 1008,tuberculosis ,isifo sephepha,noun,,,false,false,false,,,Isi,
