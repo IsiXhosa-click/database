@@ -239,7 +239,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 241,become injured,enzakala,verb,,ukwenzakala,false,true,false,intransitive,,,"An alternative form is ""onzakala"""
 242,injure,enzakalisa,verb,,ukwenzakalisa,false,false,false,transitive-only,,,
 243,better,ngcono,relative,,,false,false,false,,,,
-244,jump,tsiba,verb,,ukutsiba,false,false,false,,,,
+244,jump,tsiba,verb,,ukutsiba,false,false,false,intransitive,,,
 245,kill,bulala,verb,,ukubulala,false,false,false,either,,,"Note that ""bulala"" takes the irregular passive form of ""bulawa""."
 246,know,azi,verb,,ukwazi,false,false,false,either,,,"Azi is commonly used in the construction ""know how to"" as ""kwazi uku"", very often used with object concords"
 247,read,funda,verb,,ukufunda,false,false,false,,,,
