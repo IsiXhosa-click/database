@@ -1070,7 +1070,7 @@ It means can in the sense of ""be able to""."
 1073,examination room,igumbi lokuxilongela,noun,,,false,false,false,,,Ili,Medical examination
 1074,examination rooms,amagumbi okuxilongela,noun,,,true,false,false,,,Ama,Medical examinations
 1075,on the floor,phantsi,preposition,,,false,false,false,,,,
-1076,doctors' rooms,amagumbi abagqirha,noun,,,true,false,false,,,Ama,
+1076,doctors' rooms,amagumbi oogqirha,noun,,,true,false,true,,,Ama,
 1077,blood,igazi,noun,,,false,false,false,,,Ili,
 1078,hole,umngxuma,noun,,,false,false,false,,,Class3Um,
 1079,holes,imingxuma,noun,,,true,false,false,,,Imi,
