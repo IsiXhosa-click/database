@@ -86,7 +86,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 87,go home,goduka,verb,,ukugoduka,false,false,false,,,,
 88,rinse,pula,verb,,ukupula,false,false,false,either,,,
 89,brush against,thintana na-,verb,,ukuthintana na-,false,false,false,,,,
-90,blink,isiqhuphe,noun,,,false,false,false,,,Isi,
+90,short while,isiqhuphe,noun,,,false,false,false,,,Isi,
 91,laugh,hleka,verb,,ukuhleka,false,false,false,,,,
 92,song,ingoma,noun,,,false,false,false,,,In,
 93,refuse,ala,verb,,ukwala,false,false,false,either,,,
@@ -1401,3 +1401,6 @@ It means can in the sense of ""be able to""."
 1404,plan,cwangcisa,verb,,ukucwangcisa,false,false,false,either,,,
 1405,greet,bulisa,verb,,ukubulisa,false,false,false,transitive-only,,,
 1406,become scarce,nqaba,verb,,ukunqaba,false,false,false,intransitive,,,
+1407,request,cela,verb,,ukucela,false,false,false,either,,,This is a more polite way of asking for something than funa.
+1408,be lazy,onqena,verb,,ukonqena,false,false,false,intransitive,,,
+1409,doorway,umnyango,noun,,,false,false,false,,,Class3Um,

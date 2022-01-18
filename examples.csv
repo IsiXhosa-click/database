@@ -78,7 +78,7 @@ example_id,word_id,english,xhosa
 86,50,I want a child who is well mannered.,Ndifuna umntwana onesimilo.
 87,88,Please rinse that muddy cloth.,Ndicela upule elo laphu linodaka.
 88,89,"When we left the hall, his hand brushed against my arm.","Sakuphuma eholweni, isandla sakhe sathintana nengalo yam."
-89,90,It was over in the blink of an eye,Yaphela ngesiqhuphe
+89,90,It was over quickly.,Yaphela ngesiqhuphe.
 90,91,My father was an old man who liked to laugh.,Utata wam wayelixhego elithanda ukuhleka.
 91,92,He was singing a nice song,Ebecula ingoma emnandi
 92,93,The government refused to help us.,Urhulumente wala ukusinceda.
@@ -1124,7 +1124,7 @@ example_id,word_id,english,xhosa
 1151,1026,Her foot is swollen.,Unyawo lwakhe ludumbile.
 1152,1027,Thando goes to the beach regularly.,UThando uya elwandle rhoqo.
 1153,1028,The man had a strange tool which was used for hunting.,Indoda ibinesixhobo esingaqhelekanga esisetyenziswa ukuzingela.
-1154,1031,We do not allow weapons here.,Asivumeli izixhoba apha.
+1154,1031,We do not allow weapons here.,Asivumeli zixhobo apha.
 1155,1032,The value of his company has doubled this month.,Ixabiso lenkampani yakhe liziphindile kabini kule nyanga.
 1156,1033,The dams are becoming full this winter.,Amadama ayazala kobu busika.
 1157,1034,I don't like the smell of petrol.,Andithandi ivumba lepetroli.
@@ -1168,7 +1168,7 @@ example_id,word_id,english,xhosa
 1195,1106,I picked up a ticket in King William's Town.,Ndachola itiki eQonce.
 1196,1108,I usually eat two eggs for breakfast.,Ndithanda ukutya amaqanda amabini kwisidlo sam sakusasa.
 1197,1109,Spread the butter.,Qaba ibhotolo.
-1198,1110,The man was sawing firewood.,Indoda ibisarha iinkuni yomlilo.
+1198,1110,The man was sawing firewood.,Indoda ibisarha iinkuni zomlilo.
 1199,1111,I am digging a hole.,Ndipeta umngxuma.
 1200,1112,I am collecting my food.,Ndiqokelela ukutya kwam.
 1201,1113,Raise the anchor and we will go.,Nyusa i-ankile sihambe.
@@ -1327,3 +1327,6 @@ example_id,word_id,english,xhosa
 1354,1405,I greeted the principal.,Ndibulise inqununu.
 1355,1406,Water is scarce in South Africa.,Amanzi anqabile eMzantsi Afrika.
 1356,1406,You've been scarce lately.,Unqabile mva nje.
+1357,1407,I request water.,Ndicela amanzi.
+1358,1408,"Don't be lazy, work hard!","Sukonqena, sebenza nzima!"
+1359,1409,The traveler stood in the doorway.,Umhambi wema emnyango
