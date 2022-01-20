@@ -554,7 +554,7 @@ It means can in the sense of ""be able to""."
 555,university,iyunivesithi,noun,,,false,false,false,,,In,
 556,study,funda,verb,,ukufunda,false,false,false,either,,,
 557,universities,iiyunivesithi,noun,,,true,false,false,,,Izin,
-558,schools,izikolo,noun,,,true,false,false,,,Izin,
+558,schools,izikolo,noun,,,true,false,true,,,Izi,
 559,child,umntwana,noun,,,false,false,false,,,Class1Um,
 560,children,abantwana,noun,,,true,false,false,,,Aba,
 561,feel,va,verb,,ukuva,false,false,false,either,,,"The verb ""va"" when used to translate ""feel"" is usually used with the reflexive object concord -zi-"
@@ -1080,7 +1080,7 @@ It means can in the sense of ""be able to""."
 1083,apart from,ngaphandle kwa-,preposition,,,false,false,false,,,,"kwa- changes to ko- before nouns starting with u- , e.g. ngaphandle kokutya - apart from the food."
 1084,without,ngaphandle kwa-,preposition,,,false,false,false,,,,"kwa- changes to ko- before nouns starting with u- , e.g. ngaphandle kokutya - apart from the food."
 1085,travel towards,bheka,verb,,ukubheka,false,false,false,intransitive,,,
-1086,mdaka,dirty,relative,,,false,false,false,,,,
+1086,dirty,brown,relative,,,false,false,false,,,,
 1087,sink,yela,verb,,ukuyela,false,false,false,intransitive,,,
 1088,evening,injikalanga,noun,,,false,false,false,,,In,
 1089,advertisements,izibhengezo,noun,,,true,false,false,,,Izi,
