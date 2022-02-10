@@ -418,7 +418,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 420,cut,ncwela,verb,,ukuncwela,false,false,false,transitive-only,,,"""ncwela"" can be used to refer to cutting paper or leather into smaller strips, or even stripping/trimming a plant. Informally ""ncwela"" can be used for ""bribe""."
 421,bully,ncwela,verb,,ukuncwela,false,false,true,transitive-only,,,
 422,walk,hamba,verb,,ukuhamba,false,false,false,intransitive,,,
-423,home,idlala,noun,,,false,false,true,,,Ili,
+423,home,idladla,noun,,,false,false,false,,,Ili,
 424,brother,umnakwethu,noun,,,false,false,false,,,Class1Um,Used to refer to your brother regardless of whether they are younger or older.
 425,younger brother,umninawa,noun,,,false,false,false,,,Class1Um,Only used when referring to your younger brother
 426,no,hayi,interjection,,,false,false,false,,,,
@@ -428,7 +428,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 430,face,ubuso,noun,,,false,false,false,,,Ubu,
 431,car,ihashe,noun,,,false,false,false,,,Ili,Informal.
 432,horse,ihashe,noun,,,false,false,false,,,Ili,
-433,silo,idlala,noun,,,false,false,false,,,Ili,Standard meaning.
+433,silo,idladla,noun,,,false,false,false,,,Ili,Standard meaning.
 434,Cape Town,iKapa,noun,,,false,false,false,,,Ili,
 435,if,ukuba,conjunction,,,false,false,false,,indicative mood,,
 436,across,phesheya,preposition,,,false,false,false,,,,
