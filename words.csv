@@ -315,7 +315,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 317,accused,ummangalelwa,noun,,,false,false,false,,,Class1Um,
 318,accused,abamangalelwa,noun,,,true,false,false,,,Aba,
 319,appeals,izibheno,noun,,,true,false,false,,,Izin,
-320,ingredients,izithako,noun,,,true,false,false,,,Izin,
+320,ingredients,izithako,noun,,,true,false,true,,,Izi,
 321,bicycles,iibhayisekile,noun,,,true,false,false,,,Izin,
 322,bail,ibheyile,noun,,,false,false,false,,,In,
 323,bicycle,ibhayisekile,noun,,,false,false,false,,,In,
@@ -341,7 +341,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 343,ship,isikhephe,noun,,,false,false,false,,,Isi,
 344,ships,izikhephe,noun,,,true,false,false,,,Izi,
 345,promise,thembisa,verb,,ukuthembisa,false,false,false,either,,,
-346,cells,izisele,noun,,,true,false,false,,,Izin,Jail cells
+346,cells,izisele,noun,,,true,false,true,,,Izi,Jail cells
 347,charge,isityholo,noun,,,false,false,false,,,Isi,Legal charge
 348,bus,ibhasi,noun,,,false,false,false,,,In,
 349,charges,izityholo,noun,,,true,false,false,,,Izin,
@@ -1080,7 +1080,7 @@ It means can in the sense of ""be able to""."
 1083,apart from,ngaphandle kwa-,preposition,,,false,false,false,,,,"kwa- changes to ko- before nouns starting with u- , e.g. ngaphandle kokutya - apart from the food."
 1084,without,ngaphandle kwa-,preposition,,,false,false,false,,,,"kwa- changes to ko- before nouns starting with u- , e.g. ngaphandle kokutya - apart from the food."
 1085,travel towards,bheka,verb,,ukubheka,false,false,false,intransitive,,,
-1086,dirty,brown,relative,,,false,false,false,,,,
+1086,dirty,mdaka,relative,,,false,false,false,,,,
 1087,sink,yela,verb,,ukuyela,false,false,false,intransitive,,,
 1088,evening,injikalanga,noun,,,false,false,false,,,In,
 1089,advertisements,izibhengezo,noun,,,true,false,false,,,Izi,
@@ -1278,11 +1278,11 @@ It means can in the sense of ""be able to""."
 1281,disasters,iintlekele,noun,,,true,false,false,,,Izin,
 1282,entrance,isango,noun,,,false,false,false,,,Ili,
 1283,entrances,amasango,noun,,,true,false,false,,,Ama,
-1284,navel,inkaba,noun,,,false,false,false,,,Izin,"Commonly known as a ""belly button"""
+1284,navel,inkaba,noun,,,false,false,false,,,In,"Commonly known as a ""belly button"""
 1285,navels,iinkaba,noun,,,true,false,false,,,Izin,"Commonly known as ""belly buttons"""
 1286,HIV,isifo uGawulayo,noun,,,false,false,false,,,Isi,"Most people simply refer to this as ""iHIV"". It can also appear just as ""uGawulayo""."
 1287,part-time job,isingxungxo,noun,,,false,false,false,,,Isi,
-1288,part-time jobs,izingxungxo,noun,,,true,false,false,,,Izin,
+1288,part-time jobs,izingxungxo,noun,,,true,false,true,,,Izi,
 1289,pains,iintlugu,noun,,,true,false,false,,,Izin,
 1290,step,isitephu,noun,,,false,false,false,,,Isi,Steps of a stairway
 1291,steps,izitephu,noun,,,true,false,false,,,Izi,Steps of a stairway
@@ -1409,3 +1409,30 @@ It means can in the sense of ""be able to""."
 1412,soon,kamsinyane,adverb,,,false,false,false,,,,
 1413,shop,ivenkile,noun,,,false,false,false,,,In,
 1414,shops,iivenkile,noun,,,true,false,false,,,Izin,
+1415,pass,dlula,verb,,ukudlula,false,false,false,either,,,
+1416,knife,imela,noun,,,false,false,false,,,In,
+1417,pencil,ipensile ,noun,,,false,false,false,,,In,
+1418,penguin  ,unombombiya,noun,,,false,false,false,,,U,
+1419,rabbit,umvundla,noun,,,false,false,false,,,Class3Um,
+1420,become suitable,faneleka,verb,,ukufaneleka,false,true,false,intransitive,,,
+1421,gutter,igathara,noun,,,false,false,false,,,In,
+1422,gutters,iigathara,noun,,,true,false,false,,,Izin,
+1423,fill,zalisa,verb,,ukuzalisa,false,false,false,transitive-only,,,
+1424,key,isitshixo,noun,,,false,false,false,,,Isi,
+1425,keys,izitshixo,noun,,,true,false,false,,,Izi,
+1426,shoe,isihlangu,noun,,,false,false,false,,,Isi,
+1427,shoes,izihlangu,noun,,,true,false,false,,,Izi,
+1428,knives,iimela,noun,,,true,false,false,,,Izin,
+1429,sister,usisi,noun,,,false,false,false,,,U,
+1430,sisters,oosisi,noun,,,true,false,false,,,Oo,
+1431,mountain,intaba,noun,,,false,false,false,,,In,
+1432,mountains,iintaba,noun,,,true,false,false,,,Izin,
+1433,recent past continuous tense,ixesha ebelidlula,noun,,,false,false,false,,,Ili,
+1434,remote past tense,ixesha eladlulayo,noun,,,false,false,false,,,Ili,
+1435,remote past continuous tense,ixesha elalidlula,noun,,,false,false,false,,,Ili,
+1436,personification,isimntwiso,noun,,,false,false,false,,,Isi,
+1437,hippos,iimvubu,noun,,,true,false,false,,,Izin,
+1438,giraffes,iindlulamithi,noun,,,true,false,false,,,Izin,
+1439,worms,imisundululu,noun,,,true,false,false,,,Imi,
+1440,earn,rhola,verb,,ukurhola,false,false,false,transitive-only,,,
+1441,giraffe,indlulamthi,noun,,,false,false,false,,,In,
