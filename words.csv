@@ -426,7 +426,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 428,language,ulwimi,noun,,,false,false,false,,,Ulu,
 429,languages,iilwimi,noun,,,true,false,false,,,Izin,
 430,face,ubuso,noun,,,false,false,false,,,Ubu,
-431,car,ihashe,noun,,,false,false,false,,,Ili,Informal.
+431,car,ihashe,noun,,,false,false,true,,,Ili,
 432,horse,ihashe,noun,,,false,false,false,,,Ili,
 433,silo,idladla,noun,,,false,false,false,,,Ili,Standard meaning.
 434,Cape Town,iKapa,noun,,,false,false,false,,,Ili,
@@ -1436,3 +1436,9 @@ It means can in the sense of ""be able to""."
 1439,worms,imisundululu,noun,,,true,false,false,,,Imi,
 1440,earn,rhola,verb,,ukurhola,false,false,false,transitive-only,,,
 1441,giraffe,indlulamthi,noun,,,false,false,false,,,In,
+1442,condom,idyasi,noun,,,false,false,true,,,In,
+1443,flower,intyatyambo,noun,,,false,false,false,,,In,
+1444,flowers,iintyatyambo,noun,,,true,false,false,,,Izin,
+1445,jacket,idyasi,noun,,,false,false,false,,,In,
+1446,respect,intlonipho,noun,,,false,false,false,,,In,
+1447,respect,hlonipha,verb,,ukuhlonipha,false,false,false,either,,,
