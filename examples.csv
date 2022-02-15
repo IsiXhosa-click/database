@@ -733,7 +733,7 @@ example_id,word_id,english,xhosa
 755,664,This school is a ray of light of our community.,Esi sikolo lilitha loluntu lwethu.
 756,666,"Love is the foundation of our nation - when this foundation shakes, the nation is destroyed.","Uthando lusiseko sesizwe sethu - sakuhexa esi seko, isizwe siyawa."
 757,667,I am from the Cofimvaba district.,Ndisuka kwisithili saseCofimvaba.
-758,44,I can't count in Xhosa.,Andikwazi ukubala ngesiXhosa.
+758,44,I can't count in Xhosa.,Andikwazi ukubala esiXhoseni.
 759,668,"Mm, I like this fruit! It is delicious.","Mm, ndithanda esi siqhamo! Simnandi."
 760,670,Answer the following questions.,Phendula imibuzo elandelayo.
 761,670,Don't follow me!,Musa ukundilandela!
@@ -1348,3 +1348,4 @@ example_id,word_id,english,xhosa
 1375,1447,Respect your elders.,Hlonipha abantu abadala.
 1376,1448,My friend Nathan has many rabbits.,Umhlobo wam Nathan unemivundla emininzi.
 1377,1449,Penguins often live in groups.,Oonombombiya bathanda ukuhlala emaqeleni.
+1378,1450,A hippo is an animal that lives in rivers and on land and it has a big mouth which has two long teeth in front.,Imvubu sisilwanyana esikwazi ukuphila emilanjeni nasemhlabeni kwaye inomlomo omkhulu namazinyo amade ngaphambili.
