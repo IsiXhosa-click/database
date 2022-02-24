@@ -128,7 +128,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 129,decide,gqiba,verb,,ukugqiba,false,false,false,either,,,
 130,forget,libala,verb,,ukulibala,false,false,false,either,,,
 131,go,ya,verb,,ukuya,false,false,false,intransitive,,,"Note with the reflexive Object Concord -zi- and the applied extension -el- this verb can be used to mean ""Go by the self"" e.g. Umntwana wam uziyela esikolweni ""The child goes by itself to school"""
-132,agree,vuma,verb,,ukuvuma,false,false,false,,,,
+132,agree,vuma,verb,,ukuvuma,false,false,false,intransitive,,,
 133,answer,phendula,verb,,ukuphendula,false,false,false,either,,,
 134,believe,kholelwa,verb,,ukukholelwa,false,false,false,,,,
 135,call,biza,verb,,ukubiza,false,false,false,transitive-only,,,
@@ -1015,7 +1015,7 @@ It means can in the sense of ""be able to""."
 1018,shins,ooxhongo,noun,,,true,false,false,,,Oo,"More specifically, the tibia."
 1019,soldier,ijoni,noun,,,false,false,false,,,Ili,This can also be used to refer to the immune system
 1020,soldiers,amajoni,noun,,,true,false,false,,,Ama,
-1021,ubuhlungu,pain,noun,,,false,false,false,,,Ubu,Abstract pain.
+1021,pain,ubuhlungu,noun,,,false,false,false,,,Ubu,Abstract pain.
 1022,doctor's room,igumbi likagqirha,noun,,,false,false,false,,,Ili,
 1023,public,kawonke-wonke,relative,,,false,false,false,,,,
 1024,summer,ihlobo,noun,,,false,false,false,,,Ili,"The locative of ihlobo is ehlotyeni, due to palatalisation."
@@ -1189,8 +1189,8 @@ It means can in the sense of ""be able to""."
 1192,heel,isithende,noun,,,false,false,false,,,Isi,
 1193,heels,izithende,noun,,,true,false,false,,,Izin,
 1194,heartburn,isitshisa,noun,,,false,false,false,,,Isi,
-1195,calf,isiquluba,noun,,,false,false,false,,,Isi,
-1196,calves,iziquluba,noun,,,true,false,false,,,Izin,
+1195,calf,isiquluba,noun,,,false,false,false,,,Isi,This refers to the body part.
+1196,calves,iziquluba,noun,,,true,false,true,,,Izi,This refers to the body part.
 1197,wrist,isihlahla,noun,,,false,false,false,,,Isi,
 1198,wrists,izihlahla,noun,,,true,false,false,,,Izin,
 1199,illness,isigulo,noun,,,false,false,false,,,Isi,
@@ -1446,3 +1446,12 @@ It means can in the sense of ""be able to""."
 1449,penguins,oonombombiya,noun,,,true,false,false,,,Oo,
 1450,hippo,imvubu,noun,,,false,false,false,,,In,
 1451,pens,iipeni,noun,,,false,false,false,,,Izin,
+1452,news,indaba,noun,,,false,false,false,,,In,
+1453,calf,inkonyana,noun,,,false,false,false,,,In,Referring to a juvenile cow.
+1454,calves,iinkonyana,noun,,,true,false,false,,,Izin,Referring to a juvenile cow.
+1455,become drunk,nxila,verb,,ukunxila,false,true,false,intransitive,,,
+1456,dance,xhentsa,verb,,ukuxhentsa,false,false,false,intransitive,,,
+1457,tie,bopha,verb,,ukubhopa,false,false,false,intransitive,,,
+1458,injection,isitofu,noun,,,false,false,false,,,Isi,
+1459,injections,izitofu,noun,,,true,false,false,,,Izi,
+1460,section,icala,noun,,,false,false,false,,,Ili,
