@@ -783,7 +783,7 @@ example_id,word_id,english,xhosa
 805,724,He is a naughty boy.,Uyinkwenkwe egezayo.
 806,725,These are the tall boys in the village.,Nanga makhwenkwe amade elalini.
 807,726,Why have you eaten all the cake?,Kutheni utye ikeyiki yonke?
-808,727,Yonke into ephilayo idinga amanzi.,Every living thing needs water.
+808,727,Every living thing needs water.,Yonke into ephilayo idinga amanzi.
 809,728,Draw a picture of a cow.,Zoba umfanekiso wenkomo.
 810,729,Look at the pictures above and answer the following questions.,Jonga imifanekiso engentla uphendule imibuzo elandelayo.
 811,730,I will answer your question now.,Ndizophendula umbuzo wakho ngoku.
@@ -872,7 +872,6 @@ example_id,word_id,english,xhosa
 897,183,When is your birthday?,Unini umhla wakho wokuzalwa?
 898,822,The animals are thin due to the drought.,Izilwanyana zibhityile ngenxa yembalela.
 899,823,"Every morning, he went to work at 8.","Qho kusasa, waya emsebenzini ngo8."
-900,764,Go and don't sin again.,Hamba ungaphinde wone.
 901,824,I do not want to marry him.,Andifuni kutshata naye.
 902,825,I smell a fishy aroma.,Ndiva ivumba lentlanzi.
 903,218,I threw myself on the bed.,Ndizijule ebhedini.
@@ -986,8 +985,8 @@ example_id,word_id,english,xhosa
 1011,862,Go to Gugu's place across the road.,Yiya kwaGugu ngapha kwendlela.
 1012,863,Put your radio down (i.e. turn the sound down).,Thoba irediyo.
 1013,863,I can listen to the radio on my phone.,Ndingamamela irediyo kwifoni yam.
-1014,864,Please give me a pen.,Khawundinike ipen.
-1015,864,This pen doesn't work.,Le pen ayisebenzi.
+1014,864,Please give me a pen.,Khawundinike ipeni.
+1015,864,This pen doesn't work.,Le peni ayisebenzi.
 1016,865,I am going out with my friend today.,Ndiphuma netshomi yam namhlanje.
 1017,865,Where is my friend?,Iphi itshomi yam?
 1018,865,"Friend, what is the problem?","Tshomi, yintoni ingxaki?"
@@ -1353,3 +1352,7 @@ example_id,word_id,english,xhosa
 1380,1458,The injection was not painful.,Isitofu besingebuhlungu.
 1381,1460,Food is prepared in this section of the restaurant.,Ukutya kulungiselelwa kweli cala lerestyu.
 1382,1461,Please submit your work tomorrow.,Nceda unikezele umsebenzi wakho ngomso.
+1383,1467,I read the news in the night.,Ndifunda iindaba ebusuku.
+1384,1468,The cloud is white.,Ilifu limhlophe.
+1385,1401,Please undress.,Khawukhulule.
+1386,132,I agree with you.,Ndiyavumelana nawe.

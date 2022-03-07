@@ -30,7 +30,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 31,guy,umfo,noun,,,false,false,false,,,Class1Um,
 32,about,malunga,preposition,,,false,false,false,,,,"""malunga"" is always followed by ""na-"".  You can also use nga- e.g. Le yincwadi ethetha ngethemba. This is a book  that speaks about hope."
 33,beloved,isithandwa,noun,,,false,false,false,,,Isi,
-34,as if,ngathi,preposition,,,false,false,false,,,,
+34,as if,ngathi,conjunction,,,false,false,false,,,,
 35,ambition,ikhwele,noun,,,false,false,false,,,Ili,"""Ikhwele"" is usually used to mean a kind of envy of someone which motivates a person to work hard so that they too can achieve the same things which they envy, meaning it is more positive than the negative ""ubukhwele""."
 36,envy,ubukhwele,noun,,,false,false,false,,,Ubu,
 37,ride,khwela,verb,,ukukhwela,false,true,false,either,,,
@@ -192,7 +192,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 193,register,bhalisa,verb,,ukubhalisa,false,false,false,either,,,
 194,emphasise,gxininisa,verb,,ukugxininisa,false,false,false,transitive-only,,,
 195,become angry,qumba,verb,,ukuqumba,false,true,false,intransitive,,,
-196,suck,munca,verb,,ukumunca,false,false,false,transitive-only,,,
+196,suck,munca,verb,,ukumunca,false,false,false,transitive-only,,,"Can also be used to mean ""lick""."
 197,wash,hlamba,verb,,ukuhlamba,false,false,false,either,,,Note:  the borrowed word vasa is also used for wash
 198,sleep,ubuthongo,noun,,,false,false,false,,,Ubu,
 199,rest,phumla,verb,,ukuphumla,false,false,false,intransitive,,,
@@ -373,7 +373,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 375,dock,umkhumbi,noun,,,false,false,false,,,Class3Um,Court dock
 376,helicopter,ihelikhopta,noun,,,false,false,false,,,In,
 377,motorbikes,izithuthuthu,noun,,,true,false,false,,,Izi,
-378,fines,izihlawuliso,noun,,,true,false,false,,,Izin,Monetary fine
+378,fines,izihlawuliso,noun,,,true,false,true,,,Izi,Monetary fine
 379,fines,imidliwo,noun,,,true,false,false,,,Imi,Monetary fines
 380,fraud,urhwaphilizo,noun,,,false,false,false,,,Ulu,
 381,motorbike,isithuthuthu,noun,,,false,false,false,,,Isi,
@@ -759,7 +759,6 @@ It means can in the sense of ""be able to""."
 761,education,imfundo,noun,,,false,false,false,,,In,
 762,have a birthday,bhafa,verb,,ukubhafa,false,false,false,intransitive,,,"This is the colloquial use - formal Xhosa uses ""zalwa - be given birth""."
 763,blink,qhwanyaza,verb,,ukuqhwanyaza,false,false,false,either,,,
-764,again,ngaphinde,adverb,,,false,false,false,,,,"Used in the negative, ""don't again"""
 765,disappoint,phoxa,verb,,ukuphoxa,false,false,false,either,,,
 766,stomach,isisu,noun,,,false,false,false,,,Isi,Refers to both a belly and a stomach
 767,sneeze,thimla,verb,,ukuthimla,false,false,false,either,,,
@@ -884,14 +883,14 @@ It means can in the sense of ""be able to""."
 887,cough,khohlela,verb,,ukukhohlela,false,false,false,intransitive,,,
 888,seed,imbewu,noun,,,false,false,false,,,In,
 889,grow,khula,verb,,ukukhula,false,false,false,intransitive,,,
-890,sheep,igusha,noun,,,false,false,false,,,Ili,
+890,sheep,igusha,noun,,,false,false,false,,,In,
 891,animal,isilwanyana,noun,,,false,false,false,,,Isi,
 892,seeds,iimbewu,noun,,,true,false,false,,,Izin,
 893,animals,izilwanyana,noun,,,true,false,false,,,Izi,
 894,family,usapho,noun,,,false,false,false,,,Ulu,
 895,level,umgangatho,noun,,,false,false,false,,,Class3Um,
 896,grass,ingca,noun,,,false,false,false,,,In,
-897,sheep,amagusha,noun,,,true,false,false,,,Ama,
+897,sheep,iigusha,noun,,,true,false,true,,,Izin,
 898,water,nkcenkceshela,verb,,ukunkcenkceshela,false,false,false,transitive-only,,,
 899,skin (generally of an animal),ufele,noun,,,false,false,false,,,Ulu,"""ufele"" is also used for human skin, or just generally ""outward appearance""."
 900,dry,omile,relative,,,false,false,false,,,,"From the inchoative verb ""ukoma"" which means ""to become dry""."
@@ -1122,8 +1121,8 @@ It means can in the sense of ""be able to""."
 1125,spring,intlakohlaza,noun,,,false,false,false,,,In,
 1126,bathroom,igumbi lokuhlambela,noun,,,false,false,false,,,Ili,"This literally translates to a room used for washing. ""Indlu yangasese"" may be a more relevant term in some contexts."
 1127,bathrooms,amagumbi okuhlambela,noun,,,true,false,false,,,Ama,
-1128,baby finger,ucikicane,noun,,,false,false,false,,,U,
-1129,baby fingers,oocikicane,noun,,,true,false,false,,,Oo,
+1128,pinkie finger,ucikicane,noun,,,false,false,false,,,U,
+1129,pinkie fingers,oocikicane,noun,,,true,false,true,,,Oo,
 1130,baby toe,ucikicane,noun,,,false,false,false,,,U,
 1131,baby toes,oocikicane,noun,,,true,false,false,,,Oo,
 1132,windows,iifestile,noun,,,true,false,false,,,Izin,
@@ -1139,7 +1138,7 @@ It means can in the sense of ""be able to""."
 1142,maternal aunt,umakazi,noun,,,false,false,false,,,U,
 1143,maternal aunts,oomakazi,noun,,,true,false,false,,,Oo,
 1144,paternal aunt,udadebawo,noun,,,false,false,false,,,U,
-1145,maternal aunts,oodadebawo,noun,,,true,false,false,,,Oo,
+1145,paternal aunts,oodadebawo,noun,,,true,false,true,,,Oo,
 1146,elder brother,umkhuluwa,noun,,,false,false,false,,,Class1Um,
 1147,elder brothers,abakhuluwa,noun,,,true,false,false,,,Aba,
 1148,brother-in-law,usibali,noun,,,false,false,false,,,U,
@@ -1192,7 +1191,7 @@ It means can in the sense of ""be able to""."
 1195,calf,isiquluba,noun,,,false,false,false,,,Isi,This refers to the body part.
 1196,calves,iziquluba,noun,,,true,false,true,,,Izi,This refers to the body part.
 1197,wrist,isihlahla,noun,,,false,false,false,,,Isi,
-1198,wrists,izihlahla,noun,,,true,false,false,,,Izin,
+1198,wrists,izihlahla,noun,,,true,false,true,,,Izi,
 1199,illness,isigulo,noun,,,false,false,false,,,Isi,
 1200,illnesses,izigulo,noun,,,true,false,false,,,Izi,
 1201,out patient,isigulana sangaphandle,noun,,,false,false,false,,,Isi,
@@ -1336,7 +1335,7 @@ It means can in the sense of ""be able to""."
 1339,voice,ilizwi,noun,,,false,false,false,,,Ili,
 1340,voices,amazwi,noun,,,true,false,false,,,Ama,
 1341,inform,azisa,verb,,ukwazisa,false,false,false,transitive-only,,,
-1342,personality,isimilo,noun,,,true,false,false,,,Izi,
+1342,personality,isimilo,noun,,,false,false,true,,,Isi,
 1343,hearts,iintliziyo,noun,,,true,false,false,,,Izin,
 1344,party,ipati,noun,,,false,false,false,,,In,
 1345,parties,iipati,noun,,,true,false,false,,,Izin,
@@ -1387,7 +1386,7 @@ It means can in the sense of ""be able to""."
 1390,muscles,izihlunu,noun,,,true,false,false,,,Izi,
 1391,unfortunately,ngelishwa,adverb,,,false,false,false,,,,
 1392,intend,zimisela,verb,,ukuzimisela,false,false,false,either,,,
-1393,zula,wander,verb,,ukuzula,false,false,false,either,,,
+1393,wander,zula,verb,,ukuzula,false,false,false,either,,,
 1394,drink heavily,shusha,verb,,ukushusha,false,false,false,intransitive,,,
 1395,throb,qaqamba,verb,,ukuqaqamba,false,false,false,intransitive,,,
 1396,ache,qaqamba,verb,,ukuqaqamba,false,false,false,intransitive,,,
@@ -1395,7 +1394,7 @@ It means can in the sense of ""be able to""."
 1398,stamp,ngqisha,verb,,ukungqisha,false,false,false,transitive-only,,,
 1399,bite,luma,verb,,ukuluma,false,false,false,either,,,
 1400,protect,khusela,verb,,ukukhusela,false,false,false,transitive-only,,,
-1401,take off,khulula,verb,,ukukhulula,false,false,false,transitive-only,,,
+1401,take off,khulula,verb,,ukukhulula,false,false,false,either,,,
 1402,scratch,krwempa,verb,,ukukrwempa,false,false,false,transitive-only,,,
 1403,stab,hlaba,verb,,ukuhlaba,false,false,false,either,,,
 1404,plan,cwangcisa,verb,,ukucwangcisa,false,false,false,either,,,
@@ -1456,3 +1455,16 @@ It means can in the sense of ""be able to""."
 1459,injections,izitofu,noun,,,true,false,false,,,Izi,
 1460,section,icala,noun,,,false,false,false,,,Ili,
 1461,submit,nikezela,verb,,ukunikezela,false,false,false,transitive-only,,,
+1462,doorways,iminyango,noun,,,true,false,false,,,Imi,
+1463,lock,tshixa,verb,,ukutshixa,false,false,false,either,,,
+1464,concord,isivumelanisi,noun,,,false,false,false,,,Isi,Referring to a grammatical concord. 
+1465,object,injongosenzi,noun,,,false,false,false,,,In,Referring to a grammatical object 
+1466,object concord ,isivumelanisi senjongosenzi,noun,,,false,false,false,,,Isi,
+1467,news,iindaba,noun,,,true,false,false,,,Izin,
+1468,cloud,Ilifu,noun,,,false,false,false,,,Ili,
+1469,subject concord,isivumelanisi sentloko,noun,,,false,false,false,,,Isi,
+1470,dolphin,ihlengisi,noun,,,false,false,false,,,Ili,
+1471,dolphins,amahlengisi,noun,,,true,false,false,,,Ama,
+1472,pronoun,isimelabizo,noun,,,false,false,false,,,Isi,
+1473,pronouns,izimelabizo,noun,,,true,false,false,,,Izi,
+1474,clouds,amafu,noun,,,true,false,false,,,Ama,

@@ -517,7 +517,6 @@ link_id,link_type,first,second
 517,related,63,759
 518,related,61,760
 519,related,556,761
-521,related,200,764
 522,alternate_use,110,765
 523,related,676,667
 524,related,676,678
@@ -1104,3 +1103,16 @@ link_id,link_type,first,second
 1107,alternate_use,581,1460
 1108,alternate_use,1323,1460
 1109,related,1279,1461
+1110,plural_or_singular,1409,1462
+1111,related,1424,1463
+1112,related,1425,1463
+1113,related,1465,1466
+1114,related,1464,1466
+1115,plural_or_singular,1452,1467
+1116,alternate_use,1196,1195
+1117,plural_or_singular,1196,1195
+1118,related,702,1469
+1119,related,1464,1469
+1120,related,1466,1469
+1121,plural_or_singular,1470,1471
+1122,plural_or_singular,1472,1473
