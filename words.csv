@@ -249,7 +249,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 251,lie down,ngqengqa,verb,,ukungqengqa,false,false,false,intransitive,,,
 252,like,thanda,verb,,ukuthanda,false,false,false,transitive-only,,,"""thanda"" can be used to indicate something that happens often, or a tendency."
 253,lie,xoka,verb,,ukuxoka,false,false,false,intransitive,,,"""xoka"" can be rather rude, especially if used to an older person or someone commanding respect. A more euphemistic phrasing is ""phosisa""."
-254,look,jonga,verb,,ukujonga,false,false,false,,,,
+254,look,jonga,verb,,ukujonga,false,true,false,either,,,
 255,move,fudukela,verb,,ukufudukela,false,false,false,intransitive,,,"Fudukela describes a person moving from one place to another such as moving city, or moving house."
 256,move,bekelisa,verb,,ukubekelisa,false,false,false,transitive-only,,,"""bekelisa"" should not be used for a person moving houses, for instance - ""fudukela"" should be used instead. Bekelisa is often used to mean ""move out of the way""."
 257,need,funa,verb,,ukufuna,false,false,false,transitive-only,,,
@@ -1431,7 +1431,7 @@ It means can in the sense of ""be able to""."
 1435,remote past continuous tense,ixesha elalidlula,noun,,,false,false,false,,,Ili,
 1436,personification,isimntwiso,noun,,,false,false,false,,,Isi,
 1437,hippos,iimvubu,noun,,,true,false,false,,,Izin,
-1438,giraffes,iindlulamithi,noun,,,true,false,false,,,Izin,
+1438,giraffes,iindlulamthi,noun,,,true,false,true,,,Izin,
 1439,worms,imisundululu,noun,,,true,false,false,,,Imi,
 1440,earn,rhola,verb,,ukurhola,false,false,false,transitive-only,,,
 1441,giraffe,indlulamthi,noun,,,false,false,false,,,In,
@@ -1461,7 +1461,7 @@ It means can in the sense of ""be able to""."
 1465,object,injongosenzi,noun,,,false,false,false,,,In,Referring to a grammatical object 
 1466,object concord ,isivumelanisi senjongosenzi,noun,,,false,false,false,,,Isi,
 1467,news,iindaba,noun,,,true,false,false,,,Izin,
-1468,cloud,Ilifu,noun,,,false,false,false,,,Ili,
+1468,cloud,ilifu,noun,,,false,false,false,,,Ili,
 1469,subject concord,isivumelanisi sentloko,noun,,,false,false,false,,,Isi,
 1470,dolphin,ihlengisi,noun,,,false,false,false,,,Ili,
 1471,dolphins,amahlengisi,noun,,,true,false,false,,,Ama,
@@ -1491,3 +1491,13 @@ It means can in the sense of ""be able to""."
 1495,vandalism,intlekele,noun,,,false,false,false,,,In,
 1496,leaf,igqabi,noun,,,false,false,false,,,Ili,
 1497,leaves,amagqabi,noun,,,true,false,false,,,Ama,
+1498,wear,nxiba,verb,,ukunxiba,false,true,false,transitive-only,,,
+1499,wasp,unomeva,noun,,,false,false,false,,,U,
+1500,bear,ibhere,noun,,,false,false,false,,,Ili,
+1501,comb,ikama,noun,,,false,false,false,,,In,
+1502,combs,iikama,noun,,,true,false,false,,,Izin,
+1503,comb,kama,verb,,ukukama,false,false,false,transitive-only,,,
+1504,anxiety,ixhala,noun,,,false,false,false,,,Ili,
+1505,bleed,opha,verb,,ukopha,false,false,false,intransitive,,,
+1506,breathe,phefumla,verb,,ukuphefumla,false,false,false,either,,,
+1507,English,isiNgesi,noun,,,false,false,false,,,Isi,
