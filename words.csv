@@ -69,7 +69,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 70,like that,njalo,adverb,,,false,false,false,,,,"This word has multiple meanings, and can often be translated as, ""so"", ""like that"", ""in that way"" etc."
 71,journalist,intatheli,noun,,,false,false,false,,,In,
 72,hat,umnqwazi,noun,,,false,false,false,,,Class3Um,
-73,tear apart,krazuka,verb,,ukukrazuka,false,false,false,transitive-only,,,
+73,tear apart,krazuka,verb,,ukukrazuka,false,false,false,either,,,
 74,improve,phucula,verb,,ukuphucula,false,false,false,transitive-only,,,
 75,shade,umthunzi,noun,,,false,false,false,,,Class3Um,
 76,battle,idabi,noun,,,false,false,false,,,Ili,
@@ -87,7 +87,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 88,rinse,pula,verb,,ukupula,false,false,false,either,,,
 89,brush against,thintana na-,verb,,ukuthintana na-,false,false,false,,,,
 90,short while,isiqhuphe,noun,,,false,false,false,,,Isi,
-91,laugh,hleka,verb,,ukuhleka,false,false,false,,,,
+91,laugh,hleka,verb,,ukuhleka,false,false,false,either,,,
 92,song,ingoma,noun,,,false,false,false,,,In,
 93,refuse,ala,verb,,ukwala,false,false,false,either,,,
 94,say,thi,verb,,ukuthi,false,false,false,either,,,"""thi"" has many meanings, and it can also be used as a generic tense marker as well as the verb ""say"""
@@ -314,7 +314,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 316,aeroplane,inqwelomoya,noun,,,false,false,false,,,In,Most people use i-eropleyini for aeroplane.
 317,accused,ummangalelwa,noun,,,false,false,false,,,Class1Um,
 318,accused,abamangalelwa,noun,,,true,false,false,,,Aba,
-319,appeals,izibheno,noun,,,true,false,false,,,Izin,
+319,appeals,izibheno,noun,,,true,false,true,,,Izi,
 320,ingredients,izithako,noun,,,true,false,true,,,Izi,
 321,bicycles,iibhayisekile,noun,,,true,false,false,,,Izin,
 322,bail,ibheyile,noun,,,false,false,false,,,In,
@@ -411,7 +411,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 413,down,phantsi,preposition,,,false,false,false,,,,
 414,below,phantsi,preposition,,,false,false,false,,,,
 415,chop,canda,verb,,ukucanda,false,false,false,transitive-only,,,"""canda"" refers to splitting of wood."
-416,eat,canda,verb,,ukucanda,false,false,false,either,,,"Canda is generally used for ""chop"" but can be used informally for ""eat"""
+416,eat,canda,verb,,ukucanda,false,false,true,either,,,"Canda is generally used for ""chop"" but can be used informally for ""eat"""
 417,pour,galela,verb,,ukugalela,false,false,false,transitive-only,,,
 418,intestine,ulusu,noun,,,false,false,false,,,Ulu,
 419,skin,ulusu,noun,,,false,false,false,,,Ulu,"These days many Xhosa speakers just use the borrowed word ""iskin"" using it as a noun in the isi- group, e.g. ""Sihle iskin sakho."" ""Your skin is beautiful."""
@@ -482,7 +482,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 485,president,umongameli,noun,,,false,false,false,,,U,
 486,archbishop,umongameli,noun,,,false,false,false,,,U,
 487,girl,intombi,noun,,,false,false,false,,,In,
-488,"lady, female",inenekazi,noun,,,false,false,false,,,Ili,
+488,lady,inenekazi,noun,,,false,false,false,,,Ili,
 489,lot,ninzi,adjective,,,false,false,false,,,,
 490,dream,iphupha,noun,,,false,false,false,,,Ili,
 491,recently,mva nje,adverb,,,false,false,false,,,,
@@ -852,7 +852,7 @@ It means can in the sense of ""be able to""."
 856,space,indawo,noun,,,false,false,false,,,In,"Not used for ""outer space"""
 857,when?,nini?,adverb,,,false,false,false,,,,"""nini?"" will always occur after the verb.  It can occur with a Subject Concord, e.g. Inini itest? When is the test?"
 858,taste,ngcamla,verb,,ukungcamla,false,false,false,either,,,"Sometimes ""va"" is also used for ""taste"""
-859,taste,incasa,noun,,,false,false,false,,,In,
+859,flavour,incasa,noun,,,false,false,false,,,In,
 860,become happy,onwaba,verb,,ukonwaba,false,true,false,intransitive,,,
 861,wipe,sula,verb,,ukusula,false,false,false,either,,,
 862,across,ngapha,preposition,,,false,false,false,,,,
@@ -862,7 +862,7 @@ It means can in the sense of ""be able to""."
 866,when,xa,conjunction,,,false,false,false,,participial mood,,
 867,sin,isono,noun,,,false,false,false,,,Isi,
 868,sins,izono,noun,,,false,false,false,,,Izi,
-869,sin,ona,verb,,ukona,false,false,false,intransitive,,,
+869,sin,ona,verb,,ukona,false,false,false,either,,,
 870,swell up,dumba,verb,,ukudumba,false,true,false,intransitive,,,
 871,face,jongana na-,verb,,ukujongana na-,false,true,false,intransitive,,,"Often in stative -jongene na- ""facing"""
 872,click,cofa,verb,,ukucofa,false,false,false,transitive-only,,,
@@ -881,19 +881,18 @@ It means can in the sense of ""be able to""."
 885,work/job,umsebenzi,noun,,,false,false,false,,,Class3Um,
 886,worker/staff member/employee,umsebenzi,noun,,,false,false,false,,,Class1Um,"Do not confuse with umsebenzi ""work"".  "
 887,cough,khohlela,verb,,ukukhohlela,false,false,false,intransitive,,,
-888,seed,imbewu,noun,,,false,false,false,,,In,
+888,seeds,imbewu,noun,,,true,false,false,,,In,
 889,grow,khula,verb,,ukukhula,false,false,false,intransitive,,,
 890,sheep,igusha,noun,,,false,false,false,,,In,
 891,animal,isilwanyana,noun,,,false,false,false,,,Isi,
-892,seeds,iimbewu,noun,,,true,false,false,,,Izin,
 893,animals,izilwanyana,noun,,,true,false,false,,,Izi,
 894,family,usapho,noun,,,false,false,false,,,Ulu,
 895,level,umgangatho,noun,,,false,false,false,,,Class3Um,
 896,grass,ingca,noun,,,false,false,false,,,In,
 897,sheep,iigusha,noun,,,true,false,true,,,Izin,
 898,water,nkcenkceshela,verb,,ukunkcenkceshela,false,false,false,transitive-only,,,
-899,skin (generally of an animal),ufele,noun,,,false,false,false,,,Ulu,"""ufele"" is also used for human skin, or just generally ""outward appearance""."
-900,dry,omile,relative,,,false,false,false,,,,"From the inchoative verb ""ukoma"" which means ""to become dry""."
+899,skin,ufele,noun,,,false,false,false,,,Ulu,"""ufele"" is generally used for animal skin, but is also used for human skin, or just generally ""outward appearance""."
+900,become dry,oma,verb,,ukoma,false,true,false,intransitive,,,
 901,community,ekuhlaleni,noun,,,false,false,false,,,Uku,Literally: in the living
 902,peacefully,ngoxolo,adverb,,,false,false,false,,,,
 903,red,bomvu,relative,,,false,false,false,,,,
@@ -912,7 +911,7 @@ It means can in the sense of ""be able to""."
 916,green,luhlaza,relative,,,false,false,false,,,,
 917,milk,ubisi,noun,,,false,false,false,,,Ulu,
 918,wind,umoya,noun,,,false,false,false,,,Class3Um,
-919,wake,vukisa,verb,,ukuvukisa,false,false,false,transitive-only,,,
+919,wake,vusa,verb,,ukuvukisa,false,false,false,transitive-only,,,
 920,marriage,umtshato,noun,,,false,false,false,,,Class3Um,
 921,braai,oja,verb,,ukoja,false,false,false,either,,,
 922,principals,iinqununu,noun,,,true,false,false,,,Izin,
@@ -1095,7 +1094,7 @@ It means can in the sense of ""be able to""."
 1099,tend to,thanda,verb,,ukuthanda,false,false,false,transitive-only,,,
 1100,mother,umama,noun,,,false,false,false,,,U,
 1101,mothers,oomama,noun,,,true,false,false,,,Oo,
-1102,dada,swim,verb,,ukudada,false,false,false,intransitive,,,
+1102,swim,dada,verb,,ukudada,false,false,false,intransitive,,,
 1103,paint,peyinta,verb,,ukupeyinta,false,false,false,either,,,
 1104,save,onga,verb,,ukonga,false,false,false,transitive-only,,,
 1105,boil,bilisa,verb,,ukubilisa,false,false,false,transitive-only,,,
@@ -1186,7 +1185,7 @@ It means can in the sense of ""be able to""."
 1190,expert,ingcali,noun,,,false,false,false,,,In,
 1191,experts,iingcali,noun,,,true,false,false,,,Izin,
 1192,heel,isithende,noun,,,false,false,false,,,Isi,
-1193,heels,izithende,noun,,,true,false,false,,,Izin,
+1193,heels,izithende,noun,,,true,false,true,,,Izi,
 1194,heartburn,isitshisa,noun,,,false,false,false,,,Isi,
 1195,calf,isiquluba,noun,,,false,false,false,,,Isi,This refers to the body part.
 1196,calves,iziquluba,noun,,,true,false,true,,,Izi,This refers to the body part.
@@ -1199,7 +1198,7 @@ It means can in the sense of ""be able to""."
 1203,disease,isifo,noun,,,false,false,false,,,Isi,
 1204,chest,isifuba,noun,,,false,false,false,,,Isi,This refers to the chest of a person.
 1205,chests,izifuba,noun,,,true,false,false,,,Izi,Refers to the chest of a person.
-1206,diseases,izifo,noun,,,true,false,false,,,Izin,
+1206,diseases,izifo,noun,,,true,false,true,,,Izi,
 1207,diabetes,isifo seswekile,noun,,,false,false,false,,,Isi,
 1208,nausea,isichaphuchaphu,noun,,,false,false,false,,,Isi,
 1209,corpse,isidumbu,noun,,,false,false,false,,,Isi,
@@ -1256,7 +1255,7 @@ It means can in the sense of ""be able to""."
 1260,bodies,imizimba,noun,,,true,false,false,,,Imi,
 1261,bladder,isinyi,noun,,,false,false,false,,,Isi,
 1262,bladders,izinyi,noun,,,true,false,false,,,Izi,
-1263,cold,umkhulane,noun,,,false,false,false,,,Class3Um,
+1263,cold,umkhuhlane,noun,,,false,false,false,,,Class3Um,
 1264,lungs,imiphunga,noun,,,true,false,false,,,Imi,
 1265,lung,umphunga,noun,,,false,false,false,,,Class3Um,
 1266,wing,iphiko,noun,,,false,false,false,,,Ili,
@@ -1343,7 +1342,7 @@ It means can in the sense of ""be able to""."
 1347,parties,amatheko,noun,,,true,false,false,,,Ama,"""iipati"" is much more common than ""amatheko""."
 1348,argue,xabana,verb,,ukuxabana,false,false,false,intransitive,,,
 1349,lie,ubuxoki,noun,,,false,false,false,,,Ubu,
-1350,wait,linda,verb,,ukulinda,false,false,false,either,,,
+1350,wait,linda,verb,,ukulinda,false,true,false,either,,,
 1351,sections,amacala,noun,,,true,false,false,,,Ama,
 1352,pill,ipilisi,noun,,,false,false,false,,,In,
 1353,pills,iipilisi,noun,,,true,false,false,,,Izin,
@@ -1450,7 +1449,7 @@ It means can in the sense of ""be able to""."
 1454,calves,iinkonyana,noun,,,true,false,false,,,Izin,Referring to a juvenile cow.
 1455,become drunk,nxila,verb,,ukunxila,false,true,false,intransitive,,,
 1456,dance,xhentsa,verb,,ukuxhentsa,false,false,false,intransitive,,,
-1457,tie,bopha,verb,,ukubhopa,false,false,false,intransitive,,,
+1457,tie,bopha,verb,,ukubhopa,false,false,false,transitive-only,,,
 1458,injection,isitofu,noun,,,false,false,false,,,Isi,
 1459,injections,izitofu,noun,,,true,false,false,,,Izi,
 1460,section,icala,noun,,,false,false,false,,,Ili,
@@ -1502,3 +1501,536 @@ It means can in the sense of ""be able to""."
 1506,breathe,phefumla,verb,,ukuphefumla,false,false,false,either,,,
 1507,English,isiNgesi,noun,,,false,false,false,,,Isi,
 1508,bears,amabhere,noun,,,true,false,false,,,Ama,
+1509,point,alatha,verb,,ukwalatha,false,false,false,either,,,
+1510,bandage,bopha,verb,,ukubopha,false,false,false,transitive-only,,,
+1511,circumcise,yaluka,verb,,ukwaluka,false,false,false,either,,,
+1512,hard,lukhuni,relative,,,false,false,false,,,,
+1513,inject,tofa,verb,,ukutofa,false,false,false,either,,,
+1514,point,khomba,verb,,ukukhomba,false,false,false,either,,,
+1515,sweat,bila,verb,,ukubila,false,false,false,intransitive,,,
+1516,vomit,gabha,verb,,ukugabha,false,false,false,intransitive,,,
+1517,inject,hlaba,verb,,ukuhlaba,false,false,false,either,,,
+1518,comb,kama,verb,,ukukama,false,false,false,transitive-only,,,
+1519,rub out,cima,verb,,ukucima,false,false,false,either,,,Only referring to drawing and written texts.
+1520,dig,grumba,verb,,ukugrumba,false,false,false,either,,,
+1521,ligament,umsipha,noun,,,false,false,false,,,Class3Um,
+1522,ligaments,imisipha,noun,,,true,false,false,,,Imi,
+1523,press down on,cinezela,verb,,ukucinezela,false,false,false,transitive-only,,,"Also means ""apply pressure to"""
+1524,chew,hlafuna,verb,,ukuhlafuna,false,false,false,either,,,
+1525,have sex,lalana,verb,,ukulalana,false,false,false,transitive-only,,,
+1526,cure,nyanga,verb,,ukunyanga,false,false,false,intransitive,,,
+1527,afflict,phatha,verb,,ukuphatha,false,true,false,transitive-only,,,
+1528,roll,qengqa,verb,,ukuqengqeleka,false,false,false,either,,,
+1529,experience,amava,noun,,,false,false,false,,,Ama,
+1530,journey or trip,uhambo,noun,,,false,false,false,,,Ulu,
+1531,rub,hlikihla,verb,,ukuhlikihla,false,false,false,transitive-only,,,
+1532,massage,phulula,verb,,ukuphulula,false,false,false,either,,,
+1533,tattoo,vamba,verb,,ukuvamba,false,false,false,either,,,
+1534,jump,xhuma,verb,,ukuxhuma,false,false,false,either,,,
+1535,examine,xilonga,verb,,ukuxilonga,false,false,false,transitive-only,,,
+1536,thorns,ameva,noun,,,true,false,false,,,Ama,
+1537,earring,icici,noun,,,false,false,false,,,Ili,
+1538,toothpaste,intlama yamazinyo,noun,,,false,false,false,,,In,
+1539,pregnant,nzima,relative,,,false,false,false,,,,
+1540,liar,ixoki,noun,,,false,false,false,,,Ili,
+1541,lines,imigca,noun,,,true,false,false,,,Imi,
+1542,chop,nqunqa,verb,,ukunqunqa,false,false,false,either,,,
+1543,memory,inkumbulo,noun,,,false,false,false,,,In,
+1544,miss,khumbula,verb,,ukukhumbula,false,false,false,transitive-only,,,"This refers to 'miss' as in to miss a person, not to fail to hit something or a target."
+1545,treat,phatha,verb,,ukuphatha,false,true,false,transitive-only,,,
+1546,blame,sola,verb,,ukusola,false,false,false,either,,,
+1547,liars,amaxoki,noun,,,true,false,false,,,Ama,
+1548,Xhosa,isiXhosa,noun,,,false,false,false,,,Isi,
+1549,Zulu,isiZulu,noun,,,false,false,false,,,Isi,
+1550,lid,isiciko,noun,,,false,false,false,,,Isi,
+1551,silent,cwaka,ideophone,,,false,false,false,,,,
+1552,invite,mema,verb,,ukumema,false,false,false,either,,,
+1553,invitation,isimemo,noun,,,false,false,false,,,Isi,
+1554,invitations,izimemo,noun,,,true,false,false,,,Izi,
+1555,encourage,khuthaza,verb,,ukukhuthaza,false,false,false,either,,,
+1556,encouragement,inkuthazo,noun,,,false,false,false,,,In,
+1557,obey,thobela,verb,,ukuthobela,false,false,false,transitive-only,,,
+1558,suffering,ungxunguphalo,noun,,,false,false,false,,,Ulu,
+1559,accompany,khapha,verb,,ukukhapha,false,false,false,either,,,
+1560,contribution,igalelo,noun,,,false,false,false,,,Ili,
+1561,usually,hlala,verb,,ukuhlala,false,false,false,intransitive,,,"This form of ""hlala"" is an auxiliary verb followed by the participial, and means ""usually"", ""often"", or ""always"""
+1562,smoke,tshaya,verb,,ukutshaya,false,false,false,either,,,
+1563,come closer,sondela,verb,,ukusondela,false,false,false,intransitive,,,
+1564,problem,inkathazo,noun,,,true,false,false,,,In,Inkathazo refers to troubles in life. 
+1565,darling,udali,noun,,,false,false,false,,,U,
+1566,analyse,hlalutya,verb,,ukuhlalutya,false,false,false,transitive-only,,,
+1567,otherwise,kungenjalo,conjunction,,,false,false,false,,indicative mood,,
+1568,even if,nokuba,conjunction,,,false,false,false,,indicative mood,,
+1569,therefore,ngoko ke,conjunction,,,false,false,false,,indicative mood,,
+1570,rather than,kunokuba,conjunction,,,false,false,false,,subjunctive mood,,
+1571,before,phambi kokuba,conjunction,,,false,false,false,,subjunctive mood,,
+1572,expensive,duru,relative,,,false,false,false,,,,
+1573,cheap,tshiphu,relative,,,false,false,false,,,,
+1574,bean,imbotyi,noun,,,false,false,false,,,In,
+1575,operate,qhaqha/ Hlinza,verb,,ukuqhaqha,false,false,false,either,,,
+1576,link,ikhonkco,noun,,,false,false,false,,,Ili,
+1577,line,umgca,noun,,,false,false,false,,,Class3Um,
+1578,jealousy,umona,noun,,,false,false,false,,,Ulu,
+1579,Afrikaans,iAfrikaans / Isibhulu,noun,,,false,false,false,,,In,
+1580,lids,iziciko,noun,,,true,false,false,,,Izi,
+1581,scold,ngxolisa,verb,,ukungxolisa,false,false,false,either,,,
+1582,challenge,umceli-mngeni,noun,,,false,false,false,,,Class3Um,
+1583,challenges,imiceli-mngeni,noun,,,true,false,false,,,Imi,
+1584,be important,baluleka,verb,,ukubaluleka,false,false,false,intransitive,,,
+1585,until,de,conjunction,,,false,false,false,,subjunctive mood,,
+1586,instead of,endaweni yokuba,conjunction,,,false,false,false,,subjunctive mood,,
+1587,as,njengokuba,conjunction,,,false,false,false,,participial mood,,
+1588,that is why,yiyo loo nto,conjunction,,,false,false,false,,participial mood,,
+1589,Sweat,Umbilo ,noun,um-bi-lo,,false,false,false,,,Class3Um,
+1590,weeds,ukhula,noun,,,true,false,false,,,Ulu,
+1591,beans,iimbotyi,noun,,,true,false,false,,,Izin,
+1592,idea,umbono,noun,,,false,false,false,,,Class3Um,
+1593,horn,uphondo,noun,,,false,false,false,,,Ulu,
+1594,horns,iimpondo,noun,,,true,false,false,,,Izin,
+1595,shell,iqokobhe,noun,,,false,false,false,,,Ili,
+1596,shells,amaqokobhe,noun,,,false,false,false,,,Ama,
+1597,tail,umsila,noun,,,false,false,false,,,Class3Um,
+1598,tails,imisila,noun,,,true,false,false,,,Imi,
+1599,dassie,imbila,noun,,,false,false,false,,,In,
+1600,dassies,iimbila,noun,,,true,false,false,,,Izin,
+1601,chameleon,ulovane,noun,,,false,false,false,,,Ulu,
+1602,scratch,onwaya,verb,,ukonwaya,false,false,false,either,,,
+1603,skin,isikhumba,noun,,,false,false,false,,,Isi,This mostly refers to animal skin.
+1604,bucket,iemere,noun,,,false,false,false,,,In,
+1605,porridge,isidudu,noun,,,false,false,false,,,Isi,
+1606,peep,kroba,verb,,ukukroba,false,false,false,intransitive,,,
+1607,just,sandula,verb,,ukusandula,false,false,false,transitive-only,,,This is followed by an infinitive verb.
+1608,boast,qhayisa,verb,,ukuqhayisa,false,false,false,either,,,
+1609,trick,qhatha,verb,,ukuqhatha,false,false,false,either,,,
+1610,owe,tyala,verb,,ukutyala,false,false,false,transitive-only,,,
+1611,laziness,ubuvila,noun,,,false,false,false,,,Ubu,
+1612,monster,irhamncwa,noun,,,false,false,false,,,Ili,
+1613,round,ngqukuva,relative,,,false,false,false,,,,
+1614,creature,isidalwa,noun,,,false,false,false,,,Isi,
+1615,creatures,izidalwa,noun,,,true,false,false,,,Izi,
+1616,create,dala,verb,,ukudala,false,false,false,either,,,
+1617,become sure,qiniseka,verb,,ukuqiniseka,false,true,false,intransitive,,,
+1618,shine,khazimla,verb,,ukukhazimla,false,false,false,intransitive,,,
+1619,circle,isangqa,noun,,,false,false,false,,,Isi,
+1620,circles,izangqa,noun,,,true,false,false,,,Izi,
+1621,trunk,isikhondo,noun,,,false,false,false,,,Isi,This refers to a tree trunk
+1622,trunks,izikhondo,noun,,,true,false,false,,,Izi,This refers to tree trunks.
+1623,whisper,sebeza,verb,,ukusebeza,false,false,false,transitive-only,,,
+1624,hunt,zingela,verb,,ukuzingela,false,false,false,either,,,
+1625,stretch,tweza,verb,,ukutweza,false,false,false,either,,,
+1626,drag,rhuqa,verb,,ukurhuqa,false,false,false,either,,,
+1627,grab,xhakamfula,verb,,ukuxhakamfula,false,false,false,transitive-only,,,
+1628,forever,ngonaphakade,adverb,,,false,false,false,,,,
+1629,laughter,isiqhazolo sentsini,noun,,,false,false,false,,,Isi,
+1630,laughter,intsini,noun,,,false,false,false,,,In,
+1631,sound,isandi,noun,,,false,false,false,,,Isi,
+1632,sounds,izandi,noun,,,true,false,false,,,Izi,
+1633,tuck,qhusheka,verb,,ukuqhusheka,false,false,false,transitive-only,,,
+1634,sprout,ntshula,verb,,ukuntshula,false,false,false,intransitive,,,
+1635,dew,umbethe,noun,,,false,false,false,,,Class3Um,
+1636,burp,bhodla,verb,,ukubhodla,false,false,false,intransitive,,,
+1637,escape,qhwesha,verb,,ukuqhwesha,false,false,false,intransitive,,,
+1638,snail,inkumba,noun,,,false,false,false,,,In,
+1639,snails,iinkumba,noun,,,true,false,false,,,Izin,
+1640,bug,isinambuzane,noun,,,false,false,false,,,Isi,
+1641,contributions,amagalelo,noun,,,true,false,false,,,Ama,
+1642,whereas,kanti,conjunction,,,false,false,false,,indicative mood,,
+1643,bugs,izinambuzane,noun,,,true,false,false,,,Izi,
+1644,bruises,imigruzuko,noun,,,true,false,false,,,Imi,
+1645,bruise,umgruzuko,noun,,,false,false,false,,,Class3Um,
+1646,slip,tyiblika,verb,,ukutyibilika,false,false,false,intransitive,,,
+1647,beat,ngongoza,verb,,ukungongoza,false,false,false,intransitive,,,Refers to the beating of a heart.
+1648,shake,ngcangcazela,verb,,ukungcangcazela,false,false,false,intransitive,,,
+1649,magic,umlingo,noun,,,false,false,false,,,Class3Um,
+1650,habit,isiqhelo,noun,,,false,false,false,,,Isi,
+1651,crawl,rhubuluza,verb,,ukurhubuluza,false,false,false,intransitive,,,
+1652,convenience store,ivenkile elunqile,noun,,,false,false,false,,,In,
+1653,sadness,ubuhlungu,noun,,,false,false,false,,,Ubu,
+1654,become anxious,kuxhalaba,verb,,ukuxhalaba,false,true,false,intransitive,,,
+1655,moth,ivivingane,noun,,,false,false,false,,,Ili,
+1656,moths,amavivingane,noun,,,true,false,false,,,Ama,
+1657,traffic,ingxinano,noun,,,false,false,false,,,In,
+1658,mud,udaka,noun,,,false,false,false,,,Ulu,
+1659,habits,iziqhelo,noun,,,true,false,false,,,Izi,
+1660,surround,ngqonga,verb,,ukungqonga,false,false,false,either,,,
+1661,slime,udaka,noun,,,false,false,false,,,Ulu,
+1662,crowd,ngqonga,verb,,ukungqonga,false,false,false,either,,,
+1663,become irritated,caphuka,verb,,ukucaphuka,false,true,false,intransitive,,,
+1664,irritate,caphukisa,verb,,ukucaphukisa,false,false,false,transitive-only,,,
+1665,slice,isilayi,noun,,,false,false,false,,,Isi,
+1666,slices,izilayi,noun,,,true,false,false,,,Izi,
+1667,judge,gweba,verb,,ukugweba,false,false,false,either,,,
+1668,rolling,qengqeleka,verb,,ukuqengqeleka,false,false,false,either,,,
+1669,operate,tyanda,verb,,ukutyanda,false,false,false,transitive-only,,,
+1670,additive inverse,umguqulelwa wesongezo,noun,,,false,false,false,,,Class3Um,
+1671,abscissa,i-abscissa,noun,,,false,false,false,,,Ili,stats glossary
+1672,absolute frequency,ukuphinda-phinda okupheleleyo,noun,,,false,false,false,,,Uku,stats glossary
+1673,absolute value,ixabiso elipheleleyo,noun,,,false,false,false,,,Ili,stats glossary
+1674,accuracy,ukuchaneka,noun,,,false,false,false,,,Uku,stats glossary
+1675,acute angle,i-engile ebazileyo,relative,,,false,false,false,,,,stats glossary
+1676,addition,udibaniso,verb,,dibanisa,false,false,false,either,,,stats glossary
+1677,additive,isongezo,verb,,ukongeza,false,false,false,either,,,stats glossary
+1678,algebra,i-aljibra,noun,,,false,false,false,,,In,stats glossary
+1679,algebraic expression,imbonakalo ye-aljibra,noun,,,false,false,false,,,In,stats glossary
+1680,algebra of regression,ukubuyumva kwe-aljibra,noun,,,false,false,false,,,Uku,stats glossary
+1681,angle,i-engile,noun,,,false,false,false,,,In,stats glossary
+1682,approximation,ukusondeza,verb,,sondeza,false,false,false,either,,,stats glossary
+1683,area,i-eriya,noun,,,false,false,false,,,In,
+1684,arithmetic mean,umndilili wezibalo,noun,,,false,false,false,,,Class3Um,stats glossary
+1685,association,unxulumano,noun,,,false,false,false,,,Ulu,stats glossary
+1686,associative property,uphawu olunxulumanisayo,noun,,,false,false,false,,,Ulu,stats glossary
+1687,asymptote,i-asymptote,noun,,,false,false,false,,,In,stats glossary
+1688,average,umndilili,noun,,,false,false,false,,,Imi,stats glossary
+1689,axis,umgca ohamba embindini,noun,,,false,false,false,,,Class3Um,stats glossary
+1690,axes,imigca ehamba embindini,noun,,,false,false,false,,,Imi,
+1691,bar chart,itshati yezitena,noun,,,false,false,false,,,In,stats glossary
+1692,bar graph,igrafu yezitena,noun,,,false,false,false,,,In,stats glossary
+1693,base,isisekelo,noun,,,false,false,false,,,Isi,stats glossary
+1694,baseline,umgca wentsusa,noun,,,false,false,false,,,Class3Um,stats glossary
+1695,bias,ukuthambekela bucala,noun,,,false,false,false,,,Uku,stats glossary
+1696,binomial,amagama amabini,noun,,,false,false,false,,,Ama,stats glossary
+1697,binomial approximation,ukusondeza amagama amabini,verb,,sondeza,false,false,false,either,,,stats glossary
+1698,binomial coeffecient,inani elandisayo lamagama amabini,verb,,ukwandisa,false,false,false,either,,,stats glossary
+1699,binomial distribution,usasazo lwamagama amabini,verb,,ukusasaza,false,false,false,intransitive,,,stats glossary
+1700,binomial process,inkqubo yamagama amabini,noun,,,false,false,false,,,In,stats glossary
+1701,binomial theorem,imbonakalo engqinelwa zizizathu yamagama amabini,noun,,,false,false,false,,,In,stats glossary
+1702,bivariate,ubuninzi obutshintsha kabini,noun,,,false,false,false,,,Ubu,stats glossary
+1703,cartesian coordinates,izilungelelanisi ze-cartesian,noun,,,false,false,false,,,Izi,stats glossary
+1704,cartesian plane,isityaba se-Cartesian,noun,,,false,false,false,,,Isi,stats glossary
+1705,case,isehlo,noun,,,false,false,false,,,Isi,stats glossary
+1706,categorical data,i-data ngokodidi,noun,,,false,false,false,,,In,stats glossary
+1707,subject,umlingwa,noun,,,false,false,false,,,Class1Um,stats glossary
+1708,straight angle,i-engile engqalileyo,relative,,,false,false,false,,,,stats glossary
+1709,product,isiphumo sophindaphindo,noun,,,false,false,false,,,Isi,stats glossary
+1710,Proportion,ulwalamano,noun,,,false,false,false,,,Ulu,stats glossary
+1711,quadrant,ikota yesangqa,noun,,,false,false,false,,,In,stats glossary
+1712,Ray,Umtha,noun,,,false,false,false,,,Class3Um,stats glossary
+1713,Real Numbers,Amanani Wonkwenyani,noun,,,false,false,false,,,Ili,stats glossary
+1714,Reduced form,imo enciphisiweyo,noun,,,false,false,false,,,In,stats glossary
+1715,Relation,Unxulumano,noun,,,false,false,false,,,Ulu,stats glossary
+1716,Residual,Intsalela,noun,,,false,false,false,,,In,stats glossary
+1717,Sample,Isampuli,noun,,,false,false,false,,,In,stats glossary
+1718,set,iseti,noun,,,false,false,false,,,In,stats glossary
+1719,Reading,Ukufunda,verb,,Read,false,false,false,either,,,
+1720,sample maximum,eyona sampuli inkulu,relative,,,false,false,false,,,,stats glossary
+1721,census,ubalo lwabantu,noun,,,false,false,false,,,Class3Um,stats glossary
+1722,central limit theorem,itheyoram yomda osembindini,noun,,,false,false,false,,,Ili,stats glossary
+1723,chord,umgca ocanda isangqa,noun,,,false,false,false,,,Class3Um,stats glossary
+1724,circle interior,umphakathi wesangqa,noun,,,false,false,false,,,Class3Um,stats glossary
+1725,circumference ,ubude besazinge,noun,,,false,false,false,,,Ubu,
+1726,class,udidi,noun,,,false,false,false,,,Ulu,stats glossary
+1727,class frequency,ukuphinda-phinda kodidi,noun,,,false,false,false,,,Uku,stats glossary
+1728,class interval,isithuba sodidi,noun,,,false,false,false,,,Isi,stats glossary
+1729,coefficient,inani elandisayo,noun,,,false,false,false,,,Ili,stats glossary
+1730,coefficient of correlation,inani elandisayo lonxulumano,noun,,,false,false,false,,,Ili,
+1731,coefficient of determination,inani elandisayo lokumisela,noun,,,false,false,false,,,Ili,stats glossary
+1732,coefficient of variation,inani elandisayo lotshintsho,noun,,,false,false,false,,,Ili,stats glossary
+1733,common logarithm,ilogaridhimu eqhelekileyo,noun,,,false,false,false,,,In,stats glossary
+1734,commutative property,uphawu lolungelelwano,noun,,,false,false,false,,,Ulu,stats glossary
+1735,complement of a set,isongezo sokuzalisa sesethi,noun,,,false,false,false,,,Isi,stats glossary
+1736,complementary angles,ii-engile zesongezo sokuzalisa,noun,,,false,false,false,,,Izin,stats glossary
+1737,complex fraction,iqhezu elixananazileyo,noun,,,false,false,false,,,Ili,stats glossary
+1738,complex fraction,iqhekeza elintsokothileyo,noun,,,false,false,false,,,Ili,stats glossary
+1739,composite number,inani elidityanisiweyo,noun,,,false,false,false,,,Ili,stats glossary
+1740,compute,ukuthelekela,noun,,,false,false,false,,,Uku,stats glossary
+1741,conditional equation,i-ikhweyizhini yoxhomekeko,noun,,,false,false,false,,,In,Stats glossary 
+1742,confidence interval,isithuba sentembeko,noun,,,false,false,false,,,Isi,stats glossary
+1743,confidence interval of the mean,isithuba sentembeko somndilili,noun,,,false,false,false,,,Isi,Stats glossary 
+1744,confidence interval for the proportion ,isithuba sentembeko solwalamano,noun,,,false,false,false,,,Isi,Stats glossary
+1745,confidence level,umgangatho wentembeko,noun,,,false,false,false,,,Class3Um,Stats glossary 
+1746,confidence limits ,imida yentembeko,noun,,,false,false,false,,,Imi,Stats glossary 
+1747,consistent equation system,inkqubo engaguquguqukiyo ye-ikhweyizhini,noun,,,false,false,false,,,In,stats glossary 
+1748,constant,engaguqukiyo,verb,,ukungaguquki,false,false,false,either,,,Stats glossary
+1749,construct,ukwakha,verb,,ukwakha,false,false,false,either,,,Stats glossary
+1750,contigency table,uluhlu lwento enokwenzeka,noun,,,false,false,false,,,Ulu,Stats glossary
+1751,continuous ,qhubekayo,verb,,ukuqhubeka,false,false,false,transitive-only,,,Stats glossary
+1752,continuous data,i-data eqhubekayo,noun,,,false,false,false,,,In,Stats glossary
+1753,contradiction,impikiswano,noun,,,false,false,false,,,In,Stats glossary 
+1754,coordinate ,isilungelelanisi,noun,,,false,false,false,,,Isi,Stats glossary
+1755,correlation,unxulumano,noun,,,false,false,false,,,Ulu,Stats glossary 
+1756,coordinates,izilungelelanisi,noun,,,true,false,false,,,Izi,Stats glossary
+1757,coordinate plane,isilungelelanisi sesityaba,noun,,,false,false,false,,,Isi,Stats glossary
+1758,coordinate system,inkqubo yesilungelelanisi,noun,,,false,false,false,,,In,Stats glossary
+1759,correlation coefficient ,unxulumano lwenani elandisayo,noun,,,false,false,false,,,Ulu,Stats glossary 
+1760,counting numbers,amanani wokubala,noun,,,false,false,false,,,Ama,Stats glossary 
+1761,critical region,ummandla obalulekileyo,noun,,,false,false,false,,,Class3Um,Stats glossary 
+1762,factor,ifektha/ inani elingena kwelinye,noun,,,false,false,false,,,In,
+1763,factoring,ukwenza ifektha,verb,,to factoring/factorise,false,true,false,transitive-only,,,
+1764,finite,Enesiphelo,relative,,,false,false,false,,,,
+1765,first degree equation,I-ikhweyizhini yeqondo lokuqala,noun,,,false,false,false,,,In,stats glossary 
+1766,Five-number summary,Isishwankathelo samanani amahlanu,relative,,,false,false,false,,,,Stats glossary
+1767,Formula,Ifomula/amagama asetyenziswa qho,noun,,,false,false,false,,,In,Stats glossary
+1768,formulae,iiformula,noun,,,true,false,false,,,Izin,Stats glossary
+1769,Frequency,Ubuninzi bokwenzeka/ uphindaphindo lokwenzeka,noun,,,false,false,false,,,Ubu,Stats glossary
+1770,frequency distribution,Usasazo lophindaphindo lokwenzeka,adverb,,,false,false,false,,,,Stats glossary
+1771,Function,Umsebenzi,noun,,,false,false,false,,,Class3Um,stats glossary
+1772,Geometric distribution,Usasazo lwejometri,relative,,,false,false,false,,,,Stats glossary
+1773,Graph,Igrafu,noun,,,false,false,false,,,In,Stats glossary
+1774,Growth curve,Ukukhula kwegophe,noun,,,false,false,false,,,Uku,Stats glossary
+1775,Hexagon,Unxantathu ovalekileyo,noun,,,false,false,false,,,Ulu,Stats glossary
+1776,Histogram,Itshathi/ igrafu yamaxande,noun,,,false,false,false,,,In,Stats glossary
+1777,Horizontal line,Umgca onqamlezileyo,adverb,,,false,false,false,,,,Stats glossary
+1778,Hypotenuse,Icala elide lonxantathu,relative,,,false,false,false,,,,stats glossary 
+1779,Hypothesis,Ingcinga ethathwa njengenyani,noun,,,false,false,false,,,Izin,stats glossary
+1780,Radical,Ingcambu,noun,,,false,false,false,,,In,Stats Glossary
+1781,Hypergeometric distribution,Usasazo olukhulu lwejometri,relative,,,false,false,false,,,,Stats glossary
+1782,Radical Expression,Imbonakalo equlethe ingcambu,relative,,,false,false,false,,,,Stats Glossary
+1783,Radical Sign,Uphawu lwengcambu,relative,,,false,false,false,,,,stats glossary
+1784,Rank,Indawo,noun,,,false,false,false,,,In,stats glossary
+1785,Ratio,Umlinganiselo,noun,,,false,false,false,,,Class3Um,stats glossary
+1786,Rational Numbers,Amanani anengqiqo,noun,,,false,false,false,,,Ama,stats glossary
+1787,Rationalise ,Ukuqiqa,verb,,to rationalise,false,false,false,either,,,stats glossary
+1788,Range,Uluhlu,noun,,,false,false,false,,,Ulu,stats glossary
+1789,Randomly,Ngokungenamkhethe,relative,,,false,false,false,,,,stats glossary
+1790,Random Sample,Isampuli engenamkhethe,relative,,,false,false,false,,,,stats glossary
+1791,Random,Nakanjani,adverb,,,false,false,false,,,,stats glossary
+1792,Quadrat,isahlulo esibandakanya isikwere,noun,,,false,false,false,,,Isi,stats glossary
+1793,Qualitative Data,Idatha yobuninzi,relative,,,false,false,false,,,,stats glossary
+1794,Quantity,Ubungakanani,relative,,,false,false,false,,,,stats glossary
+1795,Quota Sampling,Ukuthatha isampuli yesabelo,verb,,Thatha,false,false,false,either,,,stats glossary
+1796,Pythagorean theorem,Itheyorem kaPythagoras,relative,,,false,false,false,,,,stats glossary
+1797,Quadratic Equation,I-ikhweyizhini ebandakanya isangqa,relative,,,false,false,false,,,,stats glossary
+1798,Quadrilateral,isazobe ezinamacala amane,noun,,,false,false,false,,,Isi,stats glossary
+1799,Qualitative variable,Into etshintshayo yobulunga,relative,,,false,false,false,,,,stats glossary
+1800,Quotient,Isiphumo Solwahlulohlulo,noun,,,false,false,false,,,Isi,stats glossary
+1801,Radicant,Umgama ukusuka kwincam yesangqa ukuya embindini,relative,,,false,false,false,,,,stats glossary
+1802,Radius,Ireyidiyasi,noun,,,false,false,false,,,In,stats glossary
+1803,Random Experiment,Umfuniselo Ongenamkhethe,relative,,,false,false,false,,,,Stats glossary
+1804,Reciprocal,Ukufana macala,noun,,,false,false,false,,,Uku,stats glossary
+1805,Regression,Ukubuyumva,adverb,,,false,false,false,,,,stats glossary
+1806,become hurt,khathazeka,noun,,,false,false,false,,,Uku,
+1807,Ordinate,Umgca osisilungelelanisi,noun,,,false,false,false,,,Class3Um,Stats glossary
+1808,Ordered pair,Isibini esihleliweyo/ ipari ehleliweyo,noun,,,false,false,false,,,Isi,Stats glossary
+1809,One-to-one function,Umsebenzi wamaxabiso afanayo,noun,,,false,false,false,,,Class3Um,Stats dictionary
+1810,One-sided alternative,Isichasi secala elinye,noun,,,false,false,false,,,Isi,Stats Glossary
+1811,Zero Exponent,Inani lokuziphindaphinda lika-zero,noun,,,false,false,false,,,Ili,stats glossary
+1812,Y- Intercepts,Izithinteli zika-Y,noun,,,false,false,false,,,Izin,stats glossary
+1813,Y- Coordinates,Ulungelelwano luka-y,adverb,,,false,false,false,,,,stats glossary
+1814,Variability,Ukutshintsheka,noun,,,false,false,false,,,Uku,stats glossary
+1815,Variable,Etshintshayo,adverb,,,false,false,false,,,,stats glossary
+1816,Y-Axis,i-eksi ka y,noun,,,false,false,false,,,In,stats glossary
+1817,X- Interceptors ,Izithinteli zika- X,noun,,,false,false,false,,,Izi,stats glossary
+1818,X- Coordinate,Ulungelelwano luka-x,noun,,,false,false,false,,,Ulu,stats glossary
+1819,X- Axis,i-Eksi ka-X,noun,,,false,false,false,,,In,stats glossary
+1820,whole numbers,Amanani apheleleyo,noun,,,false,false,false,,,Ama,stats glossary
+1821,Volume,Umthamo/ ubunzulu,noun,,,false,false,false,,,Class3Um,stats glossary
+1822,Vertical line,Umgca othe Nkqo,relative,,,false,false,false,,,,stats glossary
+1823,vertex,incam,noun,,,false,false,false,,,In,stats glossary
+1824,Venn Diagram,Isazobe se-venn,noun,,,false,false,false,,,Isi,stats glossary
+1825,Vector,Ubuninzi obunobukhulu nembombo,relative,,,false,false,false,,,,stats glossary
+1826,Variation,Ukutshintshatshintsha,verb,,Tshintsha,false,false,false,either,,,stats glossary
+1827,Varience,Ukwahluka,noun,,,false,false,false,,,Uku,stats glossary
+1828,Upper Quartile,Isine esingaphezulu,relative,,,false,false,false,,,,stats glossary
+1829,Universal set,iseti jikelele,noun,,,false,false,false,,,In,stats glossary
+1830,Union,Umanyano,noun,,,false,false,false,,,Class3Um,stats glossary
+1831,Unconditional probability,Okunekwenzeka okungathandabuzekiyo,relative,,,false,false,false,,,,stats glossary
+1832,Type II error,Imposiso yohlobo lwesi II,noun,,,false,false,false,,,In,stats glossary
+1833,Type I error,Imposiso yohlobo loku I,noun,,,false,false,false,,,In,stats glossary
+1834,True Value,Ixabiso lokwenene,noun,,,false,false,false,,,Ili,stats glossary
+1835,True mean,Umndilili wokwenene,noun,,,false,false,false,,,Class3Um,stats glossary
+1836,Triangle,Unxantathu,noun,,,false,false,false,,,U,stats glossary
+1837,Trial,Ulingo,noun,,,false,false,false,,,Ulu,stats
+1838,Trapezoid,Itraphizoyidi,noun,,,false,false,false,,,In,
+1839,Transversal,Nqamlezayo,relative,,,false,false,false,,,,stats glossary
+1840,Transformation to normality,Inguqu yokuya kwisiqhelo,relative,,,false,false,false,,,,stats glossary
+1841,Transformation to linearity,Inguqu ukuya kumgca,relative,,,false,false,false,,,,stats glossary
+1842,Transformation,Inguqu,noun,,,false,false,false,,,In,stats glossary
+1843,total variability,itotali yokutshintsha,relative,,,false,false,false,,,,stats glossary
+1844,total probability,itotali yokunokwenzeka,relative,,,false,false,false,,,,stats glossary
+1845,Therorem,Itheyorem,noun,,,false,false,false,,,In,stats glossary
+1846,Test Statistics,Uvavanyo lwenkcukacha manani,noun,,,false,false,false,,,Ulu,stats glossary
+1847,Term,Igama,noun,,,false,false,false,,,Ili,stats glossary
+1848,Tangent,Ithanjenti,noun,,,false,false,false,,,In,stats glossary
+1849,system of equations,inkqubo yee- ikhweyijini,relative,,,false,false,false,,,,stats glossary
+1850,Symmetric distribution,Usasazo lokulingana macala,adverb,,,false,false,false,,,,stats glossary
+1851,Symmetrical,ngokulingana macala,relative,,,false,false,false,,,,stats glossary
+1852,Symmetric,Ulingano macala,noun,,,false,false,false,,,Ulu,stats glossary
+1853,Survey,Uphando,noun,,,false,false,false,,,Uku,stats glossary
+1854,Supplementary  angles,ii-Engile zesongezo,noun,,,false,false,false,,,Izin,stats glossary
+1855,Summation,Ukudibanisa,verb,,Dibanisa,false,false,false,either,,,stats glossary
+1856,Sum,Isiphumo sokudibanisa/ iyonke,noun,,,false,false,false,,,Isi,stats glossary
+1857,Subtraction,Uthabatho,verb,,Thabatha,false,false,false,either,,,stats glossary
+1858,subtract,Ukuthabatha/ ukususa,verb,,Thabatha,false,false,false,either,,,stats glossary
+1859,Substitution,Ubambelo,noun,,,false,false,false,,,Ubu,stats glossary
+1860,Subset,Isetana kwiseti,noun,,,false,false,false,,,In,stats glossary
+1861,Subjective Probability,Okunekwenzeka ngokokwakho,relative,,,false,false,false,,,,stats glossary
+1862,Stratified sampling,Ukuthatha isampuli ngemigangatho,adverb,,,false,false,false,,,,stats glossary
+1863,stem-and- leaf  plot,Uyilo/ iploti yesiqu negqabi,noun,,,false,false,false,,,In,stats glossary
+1864,stem-and-leaf diagram,umzobo wesiqu negqabi,noun,,,false,false,false,,,Class3Um,stats glossary
+1865,statically significant,ebalulekileyo ngokwenkcukacha manani,relative,,,false,false,false,,,,stats glossary
+1866,Statistics,Iinkcukacha manani,noun,,,false,false,false,,,In,stats glossary
+1867,statistical methods,Iindlela zenkcukacha manani,noun,,,true,false,false,,,Izin,stats glossary
+1868,statistic,inkcukacha manani,noun,,,false,false,false,,,In,stats glossary
+1869,standard notation,ubhalo lwamanani olusemgangathweni,relative,,,false,false,false,,,,stats glossary
+1870,standard normal distribution,Usasazo lwesiqhelo olusemgangathweni,relative,,,false,false,false,,,,stats glossary
+1871,standard deviation,uphambuko olusemgangathweni,relative,,,false,false,false,,,,stats glossary
+1872,Square root,Isikweruthi,noun,,,false,false,false,,,Isi,stats glossary
+1873,Spatial sampling,ukuthatha isampuli yendawo,adverb,,,false,false,false,,,,stats glossary
+1874,Solution,Isisombululo,noun,,,false,false,false,,,Isi,stats glossary
+1875,Slope-intercept form,Imo yokuthintela ithambeka,relative,,,false,false,false,,,,stats glossary
+1876,slope,Ithambeka,noun,,,false,false,false,,,Ili,stats glossary
+1877,Skewness,Ubugoso,noun,,,false,false,false,,,Ubu,stats glossary
+1878,simple regression,Ukubuya umva okulula,adverb,,,false,false,false,,,,stats glossary
+1879,simple random sample,Isampuli elula engenamkhethe,relative,,,false,false,false,,,,stats glossary
+1880,simple linear regression,Umgca olula wokubuya umva,relative,,,false,false,false,,,,stats glossary
+1881,significant,Balulekileyo,relative,,,false,false,false,,,,stats glossary
+1882,significance test,uvavanyo lokubaluleka,relative,,,false,false,false,,,,stats glossary
+1883,significance level,Umgangatho wokubaluleka,relative,,,false,false,false,,,,stats glossary
+1884,signed number,inani elityikityiweyo,relative,,,false,false,false,,,,stats glossary
+1885,Set theory,Ithiyori yeseti,relative,,,false,false,false,,,,stats glossary
+1886,Secant,Umgca ogqitha kwiincam ezimbini zesangqa,noun,,,false,false,false,,,Class3Um,stats glossary
+1887,scientific notation,ubhalo lwamanani lwenzululwazi,relative,,,false,false,false,,,,stats glossary
+1888,scatter plot,uyilo lokusasazeka,relative,,,false,false,false,,,,stats glossary
+1889,scattergram,umzobo wokusasaza,noun,,,false,false,false,,,Class3Um,stats glossary
+1890,Scalene triangle,unxantathu onamacala alinganayo,relative,,,false,false,false,,,,stats glossary
+1891,sampling without replacement,ukuthatha isampuli ngaphandle kokuthathela indawo,adverb,,,false,false,false,,,,stats glossary
+1892,sampling with replacement,ukuthatha isampuli ngokuthathela indawo,adverb,,,false,false,false,,,,stats glossary
+1893,sampling variability,ukutshintsha kwesampuli,adverb,,,false,false,false,,,,stats glossary
+1894,sampling distribution,usasazo lokuthatha isampuli,adverb,,,false,false,false,,,,stats glossary
+1895,sampling,ukuthatha isampuli/ ukwenza isampuli,verb,,sample,false,false,false,either,,,stats glossary
+1896,sample standard deviation,ukuphambuka komgangatho wesampuli,relative,,,false,false,false,,,,stats glossary
+1897,sample varience,ukungavani kwesampuli,relative,,,false,false,false,,,,stats glossary
+1898,sample survey,uphando lwesampuli,relative,,,false,false,false,,,,stats glossary
+1899,sample space,isithuba sesampuli,noun,,,false,false,false,,,Isi,stats glossary
+1900,sample size,ubukhulu besampuli,relative,,,false,false,false,,,,stats glossary
+1901,sample mean,umndilili wesampuli,relative,,,false,false,false,,,,stats glossary
+1902,root sign,uphawu lwengcambu,relative,,,false,false,false,,,,stats glossary
+1903,Sample correlation coefficient,Inani elandisayo lesampulu yonxulumano,relative,,,false,false,false,,,,stats glossary
+1904,Right-angled triangle,Unxantathu olidolo,noun,,,false,false,false,,,U,stats glossary
+1905,right angle,unxantathu olidolo,noun,,,false,false,false,,,U,stats glossary
+1906,Observations,iingqwalaselo,noun,,,true,false,false,,,Izin,Stats glossary
+1907,Obtuse angle,I-engile evulekileyo,noun,,,false,false,false,,,In,Stats glossary
+1908,Natural numbers,Amanani endalo,noun,,,true,false,false,,,Ama,Stats glossary
+1909,Negative binomial distribution,Usasazo lwamanani amabini angaphantsi koziro,relative,,,false,false,false,,,,Stats glossary
+1910,Negative binomial theorem,Itheyorem yamanani amabini angaphantsi koziro,noun,,,false,false,false,,,In,Stats Glossary
+1911,Normal approximation,Usondezo oluqhelekileyo,noun,,,false,false,false,,,Ulu,Stats glossary
+1912,Normal distribution,Usasazo oluqhelekileyo,relative,,,false,false,false,,,,stats glossary
+1913,Origin,Intsusa,noun,,,false,false,false,,,Izin,stats glossary
+1914,Outlying values,Amaxabiso akude nombindi,noun,,,true,false,false,,,Ama,stats glossary
+1915,Outlier,Into ekude nombindi,noun,,,false,false,false,,,In,stats glossary
+1916,Parabola,Iparabola/ umgca ofana nelinye icala lombhoxo,noun,,,false,false,false,,,In,Stats glossary
+1917,Parallel lines,Imigca enxuseneyo,noun,,,true,false,false,,,Imi,
+1918,Parallelogram,Ipharalelogramu,noun,,,false,false,false,,,In,Stats glossary
+1919,Parameter,Ubuninzi obungatshintshiyo,noun,,,false,false,false,,,Ubu,Stats glossary
+1920,Peak,Incopho/ incochoyi,noun,,,false,false,false,,,In,Stats glossary
+1921,Outcome,Isiphumo,noun,,,false,false,false,,,Isi,stats glossary
+1922,Pentagon,Unxa-ntlanu/ umbombo-ntlanu,noun,,,false,false,false,,,U,Stats Glossary
+1923,Percent,Ipesenti,noun,,,false,false,false,,,In,Stats glossary
+1924,Percentage,Ipesenteji,noun,,,false,false,false,,,In,Stats glossary
+1925,Odd number,Inani elingumnqakathi,noun,,,false,false,false,,,In,Stats glossary
+1926,Normal equation,I-ikhweyizhini eqhelekileyo,noun,,,false,false,false,,,In,stats glossary
+1927,Normal curve,Igophe eliqhelekileyo,noun,,,false,false,false,,,Ili,Stats glossary
+1928,Notation,Ubhalo lwamanani,relative,,,false,false,false,,,,Stats glossary
+1929,Null set,Isethi enguziro/ etshitshisiweyo,noun,,,false,false,false,,,In,Stats glossary
+1930,Null hypothesis,Ingcinga ethatha njengenyani enguziro/ etshitshisiweyo,noun,,,false,false,false,,,In,Stats Glossary 
+1931,Numerator,Inyumereyitha/ inani elingaphezulu leqhezu,noun,,,false,false,false,,,In,Stats glossary 
+1932,Numerical coefficient,Eyenani elandisayo,relative,,,false,false,false,,,,stats glossary
+1933,Numerical value,Ixabiso lenani,noun,,,false,false,false,,,Ili,Stats glossary
+1934,Observed value,Ixabiso eliqwalaselweyo,noun,,,false,false,false,,,Ili,stats Glossary
+1935,Observed range,Uluhlu oluqwalaselweyo,noun,,,false,false,false,,,Ulu,stats glossary
+1936,Observed number,Inani eliqwalaselweyo,noun,,,false,false,false,,,In,stats glossary
+1937,Observed frequencies,Ubuninzi obuqwalaselweyo,noun,,,false,false,false,,,Ubu,
+1938,Percentile,Ixabiso elitshintshayo lokwahlula abemi ngama-100,relative,,,false,false,false,,,,Stats Glossary
+1939,Perfect square,Isikwere esifezekileyo,relative,,,false,false,false,,,,
+1940,Permutation,Inguquko,noun,,,false,false,false,,,In,Stats Glossary
+1941,Perpendicular lines,Imigca ethe nkqo,noun,,,true,false,false,,,Imi,stats glossary
+1942,Pie chart,Itshathi esisangqa,noun,,,false,false,false,,,In,stats glossary
+1943,Place value,Ixabiso lendawo,noun,,,false,false,false,,,Ili,stats glossary
+1944,Residual standard deviation,ukuphambuka komgangatho wentsalela,relative,,,false,false,false,,,,stats glossary
+1945,representative sample,isampuli yommeli,relative,,,false,false,false,,,,stats glossary
+1946,relative frequency,ubuninzi bokwenzeka obuthelekisiweyo,relative,,,false,false,false,,,,stats glossary
+1947,rejection region,ummandla wokulahla,noun,,,false,false,false,,,Class3Um,stats glossary
+1948,regression model,umzekelo wokubuya umva,relative,,,false,false,false,,,,stats glossary
+1949,regression line,Umgca wokubuya umva,noun,,,false,false,false,,,Class3Um,stats glossary
+1950,regression equation,I-ikhweyizhini yokubuyumva,relative,,,false,false,false,,,,stats glossary
+1951,Regression coefficient,inani elandisayo lokubuyumva,relative,,,false,false,false,,,,stats glossary
+1952,Regression analysis,uhlalutyo lobuyumva,relative,,,false,false,false,,,,stats glossary
+1953,Randomly selected,Ukhethwe ngokungenamkhethe,relative,,,false,false,false,,,,stats glossary
+1954,Hypothesis test,Uvavanyo lwengcinga ethathwa njengenyani,noun,,,false,false,false,,,Izi,Stats glossary
+1955,Random variable,into etshintsha nakanjani,relative,,,false,false,false,,,,stats glossary
+1956,Quartile,Naliphi lamaxabiso amathathu elahlula abemi ukuba ngamaqela amane alinganayo,relative,,,false,false,false,,,,stats glossary
+1957,Hypothesis testing,Ukuvavanya ingcinga ethathwa njengenyani,noun,,,false,false,false,,,Uku,stats glossary
+1958,Imaginary number,Inani elisengqondweni,noun,,,false,false,false,,,Ili,stats glossary
+1959,identity,isaziso,noun,,,false,false,false,,,Isi,stats glossary
+1960,Number,Inombolo,noun,,,false,false,false,,,In,stats glossary
+1961,Number,Inombolo,noun,,,false,false,false,,,In,stats glossary
+1962,improper fraction ,Iqhezu elinentloko enkulu,noun,,,false,false,false,,,Ili,Stats glossary
+1963,Inconsistent,Engangqinelaniyo,relative,,,false,false,false,,,,
+1964,To stand,ukuma,verb,,to stand ,false,true,false,intransitive,,,stats glossary
+1965,independent ,ukuzimela,relative,,,false,false,false,,,,Stats glossary
+1966,Independent events ,iziganeko ezizimeleyo,noun,,,true,false,false,,,Izi,Stats glossary
+1967,Independent Event,isiganeko esizimeleyo,noun,,,false,false,false,,,Isi,Stats glossary
+1968,Independent variables,Izinto ezitshintshayo ezizimeleyo,noun,,,false,false,false,,,Izi,Stats glossary 
+1969,Inequality,Ukungalingani,noun,,,false,false,false,,,Uku,stats glossary
+1970,Integer,I-inteja/ inani elipheleleyo,noun,,,false,false,false,,,Ili,Stats Glossary
+1971,Integral,Efunekayo,relative,,,false,false,false,,,,Stats glossary
+1972,Integrand ,Into efunekayo,noun,,,false,false,false,,,In,Stats glossary
+1973,Intercept method,Indlela yokuthintela/ yokunqanda,noun,,,false,false,false,,,In,Stats glossary
+1974,Interquartile range,Uluhlu lwezahlulo ezine,relative,,,false,false,false,,,,Stats glossary
+1975,Intersection,Ukunqumlana/ ukunqamleza,noun,,,false,false,false,,,Uku,Stats glossary
+1976,Inverse,Umguqulelwa,relative,,,false,false,false,,,,stats Glossary
+1977,Inverse proportion,Ulwalamano lokuguqulela,noun,,,false,false,false,,,Ulu,Stats glossary
+1978,Interval,Isithuba/ ikhefu,noun,,,false,false,false,,,Isi,
+1979,Irrational numbers,Amanani angenangqiqo,noun,,,false,false,false,,,Ama,Stats glossary
+1980,Isosceles triangle,Unxantathu onamacala amabini alinganayo,noun,,,false,false,false,,,U,stats glossary
+1981,Joint variation,Ukudibana kwezinto ezitshintshayo,noun,,,false,false,false,,,Uku,Stats glossary
+1982,Least common multiple,Esona siphindwa siphantsi siqhelekileyo,relative,,,false,false,false,,,,
+1983,Least Squares,Ezona zikwere ziphantsi,relative,,,false,false,false,,,,Stats glossary
+1984,Legs,Amacala onxantathu olidolo /i-engile elidolo,noun,,,false,false,false,,,Ama,stats glossary
+1985,least,Esona,relative,,,false,false,false,,,,stats glossary
+1986,Like Terms,amagama afanayo,noun,,,false,false,false,,,Ama,Stats glossary
+1987,Linear equation,I-ikhweyizhini yomgca,noun,,,false,false,false,,,In,stats glossary 
+1988,Linear function,Umsebenzi womgca,noun,,,false,false,false,,,Class3Um,stats glossary
+1989,Linear regression,Ukubuyumva komgca,noun,,,false,false,false,,,Uku,Stats glossary
+1990,Literal equation,I-ikhweyizhini eneentlobontlobo zamalungu,noun,,,false,false,false,,,In,stats glossary
+1991,Logarithm,ilogaridhimu,noun,,,false,false,false,,,In,Stats glossary
+1992,Logarithmic transformation,Inguqu yelogaridhimu,noun,,,false,false,false,,,In,Stats glossary
+1993,Logistic curve,Igophe lobuchule,noun,,,false,false,false,,,Ili,Stats glossary
+1994,Logistic growth curve,Ukukhula kwegophe lobuchule,noun,,,false,false,false,,,Uku,Stats glossary
+1995,Lower quartile,Isine esiphantsi,noun,,,false,false,false,,,Isi,Stats glossary
+1996,Lowest terms,awona magama aphantsi,relative,,,false,false,false,,,,Stats glossary
+1997,Mathematical model,Umzekelo wemathematika,noun,,,false,false,false,,,Class3Um,Stats glossary
+1998,Matrix,Isakhelo/ isibumbelo,noun,,,false,false,false,,,Isi,Stats glossary
+1999,Matrix algebra,isakhelo sealijibra,noun,,,false,false,false,,,Isi,stats glossary
+2000,Mean,iavereji/ umndilili,noun,,,false,false,true,,,Class3Um,Stats glossary
+2001,Mean diameter,umndilili wedayamitha,noun,,,false,false,false,,,Class3Um,Stats glossary
+2002,Mean mass,umndilili wobunzima,relative,,,false,false,false,,,,Stats glossary
+2003,Measure,umlinganiso,verb,,finite Verb,false,true,false,transitive-only,,,stats glossary
+2004,Plane,Isityaba,noun,,,false,false,false,,,Isi,Stats glossary
+2005,Point,Ipoyinti/ incam/ inqaku,noun,,,false,false,false,,,In,stats glossary
+2006,Poisson distribution,Usasazo lwePoisson,relative,,,false,false,false,,,,stats glossary
+2007,Poisson process,Inkqubo ye-Poisson,noun,,,false,false,false,,,In,stats glossary
+2008,Poisson random variable,Utshintsho nakanjani lwePoisson ,relative,,,false,false,false,,,,Stats glossary
+2009,Polygon,Unxaninzi/ umbombo-ninzi/ ipholigoni,noun,,,false,false,false,,,U,Stats glossary
+2010,Polynomial,Enamani amaninzi e-aljibra,relative,,,false,false,false,,,,
+2011,Polynomial equation,I-ikhweyizhini yamanani amaninzi e-aljibra,noun,,,false,false,false,,,In,stats glossary
+2012,Pooled estimate,Uqikelelo oludityanisiweyo,verb,,to estimate,false,false,false,transitive-only,,,Stats glossary
+2013,Population,Amalungu,noun,,,false,false,false,,,Ama,stats glosssary
+2014,Population,Abemi,noun,,,false,false,false,,,Aba,Stats glossary
+2015,Natural logarithm,ilogaridhimu yendalo,noun,,,false,false,false,,,In,Stats glossary
+2016,Mutually exclusive events,Iziganeko ezikhetheke ngokufanayo,noun,,,true,false,false,,,Izi,Stats glossary
+2017,Population mean,Umndilili wabemi,noun,,,true,false,false,,,Imi,
+2018,Population standard deviation,Uphambuko lomgangatho wabemi,noun,,,false,false,false,,,Ulu,Stats glossary
+2019,Population variance,Utshintsho lwabemi,noun,,,false,false,false,,,Ulu,Stats glossary
+2020,Precision,Ukuthi nkqo,noun,,,false,false,false,,,Uku,Stats glossary
+2021,Prediction interval,Isithuba sokuxela kwangaphambili,noun,,,false,false,false,,,Isi,Stats glossary
+2022,Predictor,Umxeli kwangaphambili,relative,,,false,false,false,,,,Stats glossary
+2023,Predictor variable,Utshintsho lomxeli kwangaphambili,relative,,,false,false,false,,,,Stats glossary
+2024,Prime Number,Inani elingenakwahlulwa kwakhona,noun,,,false,false,false,,,Ili,Stats glossary
+2025,Probability,Okunokwenzeka,relative,,,false,false,false,,,,Stats glossary
+2026,Probability density function,Umsebenzi wengxinano enokwenzeka,noun,,,false,false,false,,,Class3Um,Stats Golssary
+2027,Probability distribution,Usasazo olunokwenzeka,noun,,,false,false,false,,,Ulu,Stats glossary
+2028,Probability function,Umsebenzi onokwenzeka,noun,,,false,false,false,,,Class3Um,Stats glossary
+2029,Probability mass function,Umsebenzi wobuninzi onokwenzeka,noun,,,false,false,false,,,Class3Um,
+2030,Probability theory,Itheyori yokunokwenzeka,noun,,,false,false,false,,,In,Stats Glossary
+2031,Mutually exclusive sets,iisethi ezikhetheke ngokufanayo,noun,,,false,false,false,,,Izin,Stats glossary
+2032,Multiply,Phindaphinda,verb,,finite form,false,true,false,transitive-only,,,Stats glossary
+2033,Multiplier,Isiphindaphindi,noun,,,false,false,false,,,Isi,stats glossary
+2034,Multiplication,Uphindaphindo,noun,,,false,false,false,,,Ulu,Stats glossary
+2035,Multiple regression,Ukubuyumva kwesiphindwa,noun,,,false,false,false,,,Uku,Stats glossary
+2036,Multinomial coefficient,Inani elandisayo lamanani amaninzi,noun,,,false,false,false,,,Ili,stats glossary
+2037,Multinomial,Eyamanani amaninzi,relative,,,false,false,false,,,,Stats Glossary
+2038,Monomial,Eyenani elinye le-aljibra,relative,,,false,false,false,,,,Stats glossary
+2039,Mode,Imo,noun,,,false,false,false,,,In,Stats glossary
+2040,Mixed number,Amanani axubeneyo,noun,,,true,false,false,,,Ama,stats glossary
+2041,Median,Umbindi,noun,,,false,false,false,,,Class3Um,stats glossary

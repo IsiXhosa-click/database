@@ -291,7 +291,7 @@ example_id,word_id,english,xhosa
 306,258,All living things need water.,Zonke izinto eziphilayo zidinga amanzi.
 307,259,Can I pay by card?,Ndingabhatala ngekhadi?
 308,260,Prepare for the president's arrival.,Lungiselelani ukufika kukamongameli.
-309,261,Many things can happen in the press of a button.,Izinto ezininzi zingenzeka ngokucofa iqosha.
+309,261,Many things can happen in the press of a button.,Izinto ezininzi zingenzeka ngokucofa iqhosha
 310,262,"Sipho pushed hard, but the car didn't move.","USipho watyhala nzima, kodwa zange ishukume imoto. "
 311,263,Put in the plug.,Faka iplagi.
 312,264,Pull this wire tight.,Tsala olu cingo luqine.
@@ -956,7 +956,7 @@ example_id,word_id,english,xhosa
 982,857,When is the meeting?,Inini intlanganiso?
 983,858,Taste this soup.,Ngcamla le sophu.
 984,858,Don't you want to taste my food?,Awufuni kungcamla ukutya kwam?
-985,859,I love the taste of chocolate.,Ndiyayithanda incasa yetshokholethi.
+985,859,I love the flavour of chocolate.,Ndiyayithanda incasa yetshokholethi.
 986,697,I want you to work in groups.,Ndifuna nisebenze ngokwamaqela.
 987,690,The train is stopping.,Itreyini iyema.
 988,688,Crime is huge in this place of ours.,Ulwaphulo-mthetho lukhulu kule ndawo yethu.
@@ -1058,7 +1058,7 @@ example_id,word_id,english,xhosa
 1086,911,There is only one rule.,Kukho omnye umthetho.
 1087,912,These are the rules of the game.,Nantsi imithetho yomdlalo.
 1088,918,The wind is blowing hard!,Umoya uyavuthuza gqitha!
-1089,919,Wake him and then we will go.,Mvukise sihambe.
+1089,919,Wake him and then we will go.,Mvuse sihambe.
 1090,921,We will braai on Saturday.,Sizoja ngoMgqibelo.
 1091,925,Add these numbers.,Dibanisa la manani.
 1092,926,Now you can add the milk.,Ngoku ungagalela ubisi.
@@ -1097,7 +1097,7 @@ example_id,word_id,english,xhosa
 1125,957,Who knows the answer?,Ngubani uyazi impendulo?
 1126,958,Here are my answers.,Nanzi iimpendulo zam.
 1127,966,I broke a bone.,Ndaphula ithambo elinye.
-1128,967,I broke two bones.,Ndaphukile amathambo amabini.
+1128,967,I broke two bones.,Ndaphulile amathambo amabini.
 1129,972,Your cheeks are red.,Izidlele zakho zibomvu.
 1130,973,My dad does not have hair.,Utata wam akananwele.
 1131,990,Please make a fist.,Khawenze inqindi.
@@ -1233,14 +1233,14 @@ example_id,word_id,english,xhosa
 1261,1242,It is important to control your weight.,Kubalulekile ukulawula ubunzima bakho.
 1262,1243,I like dogs although they bark.,Ndiyazithanda izinja nangona zikhonkhotha.
 1263,1244,The matron cares for the patients.,Umeyitroni ukhathala izigulana.
-1264,1246,I suffer from asthma.,Ndiphethwe ngombefu.
+1264,1246,I suffer from asthma.,Ndiphethwe ngumbefu.
 1265,1247,"I think I am sick, because I have a cough.","Ndicinga ukuba ndiyagula, kuba ndinokhohlokhohlo."
 1266,1248,Smoking raises the risk of cancer.,Ukutshaya kunyusa amathuba omhlaza.
 1267,1249,The drought was a disaster.,Imbalela ibiyintlekele.
 1268,1250,"Please stay in bed, your temperature is very high.","Khawusale ebhedini, ubushushu bakho buphezulu."
 1269,1251,I went to school as usual.,Ndiye esikolweni njengesiqhelo.
 1270,1253,It is necessary to wash your hands to kill viruses.,Kufuneka uhlambe izandla zakho ukulwa iivirasi.
-1271,1263,Wear a mask if you have a cold.,Nxiba imaski xa unomkhulane.
+1271,1263,Wear a mask if you have a cold.,Nxiba imaski xa unomkhuhlane.
 1272,1264,Smoking is bad for your lungs.,Ukutshaya akalunganga kwimiphunga.
 1273,1267,This bird has beautiful wings.,Le ntaka inamaphiko amahle.
 1274,1268,I had shortness of breath after running.,Bendinephika emva kokubaleka.
@@ -1265,7 +1265,7 @@ example_id,word_id,english,xhosa
 1293,1304,I need to buy medicine at the shop.,Kufuneka ndithenge iyeza evenkileni.
 1294,1308,This wall is made of clay.,Olu donga lwenziwe ngodongwe.
 1295,1311,I can't use the remote - it's broken.,Andikwazi ukusebenzisa iremote - yaphukile.
-1296,1312,I dropped the plate and broke it.,Ndawisa isitya ndayaphula.
+1296,1312,I dropped the plate and broke it.,Ndawisa isitya ndasaphula.
 1297,1315,A mouse has a small brain.,Impuku inobucopho obuncinci.
 1298,1316,The quality of their work is high.,Umgangatho womsebenzi wabo uphezulu.
 1299,1317,We must determine the cause of the drought.,Kufuneka siqinisekise unobangela wale mbalela.
@@ -1369,7 +1369,7 @@ example_id,word_id,english,xhosa
 1397,1493,You use your windpipe when you breathe.,Usebenzisa uqhoqhoqho wakho xa uphefumla.
 1398,1493,The skunk went to Qawukeni and rolled about in the grass and broke a windpipe.,Iqaqa laqabela eQawukeni laziqikaqika kuqaqaqa laqhawuka uqhoqhoqho.
 1399,1494,Do you struggle to swallow?,Usokola ukuginya?
-1400,1496,My favourite leaf is the fern's.,Elona gqabi ndilithanda ligqabi lefern.
+1400,1496,My favourite leaf is the fern's.,Elona gqabi ndilithandayo ligqabi lefern.
 1401,1497,The  leaves fall in Autumn.,Amagqabi awa ekwindla.
 1402,1498,I am wearing a shirt.,Ndinxibe ihempe.
 1403,1499,I was stung by the wasp.,Ndihlatywe ngonomeva.
@@ -1377,3 +1377,87 @@ example_id,word_id,english,xhosa
 1405,1501,I have packed a comb and a toothbrush.,Ndiphakishe ikama nebrashi yamazinyo.
 1406,1503,I comb my hair with a comb.,Ndikama iinwele zam ngekama.
 1407,1504,I feel nervous before writing an exam.,Ndinexhala phambi kokubhala uviwo.
+1408,1509,I pointed at the tree.,Ndalathe umthi
+1409,1510,Please bandage my wound.,Ndicela ubophe inxeba lam.
+1410,1511,I am going for circumcision this December.,Ndiyokwaluka kulo Disemba.
+1411,1512,This chair is hard.,Esi situlo silukhuni.
+1412,1513,I am afraid of injection.,Ndiyakoyika ukutofa.
+1413,1515,I sweat after I run.,Ndiyabila emva kokubaleka.
+1414,1516,I vomited this morning.,Ndigabhile ekuseni.
+1415,1517,Don't inject yourself with drugs.,Musa ukuzihlaba ngeziyobisi.
+1416,1518,don't forget to comb your hair.,ungalibali ukukama iinwele zakho.
+1417,1519,Rub out what you have written in lead pencil.,Cima le nto uyibhale ngelidi.
+1418,1520,I am digging.,Ndiyagrumba.
+1419,1520,I dig the earth.,Ndigrumba umhlaba.
+1420,1521,My ligament is injured.,Umsipha wam ukrunekile.
+1421,1523,Please press the green button.,Ndicela ucinezele iqhosha eliluhlaza.
+1422,1524,Do not forget to chew before you swallow.,Ungalibali ukuhlafuna phambi kokuba uginye.
+1423,1525,I caught them having sex last night.,Ndibabambe belalana ngobusuku bayizolo.
+1424,1526,I am cured!,Ndinyangekile!
+1425,1527,I am afflicted by my disease.,Ndiphethwe sisifo sam.
+1426,1528,It is your turn to roll the dice.,Nguwe ngoku oqengqa idayisi.
+1427,1529,She is well experienced in sport.,Unamava kwezemidlalo.
+1428,1530,During the holidays I took a long journey to the Eastern Cape.,Ngexesha leeholide ndithathe uhambo olude ndisiya eMpuma Koloni.
+1429,1535,The patient have not been examined.,Isigulana asikaxilongwa.
+1430,1537,He has a beautiful earring.,Unecici elihle.
+1431,1539,She is pregnant with Daniel's baby.,Unzima nosana luka Daniel.
+1432,1542,I chop the carrots.,Ndinqunqa iminqathe.
+1433,1544,We miss you at home.,Siyakukhumbula ekhaya.
+1434,1545,He is treated badly by his parents.,Uphethwe kakubi ngabazali bakhe.
+1435,1545,Treat your elders well.,Phathani kakuhle abantu abadala.
+1436,1546,Don't blame yourself.,Sukuzisola.
+1437,1547,They are all the same - they are liars.,Bayafana bonke - bangamaxoki.
+1438,1548,IsiXhosa is my mother tongue.,"IsiXhosa lulwimi lwam lwenkobe,."
+1439,1549,I speak Zulu.,Ndithetha isiZulu.
+1440,1550,Which bin's lid is this?,Siciko sowuphi umgqomo esi?
+1441,1551,He entered and they all went silent.,Wangena bathi cwaka.
+1442,1552,Invite all of your friends!,Nimeme bonke abahlobo benu!
+1443,1554,Give then invitation cards.,Banike amaphepha ezimemo
+1444,1555,He encouraged her by saying that she would succeed.,Wayemkhuthaza ngokumxelela ukuba uzokuphumelela.
+1445,1557,Obey your parents.,Thobela abazali bakho.
+1446,1558,"In some, it creates happiness. In others, it creates suffering.","Kwabanye, ludala ulonwabo. Kwabanye, ludala ungxunguphalo."
+1447,1559,I will accompany her tomorrow.,Ndizakumkhapha ngomso.
+1448,1560,His contribution is important.,Igalelo lakhe libalulekile.
+1449,1561,Water is usually blue.,Amanzi ahlala eblowu.
+1450,1562,"I don't smoke at all, because it messes up your lungs.","Anditshayi tu, ngoba kumosha imiphunga."
+1451,1563,"Come closer, friends.","Sondelani, bahlobo."
+1452,1566,Analyse this poem and answer the questions that follow.,Hlalutya lo mbongo uphendule imibizo elandelayo.
+1453,1567,"I need to work, otherwise I will run out of money.","Kufuneka ndisebenze, kungenjalo ndizophelelwa yimali."
+1454,1568,I will succeed even if they say I will fail.,Ndizophumelela nokuba bathi ndizokutshona.
+1455,1569,"I have no money, therefore I must work.","Ndiphelelwe yimali, ngoko ke kufuneka ndisebenze."
+1456,1570,I prefer to run rather than to drive.,Ndikhetha ukubaleka kunokuba ndiqhube.
+1457,1571,Wash before you leave.,Hlamba phambi kokuba umke.
+1458,1572,Food is expensive.,Ukutya kuduru.
+1459,1573,Plastic is cheap.,Iplastiki itshiphu.
+1460,1575,They will operate her tomorrow.,Baza kumqhaqha ngomso.
+1461,1576,"? Needs translation. It was submitted incorrectly.
+
+This (??) is a link between students.",Lo mbutho ulikhonkco phakathi kwabafundi.
+1462,1582,Which challenge are you facing?,Ujongene nowuphi umceli-mngeni?
+1463,1584,"If you are walking alone at night, it is important to tell others.","Xa uhamba wedwa ebusuku, kubalulekile ukuxelela abanye."
+1464,1584,"We have run out of an important thing, money.","Siphelelwe yinto ebalulekileyo, yimali."
+1465,1585,I will walk until I arrive.,Ndizohamba ngeenyawo de ndifike.
+1466,1585,Continue until you reach the intersection.,Qhubeka ude ufika esiphambukeni.
+1467,1585,He will study until he succeeds.,Uzofunda ade aphumelele.
+1468,1586,They are always playing games instead of developing their minds.,Bamana bedlala imidlalo endaweni yokuba bapuhlise iingqondo zabo.
+1469,1587,"As you know, food is expensive.","Njengokuba nisazi, ukutya kuduru."
+1470,1588,"He is injured, that is why he is not playing.","Wenzakele, yiyo loo nto engadlali."
+1471,1589,Wipe sweat off forehead.,Ukusula umbilo ebunzi.
+1472,1590,Prepare the field and remove the weeds.,Lungisela intsimi ususe ukhula.
+1473,1597,A dassie does not have a tail.,Imbila ayinamsila.
+1474,1602,He scratched his head as he thought.,Wonwaya intloko logama ecinga.
+1475,1606,He peeped through the window.,Wakroba ngefestile.
+1476,1607,I have just arrived.,Ndisandula ukufika.
+1477,1609,He tricked everyone!,Waqatha wonke umntu!
+1478,1610,He owes me a lot of money.,Uyandityala imali eninzi.
+1479,1616,"In some, love creates happiness.","Kwabanye, uthando ludala ulonwaba."
+1480,1617,I am not sure - maybe tomorrow?,Andiqinisekanga - mhlawumbi ngomso?
+1481,1652,There is a convenience store on the corner.,Kukho ivenkile elunqile edolweni.
+1482,1654,I am anxious because of the test.,Ndixhalabile ngenxa yovavanyo.
+1483,1660,The shadows surrounded him.,Amathunzi ayemngqonga.
+1484,1662,He was crowded by the many people.,Ungonqwe ngabantu abaninzi.
+1485,1667,What are you judging him for?,Umgwebelani?
+1486,869,We have sinned against you.,Sikonile.
+1487,91,They are laughing at us.,Bayasihleka.
+1488,73,"Men, lend me some pants? Mine are torn.","Madoda, ndibolekeni ibhulukwe? Eyam ikrazukile."
+1489,1806,I am hurt.,Ndikhathazekile.
