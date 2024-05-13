@@ -702,8 +702,8 @@ It means can in the sense of ""be able to""."
 704,room,igumbi,noun,,,false,false,false,,,Ili,
 705,rooms,amagumbi,noun,,,true,false,false,,,Ama,
 706,floors,imigangatho,noun,,,true,false,false,,,Imi,
-707,class,iklasi,noun,,,false,false,false,,,In,"Note that this does not refer to ""class"" as in ""type""."
-708,classes,iiklasi,noun,,,true,false,false,,,Izin,"Note that this does not refer to ""classes"" as in ""types""."
+707,class,iklasi,noun,,,false,false,false,,,In,"Note that this does not refer to ""class"" as in ""type"". This refers to ""class"" in an educational context (e.g. one taught by a teacher)."
+708,classes,iiklasi,noun,,,true,false,true,,,Izin,"Note that this does not refer to ""classes"" as in ""types"". This refers to ""classes"" in an educational context (e.g. ones taught by teachers)."
 709,building,isakhiwo,noun,,,false,false,false,,,Isi,
 710,toilet,indlu yangasese,noun,,,false,false,false,,,In,"Most Xhosa speakers use ""itoyilethi""."
 711,buildings,izakhiwo,noun,,,true,false,false,,,Izi,
