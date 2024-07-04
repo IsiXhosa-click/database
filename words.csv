@@ -211,7 +211,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 212,sit,hlala,verb,,ukuhlala,false,true,false,intransitive,,,"Note that ""sitting"" is translated as ""hleli"", as this is the irregular stative form of ""hlala""."
 213,run,baleka,verb,,ukubaleka,false,false,false,intransitive,,,
 214,stay behind,sala,verb,,ukusala,false,false,false,intransitive,,,"""Sala kakuhle"" can be used to mean ""goodbye"" to someone who will be staying where they are."
-215,shout,shawuta,verb,,ukushawuta,false,false,false,,,,
+215,shout,shawuta,verb,,ukushawuta,false,false,false,transitive,,,"In IsiXhosa, shawuta often conveys a more 'quarreling' connotation."
 216,sell,thengisa,verb,,ukuthengisa,false,false,false,,,,
 217,take out,khupha,verb,,ukukhupha,false,false,false,transitive,,,
 218,throw,jula,verb,,ukujula,false,false,false,ambitransitive,,,
