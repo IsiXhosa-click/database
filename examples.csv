@@ -228,7 +228,7 @@ example_id,word_id,english,xhosa
 241,94,"My mom says ""Eat your vegetables"".","Umama wam uthi ""Yitya imifuno yakho""."
 242,213,I run at school.,Ndibaleka esikolweni.
 243,214,Stay well!,Sala kakuhle!
-244,215,The boy is shouting.,Inkwenkwe iyashawuta.
+244,215,The mother is shouting ,Inkwenkwe iyashawuta.
 245,197,I wash the dishes.,Ndihlamba izitya.
 246,216,They sell fruit.,Bathengisa iziqhamo.
 247,217,I take out a cup from the bag.,Ndikhupha ikomityi engxoweni.
@@ -1488,3 +1488,7 @@ This (??) is a link between students.",Lo mbutho ulikhonkco phakathi kwabafundi.
 1514,2066,There are many beautiful forests in South Africa.,Kukho amahlathi amahle amaninzi emZantsi Afrika.
 1515,2068,My cup is blue.,Ikomityi yam iblowu.
 1516,2069,The cups of coffee.,Iikomityi zekofu.
+1517,2071,The vicissitudes of life led the once positive man to become cynical and negative.,Iimeko zamthothobalisa ithemba wasala nencindi ekrakra.
+1518,2071,"Although they were once close, the vicissitudes of family strife caused the clan to grow apart.",Nangona bebevana nje iimeko zengxwabalala phakathi kweemizi zabenza bahlukane.
+1519,2071,"Though he had many vicissitudes in life, nothing would stop him from becoming an entrepreneur.","Nangokuba iimeko zazimekuza nje, kwakungekho nto ezakuma phambi kwakhe kwindlela yokuba ngusomashishini."
+1520,2071,Losing your job is just one of the vicissitudes of life.,Ukulahlekelwa ngumsebenzi yenye yeemeko zobomi.
