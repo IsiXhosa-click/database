@@ -1319,3 +1319,5 @@ link_id,link_type,first,second
 1324,related,2071,482
 1325,related,2071,1233
 1326,alternate_use,2071,2072
+1327,antonym,1233,2073
+1328,related,2071,2073
