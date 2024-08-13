@@ -2068,3 +2068,9 @@ It means can in the sense of ""be able to""."
 2075,clock,iwotshi,noun,,,false,false,false,,,In,"A watch is also ""iwotshi"" in isiXhosa."
 2076,clocks,iiwotshi,noun,,,true,false,false,,,Izin,
 2077,stretch,olula,verb,,ukolula,false,true,false,transitive,,,"Often used in the passive, e.g. Imilenze yakhe yoluliwe (His/her legs are stretched out)"
+2078,claim,banga,verb,,ukubanga,false,false,false,ambitransitive,,,
+2079,search,phengulula,verb,,ukuphengulula,false,false,false,ambitransitive,,,
+2080,"look for, search",khangela,verb,,ukukhangela,false,false,false,ambitransitive,,,
+2081,"look for, search",funa,verb,,ukufuna,false,false,false,transitive,,,
+2082,long for,rhalela,verb,,ukurhalela,false,false,true,ambitransitive,,,
+2083,wish for,nqwenelela,verb,,ukunqwenelela,false,false,false,transitive,,,
