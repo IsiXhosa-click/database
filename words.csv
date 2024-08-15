@@ -2070,7 +2070,11 @@ It means can in the sense of ""be able to""."
 2077,stretch,olula,verb,,ukolula,false,true,false,transitive,,,"Often used in the passive, e.g. Imilenze yakhe yoluliwe (His/her legs are stretched out)"
 2078,claim,banga,verb,,ukubanga,false,false,false,ambitransitive,,,
 2079,search,phengulula,verb,,ukuphengulula,false,false,false,ambitransitive,,,
-2080,"look for, search",khangela,verb,,ukukhangela,false,false,false,ambitransitive,,,
-2081,"look for, search",funa,verb,,ukufuna,false,false,false,transitive,,,
+2080,search,khangela,verb,,ukukhangela,false,false,false,ambitransitive,,,
+2081,look for,funa,verb,,ukufuna,false,false,false,transitive,,,
 2082,long for,rhalela,verb,,ukurhalela,false,false,true,ambitransitive,,,
 2083,wish for,nqwenelela,verb,,ukunqwenelela,false,false,false,transitive,,,
+2084,become common,xhaphaka,verb,,ukuxhaphaka,false,true,false,intransitive,,,
+2085,become widespread,xhaphaka,verb,,ukuxhapaka,false,true,false,intransitive,,,
+2086,search,funa,verb,,ukufuna,false,false,false,transitive,,,
+2087,look for,khangela,verb,,ukukhangela,false,false,false,transitive,,,
