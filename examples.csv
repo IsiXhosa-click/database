@@ -440,7 +440,7 @@ example_id,word_id,english,xhosa
 456,394,I see two ships in the sea.,Ndibona iinqanawe ezimbini elwandle.
 457,395,"When there is a drought, famine is widespread.","Xa kukho imbalela, indlala ixhaphakile."
 458,396,I feel guilty.,Ndiziva ndinetyala.
-459,397,"At midday, the sun is scorching.","Kwimini emaqanda, ilanga liyatshisa."
+459,397,"At midday, the sun is scorching.","Emini emaqanda, ilanga liyatshisa."
 460,398,"In the afternoon, he returns home.","Emva kwemini, ubuyela ekhaya."
 461,399,We will be here from the morning till the afternoon.,Sizoba lapha ukususela ekuseni ukuyotsho emalanga.
 462,400,"When the sun sets, I will speak to you.","Lakutshona ilanga, ndiza kuthetha nawe."
@@ -1509,3 +1509,4 @@ This (??) is a link between students.",Lo mbutho ulikhonkco phakathi kwabafundi.
 1535,2083,I wish you success.,Ndikunqwenelela impumelelo.
 1536,2084,These plants are common here.,Ezi zityalo zixhaphakile apha.
 1537,2084,Fake matric certificates are common.,Zixhaphakile izitifiketi zomkokotelo zika-matric.
+1538,2088,We are flour from the same bag.,Singumgumbo wengxow'enye.
