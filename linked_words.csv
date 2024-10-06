@@ -1354,3 +1354,12 @@ link_id,link_type,first,second
 1361,related,1662,2091
 1362,plural_or_singular,2091,2092
 1363,related,1662,2092
+1364,confusable,1623,238
+1365,related,1623,1115
+1366,antonym,139,2093
+1367,related,1086,2093
+1368,confusable,1581,2093
+1369,related,540,2094
+1370,plural_or_singular,2094,2095
+1371,alternate_use,540,2096
+1372,related,134,2096
