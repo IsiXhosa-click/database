@@ -1540,7 +1540,7 @@ It means can in the sense of ""be able to""."
 1545,treat,phatha,verb,,ukuphatha,false,true,false,transitive,,,
 1546,blame,sola,verb,,ukusola,false,false,false,ambitransitive,,,
 1547,liars,amaxoki,noun,,,true,false,false,,,Ama,
-1548,Xhosa,isiXhosa,noun,,,false,false,false,,,Isi,
+1548,Xhosa,isiXhosa,noun,,,false,false,false,,,Isi,This refers to the language. 
 1549,Zulu,isiZulu,noun,,,false,false,false,,,Isi,
 1550,lid,isiciko,noun,,,false,false,false,,,Isi,
 1551,silent,cwaka,ideophone,,,false,false,false,,,,
@@ -2087,3 +2087,5 @@ It means can in the sense of ""be able to""."
 2094,prayer,umthandazo,noun,,,false,false,false,,,Class3Um,
 2095,prayers,imithandazo,noun,,,true,false,false,,,Imi,
 2096,religion,unqulo,noun,,,false,false,false,,,Ulu,
+2097,fossil,isiqina,noun,,,false,false,false,,,Isi,
+2098,fossils,iziqina,noun,,,true,false,false,,,Izi,
