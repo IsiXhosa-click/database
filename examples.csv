@@ -1407,7 +1407,7 @@ example_id,word_id,english,xhosa
 1435,1545,Treat your elders well.,Phathani kakuhle abantu abadala.
 1436,1546,Don't blame yourself.,Sukuzisola.
 1437,1547,They are all the same - they are liars.,Bayafana bonke - bangamaxoki.
-1438,1548,IsiXhosa is my mother tongue.,"IsiXhosa lulwimi lwam lwenkobe,."
+1438,1548,IsiXhosa is my mother tongue.,IsiXhosa lulwimi lwam lwenkobe. 
 1439,1549,I speak Zulu.,Ndithetha isiZulu.
 1440,1550,Which bin's lid is this?,Siciko sowuphi umgqomo esi?
 1441,1551,He entered and they all went silent.,Wangena bathi cwaka.
@@ -1521,3 +1521,5 @@ This (??) is a link between students.",Lo mbutho ulikhonkco phakathi kwabafundi.
 1547,2095,Hear our prayers.,Yiva imithandazo yethu.
 1548,2096,Religion is important to many people.,Unqulo lubalulekile kubantu abaninzi.
 1549,2098,"Rivers washed the leaves into swamps, where they were buried in sediments and became fossils.","Amagqabi alo mthi emka nomlambo aya kutyekezeka emigxobhozweni, apho angcwabeka kwintlenga, ajika aziziqina."
+1550,929,I have two hours left to finish the test.,Ndineeyure ezimbini ezishiyekileyo ukugqibezela uvavanyo.
+1551,818,Fill out this form and send it to me.,Gcwalisa le form undithumele.
