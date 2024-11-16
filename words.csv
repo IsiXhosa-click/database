@@ -1114,7 +1114,7 @@ It means can in the sense of ""be able to""."
 1119,cow,inkomo,noun,,,false,false,false,,,In,
 1120,cows,iinkomo,noun,,,true,false,false,,,Izin,
 1121,stir,zamisa,verb,,ukuzamisa,false,false,false,transitive,,,
-1122,at midnight,ezinzulwini zobusuku,adverb,,,false,false,false,,,,
+1122,in the middle of the night,ezinzulwini zobusuku,adverb,,,false,false,false,,,,
 1123,century,inkulungwane,noun,,,false,false,false,,,In,
 1124,centuries,iinkulungwane,noun,,,true,false,false,,,Izin,
 1125,spring,intlakohlaza,noun,,,false,false,false,,,In,
@@ -2106,3 +2106,40 @@ It means can in the sense of ""be able to""."
 2114,future,ikamva,noun,,,false,false,false,,,Ili,
 2115,greet,bhotisa,verb,,ukubhotisa,false,false,false,transitive,,,This comes from the word 'bhota' and can be used in place of 'bulisa'
 2116,situations,iimeko,noun,,,true,false,false,,,Izin,
+2117,"clothe, wear (on upper body)",ambatha,verb,,ukwambatha,false,true,false,ambitransitive,,,
+2118,"inject, vaccinate",jova,verb,,ukujova,false,false,true,ambitransitive,,,
+2119,"untruthfulness, deceit",amamenemene,noun,,,true,false,false,,,Ama,
+2120,dragon,igongqongqo,noun,,,false,false,false,,,Ili,"This term is taken from the story of Kholumolumo of the Basotho nation.  It was written about a mythological dragon/dinosaur that lived in the Drakensberg mountains destroying everything and was killed by Moshanyana Sankatana.
+
+The igongqongqo is a term used in Xhosa for dragon."
+2121,dragons,amagongqongqo,noun,,,true,false,false,,,Ama,"This term is taken from the story of Kholumolumo of the Basotho nation.  It was written about a mythological dragon/dinosaur that lived in the Drakensberg mountains destroying everything and was killed by Moshanyana Sankatana.
+
+The igongqongqo is a term used in Xhosa for dragon."
+2122,moss,imfeyesele,noun,,,false,false,false,,,In,
+2123,volcano,intabamlilo,noun,,,false,false,false,,,In,
+2124,expanse of water,isithabazi,noun,,,false,false,false,,,Isi,
+2125,grade,ibakala,noun,,,false,false,false,,,Ili,
+2126,chance,ithuba,noun,,,false,false,false,,,Ili,
+2127,umbindi-mda,equator,noun,,,false,false,false,,,Class3Um,
+2128,seashells,oonokrwece,noun,,,true,false,false,,,Oo,
+2129,hiss,tshitshiza,verb,,ukutshitshiza,false,false,false,intransitive,,,
+2130,chemical,umchiza,noun,,,false,false,false,,,Class3Um,
+2131,river bend,impindo,noun,,,false,false,false,,,In,"Source: F Magqashela, AC Jordan’s book titled Kwezo mpindo zeTsitsa (Along the Bends of the Tsitsa- Lovedale Press, 1974)"
+2132,river bends,iimpindo,noun,,,true,false,false,,,Izin,"Source: F Magqashela, AC Jordan’s book titled Kwezo mpindo zeTsitsa (Along the Bends of the Tsitsa- Lovedale Press, 1974)"
+2133,Orange River,iGqili,noun,,,false,false,false,,,Ili,
+2134,chemicals,imichiza,noun,,,false,false,false,,,Imi,
+2135,Dean,INtloko,noun,,,false,false,false,,,In,
+2136,low,phantsi,adverb,,,false,false,false,,,,
+2137,gender equality,ukulingana ngokwesini,noun,,,false,false,false,,,Uku,
+2138,gender,isini,noun,,,false,false,false,,,Isi,
+2139,samp,umngqusho,noun,,,false,false,false,,,Class3Um,
+2140,split,canda,verb,,ukucanda,false,false,false,transitive,,,
+2141,member,ilungu,noun,,,false,false,false,,,Ili,
+2142,members,amalungu,noun,,,true,false,false,,,Ama,
+2143,call,tsalela,verb,,ukutsalela,false,false,false,transitive,,,This refers to calling by phone. 
+2144,phone,tsalela,verb,,ukutsalela,false,false,false,transitive,,,
+2145,journalism,ubuntatheli,noun,,,false,false,false,,,Ubu,
+2146,chances,amathuba,noun,,,true,false,false,,,Ama,“Amathuba” is the name of UCT’s student learning platform.
+2147,hello,bhota,interjection,,,false,false,false,,,,'Bhota' is generally a more archaic and less frequently used word than 'molo'
+2148,snow,ikhephu,noun,,,false,false,false,,,Ili,
+2149,wet,manzi,relative,,,false,false,false,,,,
