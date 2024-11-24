@@ -22,7 +22,7 @@ example_id,word_id,english,xhosa
 24,24,Hurry so that you aren't late!,Khawuleza ukuze ungabi leythi!
 25,25,Sometimes she likes to go to school and sometimes she doesn't. It depends.,"Ngamanye amaxesha uthanda ukuya esikolweni, ngamanye amaxesha akakuthandi. Kuyaxhomekeka."
 26,25,I'm depending on you.,Ndixhomekeke kuwe.
-28,27,I watch TV,Ndibukele umabonakude.
+28,27,I watch TV.,Ndibukele umabonakude.
 29,28,The drunkard spent all his money on booze.,Inxila lichithe yonke imali yalo etywaleni.
 30,30,"For his whole life, he preached the God's message.",Ubomi bakhe bonke washumayela umyalezo kaThixo.
 31,31,Look at this guy who's eating chips with a fork.,Jonga lo mfo utya iitships ngefolokwe.
@@ -1556,3 +1556,15 @@ This (??) is a link between students.",Lo mbutho ulikhonkco phakathi kwabafundi.
 1583,2146,I have given you many chances.,Ndikunike amathuba amaninzi.
 1584,2148,Snow has fallen on the mountain.,Ikhephu liwile entabeni.
 1585,2149,My dress is wet.,Imanzi ilokhwe yam.
+1586,2151,English is my mothertongue.,IsiNgesi lulwimi lwam lwenkobe.
+1587,2152,"I can speak isiXhosa, but it is not my native language.","Ndikwazi ukuthetha isiXhosa, kodwa asilolwimi lwam lwenkobe."
+1588,2153,I see this advertisement a lot.,Ndiyabona kakhulu le ntengiso.
+1589,2154,There are so many advertisements nowadays.,Kukho iintengiso ezininzi kule mihla.
+1590,2144,Please phone me in the morning.,Ndicela unditsalele ekuseni.
+1591,2155,He is a grade two student.,Ungumfundi webanga lesibini.
+1592,1920,You will find snow at the peak of the mountain.,Uzofumana ikhephu encotsheni yentaba.
+1593,2156,The valley with a river had many flowers.,Intlambo enomlambo yayineentyatyambo ezininzi.
+1594,2159,The princess lived in a tall castle.,Inkosazana yayihlala kwinqaba ende.
+1595,2160,"Here in South Africa, there are traces of some of the oldest life on Earth: the first pioneers in a barren ocean.",Apha eMzantsi Afrika kukho imizila ngemizila yobona bomi budala kwihlabathi liphela: abemi babemi okanye oovulindlela bokuqala kulwandle olungumqwebedu.
+1596,2161,Nelson Mandela was a pioneer in South Africa. He led the way to freedom.,UNelson Mandela wayenguvulindlela eMzantsi Afrika. Wakhokela indlela esa enkululekweni.
+1597,2162,The seafloor has many creatures.,Umgangatho wolwandle unezidalwa ezininzi.
