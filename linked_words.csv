@@ -1469,3 +1469,11 @@ link_id,link_type,first,second
 1476,alternate_use,931,2163
 1478,related,2163,2164
 1479,related,931,2164
+1480,related,1298,2165
+1481,related,1431,2165
+1482,plural_or_singular,2165,2166
+1483,related,1298,2166
+1484,related,1432,2166
+1485,alternate_use,266,2167
+1486,related,1965,2167
+1487,plural_or_singular,952,2168

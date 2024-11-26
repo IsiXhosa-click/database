@@ -177,7 +177,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 178,help,nceda,verb,,ukunceda,false,false,false,ambitransitive,,,
 179,pray,thandaza,verb,,ukuthandaza,false,false,false,,,,
 180,love,uthando,noun,,,false,false,false,,,Ulu,
-181,bark,khonkotha,verb,,ukukhonkotha,false,false,false,,,,
+181,bark,khonkotha,verb,,ukukhonkotha,false,false,false,ambitransitive,,,
 182,command,yalela,verb,,ukuyalela,false,false,false,ambitransitive,,,
 183,birthday,umhla wokuzalwa,noun,,,false,false,false,,,Class3Um,"Note: many Xhosa speakers now just use ibirthday.  Note the personal possessive comes immediately after UMHLA - so umhla wakho wokuzalwa - literally ""day of yours of being born"".  Also note that imini yokuzalwa is also used for ""birthday"".  Usuku lokuzalwa is another variation."
 184,desert,intlango,noun,,,false,false,false,,,In,
@@ -2158,3 +2158,8 @@ The igongqongqo is a term used in Xhosa for dragon."
 2162,seafloor,umgangatho wolwandle,noun,,,false,false,false,,,Class3Um,
 2163,be naughty,geza,verb,,ukugeza,false,false,false,intransitive,,,"Can be confusable with the Zulu word for ""wash"" which is also ""geza."""
 2164,cheeky,sile,relative,,,false,false,false,,,,
+2165,glacier,intabamkhenkce,noun,,,false,false,false,,,In,Source: T Matomela
+2166,glaciers,iintabamkhenkce,noun,,,true,false,false,,,Izin,Source: T Matomela
+2167,independence,ukuzimela,noun,,,false,false,false,,,Uku,
+2168,opinions,izimvo,noun,,,true,false,false,,,Izin,
+2169,roof,uphahla,noun,,,false,false,false,,,Ulu,
