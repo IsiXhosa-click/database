@@ -878,8 +878,8 @@ It means can in the sense of ""be able to""."
 882,smell,nuka,verb,,ukunuka,false,false,false,intransitive,,,"Normally only used to indicate ""give out a smell"""
 883,become sprained,kruneka,verb,,ukukruneka,false,true,false,intransitive,,,
 884,crocodile,ingwenya,noun,,,false,false,false,,,In,
-885,work/job,umsebenzi,noun,,,false,false,false,,,Class3Um,
-886,worker/staff member/employee,umsebenzi,noun,,,false,false,false,,,Class1Um,"Do not confuse with umsebenzi ""work"".  "
+885,work,umsebenzi,noun,,,false,false,false,,,Class3Um,
+886,worker,umsebenzi,noun,,,false,false,false,,,Class1Um,"Do not confuse with umsebenzi ""work"".  "
 887,cough,khohlela,verb,,ukukhohlela,false,false,false,intransitive,,,
 888,seeds,imbewu,noun,,,true,false,false,,,In,
 889,grow,khula,verb,,ukukhula,false,false,false,intransitive,,,
@@ -924,7 +924,7 @@ It means can in the sense of ""be able to""."
 929,be left,shiyeka,verb,,ukushiyeka,false,false,false,intransitive,,,"In the perfect tense form can translate ""left over"""
 930,chat,ncokola,verb,,ukuncokola,false,false,false,ambitransitive,,,
 931,be silly,geza,verb,,ukugeza,false,false,false,intransitive,,,"Can be confusable with the Zulu word for ""wash"" which is also ""geza."""
-932,bhabhayini,goodbye,interjection,,,false,false,false,,,,"Informal but very common. Can be used just like the English ""Bye!"""
+932,goodbye,bhabhayini,interjection,,,true,false,true,,,,"Informal but very common. Can be used just like the English ""Bye!"""
 933,strong,omelele,relative,,,false,false,false,,,,"In Xhosa ""to get strong"" is ""ukomelela"" which is an inchoative verb. The relative is derived from this verb."
 934,branches,amasebe,noun,,,true,false,false,,,Ama,
 935,burst,gqabhuka,verb,,ukugqabhuka,false,false,false,intransitive,,,Also has the sense of EXPLODE
@@ -2107,8 +2107,8 @@ It means can in the sense of ""be able to""."
 2115,greet,bhotisa,verb,,ukubhotisa,false,false,false,transitive,,,This comes from the word 'bhota' and can be used in place of 'bulisa'
 2116,situations,iimeko,noun,,,true,false,false,,,Izin,
 2117,"clothe, wear (on upper body)",ambatha,verb,,ukwambatha,false,true,false,ambitransitive,,,
-2118,"inject, vaccinate",jova,verb,,ukujova,false,false,true,ambitransitive,,,
-2119,"untruthfulness, deceit",amamenemene,noun,,,true,false,false,,,Ama,
+2118,inject,jova,verb,,ukujova,false,false,false,ambitransitive,,,
+2119,untruthfulness,amamenemene,noun,,,true,false,true,,,Ama,
 2120,dragon,igongqongqo,noun,,,false,false,false,,,Ili,"This term is taken from the story of Kholumolumo of the Basotho nation.  It was written about a mythological dragon/dinosaur that lived in the Drakensberg mountains destroying everything and was killed by Moshanyana Sankatana.
 
 The igongqongqo is a term used in Xhosa for dragon."
@@ -2214,3 +2214,20 @@ The igongqongqo is a term used in Xhosa for dragon."
 2218,stem-and-leaf plot,iploti yesiqu negqabi,noun,,,false,false,false,,,In,
 2219,sum,iyonke,noun,,,false,false,false,,,In,
 2220,volume,ubunzulu,noun,,,false,false,false,,,Ubu,Depth.
+2221,reduce,nciphisa,verb,,ukunciphisa,false,false,false,transitive,,,
+2222,be affordable,fikeleleka,verb,,ukufikeleleka,false,false,false,intransitive,,,
+2223,actor,umdlali,noun,,,false,false,false,,,Class1Um,
+2224,opportunity,ithuba,noun,,,false,false,false,,,Ili,
+2225,commercials,iintengiso,noun,,,true,false,false,,,In,
+2226,hello,bhotani,interjection,,,true,false,false,,,,'Bhotani' is generally a more archaic and less frequently used word than 'molweni'
+2227,wide,banzi,relative,,,false,false,false,,,,Underived relative.
+2228,terrible,masikizi,relative,,,false,false,false,,,,
+2229,certain,thile,relative,,,false,false,false,,,,As in particular or specific. Underived relative.
+2230,welcome,amkela,verb,,ukwamkela,false,false,false,transitive,,,
+2231,be achievable,fumaneka,verb,,ukufumaneka,false,false,false,intransitive,,,
+2232,staff member,umsebenzi,noun,,,false,false,false,,,Class1Um,
+2233,employee,umsebenzi,noun,,,false,false,false,,,Class1Um,
+2234,job,umsebenzi,noun,,,false,false,false,,,Class1Um,
+2235,vaccinate,jova,verb,,ukujova,false,false,false,ambitransitive,,,
+2236,deceit,amamenemene,noun,,,true,false,false,,,Ama,
+2237,be confident,zithemba,verb,,ukuzithemba,false,false,false,transitive,,,
