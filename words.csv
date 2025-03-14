@@ -52,7 +52,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 53,control,lawula,verb,,ukulawula,false,false,false,transitive,,,
 54,bread,isonka,noun,,,false,false,false,,,Isi,
 55,egg,iqanda,noun,,,false,false,false,,,Ili,
-56,calm down,zola,verb,,ukuzola,false,false,false,intransitive,,,
+56,calm down,zola,verb,,ukuzola,false,true,false,intransitive,,,
 57,detail,inkcukacha,noun,,,false,false,false,,,In,
 58,sack,ingxowa,noun,,,false,false,false,,,In,
 59,kick,khaba,verb,,ukukhaba,false,false,false,,,,
@@ -718,7 +718,7 @@ It means can in the sense of ""be able to""."
 720,goodbye,salani kakuhle,interjection,,,true,false,false,,,,
 721,how many,ngaphi,adjective,,,false,false,false,,,,
 722,however,kambe ke,conjunction,,,false,false,false,,Indicative,,
-723,end,phela,verb,,ukuphela,false,false,false,intransitive,,,"""phela"" means more ""run out""  or ""come to an end"" in comparison to ""gqiba"" which is usually used when somebody finishes/completes something."
+723,end,phela,verb,,ukuphela,false,true,false,intransitive,,,"""phela"" means more ""run out""  or ""come to an end"" in comparison to ""gqiba"" which is usually used when somebody finishes/completes something."
 724,boy,inkwenkwe,noun,,,false,false,false,,,In,"""ubhuti"" is also used to refer to any boy or young man"
 725,boys,amakhwenkwe,noun,,,true,false,false,,,Ama,
 726,why,kutheni,adverb,,,false,false,false,,Participial,,
