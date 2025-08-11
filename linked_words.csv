@@ -1713,3 +1713,7 @@ link_id,link_type,first,second
 1722,alternate_use,1096,2322
 1723,confusable,41,2322
 1724,plural_or_singular,2329,2323
+1725,alternate_use,2193,2331
+1726,alternate_use,2194,2331
+1727,related,573,2331
+1728,related,865,2331
