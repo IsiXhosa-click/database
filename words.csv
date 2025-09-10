@@ -127,7 +127,9 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 128,drink,sela,verb,,ukusela,false,false,false,ambitransitive,,,"""sela"" should be used for things that are cold, such as water. ""phunga"" should be used for things that are hot, such as tea."
 129,decide,gqiba,verb,,ukugqiba,false,false,false,ambitransitive,,,
 130,forget,libala,verb,,ukulibala,false,false,false,ambitransitive,,,
-131,go,ya,verb,,ukuya,false,false,false,ambitransitive,,,"Note with the reflexive Object Concord -zi- and the applied extension -el- this verb can be used to mean ""Go by the self"" e.g. Umntwana wam uziyela esikolweni ""The child goes by itself to school"""
+131,go to,ya,verb,,ukuya,false,false,false,ambitransitive,,,"'ya' is almost always seen with a destination (contrast with 'hamba' which is not usually seen with one).
+
+Note with the reflexive Object Concord -zi- and the applied extension -el- this verb can be used to mean ""Go by the self"" e.g. Umntwana wam uziyela esikolweni ""The child goes by itself to school"""
 132,agree,vuma,verb,,ukuvuma,false,false,false,intransitive,,,
 133,answer,phendula,verb,,ukuphendula,false,false,false,ambitransitive,,,
 134,believe,kholelwa,verb,,ukukholelwa,false,false,false,,,,
@@ -243,7 +245,7 @@ word_id,english,xhosa,part_of_speech,xhosa_tone_markings,infinitive,is_plural,is
 245,kill,bulala,verb,,ukubulala,false,false,false,ambitransitive,,,"Note that ""bulala"" takes the irregular passive form of ""bulawa""."
 246,know,azi,verb,,ukwazi,false,false,false,ambitransitive,,,"Azi is commonly used in the construction ""know how to"" as ""kwazi uku"", very often used with object concords"
 247,read,funda,verb,,ukufunda,false,false,false,,,,
-248,go,hamba,verb,,ukuhamba,false,false,false,intransitive,,,"Hamba does not describe the act of going to a location, it refers to the act of going in general."
+248,go,hamba,verb,,ukuhamba,false,false,false,intransitive,,,"Hamba does not describe the act of going to a location, it refers to the act of going in general. Therefore it usually does not have a destination - ""ndihamba esikolweni"" does not mean ""I go to school"", but rather ""I am walking at school"" or similar. Use ""ya"" if a destination is needed."
 249,leave,(i)mka,verb,,ukumka,false,false,false,ambitransitive,,,"""mka"" is a latent-i verb.  This verb is used generally to indicate ""depart""/""depart from"""
 250,leave,shiya,verb,,ukushiya,false,false,false,,,,
 251,lie down,ngqengqa,verb,,ukungqengqa,false,false,false,intransitive,,,
