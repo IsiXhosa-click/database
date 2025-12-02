@@ -615,7 +615,7 @@ It means can in the sense of ""be able to""."
 615,afraid,oyika,verb,,ukoyika,false,false,false,ambitransitive,,,
 616,peace,uxolo,noun,,,false,false,false,,,11,
 617,today,namhla,adverb,,,false,false,false,,,,
-618,farm ,amasimi,noun,,,false,false,false,,,6,"Some  Xhosa speakers use ""amasimi"" ""fields"" to refer to a ""farm""."
+618,farm,amasimi,noun,,,false,false,false,,,6,"Some  Xhosa speakers use ""amasimi"" ""fields"" to refer to a ""farm""."
 619,sorry,uxolo,interjection,,,false,false,false,,,,
 620,noise,ingxolo,noun,,,false,false,false,,,9,
 621,anywhere,naphi na,adverb,,,false,false,false,,,,
@@ -1583,7 +1583,7 @@ It means can in the sense of ""be able to""."
 1586,instead of,endaweni yokuba,conjunction,,,false,false,false,,Subjunctive,,
 1587,as,njengokuba,conjunction,,,false,false,false,,Participial,,
 1588,that is why,yiyo loo nto,conjunction,,,false,false,false,,Participial,,
-1589,Sweat,Umbilo ,noun,um-bi-lo,,false,false,false,,,3,
+1589,sweat,umbilo,noun,,,false,false,false,,,3,
 1590,weeds,ukhula,noun,,,true,false,false,,,11,
 1591,beans,iimbotyi,noun,,,true,false,false,,,10,
 1592,idea,umbono,noun,,,false,false,false,,,3,
@@ -2342,3 +2342,4 @@ My dictionary says “lava” is “inyibilika-ntabomilo.” I think it translat
 2338,crammed,xinene,relative,,,false,false,false,,,,Derived Relative
 2339,separate,ohluka,verb,,ukohluka,false,false,false,intransitive,,,
 2340,friends,abahlobo,noun,,,true,false,false,,,2,
+2341,become warm,fudumala,verb,,ukufudumala,false,true,false,intransitive,,,
