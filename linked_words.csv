@@ -1738,3 +1738,9 @@ link_id,link_type,first,second
 1747,related,2331,2340
 1748,related,1105,1515
 1749,related,938,2341
+1750,plural_or_singular,2343,2344
+1751,related,2343,2345
+1752,related,2344,2345
+1753,plural_or_singular,2345,2346
+1754,related,2343,2346
+1755,related,2344,2346
